@@ -103,6 +103,7 @@ A pilot, not a census: one category, five questions, two repeats per cell, one c
 
 - **Claude Code (Claude Opus 5.5)** pair-programmed the code, tests and docs with the author, phase by phase.
 - **Gemini** (`gemini-3.5-flash`) is part of the product: it reads brand sentences for stance and product claims at runtime, behind the verbatim-quote check.
+- **Demo video:** the screen recording was scripted with Playwright (headless Chrome) and the narration is a computer voice (macOS `say`, voice "Rishi"), not the author's own voice. The words and every number in it come from this repo's report.
 - The author chose the problem, approved every phase, checked the 30 answers by hand and reviewed the findings.
 
 ## License
