@@ -1,0 +1,313 @@
+{
+  "run_id": 2,
+  "labeller": "human (verify mode)",
+  "labels": {
+    "q3|ai_mode|delhi-hi|1": {
+      "right": [
+        "MuscleBlaze",
+        "Nakpro",
+        "Avvatar",
+        "AS-IT-IS"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q5|ai_mode|delhi-hinglish|0": {
+      "right": [
+        "Nakpro",
+        "AS-IT-IS",
+        "MuscleBlaze",
+        "Nutrabay"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q5|ai_mode|mumbai-en|0": {
+      "right": [
+        "AS-IT-IS",
+        "Nakpro",
+        "MuscleBlaze"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q4|ai_overview|delhi-hi|1": {
+      "right": [
+        "Optimum Nutrition",
+        "MuscleBlaze",
+        "The Whole Truth"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q2|ai_overview|delhi-hinglish|1": {
+      "right": [
+        "MuscleBlaze",
+        "Optimum Nutrition",
+        "Avvatar",
+        "Isopure",
+        "AS-IT-IS"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q2|ai_overview|mumbai-en|0": {
+      "right": [
+        "MuscleBlaze",
+        "The Whole Truth",
+        "AS-IT-IS",
+        "Optimum Nutrition",
+        "Nakpro"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q5|copilot|delhi-hi|1": {
+      "right": [
+        "Dymatize",
+        "Isopure",
+        "Optimum Nutrition"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q3|copilot|delhi-hinglish|1": {
+      "right": [
+        "Optimum Nutrition",
+        "MuscleBlaze",
+        "Dymatize",
+        "Isopure"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q5|copilot|mumbai-en|0": {
+      "right": [
+        "BeastLife",
+        "AS-IT-IS"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q2|ai_mode|delhi-hi|0": {
+      "right": [
+        "Optimum Nutrition",
+        "Dymatize",
+        "Isopure",
+        "MuscleBlaze",
+        "AS-IT-IS",
+        "Nakpro",
+        "Nutrabay"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q2|ai_mode|delhi-hinglish|1": {
+      "right": [
+        "Optimum Nutrition",
+        "MuscleBlaze",
+        "Avvatar",
+        "AS-IT-IS",
+        "Isopure",
+        "Nakpro"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q4|ai_mode|mumbai-en|0": {
+      "right": [
+        "MuscleBlaze",
+        "Optimum Nutrition",
+        "Nutrabay",
+        "Isopure",
+        "AS-IT-IS"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q1|ai_overview|delhi-hi|1": {
+      "right": [
+        "Optimum Nutrition",
+        "MuscleBlaze",
+        "The Whole Truth",
+        "AS-IT-IS",
+        "Nakpro"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q3|ai_overview|delhi-hinglish|1": {
+      "right": [
+        "MuscleBlaze",
+        "AS-IT-IS",
+        "Optimum Nutrition"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q3|ai_overview|mumbai-en|0": {
+      "right": [
+        "MuscleBlaze",
+        "Optimum Nutrition",
+        "AS-IT-IS",
+        "Nakpro"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q2|copilot|delhi-hi|1": {
+      "right": [
+        "Isopure",
+        "Avvatar",
+        "MuscleBlaze",
+        "Optimum Nutrition"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q3|copilot|delhi-hinglish|0": {
+      "right": [
+        "Optimum Nutrition",
+        "Dymatize",
+        "Isopure"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q4|copilot|mumbai-en|1": {
+      "right": [
+        "MuscleBlaze",
+        "Optimum Nutrition",
+        "AS-IT-IS"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q4|ai_mode|delhi-hi|0": {
+      "right": [
+        "Optimum Nutrition",
+        "Isopure",
+        "MuscleBlaze",
+        "The Whole Truth",
+        "AS-IT-IS",
+        "Nakpro",
+        "Nutrabay"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q1|ai_mode|delhi-hinglish|0": {
+      "right": [],
+      "wrong": [],
+      "other": ""
+    },
+    "q1|ai_mode|mumbai-en|0": {
+      "right": [
+        "Optimum Nutrition",
+        "MuscleBlaze",
+        "AS-IT-IS",
+        "MyProtein",
+        "Isopure",
+        "Avvatar"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q2|ai_overview|delhi-hi|0": {
+      "right": [
+        "MuscleBlaze",
+        "Optimum Nutrition",
+        "The Whole Truth",
+        "AS-IT-IS"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q1|ai_overview|delhi-hinglish|1": {
+      "right": [
+        "Optimum Nutrition",
+        "MuscleBlaze",
+        "Avvatar",
+        "The Whole Truth",
+        "AS-IT-IS",
+        "Nakpro",
+        "Isopure"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q2|ai_overview|mumbai-en|1": {
+      "right": [
+        "MuscleBlaze",
+        "The Whole Truth",
+        "AS-IT-IS",
+        "Optimum Nutrition",
+        "Nakpro"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q4|copilot|delhi-hi|1": {
+      "right": [
+        "Optimum Nutrition",
+        "MuscleBlaze",
+        "Avvatar",
+        "Isopure",
+        "AS-IT-IS"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q2|copilot|delhi-hinglish|1": {
+      "right": [
+        "MuscleBlaze",
+        "Optimum Nutrition",
+        "Isopure",
+        "Dymatize",
+        "MyProtein",
+        "AS-IT-IS",
+        "Bigmuscles",
+        "Avvatar"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q3|copilot|mumbai-en|1": {
+      "right": [
+        "MuscleBlaze",
+        "Nutrabay",
+        "AS-IT-IS"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q5|ai_mode|delhi-hi|1": {
+      "right": [
+        "AS-IT-IS",
+        "Nakpro"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q4|ai_mode|delhi-hinglish|1": {
+      "right": [
+        "Optimum Nutrition",
+        "MuscleBlaze",
+        "The Whole Truth",
+        "AS-IT-IS",
+        "Nakpro"
+      ],
+      "wrong": [],
+      "other": ""
+    },
+    "q5|ai_mode|mumbai-en|1": {
+      "right": [
+        "AS-IT-IS",
+        "Nakpro",
+        "MuscleBlaze"
+      ],
+      "wrong": [],
+      "other": ""
+    }
+  }
+}

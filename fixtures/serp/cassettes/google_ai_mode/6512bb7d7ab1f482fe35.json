@@ -1,0 +1,143 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "कौन सी कंपनी का व्हे प्रोटीन सबसे अच्छा है?",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "hi",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:35:33+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb117ec029b9f862a178",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/jjqbFGWIqM2_W7t2Su1glGC0IUswOm8FOgESs6zEPNs/6ac4eb117ec029b9f862a178.json",
+      "markdown_endpoint": "https://serpapi.com/searches/jjqbFGWIqM2_W7t2Su1glGC0IUswOm8FOgESs6zEPNs/6ac4eb117ec029b9f862a178.md",
+      "created_at": "2026-10-06 12:35:29 UTC",
+      "processed_at": "2026-10-06 12:35:29 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A5%80+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%95%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88%3F&udm=50&gl=in&hl=hi&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/jjqbFGWIqM2_W7t2Su1glGC0IUswOm8FOgESs6zEPNs/6ac4eb117ec029b9f862a178.html",
+      "prettify_html_file": "https://serpapi.com/searches/jjqbFGWIqM2_W7t2Su1glGC0IUswOm8FOgESs6zEPNs/6ac4eb117ec029b9f862a178.prettify",
+      "total_time_taken": 4.01
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "कौन सी कंपनी का व्हे प्रोटीन सबसे अच्छा है?",
+      "hl": "hi",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "भारत में ऑप्टिमम न्यूट्रिशन (ON) गोल्ड स्टैंडर्ड 100% व्हे और मसलब्लेज़ (MuscleBlaze) सबसे अच्छे और सबसे भरोसेमंद व्हे प्रोटीन ब्रांड माने जाते हैं।",
+        "snippet_highlighted_words": [
+          "ऑप्टिमम न्यूट्रिशन (ON) गोल्ड स्टैंडर्ड 100% व्हे और मसलब्लेज़ (MuscleBlaze)"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "सही प्रोटीन का चुनाव आपके बजट, फिटनेस गोल और पाचन क्षमता पर निर्भर करता है। नीचे भारत के कुछ शीर्ष व्हे प्रोटीन ब्रांड्स की सूची दी गई है:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "ऑप्टिमम न्यूट्रिशन (ON) गोल्ड स्टैंडर्ड 100% व्हे: यह अंतरराष्ट्रीय स्तर पर सबसे लोकप्रिय ब्रांड है। इसकी प्रति सर्विंग (स्कूप) में लगभग 24 ग्राम उच्च गुणवत्ता वाला प्रोटीन और बेहतरीन मसल रिकवरी मिलती है।",
+            "reference_indexes": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "snippet": "मसलब्लेज़ (MuscleBlaze Biozyme): यह एक बेहतरीन भारतीय ब्रांड है जो विशेष रूप से भारतीयों के पाचन तंत्र को ध्यान में रखकर उत्पाद बनाता है। इसका बायोज़ाइम फॉर्मूला पेट में प्रोटीन को आसानी से पचने में मदद करता है।",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "अवतार (Avvatar 100% Whey): यह 100% मेड-इन-इंडिया ब्रांड है जो सीधे गाय के ताजे दूध से फ्रेश व्हे प्रोटीन तैयार करता है। यह अपनी शुद्धता और बेहतरीन क्वालिटी के लिए जाना जाता है।",
+            "reference_indexes": [
+              4
+            ]
+          },
+          {
+            "snippet": "द होल ट्रूथ (The Whole Truth Raw Whey): यह बिना किसी कृत्रिम फ्लेवर, शुगर या केमिकल के आने वाला सबसे साफ (Clean Label) प्रोटीन है, जो नेचुरल चीजें पसंद करने वालों के लिए बेस्ट है।",
+            "reference_indexes": [
+              3
+            ]
+          },
+          {
+            "snippet": "एज-इट-इज (AS-IT-IS Nutrition): यह बजट-फ्रेंडली और रॉ (कच्चा) व्हे प्रोटीन चाहने वालों के लिए एक किफायती और भरोसेमंद विकल्प है।",
+            "reference_indexes": [
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "यदि आप बताना चाहें कि आपका मुख्य लक्ष्य क्या है (जैसे वजन घटाना, मसल्स बढ़ाना या सामान्य फिटनेस) और आपका बजट कितना है, तो मैं आपके लिए सबसे सही प्रोडक्ट चुन सकता हूँ।"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Top 10 Whey Protein Manufacturers in India - Bioxent",
+        "link": "https://translate.google.com/translate?u=https://www.bioxent.com/blogs/news/whey-protein-manufacturers&hl=hi&sl=en&tl=hi&client=sge",
+        "snippet": "MuscleBlaze is an FSSAI and HACCP-certified organization whey protein variants suitable for muscle recovery, muscle building,",
+        "source": "Bioxent",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bioxent.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1f00ChPQ3KRF332b2mMbw45glpPWZTRCpptXHGsiiik1cUepvaAzeEq2s3A08i2_HLOkEc-rPOD6tDhBJ4IvI_tibiSsAG0FlGZou"
+      },
+      {
+        "index": 1,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "भारत में मिलने वाले व्हे प्रोटीन्स पाउडर में 100% व्हे गोल्ड स्टेन्डर्ड व्हे स्टेन्डर्ड सबसे अच्छा प्रोटीन पाउडर",
+        "source": "MensXP",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mensxp.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaDoapwkJkYod83j8MSenrpNtKl_86QFguC2EIb77d-5bStwnfKo9OHxAnQ8P84_sp8k02YqcnBvm8kdW_lfVXGuP59H9k1dKDT4Rg"
+      },
+      {
+        "index": 2,
+        "title": "व्हे प्रोटीन में सबसे लोकप्रिय आइटम - Amazon.in",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "Optimum Nutrition (ON) चॉकलेट, 2 lb, 907 g, मसल सपोर्ट और रिकवरी के लिए, शाकाहारी व्हे प्रोटीन आइसोलेट. 1,009. 2 ऑफर ₹4,727.00 से … 1 ऑफर ₹3,899.00 से शुरू.",
+        "source": "Amazon.in",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqDIrt-q9IbDvJK9rlAfDGXh_4vTkf4XuD630fnWiWAXe0jxrvhZxOD0fFgPhxvPZaC9KAAD2RUIdZUeyneOoCmpjnYDyo5S6I5JG"
+      },
+      {
+        "index": 3,
+        "title": "Top 7 Cleanest Whey Proteins in India (2026) - HealthKart",
+        "link": "https://translate.google.com/translate?u=https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/&hl=hi&sl=en&tl=hi&client=sge",
+        "snippet": "AS-IT-IS ONE Whey Protein Concentrate (Unflavoured) — Best Verified Value | Overall Score: 9.13/10. Nutrition Gold Standard 100% Whey, Unflavoured. Overall Score:",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTG69IacZ0eMAAWJrzptzqlAdwHDUTdNnwsBsFc9_zwwdvVf8LZaobcJvqeAkaftEGyJg_Q9HWGvgy7mQoCiEzXsKZpBpBnvdWGnjyZ"
+      },
+      {
+        "index": 4,
+        "title": "भारत में बेस्ट व्हे प्रोटीन 2026: संपूर्ण खरीद गाइड (हर बजट के लिए)",
+        "link": "https://clearcals.com/hi/blogs/best-whey-protein-india/?srsltid=AU7gw4XC5e69_Thl27Ewx9rAlKPRCwGR9bavRt3bP2OcsukeDAY2Wp0y",
+        "snippet": "Avvatar 100% Performance Whey. ~₹3,349–₹4,299. प्रति ~₹115–₹148.",
+        "source": "Clearcals",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://clearcals.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLHK8KyRqldfkfeOrYisdGpDNjlnVCFHkMlR28jvToEjFEyZOKTN__vkru8kY8gk2Wx0s5QHajXb2lXOmcbByCMApUSxI7UlhvSkzM"
+      }
+    ],
+    "reconstructed_markdown": "भारत में ऑप्टिमम न्यूट्रिशन \\(ON\\) गोल्ड स्टैंडर्ड 100% व्हे और मसलब्लेज़ \\(MuscleBlaze\\) सबसे अच्छे और सबसे भरोसेमंद व्हे प्रोटीन ब्रांड माने जाते हैं। [0] [1]\n\nसही प्रोटीन का चुनाव आपके बजट, फिटनेस गोल और पाचन क्षमता पर निर्भर करता है। नीचे भारत के कुछ शीर्ष व्हे प्रोटीन ब्रांड्स की सूची दी गई है:\n\n- ऑप्टिमम न्यूट्रिशन \\(ON\\) गोल्ड स्टैंडर्ड 100% व्हे: यह अंतरराष्ट्रीय स्तर पर सबसे लोकप्रिय ब्रांड है। इसकी प्रति सर्विंग \\(स्कूप\\) में लगभग 24 ग्राम उच्च गुणवत्ता वाला प्रोटीन और बेहतरीन मसल रिकवरी मिलती है। [1] [2] [3]\n- मसलब्लेज़ \\(MuscleBlaze Biozyme\\): यह एक बेहतरीन भारतीय ब्रांड है जो विशेष रूप से भारतीयों के पाचन तंत्र को ध्यान में रखकर उत्पाद बनाता है। इसका बायोज़ाइम फॉर्मूला पेट में प्रोटीन को आसानी से पचने में मदद करता है। [0]\n- अवतार \\(Avvatar 100% Whey\\): यह 100% मेड\\-इन\\-इंडिया ब्रांड है जो सीधे गाय के ताजे दूध से फ्रेश व्हे प्रोटीन तैयार करता है। यह अपनी शुद्धता और बेहतरीन क्वालिटी के लिए जाना जाता है। [4]\n- द होल ट्रूथ \\(The Whole Truth Raw Whey\\): यह बिना किसी कृत्रिम फ्लेवर, शुगर या केमिकल के आने वाला सबसे साफ \\(Clean Label\\) प्रोटीन है, जो नेचुरल चीजें पसंद करने वालों के लिए बेस्ट है। [3]\n- एज\\-इट\\-इज \\(AS\\-IT\\-IS Nutrition\\): यह बजट\\-फ्रेंडली और रॉ \\(कच्चा\\) व्हे प्रोटीन चाहने वालों के लिए एक किफायती और भरोसेमंद विकल्प है। [3]\n\nयदि आप बताना चाहें कि आपका मुख्य लक्ष्य क्या है \\(जैसे वजन घटाना, मसल्स बढ़ाना या सामान्य फिटनेस\\) और आपका बजट कितना है, तो मैं आपके लिए सबसे सही प्रोडक्ट चुन सकता हूँ।\n\n\n### References\n\n[0] [Top 10 Whey Protein Manufacturers in India \\- Bioxent](https://www.google.com/goto?url=CAESvwEB6zswFepueXYkLlu62ADEpsuGfC_i7Le5L-Ag3VOyucMVuVeo6-xqLtnKPLCETECk7fMR0pjmQdFppiKB1bHAebAV8peSqAck2b6qgwzh0HCP6VZOL6hDwJGHRXEffSOvFV-BThnOH0E5RquGRQfrtpRxuoeAh2P4nO-X-LmIDluD-DZkp4xPezG3RGR-SOS4McuXdxsPdZBH_XbnhgSzvdyFIsObhPK-slQJxPVW9XuJuyy0boMEdYiTPnesrA) — MuscleBlaze is an FSSAI and HACCP\\-certified organization whey protein variants suitable for muscle recovery, muscle building,\n\n[1] [Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए](https://www.google.com/goto?url=CAESsAEB6zswFVYx9gorb4hfxcZo9d1njEA82bxZaZxBZcuvLLkFSMMELH9yYL9kCV5mEYYbd5fGOYlfyUHXLyuoEZdsuZgwGy8qt9E2kAD2bj-JiNw1esfjegy_3qua0-5kAUjkxDRYHLPM5pQxLlo1U3AWkk_LEhMk8ulPJILsxusTf1VjFp8h23ugsBisEyZ6rSRObHg39sKg27Zgqzu6usvoT5Mwta2xBHJ09Uwwq9rNaA) — भारत में मिलने वाले व्हे प्रोटीन्स पाउडर में 100% व्हे गोल्ड स्टेन्डर्ड व्हे स्टेन्डर्ड सबसे अच्छा प्रोटीन पाउडर\n\n[2] [व्हे प्रोटीन में सबसे लोकप्रिय आइटम \\- Amazon.in](https://www.google.com/goto?url=CAESdAHrOzAV1PWEDpMmlN6lWdnbYjfQm_1i-uduNU_YsvcMPzSAV45gkNodMaC-G8IimecTh5KJJeNSjeRTDqbdHDEhyaaP-zHjZV2YALfNNN86K70hd3p1jlh51wlt4_pMsDastlyrRH2NYI2YOiWjMNbpSLfi) — Optimum Nutrition \\(ON\\) चॉकलेट, 2 lb, 907 g, मसल सपोर्ट और रिकवरी के लिए, शाकाहारी व्हे प्रोटीन आइसोलेट. 1,009. 2 ऑफर ₹4,727.00 से … 1 ऑफर ₹3,899.00 से शुरू.\n\n[3] [Top 7 Cleanest Whey Proteins in India \\(2026\\) \\- HealthKart](https://www.google.com/goto?url=CAES-gEB6zswFRV7aF96vTf5li-2DCV2FkPoGU30dVIhZeQugmDO3ir95QGw7xEHYqSsCJcEURJCvE7Q_hYPyA792ZAuGMkiWB3Dp4aeLmKbEoiQoySfVguYt03IwczF8dlZ6pmUGwOpd80eiJ9Yc0vpr88ZNXDCLmz3Wy2baE864InJRbol2zXr-823LhQ7FDsXe2b8EpHh2AVtD08ZWX_CMw183inRBrTcLQn00Xx59mJEHFpCRtQT8gBzSbV4EQitf4Fx_9dBGCCo5xNnoItjZdXu5URq9z4jNEGzK5aNZtUTQ2T30wHUjB6NHnKQzcU_Ig6_9m68Qw0RhWDT) — AS\\-IT\\-IS ONE Whey Protein Concentrate \\(Unflavoured\\) — Best Verified Value \\| Overall Score: 9.13/10. Nutrition Gold Standard 100% Whey, Unflavoured. Overall Score:\n\n[4] [भारत में बेस्ट व्हे प्रोटीन 2026: संपूर्ण खरीद गाइड \\(हर बजट के लिए\\)](https://www.google.com/goto?url=CAESswEB6zswFa9NkJGJ43HX1Txq85vov9314ONc2vsnmMHlDbfmMRTNzHLVKlfNSKHF5iC5J3uxn7LZdhj03Gcc7zcEzl6VpMTEvbpvc62E9byjVC9a81-XBLtqR2AvwNwHwjhWsGx82UXvvNsy_IFoX-_PqFKV38TW2JBtFPkKnzyHZRdsjjyrSD8iZqYol3eIhGotFEnaZ98tQ43RYIXxS76KbydSdVLCqhnG9z0lr2XHwoLcgw) — Avvatar 100% Performance Whey. \\~₹3,349–₹4,299. प्रति \\~₹115–₹148.\n"
+  }
+}

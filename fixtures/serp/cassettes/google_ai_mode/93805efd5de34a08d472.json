@@ -1,0 +1,122 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "नंबर वन व्हे प्रोटीन पाउडर कौन सा है?",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "hi",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:34:18+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eac58c8a7e02245d83c7",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/ZlOYgqw0zlLUxXnxgq3miyVLNnn9o2xSsvawia_TnGM/6ac4eac58c8a7e02245d83c7.json",
+      "markdown_endpoint": "https://serpapi.com/searches/ZlOYgqw0zlLUxXnxgq3miyVLNnn9o2xSsvawia_TnGM/6ac4eac58c8a7e02245d83c7.md",
+      "created_at": "2026-10-06 12:34:13 UTC",
+      "processed_at": "2026-10-06 12:34:13 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88%3F&udm=50&gl=in&hl=hi&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/ZlOYgqw0zlLUxXnxgq3miyVLNnn9o2xSsvawia_TnGM/6ac4eac58c8a7e02245d83c7.html",
+      "prettify_html_file": "https://serpapi.com/searches/ZlOYgqw0zlLUxXnxgq3miyVLNnn9o2xSsvawia_TnGM/6ac4eac58c8a7e02245d83c7.prettify",
+      "total_time_taken": 4.9
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "नंबर वन व्हे प्रोटीन पाउडर कौन सा है?",
+      "hl": "hi",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "बाज़ार में कोई एक ऐसा आधिकारिक \"नंबर वन\" व्हे प्रोटीन नहीं है जिसे सभी लोग सर्वश्रेष्ठ मानें, क्योंकि यह आपकी ज़रूरत, बजट और बॉडी गोल पर निर्भर करता है। हालांकि, लोकप्रियता, क्वालिटी और फिटनेस कम्युनिटी के भरोसे के आधार पर कुछ ब्रांड्स को सबसे शीर्ष (Top-Tier) माना जाता है:",
+        "snippet_highlighted_words": [
+          "बाज़ार में कोई एक ऐसा आधिकारिक \"नंबर वन\" व्हे प्रोटीन नहीं है जिसे सभी लोग सर्वश्रेष्ठ मानें"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "1. ग्लोबल और प्रीमियम स्टैंडर्ड (Global & Premium Benchmark)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey: इसे दुनिया भर में (और भारत में भी) सबसे बेहतरीन और लोकप्रिय व्हे प्रोटीन माना जाता है। इसकी मिक्सएबिलिटी, क्वालिटी और पाचन क्षमता बहुत अच्छी है।"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. भारतीय बाज़ार में बेस्ट वैल्यू और डाइजेस्टेबिलिटी (Best for Indian Digestion & Value)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "MuscleBlaze Biozyme Performance Whey: यह भारतीय ब्रांड्स में सबसे आगे है। इसे खासतौर पर भारतीय शरीर और पाचन तंत्र को ध्यान में रखकर बनाया गया है (पेंटेंटेड एनजाइमब्लेड के साथ, जिससे ब्लोटिंग नहीं होती)।"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. बेस्ट बजट और रॉ प्रोटीन (Best Budget & Raw Protein)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "AS-IT-IS Nutrition Whey Protein या Nakpro: अगर आप बिना किसी फ्लेवर (Unflavoured) और कम कीमत में शुद्ध प्रोटीन चाहते हैं, तो ये ब्रांड्स लैब-टेस्टेड और किफायती होने की वजह से बहुत पसंद किए जाते हैं।",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "The Whole Truth Raw Whey: बिना किसी आर्टिफिशियल स्वीटकर या केमिकल के, एकदम साफ (Clean-label) और प्राकृतिक विकल्प चाहने वालों के लिए यह शीर्ष पर है।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "सही चुनाव करने के लिए मुझे बताएं:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "आपका बजट कितना है?"
+          },
+          {
+            "snippet": "आपका मुख्य लक्ष्य क्या है (मसल््स बढ़ाना, वजन घटाना या सिर्फ डेली प्रोटीन पूरा करना)?"
+          },
+          {
+            "snippet": "क्या आपको पाचन से जुड़ी कोई समस्या (जैसे लैक्टोज इंटोलरेंस) है?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "इन विवरणों के आधार पर मैं आपके लिए सबसे सही प्रोटीन पाउडर सुझा सकता हूँ।"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Top 7 Cleanest Whey Proteins in India (2026) - HealthKart",
+        "link": "https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/?srsltid=AU7gw4UzLs3HP7_NftexSqD82rAv3B4VQbvDA3478AHVG3yl5q07Qx8S",
+        "snippet": "AS-IT-IS ONE Whey Protein Concentrate (Unflavoured) — Best Verified Value | Overall Score: 9.13/10. * NAKPRO Gold Clean Raw Whey Protein Concentrate. Overall Score...",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkfwm3fkkvJExPFkiO_UYl8lPNWc5sspZ-ZnrG6PYWVWu8z6VOvqDL_vEQFkUJf9TAvwzcnZxjQ_JBDXCm4gIYb7HUB6hQ5ioNL6_I"
+      }
+    ],
+    "reconstructed_markdown": "बाज़ार में कोई एक ऐसा आधिकारिक \"नंबर वन\" व्हे प्रोटीन नहीं है जिसे सभी लोग सर्वश्रेष्ठ मानें, क्योंकि यह आपकी ज़रूरत, बजट और बॉडी गोल पर निर्भर करता है। हालांकि, लोकप्रियता, क्वालिटी और फिटनेस कम्युनिटी के भरोसे के आधार पर कुछ ब्रांड्स को सबसे शीर्ष \\(Top\\-Tier\\) माना जाता है:\n\n### 1. ग्लोबल और प्रीमियम स्टैंडर्ड \\(Global & Premium Benchmark\\)\n\n- Optimum Nutrition \\(ON\\) Gold Standard 100% Whey: इसे दुनिया भर में \\(और भारत में भी\\) सबसे बेहतरीन और लोकप्रिय व्हे प्रोटीन माना जाता है। इसकी मिक्सएबिलिटी, क्वालिटी और पाचन क्षमता बहुत अच्छी है।\n\n### 2. भारतीय बाज़ार में बेस्ट वैल्यू और डाइजेस्टेबिलिटी \\(Best for Indian Digestion & Value\\)\n\n- MuscleBlaze Biozyme Performance Whey: यह भारतीय ब्रांड्स में सबसे आगे है। इसे खासतौर पर भारतीय शरीर और पाचन तंत्र को ध्यान में रखकर बनाया गया है \\(पेंटेंटेड एनजाइमब्लेड के साथ, जिससे ब्लोटिंग नहीं होती\\)।\n\n### 3. बेस्ट बजट और रॉ प्रोटीन \\(Best Budget & Raw Protein\\)\n\n- AS\\-IT\\-IS Nutrition Whey Protein या Nakpro: अगर आप बिना किसी फ्लेवर \\(Unflavoured\\) और कम कीमत में शुद्ध प्रोटीन चाहते हैं, तो ये ब्रांड्स लैब\\-टेस्टेड और किफायती होने की वजह से बहुत पसंद किए जाते हैं। [0]\n- The Whole Truth Raw Whey: बिना किसी आर्टिफिशियल स्वीटकर या केमिकल के, एकदम साफ \\(Clean\\-label\\) और प्राकृतिक विकल्प चाहने वालों के लिए यह शीर्ष पर है।\n\nसही चुनाव करने के लिए मुझे बताएं:\n\n- आपका बजट कितना है?\n- आपका मुख्य लक्ष्य क्या है \\(मसल््स बढ़ाना, वजन घटाना या सिर्फ डेली प्रोटीन पूरा करना\\)?\n- क्या आपको पाचन से जुड़ी कोई समस्या \\(जैसे लैक्टोज इंटोलरेंस\\) है?\n\nइन विवरणों के आधार पर मैं आपके लिए सबसे सही प्रोटीन पाउडर सुझा सकता हूँ।\n\n\n### References\n\n[0] [Top 7 Cleanest Whey Proteins in India \\(2026\\) \\- HealthKart](https://www.google.com/goto?url=CAES9QEB6zswFWvd8yhhy1eIWWbBASFiYn656pAQ1RRWObbDPkkRwFKJC-CEplGg1Xlg2IDOycAiB3wa2sDvPDsPAJgMkx--F49YMHvTbdIViUjNwVwwclinGSHHXXxSwfcYB559Rk4dNKvOg5wrjkEG9vssXfXzS_dLZC1sGowUi0vUJyGVBOVXUlNbFCcnKFq568766wg9Gl34YDO5g1NfGkhgILFM3ywGzJdRUtGuPKspwjZ8EAerDpoSoRl9_cZ0l3xIjraONVwwwEbVF2DQ1iY68sOKrwRj7oS50Vrq2fFIB5dpWzKKPqG2jtdFkxj4FCBHYfceew) — AS\\-IT\\-IS ONE Whey Protein Concentrate \\(Unflavoured\\) — Best Verified Value \\| Overall Score: 9.13/10. \\* NAKPRO Gold Clean Raw Whey Protein Concentrate. Overall Score...\n"
+  }
+}

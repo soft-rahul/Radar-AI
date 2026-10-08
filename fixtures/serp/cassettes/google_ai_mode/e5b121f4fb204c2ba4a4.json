@@ -1,0 +1,268 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "best whey protein brands in india",
+      "location": "Mumbai, Maharashtra, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:35:31+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb0b919dfa1433eccc6a",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/SOcwlTDiN7WZSz0gPhmXQAXgpqxioIglWn-Vq0x8wq0/6ac4eb0b919dfa1433eccc6a.json",
+      "markdown_endpoint": "https://serpapi.com/searches/SOcwlTDiN7WZSz0gPhmXQAXgpqxioIglWn-Vq0x8wq0/6ac4eb0b919dfa1433eccc6a.md",
+      "created_at": "2026-10-06 12:35:23 UTC",
+      "processed_at": "2026-10-06 12:35:23 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=best+whey+protein+brands+in+india&udm=50&gl=in&hl=en&uule=w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh",
+      "raw_html_file": "https://serpapi.com/searches/SOcwlTDiN7WZSz0gPhmXQAXgpqxioIglWn-Vq0x8wq0/6ac4eb0b919dfa1433eccc6a.html",
+      "prettify_html_file": "https://serpapi.com/searches/SOcwlTDiN7WZSz0gPhmXQAXgpqxioIglWn-Vq0x8wq0/6ac4eb0b919dfa1433eccc6a.prettify",
+      "total_time_taken": 7.46
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "best whey protein brands in india",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Mumbai, Maharashtra, India",
+      "location_used": "Mumbai,Maharashtra,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The Optimum Nutrition (ON) Gold Standard 100% Whey and MuscleBlaze Biozyme Performance Whey are the best whey protein brands in India, offering superior quality, rigorous lab testing, and great muscle recovery profiles.",
+        "snippet_highlighted_words": [
+          "Optimum Nutrition (ON) Gold Standard 100% Whey and MuscleBlaze Biozyme Performance Whey"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Choosing the right protein depends heavily on your budget, fitness goal, and stomach sensitivity."
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "Brand & Product",
+            "Best For",
+            "Key Highlight"
+          ],
+          [
+            "Optimum Nutrition Gold Standard",
+            "Global Gold Standard",
+            "24g protein per scoop, highly trusted worldwide."
+          ],
+          [
+            "MuscleBlaze Biozyme Performance",
+            "Indian Value & Innovation",
+            "Enhanced absorption formula specially clinical-tested for Indian stomachs."
+          ],
+          [
+            "The Whole Truth Raw Whey",
+            "Clean / Unflavoured",
+            "100% pure, short-label, zero artificial sweeteners or additives."
+          ],
+          [
+            "AS-IT-IS Raw Whey",
+            "Budget Conscious",
+            "Unflavoured, lab-tested, economical protein concentrate."
+          ],
+          [
+            "Dymatize ISO 100",
+            "Lactose Intensitive / Cutting",
+            "Hydrolyzed isolate with ultra-fast absorption and minimal carbs."
+          ]
+        ],
+        "detailed": [
+          [
+            {
+              "snippet": "Brand & Product"
+            },
+            {
+              "snippet": "Best For"
+            },
+            {
+              "snippet": "Key Highlight"
+            }
+          ],
+          [
+            {
+              "snippet": "Optimum Nutrition Gold Standard"
+            },
+            {
+              "snippet": "Global Gold Standard"
+            },
+            {
+              "snippet": "24g protein per scoop, highly trusted worldwide."
+            }
+          ],
+          [
+            {
+              "snippet": "MuscleBlaze Biozyme Performance"
+            },
+            {
+              "snippet": "Indian Value & Innovation"
+            },
+            {
+              "snippet": "Enhanced absorption formula specially clinical-tested for Indian stomachs."
+            }
+          ],
+          [
+            {
+              "snippet": "The Whole Truth Raw Whey"
+            },
+            {
+              "snippet": "Clean / Unflavoured"
+            },
+            {
+              "snippet": "100% pure, short-label, zero artificial sweeteners or additives."
+            }
+          ],
+          [
+            {
+              "snippet": "AS-IT-IS Raw Whey"
+            },
+            {
+              "snippet": "Budget Conscious"
+            },
+            {
+              "snippet": "Unflavoured, lab-tested, economical protein concentrate."
+            }
+          ],
+          [
+            {
+              "snippet": "Dymatize ISO 100"
+            },
+            {
+              "snippet": "Lactose Intensitive / Cutting"
+            },
+            {
+              "snippet": "Hydrolyzed isolate with ultra-fast absorption and minimal carbs."
+            }
+          ]
+        ],
+        "formatted": [
+          {
+            "brand_product": "Optimum Nutrition Gold Standard",
+            "best_for": "Global Gold Standard",
+            "key_highlight": "24g protein per scoop, highly trusted worldwide."
+          },
+          {
+            "brand_product": "MuscleBlaze Biozyme Performance",
+            "best_for": "Indian Value & Innovation",
+            "key_highlight": "Enhanced absorption formula specially clinical-tested for Indian stomachs."
+          },
+          {
+            "brand_product": "The Whole Truth Raw Whey",
+            "best_for": "Clean / Unflavoured",
+            "key_highlight": "100% pure, short-label, zero artificial sweeteners or additives."
+          },
+          {
+            "brand_product": "AS-IT-IS Raw Whey",
+            "best_for": "Budget Conscious",
+            "key_highlight": "Unflavoured, lab-tested, economical protein concentrate."
+          },
+          {
+            "brand_product": "Dymatize ISO 100",
+            "best_for": "Lactose Intensitive / Cutting",
+            "key_highlight": "Hydrolyzed isolate with ultra-fast absorption and minimal carbs."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Brand Categories Breakdown"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON): Widely recognized as the international benchmark. It mixes effortlessly, tastes great, and delivers reliable gains, though it comes at a higher price point due to import costs and popularity.",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "MuscleBlaze: A leading homegrown Indian brand known for its patent-pending Biozyme technology which minimizes digestion issues like bloating. It bridges the gap between international quality and local pricing."
+          },
+          {
+            "snippet": "The Whole Truth: Perfect for fitness enthusiasts who prefer completely clean nutrition. They disclose every single ingredient clearly with zero hidden sweeteners, thickeners, or artificial colors.",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "AS-IT-IS Nutrition: The go-to option for raw, unflavoured, pocket-friendly whey concentrate. It is unmasked, meaning you get pure protein powder without any added flavors.",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Myprotein: A popular global direct-to-consumer brand offering great variants like Impact Whey Protein and unique refreshing options like Clear Whey Isolate.",
+            "snippet_links": [
+              {
+                "text": "Impact Whey Protein",
+                "link": "https://www.myprotein.co.in/c/nutrition/protein/whey-protein-india/"
+              }
+            ],
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you share your budget range, dietary preference (vegetarian/vegan), and fitness goal (weight loss vs. muscle gain), I can recommend the exact product variant that suits you best."
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Top 10 Whey Protein Brands In India 2026 - Flavor Catalystz",
+        "link": "https://www.flavorcatalyst.com/insights/top-10-whey-protein-brands-in-india/",
+        "snippet": "Optimum Nutrition Gold Standard 100% Whey |. Light, clear, refreshing",
+        "source": "Flavor Catalystz",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.flavorcatalyst.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNtEo-4LDsuB-yNRYVG3emW4Cm0_cNeps4CP2C9Pj25PB75gPB0TsuJPsFCg04Rhx0OJeStYp9_j5zkDyq-5M2khr6OkGB9HhPDsq1"
+      },
+      {
+        "index": 1,
+        "title": "Top 7 Cleanest Whey Proteins in India (2026)",
+        "link": "https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/",
+        "snippet": "Optimum Nutrition Gold Standard 100% Whey, Unflavoured — International Benchmark | Overall Score: 7.45/10",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkfwm3fkkvJExPFkiO_UYl8lPNWc5sspZ-ZnrG6PYWVWu8z6VOvqDL_vEQFkUJf9TAvwzcnZxjQ_JBDXCm4gIYb7HUB6hQ5ioNL6_I"
+      },
+      {
+        "index": 2,
+        "title": "Best Whey Protein in India | Protein Powder | Myprotein IN",
+        "link": "https://www.myprotein.co.in/c/nutrition/protein/whey-protein-india/",
+        "snippet": "Impact Whey Protein provides ~21g protein/serving; provides up to 23g/serving with lower fat/lactose via filtration. Supports muscle mass growth/maintenance and no...",
+        "source": "Myprotein IN",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.myprotein.co.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVDEmeQ7WJat2jiLAtN8uYycE_8w0gpVGsMiINOBu50a5KpHaw77WbbwGQcQePIIwrI21ngvCj4o6PBoPFo4amFQB9dPLO84yYFlT-"
+      },
+      {
+        "index": 3,
+        "title": "Buy Premium Protein Powder Online - Best Protein Supplement - Optimum Nutrition",
+        "link": "https://www.optimumnutrition.co.in/collections/protein-powder",
+        "snippet": "Optimum Nutrition Protein Products: Gold Standard 100% Whey Protein (sizes: 152g, 1 lb, 2 lb/907g, 1.7kg, 5 lbs, 4 kg; flavors: Double Rich Chocolate, unflavoured,",
+        "source": "Optimum Nutrition India",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.optimumnutrition.co.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaKeREQOxTDjfL9fWdGiULCDDoKfpEtLqmCOceOugN4kJcMTTeblIyDYOdzjVQ1b8AH-xazCPvoRpaGRE"
+      }
+    ],
+    "reconstructed_markdown": "The Optimum Nutrition \\(ON\\) Gold Standard 100% Whey and MuscleBlaze Biozyme Performance Whey are the best whey protein brands in India, offering superior quality, rigorous lab testing, and great muscle recovery profiles. [0]\n\nChoosing the right protein depends heavily on your budget, fitness goal, and stomach sensitivity.\n\n| Brand & Product | Best For | Key Highlight |\n| --- | --- | --- |\n| Optimum Nutrition Gold Standard | Global Gold Standard | 24g protein per scoop, highly trusted worldwide. |\n| MuscleBlaze Biozyme Performance | Indian Value & Innovation | Enhanced absorption formula specially clinical\\-tested for Indian stomachs. |\n| The Whole Truth Raw Whey | Clean / Unflavoured | 100% pure, short\\-label, zero artificial sweeteners or additives. |\n| AS\\-IT\\-IS Raw Whey | Budget Conscious | Unflavoured, lab\\-tested, economical protein concentrate. |\n| Dymatize ISO 100 | Lactose Intensitive / Cutting | Hydrolyzed isolate with ultra\\-fast absorption and minimal carbs. |\n\n### Top Brand Categories Breakdown\n\n- Optimum Nutrition \\(ON\\): Widely recognized as the international benchmark. It mixes effortlessly, tastes great, and delivers reliable gains, though it comes at a higher price point due to import costs and popularity. [1]\n- MuscleBlaze: A leading homegrown Indian brand known for its patent\\-pending Biozyme technology which minimizes digestion issues like bloating. It bridges the gap between international quality and local pricing.\n- The Whole Truth: Perfect for fitness enthusiasts who prefer completely clean nutrition. They disclose every single ingredient clearly with zero hidden sweeteners, thickeners, or artificial colors. [1]\n- AS\\-IT\\-IS Nutrition: The go\\-to option for raw, unflavoured, pocket\\-friendly whey concentrate. It is unmasked, meaning you get pure protein powder without any added flavors. [1]\n- Myprotein: A popular global direct\\-to\\-consumer brand offering great variants like [Impact Whey Protein](https://www.myprotein.co.in/c/nutrition/protein/whey-protein-india/) and unique refreshing options like Clear Whey Isolate. [2]\n\nIf you share your budget range, dietary preference \\(vegetarian/vegan\\), and fitness goal \\(weight loss vs. muscle gain\\), I can recommend the exact product variant that suits you best.\n\n\n### References\n\n[0] [Top 10 Whey Protein Brands In India 2026 \\- Flavor Catalystz](https://www.google.com/goto?url=CAEShwEB6zswFbz8x1Brf5ojO606EVbQDp8iovbiX6UGUU9jIlA0Yam4U65XsQexDHauJrpDjstCkKGFjcakAB24kdTyiaPBD0VNIgdTqkzNUcRPBg5cJWtSv2VwJv-Y6rK5jG7RfbBIFwk3hPNKOBXirR6r_K2A1GAMjhPhnNE4RsoyPOSy7NxpR_4) — Optimum Nutrition Gold Standard 100% Whey \\|. Light, clear, refreshing\n\n[1] [Top 7 Cleanest Whey Proteins in India \\(2026\\)](https://www.google.com/goto?url=CAESswEB6zswFaYTcAo5lYSDehKIo5X-Jfq4PnVoMIRqHlR2qDbROWURt_jzmJ2NcYtFWjqA-GAnFnA7CEq8Ln0qwa2chtnC3PEnCdwGJPBnLiGAc2Y9QRQz_JnESB3KFA7h6yZ3hNKtBrufMNIrCKPJMtehs-r-eXqzS7NE4upB20iwhSzm-OWcG4KoL-WX7aDhCvwMypLpmziQIys1S5P_boBEhY3_VhjTUFRMFK8mvGocLGBTtA) — Optimum Nutrition Gold Standard 100% Whey, Unflavoured — International Benchmark \\| Overall Score: 7.45/10\n\n[2] [Best Whey Protein in India \\| Protein Powder \\| Myprotein IN](https://www.google.com/goto?url=CAESfgHrOzAVeNc4i5-cLgaR1QQ02htRPs3CGVBP5ZoL-ZUaowjLRFbQzWB6EblkmvPmQm0Bvjn0RYm1RxiSHqovTa1u3t1qpy0AwYrrvksrWmbPujjKnKR6wE3-vmLDlj86kYjl_oaDgawZJzlgMfxOQwV748EdbFKnrDA43u-kSw) — Impact Whey Protein provides \\~21g protein/serving; provides up to 23g/serving with lower fat/lactose via filtration. Supports muscle mass growth/maintenance and no...\n\n[3] [Buy Premium Protein Powder Online \\- Best Protein Supplement \\- Optimum Nutrition](https://www.google.com/goto?url=CAESeAHrOzAVFgjFGpnk-MKLKPuj-fxQPTYjyFJbaB5kKXdUUFTpQJ7ajrKNet6HunlXIrV9Fg4AfQjMwndbrBNDrfTbnZWlcAbG9yhtqPIaCQfgaIZgOYhnvOn0IHViiosxTBKbxcVPwhCH84y3jFdFWJHXmGmMZ2WjFw) — Optimum Nutrition Protein Products: Gold Standard 100% Whey Protein \\(sizes: 152g, 1 lb, 2 lb/907g, 1.7kg, 5 lbs, 4 kg; flavors: Double Rich Chocolate, unflavoured,\n"
+  }
+}

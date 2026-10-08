@@ -1,0 +1,208 @@
+{
+  "readings": [
+    {
+      "answer_id": "q4|ai_overview|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition Gold Standard 100% Whey and MuscleBlaze Biozyme Performance Whey are the top-rated protein powders in India for muscle gain."
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition Gold Standard 100% Whey and MuscleBlaze Biozyme Performance Whey are the top-rated protein powders in India for muscle gain."
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "neutral",
+          "quote": "Avvatar Isorich Whey Protein:"
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "neutral",
+          "quote": "Nutrabay Gold 100% Whey Protein Isolate:"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q4|ai_overview|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "The MuscleBlaze Biozyme Whey Protein and Optimum Nutrition (ON) Gold Standard 100% Whey are the top-rated protein powders for muscle gain in India."
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "The MuscleBlaze Biozyme Whey Protein and Optimum Nutrition (ON) Gold Standard 100% Whey are the top-rated protein powders for muscle gain in India."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate 80%: A budget-friendly, unflavoured, and pure choice for people who want clean protein without extra additives."
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Nakpro Impact Whey Protein: A cost-effective blend of isolate and concentrate offering 24g of protein per serving."
+        },
+        {
+          "brand": "GNC",
+          "stance": "recommended",
+          "quote": "Choose a whey isolate like MuscleBlaze Biozyme Iso Zero or GNC Amp Pure Isolate, which have low carbs and minimal lactose."
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Nakpro",
+          "product": "Impact Whey Protein",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "offering 24g of protein per serving."
+        }
+      ]
+    },
+    {
+      "answer_id": "q4|copilot|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition Gold Standard Whey — दुनिया के सबसे भरोसेमंद सप्लीमेंट्स में से एक, 24g प्रोटीन, तेज़ पाचन, उच्च BCAA 1"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Biozyme Whey — भारतीय उपयोगकर्ताओं के लिए बढ़िया, बेहतर पाचन और किफायती 1"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "recommended",
+          "quote": "Avvatar Absolute Whey — 28g प्रोटीन, दुबली मांसपेशियों के लिए श्रेष्ठ 1"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "Isopure Zero Carb — वजन घटाने और लो‑कार्ब डाइट वालों के लिए बेहतरीन 1"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": ""
+        },
+        {
+          "brand": "GNC",
+          "stance": "recommended",
+          "quote": "शुरुआती | MuscleBlaze Biozyme, GNC Pro Performance | 1"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "24g प्रोटीन"
+        },
+        {
+          "brand": "Avvatar",
+          "product": "Absolute Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "28g",
+          "quote": "28g प्रोटीन"
+        }
+      ]
+    },
+    {
+      "answer_id": "q4|copilot|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "ON Gold Standard Whey को विशेषज्ञों द्वारा “कुल मिलाकर बेस्ट” माना गया है"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "भारतीय उपयोगकर्ताओं के लिए MuscleBlaze Biozyme और Avvatar Absolute Whey भी बहुत अच्छे विकल्प हैं ।"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "recommended",
+          "quote": "भारतीय उपयोगकर्ताओं के लिए MuscleBlaze Biozyme और Avvatar Absolute Whey भी बहुत अच्छे विकल्प हैं ।"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "Isopure Zero Carb — 25g प्रोटीन, 0 कार्ब, 0 शुगर 1"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": ""
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "24g प्रोटीन"
+        },
+        {
+          "brand": "Avvatar",
+          "product": "Absolute Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "28g",
+          "quote": "28g प्रोटीन"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "Biozyme Performance Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "25g प्रोटीन"
+        },
+        {
+          "brand": "Isopure",
+          "product": "Zero Carb",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "25g प्रोटीन"
+        },
+        {
+          "brand": "Isopure",
+          "product": "Zero Carb",
+          "attribute": "sugar_g",
+          "value": "0",
+          "quote": "0 शुगर"
+        }
+      ]
+    },
+    {
+      "answer_id": "q4|copilot|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard Whey, Ultimate Nutrition Prostar, और Isopure Low Carb उच्च गुणवत्ता वाले माने जाते हैं"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "Isopure Low Carb उच्च गुणवत्ता वाले माने जाते हैं"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "recommended",
+          "quote": "लेकिन गुणवत्ता के आधार पर ON Gold Standard, Prostar, और Isopure सबसे भरोसेमंद विकल्प हैं MensXP ."
+        }
+      ],
+      "claims": []
+    }
+  ]
+}

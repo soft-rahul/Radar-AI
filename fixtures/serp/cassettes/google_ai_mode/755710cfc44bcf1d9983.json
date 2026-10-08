@@ -1,0 +1,84 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "Which is no 1 whey protein in India?",
+      "location": "Mumbai, Maharashtra, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:34:14+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eac13f79f58ba6b7284f",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/u4g2fYpiBSKb5aOHdO6m2j0mnHi98nWtR3XqpvRzsuM/6ac4eac13f79f58ba6b7284f.json",
+      "markdown_endpoint": "https://serpapi.com/searches/u4g2fYpiBSKb5aOHdO6m2j0mnHi98nWtR3XqpvRzsuM/6ac4eac13f79f58ba6b7284f.md",
+      "created_at": "2026-10-06 12:34:09 UTC",
+      "processed_at": "2026-10-06 12:34:09 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=Which+is+no+1+whey+protein+in+India%3F&udm=50&gl=in&hl=en&uule=w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh",
+      "raw_html_file": "https://serpapi.com/searches/u4g2fYpiBSKb5aOHdO6m2j0mnHi98nWtR3XqpvRzsuM/6ac4eac13f79f58ba6b7284f.html",
+      "prettify_html_file": "https://serpapi.com/searches/u4g2fYpiBSKb5aOHdO6m2j0mnHi98nWtR3XqpvRzsuM/6ac4eac13f79f58ba6b7284f.prettify",
+      "total_time_taken": 4.25
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "Which is no 1 whey protein in India?",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Mumbai, Maharashtra, India",
+      "location_used": "Mumbai,Maharashtra,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "There isn't a single universally agreed-upon \"Number 1\" whey protein in India, as the title shifts depending on whether you look at global legacy/overall preference, local domestic sales volume, or specialized categories like budget or isolate.",
+        "snippet_highlighted_words": [
+          "There isn't a single universally agreed-upon \"Number 1\" whey protein in India"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "However, the market is overwhelmingly dominated by a couple of top contenders:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey: Widely regarded as the global gold standard and the default premium pick for serious lifters and gym-goers in India. It is consistently one of the most trusted and sought-after international brands for quality and mixability.",
+            "snippet_links": [
+              {
+                "text": "Optimum Nutrition (ON) Gold Standard 100% Whey",
+                "link": "https://dir.indiamart.com/ahmedabad/on-whey-protein.html"
+              }
+            ]
+          },
+          {
+            "snippet": "MuscleBlaze (Biozyme Series / Whey Gold): As India’s leading homegrown sports nutrition brand, MuscleBlaze frequently ranks as a top domestic best-seller. Its Biozyme range is specifically clinically tested and patented for the Indian dietary body type to ensure better protein absorption and digestion."
+          },
+          {
+            "snippet": "Avvatar Whey Protein: Another massive homegrown favorite proudly made in India (by Parag Milk Foods), highly rated for being 100% vegetarian, sourced directly from fresh cow's milk, and delivering a high protein count per scoop without digestive bloating."
+          },
+          {
+            "snippet": "AS-IT-IS Nutrition: The undisputed leader when it comes to the budget and raw whey segment in India, popular among students and beginners looking for lab-tested, unadulterated protein at a lower cost per gram.",
+            "snippet_links": [
+              {
+                "text": "AS-IT-IS Nutrition",
+                "link": "https://asitisnutrition.com/blogs/health/top-5-budget-friendly-whey-protein-in-india-2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you let me know your budget, fitness goal (muscle building, weight loss, or general fitness), and whether you prefer raw/unflavoured or flavoured powder, I can recommend the exact right brand and variant for you."
+      }
+    ],
+    "reconstructed_markdown": "There isn't a single universally agreed\\-upon \"Number 1\" whey protein in India, as the title shifts depending on whether you look at global legacy/overall preference, local domestic sales volume, or specialized categories like budget or isolate.\n\nHowever, the market is overwhelmingly dominated by a couple of top contenders:\n\n- [Optimum Nutrition \\(ON\\) Gold Standard 100% Whey](https://dir.indiamart.com/ahmedabad/on-whey-protein.html): Widely regarded as the global gold standard and the default premium pick for serious lifters and gym\\-goers in India. It is consistently one of the most trusted and sought\\-after international brands for quality and mixability.\n- MuscleBlaze \\(Biozyme Series / Whey Gold\\): As India’s leading homegrown sports nutrition brand, MuscleBlaze frequently ranks as a top domestic best\\-seller. Its Biozyme range is specifically clinically tested and patented for the Indian dietary body type to ensure better protein absorption and digestion.\n- Avvatar Whey Protein: Another massive homegrown favorite proudly made in India \\(by Parag Milk Foods\\), highly rated for being 100% vegetarian, sourced directly from fresh cow's milk, and delivering a high protein count per scoop without digestive bloating.\n- [AS\\-IT\\-IS Nutrition](https://asitisnutrition.com/blogs/health/top-5-budget-friendly-whey-protein-in-india-2025): The undisputed leader when it comes to the budget and raw whey segment in India, popular among students and beginners looking for lab\\-tested, unadulterated protein at a lower cost per gram.\n\nIf you let me know your budget, fitness goal \\(muscle building, weight loss, or general fitness\\), and whether you prefer raw/unflavoured or flavoured powder, I can recommend the exact right brand and variant for you.\n"
+  }
+}

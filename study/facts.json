@@ -1,0 +1,12 @@
+{
+  "_how_to": "Fill in values ONLY from the brand's own product page, then set confirmed_by_user to true. Leave unknown values as null. ShelfRadar never invents these.",
+  "brand": "MuscleBlaze",
+  "source_url": "",
+  "checked_on": null,
+  "confirmed_by_user": false,
+  "products": [
+    {"product": "Biozyme Performance Whey", "protein_per_serving_g": null, "serving_size_g": null, "price_inr": null, "sugar_g": null},
+    {"product": "Beginner's Whey Protein", "protein_per_serving_g": null, "serving_size_g": null, "price_inr": null, "sugar_g": null},
+    {"product": "Raw Whey Protein Concentrate", "protein_per_serving_g": null, "serving_size_g": null, "price_inr": null, "sugar_g": null}
+  ]
+}

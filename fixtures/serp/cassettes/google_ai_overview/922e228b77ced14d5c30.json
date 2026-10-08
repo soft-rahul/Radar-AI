@@ -1,0 +1,144 @@
+{
+  "request": {
+    "engine": "google_ai_overview",
+    "params": {
+      "page_token": "zq5g83iczZXddqo4FICfYB6j3JxWEUWxa7HOSiIIVqvYqtPeuBA4AQFpiT_Vu7maF5mnmqeZiISCf9NzLmZNLkjI_snem3zsP_4KvIX_929_usvlG7kvlzebTQlHEQ6ckhWFZZNsF1b5RxSQ2HK_k2gVW45ny5YbR6HD4UD2FpwbyK7HrVaBI2--IaAbOtK7w_aYmG2fPE1E35wo3HYtVzmLyDznePJgtVZM0jZQH_XjlTLYic6jZPBccpo8nZnEmdNgPuakPC3Th39TbdGXEim5Xmm3eZz3V8sPaeSXBF6olvplM6QK4D8dWAcvdOrs18pFLQgA-oo3hbqAet4RhMmUs8ZUDPeTbiTv6hVviZli4CQCOqYf812LmrUx0_EvWhck7YMDQ09mhZoj_SsJ5YIpBHvN-JIMFzwkZS-Kzg-YF-oA4R4Y6MA9b0xrXzie1qp12LeALmk1SL-HceUw8IBB_xUo7sH22hjBtpOdrRJ6jFK2Mb3AfHkW06lS9izXShYx2d9r9NzkI63iOqqmD9Yerm2fBFt6tyZj34O7_h0oWzOqF0Sm7dhTd8p_T94rQkXkm9WGdJsAZZGMKJInqh3OpkPJaqqNqNQtwQrDCeU_SD6l_e7oXI5wf1sVduWOB9obnpghFBVcpArsYxTgQaq2L1sGOl18YLAqXgKGEAanOKFjpwlO7MzhJrMuhKkr0MtZ5LPTjtOhvnPyNDDcZzJ2ddOrqRxnCJAC94xlARRS2_9MEIUaHmB4r-kHld6nnsIrnZO_0b4ULjVNX1O-2cd9yZ8xpAfTv8YLMDpAh4r-pNLf0sEyKaCSVojidODhs1L6JRYxzda4_Iu8NkZf0lIYN0cYFPCZzFf10VN3sl3XdzoPRnem_4AW6x6Zbc7jEoWzn-hA1v8NKNaf9grKNaDQV4Ci_Qmf6U_o4O_gNOtPnbQ_XQZKTYBK-9PeEetP2kl_OgXKzwOV9qdhdKE__SxQ-hWgMsdngVLPAYWvAYWLQLk9g_anj88yXepPKVC_0p9Gv9qfEr6cw1RsVqs5vti0VO33TnU6GmorYzKHxLDX9saK7Tt13P_3pvUjXN6Hph3cTj37Hgqd5da-ndKN6N6xuXf5RuFvQO0GtNIFVNiCZ6LaN7Y6yMQbqZHuSAKTwTqTVYoOcjtSPXPJRHxmL7AtmO40G8c7n6c1xSySIwd0oTJ1NZNJ7GBU3Mk7kETmHDAZK0oTZtXJXIrHSrB54hKcePosSpammtWCWUmnaaITWZZTLqYsAokLgziSebMRBM1eXVKcYTxxVfK4w-jOAQ3vwR7W-QXst5VQ26y10ePiFQTd0ByDwXMEBEMUZvVtFD64ff6husJuROrdrdMbB43RS9fvxcua2FmLFfGH2n_1Z9qO9N7ccWcorsfgFeLxyhO0Ycts8c9NAnyz3Qu9ePn8NAVJXEQeRLZgv_Z7mzDiwtiSKcm1eEMpn2BKIqKcIwxGZkTnDTDadQoqFCjjHLHMqUPWcm0mCk6l7thVpymKVoUL8XL7Jjd5jixiufIP2TKtxQ"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:36:22+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb4065f701227a842bc8",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/30uQ-bAJqQ7tJ-ioR2LhAuvLyzbhGuEaB3DLHs4dWys/6ac4eb4065f701227a842bc8.json",
+      "markdown_endpoint": "https://serpapi.com/searches/30uQ-bAJqQ7tJ-ioR2LhAuvLyzbhGuEaB3DLHs4dWys/6ac4eb4065f701227a842bc8.md",
+      "created_at": "2026-10-06 12:36:16 UTC",
+      "processed_at": "2026-10-06 12:36:16 UTC",
+      "google_ai_overview_url": "https://www.google.com/async/folsrch?sourceid=chrome&gl=in&hl=hi&uule=w+CAIQICILRGVsaGksSW5kaWE&yv=3&cs=0&ei=PuvEasGQCOCOruEPz5eN8Q0&async=_basejs:/xjs/_/js/k%3Dxjs.s.hi.zwNjOutx8Uk.2023.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIAYAAAJAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAABIAEAAAAAAAAAABBAAAAACAAAAAAAAAAgAEABAAgAIQAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAEECAAAAEQgAABAAAAA_xjzDQAAGgAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAGABAAAAQIABAAAEgAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAAAAAFAAAAAAAAYAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAIACgMAPIAhAAAAAAAAAAgAAAAAAAAAAAIAEIAAAAAAAAAAAAQAADAAAAIAcAI8H4BBBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAKgAOZAEhAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUBGeAgAAAAAAAFsDAAE/dg%3D0/br%3D1/ichc%3D1/rs%3DACT90oH1heFHIPvig4yS2d8qcWVkiBzO-A/cb%3Dloaded_h_0?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.s.Gmb_R8c9F7o.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAACAIAAQAAAAAAAAAAAAAAAACCoAAAAAAAAAAAABQAAAAAAEIAAAAAACAAAAAAAAAAAACFHgAAADAAAAAAAADAAxgAuAgAAAAAAAAAAAAEAAAAAAAgAIAEAAAAAAAAAABBAAACAAAAAACAAAAAAAAABAAgABQAAAAAARwAAEAAAAAAQAAAAAAAAAAAAIEBiAAAAAAAAABABAAAAAAAAAAAHAAAAAAAAAAAAAAAAACABAAAAAAAAAAgAAAAAAgOAAAAAACAYAAAAAAABgAAAAAEAAACAAAAAAAAAAAAACEBEgAAAQAAAAAAAgAAAAAAAAAAAABAACCEQgBAAFAAAq4IAAAAgAMAAgAAAAAAAE0EJEAAAAAAAAAAAAAAAAgAIAhACCAAAAAAAkAAAAAAIAAAAAAAYgAAAAAAAAAAARQAAQgAYAQJAIBEISFABICCAAAABAAACEAEAAAAAIACBAQAAAQAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAAAAgBgAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE/br%3D1/cb%3Dloaded_h_0/rs%3DACT90oHWju6USLWyv6zI0AU-akKCnvMsbw?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.s.hi.zwNjOutx8Uk.2023.O/ck%3Dxjs.s.Gmb_R8c9F7o.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAACAIAAQAAAAAAAAAAAAAAAACCoAAAAAgIAYAAAJQAAAEAAEIAAAAAACAAAAAAAAAAAACFHgACADAAAAAAAADAAxgAuAgAAAAAAAAAAAAEAAAAEEAgBIAEAAAAAAAAAABBAAACACAAAACAAAAAgAEABAAgAJQAAAAAFRwAAEAAAAAAQAAAAAAAAAAAAIEFiAAAAEQgAABABAAA_xjzDQAAHgAAAAAAAAkAAAAAAACABAAAAAAAAAAgAAAAkAgOAAAAAACAYGABAAAARoABAAAEgAACIAAAAAAAAAAAACEBEgAAAQAAAAAAAgAAAAAAAAAAAABAACCEQgBAAFAAAq4IAIAAgAMAAgAAAAAAAE0EJEAAAAAAAIAAAAAAAAgAIAhACCAAAAAAAkAAAAAFIAAAAAAAYgAAAAAAAAAAgRQAAQgAYAQJAIBEISFABICCAAAABgAACEAEAAAAAIAChMQPIAxAAAAAAAAAIgAAAAAAAAAAAIAEIAAAAAAAAgBgAQEADAAAAIAcAI8H4BBBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAKgAOZAUhAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUBGeAgAAAAAAAFsDAAE/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/ichc%3D1/rs%3DACT90oFHXJ3_URHuQWjBsQdvdwcrd-FVOA/cb%3Dloaded_h_0?cb%3D121509378,_fmt:madl,_id:B2Jtyd,_mado:ed&q=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%86%E0%A4%A4%E0%A5%80+%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88&mlro=0a7ll9M68EeRrWhFsNzgC-eA7iKdR60nBOGEmHwvHUNnZAlLmaVAPToA2Q52b6yomKhO0K3ughos6LyeMVl7UYLkMrt45Jv515fFOZkbHzsMphVJR5vVAZBgVui2HRDaD0T9sAkaGMmirtTS_A&mlros=Pod2dZOMwmo&mrc=CAA4rwRQAWgAcACYAQCgAUaoAQCwAQG6AQEB2AEA&sca_esv=4b52e16ed3e955c1&mgtyp=90&snr=1",
+      "raw_html_file": "https://serpapi.com/searches/30uQ-bAJqQ7tJ-ioR2LhAuvLyzbhGuEaB3DLHs4dWys/6ac4eb4065f701227a842bc8.html",
+      "total_time_taken": 5.31
+    },
+    "search_parameters": {
+      "engine": "google_ai_overview",
+      "page_token": "zq5g83iczZXddqo4FICfYB6j3JxWEUWxa7HOSiIIVqvYqtPeuBA4AQFpiT_Vu7maF5mnmqeZiISCf9NzLmZNLkjI_snem3zsP_4KvIX_929_usvlG7kvlzebTQlHEQ6ckhWFZZNsF1b5RxSQ2HK_k2gVW45ny5YbR6HD4UD2FpwbyK7HrVaBI2--IaAbOtK7w_aYmG2fPE1E35wo3HYtVzmLyDznePJgtVZM0jZQH_XjlTLYic6jZPBccpo8nZnEmdNgPuakPC3Th39TbdGXEim5Xmm3eZz3V8sPaeSXBF6olvplM6QK4D8dWAcvdOrs18pFLQgA-oo3hbqAet4RhMmUs8ZUDPeTbiTv6hVviZli4CQCOqYf812LmrUx0_EvWhck7YMDQ09mhZoj_SsJ5YIpBHvN-JIMFzwkZS-Kzg-YF-oA4R4Y6MA9b0xrXzie1qp12LeALmk1SL-HceUw8IBB_xUo7sH22hjBtpOdrRJ6jFK2Mb3AfHkW06lS9izXShYx2d9r9NzkI63iOqqmD9Yerm2fBFt6tyZj34O7_h0oWzOqF0Sm7dhTd8p_T94rQkXkm9WGdJsAZZGMKJInqh3OpkPJaqqNqNQtwQrDCeU_SD6l_e7oXI5wf1sVduWOB9obnpghFBVcpArsYxTgQaq2L1sGOl18YLAqXgKGEAanOKFjpwlO7MzhJrMuhKkr0MtZ5LPTjtOhvnPyNDDcZzJ2ddOrqRxnCJAC94xlARRS2_9MEIUaHmB4r-kHld6nnsIrnZO_0b4ULjVNX1O-2cd9yZ8xpAfTv8YLMDpAh4r-pNLf0sEyKaCSVojidODhs1L6JRYxzda4_Iu8NkZf0lIYN0cYFPCZzFf10VN3sl3XdzoPRnem_4AW6x6Zbc7jEoWzn-hA1v8NKNaf9grKNaDQV4Ci_Qmf6U_o4O_gNOtPnbQ_XQZKTYBK-9PeEetP2kl_OgXKzwOV9qdhdKE__SxQ-hWgMsdngVLPAYWvAYWLQLk9g_anj88yXepPKVC_0p9Gv9qfEr6cw1RsVqs5vti0VO33TnU6GmorYzKHxLDX9saK7Tt13P_3pvUjXN6Hph3cTj37Hgqd5da-ndKN6N6xuXf5RuFvQO0GtNIFVNiCZ6LaN7Y6yMQbqZHuSAKTwTqTVYoOcjtSPXPJRHxmL7AtmO40G8c7n6c1xSySIwd0oTJ1NZNJ7GBU3Mk7kETmHDAZK0oTZtXJXIrHSrB54hKcePosSpammtWCWUmnaaITWZZTLqYsAokLgziSebMRBM1eXVKcYTxxVfK4w-jOAQ3vwR7W-QXst5VQ26y10ePiFQTd0ByDwXMEBEMUZvVtFD64ff6husJuROrdrdMbB43RS9fvxcua2FmLFfGH2n_1Z9qO9N7ccWcorsfgFeLxyhO0Ycts8c9NAnyz3Qu9ePn8NAVJXEQeRLZgv_Z7mzDiwtiSKcm1eEMpn2BKIqKcIwxGZkTnDTDadQoqFCjjHLHMqUPWcm0mCk6l7thVpymKVoUL8XL7Jjd5jixiufIP2TKtxQ"
+    },
+    "ai_overview": {
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "भारत में शुरुआती (Beginners) लोगों के लिए MuscleBlaze Biozyme Whey और Optimum Nutrition (ON) Gold Standard 100% Whey सबसे अच्छे और भरोसेमंद व्हे प्रोटीन माने जाते हैं।",
+          "snippet_highlighted_words": [
+            "MuscleBlaze Biozyme Whey और Optimum Nutrition (ON) Gold Standard 100% Whey"
+          ],
+          "reference_indexes": [
+            0
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "शुरुआती लोगों के लिए शीर्ष विकल्प"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "MuscleBlaze Biozyme Whey Protein: यह विशेष रूप से भारतीयों के पाचन तंत्र को ध्यान में रखकर बनाया गया है। इसमें 'बायोजाइम' (Biozyme) फार्मूला है, जो पेट में भारीपन या गैस की समस्या नहीं होने देता और प्रोटीन को आसानी से पचाने में मदद करता है।",
+              "reference_indexes": [
+                0
+              ]
+            },
+            {
+              "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey: यह दुनिया भर में सबसे लोकप्रिय ब्रांड है। इसकी क्वालिटी और शुद्धता बेहतरीन होती है, हालांकि आयात शुल्क (import duty) के कारण यह थोड़ा महंगा हो सकता है।",
+              "reference_indexes": [
+                1,
+                2
+              ]
+            },
+            {
+              "snippet": "AS-IT-IS Nutrition Whey Protein Concentrate: अगर आप बिना किसी फ्लेवर (unflavoured) और कम बजट वाला विकल्प ढूंढ रहे हैं, तो यह शुरुआती लोगों के लिए एक किफायती और शुद्ध विकल्प है।"
+            }
+          ],
+          "reference_indexes": [
+            0
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "शुरुआती लोगों के लिए जरूरी बातें"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "प्रकार चुनें: शुरुआत के लिए व्हे प्रोटीन कंसंट्रेट (Whey Concentrate) या ब्लेंड सबसे सही रहता है क्योंकि यह जेब पर भारी नहीं पड़ता और पोषण से भरपूर होता है।",
+              "reference_indexes": [
+                0
+              ]
+            },
+            {
+              "snippet": "पाचन का ध्यान: अगर आपको दूध पीने के बाद पेट फूलने या बदहजमी की शिकायत होती है, तो ऐसा प्रोटीन चुनें जिसमें पाचक एंजाइम (Digestive Enzymes) मिले हों।",
+              "reference_indexes": [
+                0
+              ]
+            },
+            {
+              "snippet": "सतर्कता: हमेशा प्रामाणिक और लैब-टेस्टेड (Lab-tested) उत्पादों का ही चयन करें।"
+            }
+          ],
+          "reference_indexes": [
+            2
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "यदि आप बताना चाहें:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "आपका बजट कितना है?"
+            },
+            {
+              "snippet": "क्या आपको पाचन से जुड़ी कोई समस्या (जैसे लैक्टोज से असहजता) है?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "तो मैं आपके लिए एकदम सही प्रोटीन ब्रांड और फ्लेवर सुझा सकता हूँ।"
+        }
+      ],
+      "references": [
+        {
+          "index": 0,
+          "title": "Top 10 Whey Protein Brands In India 2026 - Flavor Catalystz",
+          "link": "https://translate.google.com/translate?u=https://www.flavorcatalyst.com/insights/top-10-whey-protein-brands-in-india/&hl=hi&sl=en&tl=hi&client=sge",
+          "snippet": "Table_title: Buying Guide: Pick the Right Whey for Your Goal Table_content: | Your profile | Best-fit type | Top picks | | --- | --- | --- | | Beginner (first whey...",
+          "source": "Flavor Catalystz",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.flavorcatalyst.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNtEo-4LDsuB-yNRYVG3emW4Cm0_cNeps4CP2C9Pj25PB75gPB0TsuJPsFCg04Rhx0OJeStYp9_j5zkDyq-5M2khr6OkGB9HhPDsq1"
+        },
+        {
+          "index": 1,
+          "title": "भारत में टॉप 10 व्हे प्रोटीन पाउडर - हेल्थकार्ट ब्लॉग - HealthKart",
+          "link": "https://translate.google.com/translate?u=https://www.healthkart.com/connect/top-10-whey-proteins-in-india/bid-5091&hl=hi&sl=en&tl=hi&client=sge",
+          "snippet": "निःसंदेह, अपनी प्रीमियम गुणवत्ता और फायदों के साथ, मसलब्लेज़ व्हे गोल्ड हमारी सूची में शीर्ष भारतीय व्हे प्रोटीन सप्लीमेंट है। अगर आप तेजी से अवशोषित होने वाला प्र...",
+          "source": "HealthKart",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGkt7a-lXb_0VWN0pblRrSxBDp2SoRvIaGkw9EZjZbLy9bh6LJ9mUeUDhclaiDLt2b570fQVLiwt2PYgwY9MV5lWr9miX4cDoO22Hf"
+        },
+        {
+          "index": 2,
+          "title": "10 Best Whey Proteins in India 2026 — Tested & Ranked",
+          "link": "https://translate.google.com/translate?u=https://2xnutrition.com/blogs/articles/comparing-10-best-whey-proteins-in-india-2025-edition&hl=hi&sl=en&tl=hi&client=sge",
+          "snippet": "* When you're choosing the best whey protein in India 2026, purity, digestibility, price value, and real-world performance matter far more than packaging or market...",
+          "source": "2X Nutrition",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://2xnutrition.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjmX8MskEIWTPc43iJPKFLUP5Eeurux8CJF0VqJYxTdHzLIUP4Wv0Fx9oDWkL_CWphBBXhk50nDJ8V1n42CQJGE5nXsbv4B8RZHBEe"
+        }
+      ]
+    }
+  }
+}

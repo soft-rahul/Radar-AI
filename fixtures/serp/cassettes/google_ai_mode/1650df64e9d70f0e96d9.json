@@ -1,0 +1,184 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "कौन सा प्रोटीन पाउडर सबसे अच्छा है",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "hi",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:37:49+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb94dea400a9575b3236",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/PbK40H_pf5jsM1XD5ZdFoulzkCOtFjamgy6BQVag85E/6ac4eb94dea400a9575b3236.json",
+      "markdown_endpoint": "https://serpapi.com/searches/PbK40H_pf5jsM1XD5ZdFoulzkCOtFjamgy6BQVag85E/6ac4eb94dea400a9575b3236.md",
+      "created_at": "2026-10-06 12:37:40 UTC",
+      "processed_at": "2026-10-06 12:37:40 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&udm=50&gl=in&hl=hi&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/PbK40H_pf5jsM1XD5ZdFoulzkCOtFjamgy6BQVag85E/6ac4eb94dea400a9575b3236.html",
+      "prettify_html_file": "https://serpapi.com/searches/PbK40H_pf5jsM1XD5ZdFoulzkCOtFjamgy6BQVag85E/6ac4eb94dea400a9575b3236.prettify",
+      "total_time_taken": 9.11
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "कौन सा प्रोटीन पाउडर सबसे अच्छा है",
+      "hl": "hi",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "कोई एक प्रोटीन पाउडर हर किसी के लिए \"सबसे अच्छा\" नहीं हो सकता, क्योंकि यह इस बात पर निर्भर करता है कि आपका फिटनेस गोल क्या है (जैसे- मसल गेन, वजन घटाना या सिर्फ डेली प्रोटीन की कमी पूरी करना), आपका बजट कितना है और आपका शरीर किस तरह के प्रोटीन को आसानी से पचा पाता है।",
+        "snippet_highlighted_words": [
+          "कोई एक प्रोटीन पाउडर हर किसी के लिए \"सबसे अच्छा\" नहीं हो सकता"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "भारत में गुणवत्ता, थर्ड-पाटी टेस्टिंग (Labdoor/Trustified) और लोकप्रियता के आधार पर कुछ सबसे बेहतरीन प्रोटीन पाउडर और उनके विकल्प नीचे दिए गए हैं:"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "डिस्क्लेमर: यह जानकारी सामान्य ज्ञान के लिए है और इसे चिकित्सा सलाह के रूप में नहीं लिया जाना चाहिए। नया सप्लीमेंट शुरू करने से पहले हमेशा किसी स्वास्थ्य सेवा प्रदाता से परामर्श करें।"
+      },
+      {
+        "type": "heading",
+        "snippet": "1. प्रीमियम और अंतरराष्ट्रीय ब्रांड (Best Global Brands)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey:",
+            "list": [
+              {
+                "snippet": "मुख्य रूप से: व्हे आइसोलेट और कॉन्सेंट्रेट ब्लेंड।"
+              },
+              {
+                "snippet": "विशेषता: यह दुनिया भर में सबसे ज्यादा भरोसा किया जाने वाला बेंचमार्क है। मांसपेशियों की रिकवरी के लिए बेहतरीन। इसे आप Optimum Nutrition Gold Standard 100% Whey पर देख सकते हैं।",
+                "snippet_links": [
+                  {
+                    "text": "Optimum Nutrition Gold Standard 100% Whey",
+                    "link": "https://www.tradeindia.com/products/100-gold-standard-optimum-nutrition-whey-protein-5698867.html"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "Isopure Low Carb / Zero Carb Whey Isolate:",
+            "list": [
+              {
+                "snippet": "मुख्य रूप से: 100% व्हे प्रोटीन आइसोलेट।"
+              },
+              {
+                "snippet": "विशेषता: जो लोग लैक्टोज-टॉलरेंट नहीं हैं (जिन्हें दूध से गैस/ब्लॉटिंग होती है) या जो लीन मसल चाहते हैं, उनके लिए यह बहुत शुद्ध विकल्प है।"
+              }
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. भारतीय ब्रांड जो किफायती और उच्च गुणवत्ता वाले हैं (Best Indian Brands)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "MuscleBlaze Biozyme Performance Whey / Whey Gold:",
+            "list": [
+              {
+                "snippet": "मुख्य रूप से: क्लीन व्हे आइसोलेट और कॉन्सेंट्रेट।"
+              },
+              {
+                "snippet": "विशेषता: इसे खासतौर पर भारतीय शरीर और पाचन तंत्र को ध्यान में रखकर बनाया गया है (इसमें बायोज़ाइम एन्ज़ाइम्स होते हैं जो पाचन और अब्जॉर्प्शन बढ़ाते हैं)। इसे आप MuscleBlaze Whey Gold पर देख सकते हैं।"
+              }
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "AS-IT-IS Nutrition / Nutrabay Pure (Raw Whey):",
+            "list": [
+              {
+                "snippet": "मुख्य रूप से: अनफ्लेवर्ड और रॉ व्हे कॉन्सेंट्रेट (80%)।"
+              },
+              {
+                "snippet": "विशेषता: यह बिना किसी आर्टिफिशियल फ्लेवर या शुगर के आता है और बजट में सबसे किफायती और शुद्ध (Trustified Certified) होता है। इसे आप AS-IT-IS Nutrition पर देख सकते हैं।"
+              }
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "जरूरी दिशा-निर्देश और सावधानियां (Safety & Considerations)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "सुरक्षा और साइड इफेक्ट्स:",
+            "list": [
+              {
+                "snippet": "अगर आपको लैक्टोज इंटॉलरेंस है, तो कॉन्सेंट्रेट की जगह व्हे आइसोलेट (Whey Isolate) चुनें, वरना पेट में भारीपन या गैस हो सकती है।"
+              },
+              {
+                "snippet": "पर्याप्त मात्रा में पानी पिएं, क्योंकि हाई प्रोटीन डाइट से डिहाइड्रेशन हो सकता है।"
+              },
+              {
+                "snippet": "हमेशा वही ब्रांड चुनें जो Third-Party Lab Tested (जैसे Trustified, Labdoor) या ओरिजिनल ऑथेंटिक इम्पोर्टर से खरीदे गए हों ताकि मिलावट से बचा जा सके।"
+              }
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "यह सही चुनाव करने में मदद के लिए कृपया बताएं:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "आपका मुख्य लक्ष्य क्या है (वजन कम करना, मांसपेशियां बढ़ाना, या सामान्य फिटनेस)?"
+          },
+          {
+            "snippet": "क्या आपको लैक्टोज (दूध के उत्पादों) से कोई एलर्जी या पाचन समस्या है?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "व्हे प्रोटीन में सबसे लोकप्रिय आइटम - Amazon.in",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "AS-IT-IS एटम व्हे प्रोटीन 1kg पाचन एंजाइमों ・ | 27g प्रोटीन | 5.7g BCAA ・ 2 ऑफर ₹3,299.00 से शुरू ・ ऑफर ₹4,898.00 ・ 2.20 lbs, 1 kg",
+        "source": "Amazon.in",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqDIrt-q9IbDvJK9rlAfDGXh_4vTkf4XuD630fnWiWAXe0jxrvhZxOD0fFgPhxvPZaC9KAAD2RUIdZUeyneOoCmpjnYDyo5S6I5JG"
+      }
+    ],
+    "reconstructed_markdown": "कोई एक प्रोटीन पाउडर हर किसी के लिए \"सबसे अच्छा\" नहीं हो सकता, क्योंकि यह इस बात पर निर्भर करता है कि आपका फिटनेस गोल क्या है \\(जैसे\\- मसल गेन, वजन घटाना या सिर्फ डेली प्रोटीन की कमी पूरी करना\\), आपका बजट कितना है और आपका शरीर किस तरह के प्रोटीन को आसानी से पचा पाता है।\n\nभारत में गुणवत्ता, थर्ड\\-पाटी टेस्टिंग \\(Labdoor/Trustified\\) और लोकप्रियता के आधार पर कुछ सबसे बेहतरीन प्रोटीन पाउडर और उनके विकल्प नीचे दिए गए हैं:\n\nडिस्क्लेमर: यह जानकारी सामान्य ज्ञान के लिए है और इसे चिकित्सा सलाह के रूप में नहीं लिया जाना चाहिए। नया सप्लीमेंट शुरू करने से पहले हमेशा किसी स्वास्थ्य सेवा प्रदाता से परामर्श करें।\n\n### 1. प्रीमियम और अंतरराष्ट्रीय ब्रांड \\(Best Global Brands\\)\n\n- Optimum Nutrition \\(ON\\) Gold Standard 100% Whey:\n  - मुख्य रूप से: व्हे आइसोलेट और कॉन्सेंट्रेट ब्लेंड।\n  - विशेषता: यह दुनिया भर में सबसे ज्यादा भरोसा किया जाने वाला बेंचमार्क है। मांसपेशियों की रिकवरी के लिए बेहतरीन। इसे आप [Optimum Nutrition Gold Standard 100% Whey](https://www.tradeindia.com/products/100-gold-standard-optimum-nutrition-whey-protein-5698867.html) पर देख सकते हैं।\n- Isopure Low Carb / Zero Carb Whey Isolate: [0]\n  - मुख्य रूप से: 100% व्हे प्रोटीन आइसोलेट।\n  - विशेषता: जो लोग लैक्टोज\\-टॉलरेंट नहीं हैं \\(जिन्हें दूध से गैस/ब्लॉटिंग होती है\\) या जो लीन मसल चाहते हैं, उनके लिए यह बहुत शुद्ध विकल्प है।\n\n### 2. भारतीय ब्रांड जो किफायती और उच्च गुणवत्ता वाले हैं \\(Best Indian Brands\\)\n\n- MuscleBlaze Biozyme Performance Whey / Whey Gold: [0]\n  - मुख्य रूप से: क्लीन व्हे आइसोलेट और कॉन्सेंट्रेट।\n  - विशेषता: इसे खासतौर पर भारतीय शरीर और पाचन तंत्र को ध्यान में रखकर बनाया गया है \\(इसमें बायोज़ाइम एन्ज़ाइम्स होते हैं जो पाचन और अब्जॉर्प्शन बढ़ाते हैं\\)। इसे आप MuscleBlaze Whey Gold पर देख सकते हैं।\n- AS\\-IT\\-IS Nutrition / Nutrabay Pure \\(Raw Whey\\): [0]\n  - मुख्य रूप से: अनफ्लेवर्ड और रॉ व्हे कॉन्सेंट्रेट \\(80%\\)।\n  - विशेषता: यह बिना किसी आर्टिफिशियल फ्लेवर या शुगर के आता है और बजट में सबसे किफायती और शुद्ध \\(Trustified Certified\\) होता है। इसे आप AS\\-IT\\-IS Nutrition पर देख सकते हैं।\n\n### जरूरी दिशा\\-निर्देश और सावधानियां \\(Safety & Considerations\\)\n\n- सुरक्षा और साइड इफेक्ट्स: [0]\n  - अगर आपको लैक्टोज इंटॉलरेंस है, तो कॉन्सेंट्रेट की जगह व्हे आइसोलेट \\(Whey Isolate\\) चुनें, वरना पेट में भारीपन या गैस हो सकती है।\n  - पर्याप्त मात्रा में पानी पिएं, क्योंकि हाई प्रोटीन डाइट से डिहाइड्रेशन हो सकता है।\n  - हमेशा वही ब्रांड चुनें जो Third\\-Party Lab Tested \\(जैसे Trustified, Labdoor\\) या ओरिजिनल ऑथेंटिक इम्पोर्टर से खरीदे गए हों ताकि मिलावट से बचा जा सके।\n\nयह सही चुनाव करने में मदद के लिए कृपया बताएं:\n\n- आपका मुख्य लक्ष्य क्या है \\(वजन कम करना, मांसपेशियां बढ़ाना, या सामान्य फिटनेस\\)?\n- क्या आपको लैक्टोज \\(दूध के उत्पादों\\) से कोई एलर्जी या पाचन समस्या है?\n\n\n### References\n\n[0] [व्हे प्रोटीन में सबसे लोकप्रिय आइटम \\- Amazon.in](https://www.google.com/goto?url=CAESdAHrOzAV94yKvVgQstH7hPtSQBjeASALqa7Cq9XozDlfi0ljNDxCgPI8fwFMIrpjXj8iNpz_K9MigXgevJc8PcR_hqHtfR9lxyxzp0i-fvK3HAef8GwHAC3J-nPsD4pz-fZ2QR-yBM0rXL6CnLlJ0n01YJU-) — AS\\-IT\\-IS एटम व्हे प्रोटीन 1kg पाचन एंजाइमों ・ \\| 27g प्रोटीन \\| 5.7g BCAA ・ 2 ऑफर ₹3,299.00 से शुरू ・ ऑफर ₹4,898.00 ・ 2.20 lbs, 1 kg\n"
+  }
+}

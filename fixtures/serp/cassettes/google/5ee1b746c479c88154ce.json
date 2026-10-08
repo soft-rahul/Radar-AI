@@ -1,0 +1,576 @@
+{
+  "request": {
+    "engine": "google",
+    "params": {
+      "q": "कौन सा प्रोटीन पाउडर सबसे अच्छा है",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "hi",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:37:24+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb7c9f8abc81ae3e302a",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/HLOojgKxJoskku0G7hH8OlgeCPkbivA6PJJEqOFwOLM/6ac4eb7c9f8abc81ae3e302a.json",
+      "markdown_endpoint": "https://serpapi.com/searches/HLOojgKxJoskku0G7hH8OlgeCPkbivA6PJJEqOFwOLM/6ac4eb7c9f8abc81ae3e302a.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/HLOojgKxJoskku0G7hH8OlgeCPkbivA6PJJEqOFwOLM/6ac4eb7c9f8abc81ae3e302a.json_with_pixel_position",
+      "created_at": "2026-10-06 12:37:16 UTC",
+      "processed_at": "2026-10-06 12:37:16 UTC",
+      "google_url": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&oq=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&uule=w+CAIQICILRGVsaGksSW5kaWE&hl=hi&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/HLOojgKxJoskku0G7hH8OlgeCPkbivA6PJJEqOFwOLM/6ac4eb7c9f8abc81ae3e302a.html",
+      "total_time_taken": 7.64
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "कौन सा प्रोटीन पाउडर सबसे अच्छा है",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "google_domain": "google.com",
+      "hl": "hi",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "कौन सा प्रोटीन पाउडर सबसे अच्छा है",
+      "total_results": 129,
+      "time_taken_displayed": 0.2,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Best Protein Powder Kaunsa hai Explained  Whey vs Isolate ...",
+        "link": "https://www.facebook.com/drchintanbpatel/videos/best-protein-powder-kaunsa-hai-explained-whey-vs-isolate-vs-soy-vs-casein-which-/2505449689911145/",
+        "thumbnail": "https://serpapi.com/searches/6ac4eb7c9f8abc81ae3e302a/images/qaRpUFHxPv5Hvc9Cngo4PGrG6UNgOr_UH43_i0_3QNs.jpeg",
+        "channel": "Dr Chintan B Patel - Your Surgeon",
+        "duration": "3:19",
+        "platform": "Facebook",
+        "date": "10 मई 2026"
+      },
+      {
+        "position": 2,
+        "title": "भारत के 4 सबसे अच्छे Protein Powder | कमजोरी, मसल्स और ताकत ...",
+        "link": "https://www.facebook.com/rahul.dua.71619/posts/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%95%E0%A5%87-4-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A5%87-protein-powder-%E0%A4%95%E0%A4%AE%E0%A4%9C%E0%A5%8B%E0%A4%B0%E0%A5%80-%E0%A4%AE%E0%A4%B8%E0%A4%B2%E0%A5%8D%E0%A4%B8-%E0%A4%94%E0%A4%B0-%E0%A4%A4%E0%A4%BE%E0%A4%95%E0%A4%A4-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-best-protein-pow/1556007539601882/",
+        "thumbnail": "https://serpapi.com/searches/6ac4eb7c9f8abc81ae3e302a/images/WioJ77LlQVjBidFtVtcRFyAB7MZPjRKuqX3V65BrXaU.jpeg",
+        "channel": "Rahul Gupta",
+        "platform": "Facebook",
+        "date": "23 जुल॰ 2026"
+      },
+      {
+        "position": 3,
+        "title": "How To Pick The BEST PROTEIN POWDER According To Your ...",
+        "link": "https://www.youtube.com/watch?v=JQVjFQA6A9w",
+        "thumbnail": "https://serpapi.com/searches/6ac4eb7c9f8abc81ae3e302a/images/vKnMRdojBPD0OiqcbAtpcl2JiXRUBU_yyoTbkEGcmhI.jpeg",
+        "channel": "Healthy Hamesha",
+        "duration": "9:33",
+        "platform": "YouTube",
+        "date": "29 अक्टू॰ 2022"
+      },
+      {
+        "position": 4,
+        "title": "Top 5 popular whey protein brands in India",
+        "link": "https://www.youtube.com/watch?v=b9_1Yw0bYcU",
+        "thumbnail": "https://serpapi.com/searches/6ac4eb7c9f8abc81ae3e302a/images/0ST9AnfegLPnom2Q8tuq2vb3pmDNBTLERvWSyPHEei8.jpeg",
+        "channel": "SUPPLEMENTS VILLA",
+        "duration": "9:59",
+        "platform": "YouTube",
+        "date": "7 नव॰ 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRuxMt_hq4pAXbsO8skJNvmnSdLcxwOoDNegA"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "सबसे ताकतवर प्रोटीन पाउडर कौन सा है?",
+        "type": "ai_overview",
+        "page_token": "luJK1XicHdFBjtowGEBh9TKzHJy4UAYJVQJinHSSmdj5beJNFRwgTYzjgpUM7HqXnqoX6DWKunrbT3q_fpsftvvz6W_jvbsuJpNxHJ9PfX8yh2fdnyfV9Wb1RFfG7CvdLWZfZsHXo15GF71eD3qVg3Niw1BB3GUfJp8BsWtZNHGBTCkib9OWSIXIkAXzoBIvlktvC2PGHDWrXCSSWRZCyywUyVnRppct45yKHQuVONiG5JZVjK5QVgAuA6HENokVNgCUpMJoJHarWYoa_gYkrlEgFUf3fSvYPnCvsGGkhI_NGyE_U2pmj7rUipjLxLFu6uDsu4PMdkU097w17xoir3AzMJIkpakvB9qkfOuAw8clhaSX8PCi1AusYnae3qBrksy4bh-8MI08r7c5Vp3va2TSjLpjZTMLKA5Lw1SFleWYQR6odWWaexGS7YGysQLjpDE5sHinQhEySe5p4DY1FVDjfARqWgjdAHJexR2JNI6nyuS3V_CqRuzbw0dT3Mi6zQa9ncY1ZRsd6YBD9HTUwxI__R-4_H48-4W79Kd_zBCoGw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=luJK1XicHdFBjtowGEBh9TKzHJy4UAYJVQJinHSSmdj5beJNFRwgTYzjgpUM7HqXnqoX6DWKunrbT3q_fpsftvvz6W_jvbsuJpNxHJ9PfX8yh2fdnyfV9Wb1RFfG7CvdLWZfZsHXo15GF71eD3qVg3Niw1BB3GUfJp8BsWtZNHGBTCkib9OWSIXIkAXzoBIvlktvC2PGHDWrXCSSWRZCyywUyVnRppct45yKHQuVONiG5JZVjK5QVgAuA6HENokVNgCUpMJoJHarWYoa_gYkrlEgFUf3fSvYPnCvsGGkhI_NGyE_U2pmj7rUipjLxLFu6uDsu4PMdkU097w17xoir3AzMJIkpakvB9qkfOuAw8clhaSX8PCi1AusYnae3qBrksy4bh-8MI08r7c5Vp3va2TSjLpjZTMLKA5Lw1SFleWYQR6odWWaexGS7YGysQLjpDE5sHinQhEySe5p4DY1FVDjfARqWgjdAHJexR2JNI6nyuS3V_CqRuzbw0dT3Mi6zQa9ncY1ZRsd6YBD9HTUwxI__R-4_H48-4W79Kd_zBCoGw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5EWlNSVzFHV0dkaUxVMUdXbFpRV2twV2RVbGhUekZTUjFobFJWRTVORGRzWmxSUFN6QldXVGN4YTAxck1HNVFXamQ1YVRSWlVuQnRNRTFPZDJOUFVXd3hPV1F6WkZocVVXUm5hbVJyYzA5QmNXOU1ZV0ZGZWtOVVp4SVhaMlYyUldGek0xcERkSFZVZDNRd1VIbGpVMnB2VVc4YUlrRkVjM0k1WmxGa00xQnhVMVo2VjFseExYUnNORmROYlZKemQwRk1XblF4YlhjIiwiZmN2IjoiMyIsImVpIjoiZ2V2RWFzM1pDdHVUd3QwUHljU2pvUW8iLCJxYyI6ImMtT0tlckJrNm9PbFBRLVdyRkI0c0dUSGd5WDdnTlNxQjB0N0h5elo4R0JwOTRNbDh4OHNiWUJJcmdKS1BsalMtV0RKUXFBY1JQRWFFTG0wSGNocGZiQmtGbGpYYklnUk94OHM3UkJRcm0zNEsyR19pSkVwSXhNQSIsInF1ZXN0aW9uIjoi4KS44KSs4KS44KWHIOCkpOCkvuCkleCkpOCkteCksCDgpKrgpY3gpLDgpYvgpJ/gpYDgpKgg4KSq4KS+4KSJ4KSh4KSwIOCkleCljOCkqCDgpLjgpL4g4KS54KWIPyIsImxrIjoiY3lXTU1RcUFNQlJENy1IVWkza1hOeFYxN0N4Q1BvZzR1QWk2OUN6dktQMXRseVM4aEhROS10QmQxTWFBaEJLS05iem9jWFJobXlkc1FUczJvTFBTTXB6UjBWWVJXMXZqZjhudHg2WU0iLCJicyI6ImM3MVFzV29DUVJSazI2MVNYN1ZOU0c4bkZ2NkRmUlRGQTYtNU95NUMyaUFFRlpXUTRocEZSSGdMSW9tSUlNVEc0SjhNLUNONS14YWJZS1ZvczItWW5aMlp0X3FnZEJYMEFfcHlwLTBhRUlIMm9GekFGclJtYWdrN1lnUTdBTTFnMzBBTFlaMndENXA3VlE0NzlEZnN0LWV4Zy0yVkM3WGctYVlKLWxQcENyT2dqb1E0NGZiMF9vcmVwYUI0c2F1ZUtwMkJ2b1ZiODZJc1dQSHk3R2ItZmNZN2FDeUdFeDktVmVlbjRMRVJ2clJObWlYdE1JcE5tcncydzh3d2l1Sm1WSGVnNVpBLUtwMUlKVWs1T1F6Y3d0SXE5Mk1ELWdWOW5BczgzM01qU3k2OFpDeWxkOTZqWEVpRC1MNlJELW9QIiwiaWQiOiJmY19nZXZFYXMzWkN0dVR3dDBQeWNTam9Rb183In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5EWlNSVzFHV0dkaUxVMUdXbFpRV2twV2RVbGhUekZTUjFobFJWRTVORGRzWmxSUFN6QldXVGN4YTAxck1HNVFXamQ1YVRSWlVuQnRNRTFPZDJOUFVXd3hPV1F6WkZocVVXUm5hbVJyYzA5QmNXOU1ZV0ZGZWtOVVp4SVhaMlYyUldGek0xcERkSFZVZDNRd1VIbGpVMnB2VVc4YUlrRkVjM0k1WmxGa00xQnhVMVo2VjFseExYUnNORmROYlZKemQwRk1XblF4YlhjIiwiZmN2IjoiMyIsImVpIjoiZ2V2RWFzM1pDdHVUd3QwUHljU2pvUW8iLCJxYyI6ImMtT0tlckJrNm9PbFBRLVdyRkI0c0dUSGd5WDdnTlNxQjB0N0h5elo4R0JwOTRNbDh4OHNiWUJJcmdKS1BsalMtV0RKUXFBY1JQRWFFTG0wSGNocGZiQmtGbGpYYklnUk94OHM3UkJRcm0zNEsyR19pSkVwSXhNQSIsInF1ZXN0aW9uIjoi4KS44KSs4KS44KWHIOCkpOCkvuCkleCkpOCkteCksCDgpKrgpY3gpLDgpYvgpJ%2FgpYDgpKgg4KSq4KS%2B4KSJ4KSh4KSwIOCkleCljOCkqCDgpLjgpL4g4KS54KWIPyIsImxrIjoiY3lXTU1RcUFNQlJENy1IVWkza1hOeFYxN0N4Q1BvZzR1QWk2OUN6dktQMXRseVM4aEhROS10QmQxTWFBaEJLS05iem9jWFJobXlkc1FUczJvTFBTTXB6UjBWWVJXMXZqZjhudHg2WU0iLCJicyI6ImM3MVFzV29DUVJSazI2MVNYN1ZOU0c4bkZ2NkRmUlRGQTYtNU95NUMyaUFFRlpXUTRocEZSSGdMSW9tSUlNVEc0SjhNLUNONS14YWJZS1ZvczItWW5aMlp0X3FnZEJYMEFfcHlwLTBhRUlIMm9GekFGclJtYWdrN1lnUTdBTTFnMzBBTFlaMndENXA3VlE0NzlEZnN0LWV4Zy0yVkM3WGctYVlKLWxQcENyT2dqb1E0NGZiMF9vcmVwYUI0c2F1ZUtwMkJ2b1ZiODZJc1dQSHk3R2ItZmNZN2FDeUdFeDktVmVlbjRMRVJ2clJObWlYdE1JcE5tcncydzh3d2l1Sm1WSGVnNVpBLUtwMUlKVWs1T1F6Y3d0SXE5Mk1ELWdWOW5BczgzM01qU3k2OFpDeWxkOTZqWEVpRC1MNlJELW9QIiwiaWQiOiJmY19nZXZFYXMzWkN0dVR3dDBQeWNTam9Rb183In0%3D"
+      },
+      {
+        "question": "नंबर वन प्रोटीन पाउडर कौन सा है?",
+        "type": "ai_overview",
+        "page_token": "PkTR9HicJdFNjpswAEBh9TKznGAzTJtIUdUEm58JpBjbgDcV2CQMmMRDaBjY9S69TW_Q07RqV2_7Se_HT_166X5_-NWMo7ltVqtpmh7P1-tZ14_y2q_K23yRK1lqXZWy2zx_fAafT3KL3oL9_nuwS5gx3CVWCgE-etJRvZqZFy41Ds0hE1fpioy0SiRW6FdUzhHgd96fHWHrr7WrnRQ2-wiHSdyrtwg0LmsxPea7Rr6Cl2rRVLnco9owScObQE3H7V3E_WYoAEYxXPfMMrRmTyOh4k4h8CNL21k_vpBF0ZLqPtPG5nqNCggE69QxZjhJbRHESzjTXDEO1rPylCsRBnGuhxTyuLIsULRcZJ4gEV4j2WFW6S_vNQ5gxMjlkCUwguBQwnigUA1Zq0oOw1vUFrCAIybLLs1t8t8Apyep1T1GCqn3IBeQQ5LhJQLGVT5nyk4m5uuWQXNn2acy6DCSduAIHfuqC08EOUx63CIIOIyFQwWb4G91DIzILvLhJO9b--HfpO23Uz9uzHA9_wHWWJzm",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PkTR9HicJdFNjpswAEBh9TKznGAzTJtIUdUEm58JpBjbgDcV2CQMmMRDaBjY9S69TW_Q07RqV2_7Se_HT_166X5_-NWMo7ltVqtpmh7P1-tZ14_y2q_K23yRK1lqXZWy2zx_fAafT3KL3oL9_nuwS5gx3CVWCgE-etJRvZqZFy41Ds0hE1fpioy0SiRW6FdUzhHgd96fHWHrr7WrnRQ2-wiHSdyrtwg0LmsxPea7Rr6Cl2rRVLnco9owScObQE3H7V3E_WYoAEYxXPfMMrRmTyOh4k4h8CNL21k_vpBF0ZLqPtPG5nqNCggE69QxZjhJbRHESzjTXDEO1rPylCsRBnGuhxTyuLIsULRcZJ4gEV4j2WFW6S_vNQ5gxMjlkCUwguBQwnigUA1Zq0oOw1vUFrCAIybLLs1t8t8Apyep1T1GCqn3IBeQQ5LhJQLGVT5nyk4m5uuWQXNn2acy6DCSduAIHfuqC08EOUx63CIIOIyFQwWb4G91DIzILvLhJO9b--HfpO23Uz9uzHA9_wHWWJzm",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5EWlNSVzFHV0dkaUxVMUdXbFpRV2twV2RVbGhUekZTUjFobFJWRTVORGRzWmxSUFN6QldXVGN4YTAxck1HNVFXamQ1YVRSWlVuQnRNRTFPZDJOUFVXd3hPV1F6WkZocVVXUm5hbVJyYzA5QmNXOU1ZV0ZGZWtOVVp4SVhaMlYyUldGek0xcERkSFZVZDNRd1VIbGpVMnB2VVc4YUlrRkVjM0k1WmxGa00xQnhVMVo2VjFseExYUnNORmROYlZKemQwRk1XblF4YlhjIiwiZmN2IjoiMyIsImVpIjoiZ2V2RWFzM1pDdHVUd3QwUHljU2pvUW8iLCJxYyI6ImMtT0tlckJrNm9PbFBRLVdyRkI0c0dUSGd5WDdnTlNxQjB0N0h5elo4R0JwOTRNbDh4OHNiWUJJcmdKS1BsalMtV0RKUXFBY1JQRWFFTG0wSGNocGZiQmtGbGpYYklnUk94OHM3UkJRcm0zNEsyR19pSkVwSXhNQSIsInF1ZXN0aW9uIjoi4KSo4KSC4KSs4KSwIOCkteCkqCDgpKrgpY3gpLDgpYvgpJ/gpYDgpKgg4KSq4KS+4KSJ4KSh4KSwIOCkleCljOCkqCDgpLjgpL4g4KS54KWIPyIsImxrIjoiYzVPeWZMQmt4WU1sVFEtV3JIbXdaSVBDZ3lWYmdYd2d0ZXJCMGw2Z3dJT2wzUS1Xekgtd3RBRW11bVRmZ3lXZEQ1WXNCTW9CQUEiLCJicyI6ImM3MVFzV29DUVJSazI2MVNYN1ZOU0c4bkZ2NkRmUlRGQTYtNU95NUMyaUFFRlpXUTRocEZSSGdMSW9tSUlNVEc0SjhNLUNONS14YWJZS1ZvczItWW5aMlp0X3FnZEJYMEFfcHlwLTBhRUlIMm9GekFGclJtYWdrN1lnUTdBTTFnMzBBTFlaMndENXA3VlE0NzlEZnN0LWV4Zy0yVkM3WGctYVlKLWxQcENyT2dqb1E0NGZiMF9vcmVwYUI0c2F1ZUtwMkJ2b1ZiODZJc1dQSHk3R2ItZmNZN2FDeUdFeDktVmVlbjRMRVJ2clJObWlYdE1JcE5tcncydzh3d2l1Sm1WSGVnNVpBLUtwMUlKVWs1T1F6Y3d0SXE5Mk1ELWdWOW5BczgzM01qU3k2OFpDeWxkOTZqWEVpRC1MNlJELW9QIiwiaWQiOiJmY19nZXZFYXMzWkN0dVR3dDBQeWNTam9Rb183In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5EWlNSVzFHV0dkaUxVMUdXbFpRV2twV2RVbGhUekZTUjFobFJWRTVORGRzWmxSUFN6QldXVGN4YTAxck1HNVFXamQ1YVRSWlVuQnRNRTFPZDJOUFVXd3hPV1F6WkZocVVXUm5hbVJyYzA5QmNXOU1ZV0ZGZWtOVVp4SVhaMlYyUldGek0xcERkSFZVZDNRd1VIbGpVMnB2VVc4YUlrRkVjM0k1WmxGa00xQnhVMVo2VjFseExYUnNORmROYlZKemQwRk1XblF4YlhjIiwiZmN2IjoiMyIsImVpIjoiZ2V2RWFzM1pDdHVUd3QwUHljU2pvUW8iLCJxYyI6ImMtT0tlckJrNm9PbFBRLVdyRkI0c0dUSGd5WDdnTlNxQjB0N0h5elo4R0JwOTRNbDh4OHNiWUJJcmdKS1BsalMtV0RKUXFBY1JQRWFFTG0wSGNocGZiQmtGbGpYYklnUk94OHM3UkJRcm0zNEsyR19pSkVwSXhNQSIsInF1ZXN0aW9uIjoi4KSo4KSC4KSs4KSwIOCkteCkqCDgpKrgpY3gpLDgpYvgpJ%2FgpYDgpKgg4KSq4KS%2B4KSJ4KSh4KSwIOCkleCljOCkqCDgpLjgpL4g4KS54KWIPyIsImxrIjoiYzVPeWZMQmt4WU1sVFEtV3JIbXdaSVBDZ3lWYmdYd2d0ZXJCMGw2Z3dJT2wzUS1Xekgtd3RBRW11bVRmZ3lXZEQ1WXNCTW9CQUEiLCJicyI6ImM3MVFzV29DUVJSazI2MVNYN1ZOU0c4bkZ2NkRmUlRGQTYtNU95NUMyaUFFRlpXUTRocEZSSGdMSW9tSUlNVEc0SjhNLUNONS14YWJZS1ZvczItWW5aMlp0X3FnZEJYMEFfcHlwLTBhRUlIMm9GekFGclJtYWdrN1lnUTdBTTFnMzBBTFlaMndENXA3VlE0NzlEZnN0LWV4Zy0yVkM3WGctYVlKLWxQcENyT2dqb1E0NGZiMF9vcmVwYUI0c2F1ZUtwMkJ2b1ZiODZJc1dQSHk3R2ItZmNZN2FDeUdFeDktVmVlbjRMRVJ2clJObWlYdE1JcE5tcncydzh3d2l1Sm1WSGVnNVpBLUtwMUlKVWs1T1F6Y3d0SXE5Mk1ELWdWOW5BczgzM01qU3k2OFpDeWxkOTZqWEVpRC1MNlJELW9QIiwiaWQiOiJmY19nZXZFYXMzWkN0dVR3dDBQeWNTam9Rb183In0%3D"
+      },
+      {
+        "question": "भारत में सबसे अच्छा प्रोटीन पाउडर कौन सा है?",
+        "type": "ai_overview",
+        "page_token": "xI0FeHicHZFLjptAFACl5C6zHEODnYwlK9KYjyEDFk2_18AmarqxMTQfjZnBeJe75FQ5Taxsa1Ml1e8_-tK3f798radpvG5Xq3men8_DcNbVsxy6lbguvVxJoXUpZLvdfNuYP05y517n_X6Y9wmMIzrUSPt4A4axqCxZQHsMHDym3TqruBrirLjLLCEJeJnitcjvryGCV3P_5U6x8HNUSWJMpLyYrHQpAo8jmSFRZPypyJmkOLLKLzzqFnHeqA_o3AkMewEIbGbUwxt7cGNsU7e9UW8k0g8bATfG9MtEHcRIvxxjo24evvqNB2bUo1Xwq8lY0YAl17Jv11HfGgIpz8Ec80xH7GLSqpvE0QnsuKfmEQeLMnlTqIqq8T6oH1uPvll10yA0zMp3Lem05oOFBdYuR88W-BrFVm5HndeJjC5gKF4gdUruzeCPdmKpjSBxE2MsKKPvFavb0nfvJZgO8GTOyWREFzNUtyArCBLKvXtkjo46ICgrmeGgGyDjJ_DvImg9V1rButBhj1mdJmReFKmnYwYEmkJzjoiGZjmGWXqQTyf5ubOe_s_d_Tp103Z8H87_AK3IsP8",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xI0FeHicHZFLjptAFACl5C6zHEODnYwlK9KYjyEDFk2_18AmarqxMTQfjZnBeJe75FQ5Taxsa1Ml1e8_-tK3f798radpvG5Xq3men8_DcNbVsxy6lbguvVxJoXUpZLvdfNuYP05y517n_X6Y9wmMIzrUSPt4A4axqCxZQHsMHDym3TqruBrirLjLLCEJeJnitcjvryGCV3P_5U6x8HNUSWJMpLyYrHQpAo8jmSFRZPypyJmkOLLKLzzqFnHeqA_o3AkMewEIbGbUwxt7cGNsU7e9UW8k0g8bATfG9MtEHcRIvxxjo24evvqNB2bUo1Xwq8lY0YAl17Jv11HfGgIpz8Ec80xH7GLSqpvE0QnsuKfmEQeLMnlTqIqq8T6oH1uPvll10yA0zMp3Lem05oOFBdYuR88W-BrFVm5HndeJjC5gKF4gdUruzeCPdmKpjSBxE2MsKKPvFavb0nfvJZgO8GTOyWREFzNUtyArCBLKvXtkjo46ICgrmeGgGyDjJ_DvImg9V1rButBhj1mdJmReFKmnYwYEmkJzjoiGZjmGWXqQTyf5ubOe_s_d_Tp103Z8H87_AK3IsP8",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5EWlNSVzFHV0dkaUxVMUdXbFpRV2twV2RVbGhUekZTUjFobFJWRTVORGRzWmxSUFN6QldXVGN4YTAxck1HNVFXamQ1YVRSWlVuQnRNRTFPZDJOUFVXd3hPV1F6WkZocVVXUm5hbVJyYzA5QmNXOU1ZV0ZGZWtOVVp4SVhaMlYyUldGek0xcERkSFZVZDNRd1VIbGpVMnB2VVc4YUlrRkVjM0k1WmxGa00xQnhVMVo2VjFseExYUnNORmROYlZKemQwRk1XblF4YlhjIiwiZmN2IjoiMyIsImVpIjoiZ2V2RWFzM1pDdHVUd3QwUHljU2pvUW8iLCJxYyI6ImMtT0tlckJrNm9PbFBRLVdyRkI0c0dUSGd5WDdnTlNxQjB0N0h5elo4R0JwOTRNbDh4OHNiWUJJcmdKS1BsalMtV0RKUXFBY1JQRWFFTG0wSGNocGZiQmtGbGpYYklnUk94OHM3UkJRcm0zNEsyR19pSkVwSXhNQSIsInF1ZXN0aW9uIjoi4KSt4KS+4KSw4KSkIOCkruClh+CkgiDgpLjgpKzgpLjgpYcg4KSF4KSa4KWN4KSb4KS+IOCkquCljeCksOCli+Ckn+ClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSV4KWM4KSoIOCkuOCkviDgpLngpYg/IiwibGsiOiJjNU5TVFVvdExsRW9LTW92U2MzTVV5aklMMDlKTFZJQXNqTHpVaklUUVl3TUVBc0EiLCJicyI6ImM3MVFzV29DUVJSazI2MVNYN1ZOU0c4bkZ2NkRmUlRGQTYtNU95NUMyaUFFRlpXUTRocEZSSGdMSW9tSUlNVEc0SjhNLUNONS14YWJZS1ZvczItWW5aMlp0X3FnZEJYMEFfcHlwLTBhRUlIMm9GekFGclJtYWdrN1lnUTdBTTFnMzBBTFlaMndENXA3VlE0NzlEZnN0LWV4Zy0yVkM3WGctYVlKLWxQcENyT2dqb1E0NGZiMF9vcmVwYUI0c2F1ZUtwMkJ2b1ZiODZJc1dQSHk3R2ItZmNZN2FDeUdFeDktVmVlbjRMRVJ2clJObWlYdE1JcE5tcncydzh3d2l1Sm1WSGVnNVpBLUtwMUlKVWs1T1F6Y3d0SXE5Mk1ELWdWOW5BczgzM01qU3k2OFpDeWxkOTZqWEVpRC1MNlJELW9QIiwiaWQiOiJmY19nZXZFYXMzWkN0dVR3dDBQeWNTam9Rb183In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5EWlNSVzFHV0dkaUxVMUdXbFpRV2twV2RVbGhUekZTUjFobFJWRTVORGRzWmxSUFN6QldXVGN4YTAxck1HNVFXamQ1YVRSWlVuQnRNRTFPZDJOUFVXd3hPV1F6WkZocVVXUm5hbVJyYzA5QmNXOU1ZV0ZGZWtOVVp4SVhaMlYyUldGek0xcERkSFZVZDNRd1VIbGpVMnB2VVc4YUlrRkVjM0k1WmxGa00xQnhVMVo2VjFseExYUnNORmROYlZKemQwRk1XblF4YlhjIiwiZmN2IjoiMyIsImVpIjoiZ2V2RWFzM1pDdHVUd3QwUHljU2pvUW8iLCJxYyI6ImMtT0tlckJrNm9PbFBRLVdyRkI0c0dUSGd5WDdnTlNxQjB0N0h5elo4R0JwOTRNbDh4OHNiWUJJcmdKS1BsalMtV0RKUXFBY1JQRWFFTG0wSGNocGZiQmtGbGpYYklnUk94OHM3UkJRcm0zNEsyR19pSkVwSXhNQSIsInF1ZXN0aW9uIjoi4KSt4KS%2B4KSw4KSkIOCkruClh%2BCkgiDgpLjgpKzgpLjgpYcg4KSF4KSa4KWN4KSb4KS%2BIOCkquCljeCksOCli%2BCkn%2BClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSV4KWM4KSoIOCkuOCkviDgpLngpYg%2FIiwibGsiOiJjNU5TVFVvdExsRW9LTW92U2MzTVV5aklMMDlKTFZJQXNqTHpVaklUUVl3TUVBc0EiLCJicyI6ImM3MVFzV29DUVJSazI2MVNYN1ZOU0c4bkZ2NkRmUlRGQTYtNU95NUMyaUFFRlpXUTRocEZSSGdMSW9tSUlNVEc0SjhNLUNONS14YWJZS1ZvczItWW5aMlp0X3FnZEJYMEFfcHlwLTBhRUlIMm9GekFGclJtYWdrN1lnUTdBTTFnMzBBTFlaMndENXA3VlE0NzlEZnN0LWV4Zy0yVkM3WGctYVlKLWxQcENyT2dqb1E0NGZiMF9vcmVwYUI0c2F1ZUtwMkJ2b1ZiODZJc1dQSHk3R2ItZmNZN2FDeUdFeDktVmVlbjRMRVJ2clJObWlYdE1JcE5tcncydzh3d2l1Sm1WSGVnNVpBLUtwMUlKVWs1T1F6Y3d0SXE5Mk1ELWdWOW5BczgzM01qU3k2OFpDeWxkOTZqWEVpRC1MNlJELW9QIiwiaWQiOiJmY19nZXZFYXMzWkN0dVR3dDBQeWNTam9Rb183In0%3D"
+      },
+      {
+        "question": "मोटा होने के लिए कौन सा प्रोटीन लेना चाहिए?",
+        "type": "ai_overview",
+        "page_token": "lVZfN3icHZHRkpowFEBn2n_ZxxWIbFdnnE4REHGNQ0JuJC-dmKy6ECBWVoS3_ku_ql9Tp-_n5Zzz-4_5aKq_X76eu85e55NJ3_fPp7Y9mfdn1dYTeR0aNVHSmINU1fzl24v7_agW0bVfLtt-mTFrISQO9fxAs3gpWQq0Kcbcme1y5uYkggthXUtzfRYN3mAugqxOpWrIlJQGyUZcaJLdFQo4Y5VD98rNmF8y0EaM1V1V6cAa5ZDQrDB1x8IQnCeBfzAaKNI55MSyeObJRPe0AUQeJA9Vt0fKB-860lp_7hgu34AMAEFCwV5Ikq4y3h23KJ6Cly53vL_zEnMd2wvluMWrWQqRM0iHTAEFDs8FPXjYkXEspGn7wtF3WZ1FUbmW11YUxmIdnrttLvyHW6RA37Y83uQsLgWYNXVm3XY8OcrrXtjK_WCMcDHqMNtHrt4TDgiGA4hClmmCK_ymEG4P3qufl6aE3LTvZL0XHniEx-PWtaFOgGmU9SwxJfPsjfFXua7iSKG1L0z0aH8dqGc2wMS0KMlGG9KL-vwJlch28MN7ME9HdVugp_9zFz-PdTe3v9rTPx4osbE",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lVZfN3icHZHRkpowFEBn2n_ZxxWIbFdnnE4REHGNQ0JuJC-dmKy6ECBWVoS3_ku_ql9Tp-_n5Zzz-4_5aKq_X76eu85e55NJ3_fPp7Y9mfdn1dYTeR0aNVHSmINU1fzl24v7_agW0bVfLtt-mTFrISQO9fxAs3gpWQq0Kcbcme1y5uYkggthXUtzfRYN3mAugqxOpWrIlJQGyUZcaJLdFQo4Y5VD98rNmF8y0EaM1V1V6cAa5ZDQrDB1x8IQnCeBfzAaKNI55MSyeObJRPe0AUQeJA9Vt0fKB-860lp_7hgu34AMAEFCwV5Ikq4y3h23KJ6Cly53vL_zEnMd2wvluMWrWQqRM0iHTAEFDs8FPXjYkXEspGn7wtF3WZ1FUbmW11YUxmIdnrttLvyHW6RA37Y83uQsLgWYNXVm3XY8OcrrXtjK_WCMcDHqMNtHrt4TDgiGA4hClmmCK_ymEG4P3qufl6aE3LTvZL0XHniEx-PWtaFOgGmU9SwxJfPsjfFXua7iSKG1L0z0aH8dqGc2wMS0KMlGG9KL-vwJlch28MN7ME9HdVugp_9zFz-PdTe3v9rTPx4osbE",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5EWlNSVzFHV0dkaUxVMUdXbFpRV2twV2RVbGhUekZTUjFobFJWRTVORGRzWmxSUFN6QldXVGN4YTAxck1HNVFXamQ1YVRSWlVuQnRNRTFPZDJOUFVXd3hPV1F6WkZocVVXUm5hbVJyYzA5QmNXOU1ZV0ZGZWtOVVp4SVhaMlYyUldGek0xcERkSFZVZDNRd1VIbGpVMnB2VVc4YUlrRkVjM0k1WmxGa00xQnhVMVo2VjFseExYUnNORmROYlZKemQwRk1XblF4YlhjIiwiZmN2IjoiMyIsImVpIjoiZ2V2RWFzM1pDdHVUd3QwUHljU2pvUW8iLCJxYyI6ImMtT0tlckJrNm9PbFBRLVdyRkI0c0dUSGd5WDdnTlNxQjB0N0h5elo4R0JwOTRNbDh4OHNiWUJJcmdKS1BsalMtV0RKUXFBY1JQRWFFTG0wSGNocGZiQmtGbGpYYklnUk94OHM3UkJRcm0zNEsyR19pSkVwSXhNQSIsInF1ZXN0aW9uIjoi4KSu4KWL4KSf4KS+IOCkueCli+CkqOClhyDgpJXgpYcg4KSy4KS/4KSPIOCkleCljOCkqCDgpLjgpL4g4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCksuClh+CkqOCkviDgpJrgpL7gpLngpL/gpI8/IiwibGsiOiJjNVBLZTdCazNZT2wzUS1Xekgtd1pKX0NneVU3d1p3VkQ1YTJBemxUSWRTbUIwdjJQMWpTRHhIb0Fjb0NXVHNneWxjOVdOcjdZTWtHcUFsTEd5Q1NtNEQ2UUlhQWxjd0NVaUJ6d1dZQUFBIiwiYnMiOiJjNzFRc1dvQ1FSUmsyNjFTWDdWTlNHOG5GdjZEZlJURkE2LTVPeTVDMmlBRUZaV1E0aHBGUkhnTElvbUlJTVRHNEo4TS1DTjUteGFiWUtWb3MyLVluWjJadF9xZ2RCWDBBX3B5cC0wYUVJSDJvRnpBRnJSbWFnazdZZ1E3QU0xZzMwQUxZWjJ3RDVwN1ZRNDc5RGZzdC1leGctMlZDN1hnLWFZSi1sUHBDck9nam9RNDRmYjBfb3JlcGFCNHNhdWVLcDJCdm9WYjg2SXNXUEh5N0diLWZjWTdhQ3lHRXg5LVZlZW40TEVSdnJSTm1pWHRNSXBObXJ3Mnc4d3dpdUptVkhlZzVaQS1LcDFJSlVrNU9RemN3dElxOTJNRC1nVjluQXM4MzNNalN5NjhaQ3lsZDk2alhFaUQtTDZSRC1vUCIsImlkIjoiZmNfZ2V2RWFzM1pDdHVUd3QwUHljU2pvUW9fNyJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5EWlNSVzFHV0dkaUxVMUdXbFpRV2twV2RVbGhUekZTUjFobFJWRTVORGRzWmxSUFN6QldXVGN4YTAxck1HNVFXamQ1YVRSWlVuQnRNRTFPZDJOUFVXd3hPV1F6WkZocVVXUm5hbVJyYzA5QmNXOU1ZV0ZGZWtOVVp4SVhaMlYyUldGek0xcERkSFZVZDNRd1VIbGpVMnB2VVc4YUlrRkVjM0k1WmxGa00xQnhVMVo2VjFseExYUnNORmROYlZKemQwRk1XblF4YlhjIiwiZmN2IjoiMyIsImVpIjoiZ2V2RWFzM1pDdHVUd3QwUHljU2pvUW8iLCJxYyI6ImMtT0tlckJrNm9PbFBRLVdyRkI0c0dUSGd5WDdnTlNxQjB0N0h5elo4R0JwOTRNbDh4OHNiWUJJcmdKS1BsalMtV0RKUXFBY1JQRWFFTG0wSGNocGZiQmtGbGpYYklnUk94OHM3UkJRcm0zNEsyR19pSkVwSXhNQSIsInF1ZXN0aW9uIjoi4KSu4KWL4KSf4KS%2BIOCkueCli%2BCkqOClhyDgpJXgpYcg4KSy4KS%2F4KSPIOCkleCljOCkqCDgpLjgpL4g4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCksuClh%2BCkqOCkviDgpJrgpL7gpLngpL%2FgpI8%2FIiwibGsiOiJjNVBLZTdCazNZT2wzUS1Xekgtd1pKX0NneVU3d1p3VkQ1YTJBemxUSWRTbUIwdjJQMWpTRHhIb0Fjb0NXVHNneWxjOVdOcjdZTWtHcUFsTEd5Q1NtNEQ2UUlhQWxjd0NVaUJ6d1dZQUFBIiwiYnMiOiJjNzFRc1dvQ1FSUmsyNjFTWDdWTlNHOG5GdjZEZlJURkE2LTVPeTVDMmlBRUZaV1E0aHBGUkhnTElvbUlJTVRHNEo4TS1DTjUteGFiWUtWb3MyLVluWjJadF9xZ2RCWDBBX3B5cC0wYUVJSDJvRnpBRnJSbWFnazdZZ1E3QU0xZzMwQUxZWjJ3RDVwN1ZRNDc5RGZzdC1leGctMlZDN1hnLWFZSi1sUHBDck9nam9RNDRmYjBfb3JlcGFCNHNhdWVLcDJCdm9WYjg2SXNXUEh5N0diLWZjWTdhQ3lHRXg5LVZlZW40TEVSdnJSTm1pWHRNSXBObXJ3Mnc4d3dpdUptVkhlZzVaQS1LcDFJSlVrNU9RemN3dElxOTJNRC1nVjluQXM4MzNNalN5NjhaQ3lsZDk2alhFaUQtTDZSRC1vUCIsImlkIjoiZmNfZ2V2RWFzM1pDdHVUd3QwUHljU2pvUW9fNyJ9"
+      }
+    ],
+    "ai_overview": {
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "सबसे अच्छा प्रोटीन पाउडर आपकी फिटनेस जरूरतों और प्राथमिकताओं पर निर्भर करता है, लेकिन भारत में Optimum Nutrition गोल्ड स्टैंडर्ड 100% व्हे और MuscleBlaze बायोइन सबसे लोकप्रिय और भरोसेमंद विकल्प माने जाते हैं।",
+          "snippet_links": [
+            {
+              "text": "Optimum Nutrition",
+              "link": "https://www.optimumnutrition.co.in/collections/protein-powder"
+            }
+          ],
+          "snippet_highlighted_words": [
+            "Optimum Nutrition गोल्ड स्टैंडर्ड 100% व्हे और MuscleBlaze बायोइन"
+          ],
+          "reference_indexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "प्रमुख प्रोटीन पाउडर के विकल्प"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "ऑप्टिमम न्यूट्रिशन (ON) गोल्ड स्टैंडर्ड: यह अंतरराष्ट्रीय स्तर पर सबसे ज्यादा पसंद किया जाने वाला व्हे प्रोटीन है, जो मांसपेशियों की रिकवरी के लिए बेहतरीन है।",
+              "reference_indexes": [
+                0,
+                2
+              ]
+            },
+            {
+              "snippet": "मसलब्लेज़ बायोइज़ो-जीरो: यह भारतीय ब्रांड पचने में आसान और उच्च गुणवत्ता वाले आइसोलेट प्रोटीन के लिए जाना जाता है।",
+              "reference_indexes": [
+                0
+              ]
+            },
+            {
+              "snippet": "द होल ट्रुथ रॉ व्हे: यह बिना किसी कृत्रिम फ्लेवर या शुगर के सबसे शुद्ध और साफ-सुथरा विकल्प है।",
+              "reference_indexes": [
+                0
+              ]
+            },
+            {
+              "snippet": "आसोप्योर लो कार्ब: लैक्टोज-फ्री और फैट-फ्री फॉर्मूला चाहने वालों के लिए यह एक बेहतरीन आइसोलेट प्रोटीन है।"
+            }
+          ],
+          "reference_indexes": [
+            1,
+            3
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "सबसे अच्छा प्रोटीन कैसे चुनें"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "व्हे प्रोटीन (Whey Protein): वर्कआउट के बाद जल्दी पचने और मसल्स रिकवरी के लिए सबसे अच्छा होता है।",
+              "reference_indexes": [
+                2,
+                4
+              ]
+            },
+            {
+              "snippet": "प्लांट प्रोटीन (Plant Protein): वीगन या जिन्हें डेयरी उत्पादों से एलर्जी (लैक्टोज असहिष्णु) है, उनके लिए मटर या चावल से बना प्रोटीन सही है।"
+            }
+          ],
+          "reference_indexes": [
+            4
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "अगर आप चाहें, तो मुझे बताएं:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "आपका मुख्य लक्ष्य क्या है (मसल्स बढ़ाना, वजन घटाना या सामान्य फिटनेस)?"
+            },
+            {
+              "snippet": "क्या आपको लैक्टोज (दूध से एलर्जी) की समस्या है?"
+            },
+            {
+              "snippet": "आपका बजट कितना है?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "मैं आपके लिए एकदम सही प्रोटीन पाउडर चुन सकता हूँ।"
+        }
+      ],
+      "references": [
+        {
+          "index": 0,
+          "title": "Top 7 Cleanest Whey Proteins in India (2026): Ranked by Purity, Quality ...",
+          "link": "https://translate.google.com/translate?u=https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/&hl=hi&sl=en&tl=hi&client=sge",
+          "snippet": "* TrueBasics Clean Whey Protein Isolate + Concentrate — Deepest Testing-Led Clean Whey | Overall Score: 9.65/10. * MuscleBlaze Biozyme Iso-Zero — Dual-Verified Spi...",
+          "source": "HealthKart",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSozhVnldHM0F-PXMrlxfxPsaocb2r-Z9sdR2eHuBGw1ggbh-wgQmOuhKVw6_ldqfGCmDNzmnftOO41JzWiWhCQpVwCtkTSTFk1ma5"
+        },
+        {
+          "index": 1,
+          "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए",
+          "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+          "snippet": "Top 5 Whey Proteins in India: * Optimum Nutrition (ON) 100% Whey Gold Standard: ₹3460; 1 scoop (30.4g) = 24g protein (78.94%), 1g fat, 1g sugar, 5.5g BCAAs, 3g car...",
+          "source": "MensXP",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mensxp.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7J4GU-JKT8P0cOEwlBs03R9UAQjegiMjHbsk7a-YiS76FRlt6UAG_IZ9UPPIHo6Zj1mFJ1yGndCL5XCkKmsayo3UE616zON3lznRT"
+        },
+        {
+          "index": 2,
+          "title": "Buy Premium Protein Powder Online - Best Protein Supplement",
+          "link": "https://www.optimumnutrition.co.in/collections/protein-powder",
+          "snippet": "What are the Different Types of Protein Powder? Optimum Nutrition offers different protein powder types to suit various fitness goals and dietary preferences. Whey...",
+          "source": "Optimum Nutrition India",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.optimumnutrition.co.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRtnQw-CUjawH_V_qB8k5E4mgl3KgWp3Divurjjh_t-juPgSWuCp3GSvrMFJLmkmjsTwM7Ii86NREZUFrUywliGVQYERUefSRPS_YZ"
+        },
+        {
+          "index": 3,
+          "title": "व्हे प्रोटीन में सबसे लोकप्रिय आइटम - Amazon.in",
+          "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+          "snippet": "Isopure व्हे प्रोटीन आइसोलेट पाउडर विटामिन के साथ इम्यून सपोर्ट और बायोटीन के लिए- 2.20 lbs, 1 kg (डच चोक), लैक्टोज-फ्री, ग्लूटेन-फ्री, वेज प्रोटीन पुरुषों और महिल...",
+          "source": "Amazon.in",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqOxDyWDTc7RJeEAxWgyA6CqjcVNlZjcWuNrOuCYp69ZqjvDkyo99ukuSubvgK8gpfrZxkpndGoTQ1lwoUu8Wr5DuRoXvE0xQDqtsd"
+        },
+        {
+          "index": 4,
+          "title": "Best Protein Powders 2026 - Forbes Vetted",
+          "link": "https://translate.google.com/translate?u=https://www.forbes.com/sites/forbes-personal-shopper/article/best-protein-powder/&hl=hi&sl=en&tl=hi&client=sge",
+          "snippet": "Generally speaking, there are four major kinds of protein powders to choose from, including whey, casein, collagen and plant-based. * Whey protein: Whey is an anim...",
+          "source": "Forbes",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_xEhiFaGRN3ffdU7UvHRA0djf73ipYux2EENxydZ1EiKAVoQYVU3-_E_qskdMjuW9B4x4LJ5n9ICT0RZDtaILi5w3SkTRR4chQ7G"
+        }
+      ]
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "प्रोटीन – कौन सा सबसे अच्छा है? - पीएमसी",
+        "link": "https://translate.google.com/translate?u=https://pmc.ncbi.nlm.nih.gov/articles/PMC3905294/&hl=hi&sl=en&tl=hi&client=srp",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsgEB6zswFYDbGYrDSiC8o-xjJuZSO2wbNa4EQTRIFyKWl59c7_m8Akj6ZBEbWhNVV3N_oQzRmJj0ky7clKtBrI6cSuzxnB0Z5iAvy7qG6qPkdyeB7RAI9DfxERaVo8Oi64o5HLyfZGIafisfk0W8l7eD5m-CxexSu5ItdkVNDkg5uWpptYafGIfTaNw4GuS1IjmHNW0LZ3cuscwkBGb8FG5TrFw6JJy2-CtxyD1hMCfNRNp0&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQFnoECCwQAQ&uoh=1",
+        "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC3905294",
+        "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+        "snippet": "व्हे प्रोटीन आइसोलेट्स उपलब्ध प्रोटीन का सबसे शुद्ध स्रोत हैं। व्हे प्रोटीन आइसोलेट्स ...",
+        "snippet_highlighted_words": [
+          "प्रोटीन",
+          "प्रोटीन",
+          "सबसे",
+          "प्रोटीन"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "व्हे प्रोटीन आइसोलेट्स उपलब्ध प्रोटीन का सबसे शुद्ध स्रोत हैं। व्हे प्रोटीन आइसोलेट्स ...",
+            "source_info_link": "https://translate.google.com/translate?u=https://pmc.ncbi.nlm.nih.gov/articles/PMC3905294/&hl=hi&sl=en&tl=hi&client=srp",
+            "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVndMUUlGd2pacEZUU3phLXRfaHJBZ1RiOUtXRTBXVzdsNno2bzhKTkxtN3hGd2I3WEJxR1lBYXVDd0NTNW5MMkZ0WFJNSHYzSmJNYS14ZHA1TmhSYS1pMHgzTVZFdlZwX2E5cVlwWjB1RmxZSXEyQzNsVEYxNlpjMHFFN2VNSm9iQS1BUi1YdmFIdxIEGgIIABrGCRICCAEaACIAKgAyBggDEgJpbjoAQgQIARAjSgBaAHIAegCCQKAJCCMQABgAIAAqLAoJ4KSV4KWM4KSoFZDZjEAaBGthdW4aA2tvbhoP4KSV4KWM4KSo4KS44KS-KjUKBuCkuOCkvhUIvplAGgJzYRoJ4KSQ4KS44KS-Gg_gpJXgpYzgpKjgpLjgpL4aBuCkuOClgCovChXgpKrgpY3gpLDgpYvgpJ_gpYDgpKgV0LypQBoHcHJvdGVpbhoIcHJvdGVpbnMqOwoP4KSq4KS-4KSJ4KSh4KSwFY8djT4aBnBvd2Rlchob4KS44KSq4KWN4KSy4KWA4KSu4KWH4KSC4KSfKmUKDOCkuOCkrOCkuOClhxVUupJAGgVzYWJzZRoGc2Fic2hhGghzYWhhYmFzYRoFc2Jhc2EaBXN1YnNhGgzgpLjgpKzgpLjgpL4aG-CkuOCkrOCkuOClh-CkheCkmuCljeCkm-Ckviq6AQoP4KSF4KSa4KWN4KSb4KS-FZDZjEAaBWFjY2hhGgRhY2hhGgZhY2hjaGEaBWFjaGhhGg_gpIXgpJrgpY3gpJvgpYcaCeCkn-ClieCkqhoJ4KSg4KWA4KSVGg_gpKzgpYfgpLjgpY3gpJ8aD-CkrOClh-CkueCkpOCksBoV4KSs4KWH4KS54KSk4KSw4KWA4KSoGgngpLjgpLngpYAaG-CkuOCkrOCkuOClh-CkheCkmuCljeCkm-CkvioVCgbgpLngpYgVkpHBQBoBaBoDaGFpMv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZZRGJHWXJEU2lDOG8teGpKdVpTTzJ3Yk5hNEVRVFJJRnlLV2w1OWM3X204QWtqNlpCRWJXaE5WVjNOX29RelJtSmowa3k3Y2xLdEJySTZjU3V6eG5CMFo1aUF2eTdxRzZxUGtkeWVCN1JBSTlEZnhFUmFWbzhPaTY0bzVITHlmWkdJYWZpc2ZrMFc4bDdlRDVtLUN4ZXhTdTVJdGRrVk5Ea2c1dVdwcHRZYWZHSWZUYU53NEd1UzFJam1ITlcwTFozY3VzY3drQkdiOEZHNVRyRnc2Skp5Mi1DdHh5RDFoTUNmTlJOcDA6eDxiPuCkquCljeCksOCli-Ckn-ClgOCkqDwvYj4g4oCTIDxiPuCkleCljOCkqCDgpLjgpL4g4KS44KSs4KS44KWHIOCkheCkmuCljeCkm-CkviDgpLngpYg8L2I-PyAtIOCkquClgOCkj-CkruCkuOClgCAtIFBNQ0KMAuCkteCljeCkueClhyA8Yj7gpKrgpY3gpLDgpYvgpJ_gpYDgpKg8L2I-IOCkhuCkh-CkuOCli-CksuClh-Ckn-CljeCkuCDgpIngpKrgpLLgpKzgpY3gpKcgPGI-4KSq4KWN4KSw4KWL4KSf4KWA4KSoPC9iPiDgpJXgpL4gPGI-4KS44KSs4KS44KWHPC9iPiDgpLbgpYHgpKbgpY3gpKcg4KS44KWN4KSw4KWL4KSkIOCkueCliOCkguClpCDgpLXgpY3gpLngpYcgPGI-4KSq4KWN4KSw4KWL4KSf4KWA4KSoPC9iPiDgpIbgpIfgpLjgpYvgpLLgpYfgpJ_gpY3gpLgmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVndMUUlGd2pacEZUU3phLXRfaHJBZ1RiOUtXRTBXVzdsNno2bzhKTkxtN3hGd2I3WEJxR1lBYXVDd0NTNW5MMkZ0WFJNSHYzSmJNYS14ZHA1TmhSYS1pMHgzTVZFdlZwX2E5cVlwWjB1RmxZSXEyQzNsVEYxNlpjMHFFN2VNSm9iQS1BUi1YdmFIdxIEGgIIABrGCRICCAEaACIAKgAyBggDEgJpbjoAQgQIARAjSgBaAHIAegCCQKAJCCMQABgAIAAqLAoJ4KSV4KWM4KSoFZDZjEAaBGthdW4aA2tvbhoP4KSV4KWM4KSo4KS44KS-KjUKBuCkuOCkvhUIvplAGgJzYRoJ4KSQ4KS44KS-Gg_gpJXgpYzgpKjgpLjgpL4aBuCkuOClgCovChXgpKrgpY3gpLDgpYvgpJ_gpYDgpKgV0LypQBoHcHJvdGVpbhoIcHJvdGVpbnMqOwoP4KSq4KS-4KSJ4KSh4KSwFY8djT4aBnBvd2Rlchob4KS44KSq4KWN4KSy4KWA4KSu4KWH4KSC4KSfKmUKDOCkuOCkrOCkuOClhxVUupJAGgVzYWJzZRoGc2Fic2hhGghzYWhhYmFzYRoFc2Jhc2EaBXN1YnNhGgzgpLjgpKzgpLjgpL4aG-CkuOCkrOCkuOClh-CkheCkmuCljeCkm-Ckviq6AQoP4KSF4KSa4KWN4KSb4KS-FZDZjEAaBWFjY2hhGgRhY2hhGgZhY2hjaGEaBWFjaGhhGg_gpIXgpJrgpY3gpJvgpYcaCeCkn-ClieCkqhoJ4KSg4KWA4KSVGg_gpKzgpYfgpLjgpY3gpJ8aD-CkrOClh-CkueCkpOCksBoV4KSs4KWH4KS54KSk4KSw4KWA4KSoGgngpLjgpLngpYAaG-CkuOCkrOCkuOClh-CkheCkmuCljeCkm-CkvioVCgbgpLngpYgVkpHBQBoBaBoDaGFpMv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZZRGJHWXJEU2lDOG8teGpKdVpTTzJ3Yk5hNEVRVFJJRnlLV2w1OWM3X204QWtqNlpCRWJXaE5WVjNOX29RelJtSmowa3k3Y2xLdEJySTZjU3V6eG5CMFo1aUF2eTdxRzZxUGtkeWVCN1JBSTlEZnhFUmFWbzhPaTY0bzVITHlmWkdJYWZpc2ZrMFc4bDdlRDVtLUN4ZXhTdTVJdGRrVk5Ea2c1dVdwcHRZYWZHSWZUYU53NEd1UzFJam1ITlcwTFozY3VzY3drQkdiOEZHNVRyRnc2Skp5Mi1DdHh5RDFoTUNmTlJOcDA6eDxiPuCkquCljeCksOCli-Ckn-ClgOCkqDwvYj4g4oCTIDxiPuCkleCljOCkqCDgpLjgpL4g4KS44KSs4KS44KWHIOCkheCkmuCljeCkm-CkviDgpLngpYg8L2I-PyAtIOCkquClgOCkj-CkruCkuOClgCAtIFBNQ0KMAuCkteCljeCkueClhyA8Yj7gpKrgpY3gpLDgpYvgpJ_gpYDgpKg8L2I-IOCkhuCkh-CkuOCli-CksuClh-Ckn-CljeCkuCDgpIngpKrgpLLgpKzgpY3gpKcgPGI-4KSq4KWN4KSw4KWL4KSf4KWA4KSoPC9iPiDgpJXgpL4gPGI-4KS44KSs4KS44KWHPC9iPiDgpLbgpYHgpKbgpY3gpKcg4KS44KWN4KSw4KWL4KSkIOCkueCliOCkguClpCDgpLXgpY3gpLngpYcgPGI-4KSq4KWN4KSw4KWL4KSf4KWA4KSoPC9iPiDgpIbgpIfgpLjgpYvgpLLgpYfgpJ_gpY3gpLgmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "National Institutes of Health (NIH) | (.gov)"
+      },
+      {
+        "position": 2,
+        "title": "व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVsPEpGC0jBHPtUmYjcZ4xJxA-1H2CaSJLik3sKZ3zbOqGzPgOQQXNX724IvZqCXaMz5LAok0naep0L-k2KGyQDQNdTzTPiyHwYKctBkA8ZWQdDzCFPc6jsl6IAqK7Tyhk3d9rmDrVVN_nYqDfWjE5&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQFnoECC8QAQ&uoh=1",
+        "displayed_link": "https://www.amazon.in › bestsellers › hpc",
+        "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+        "snippet": "Isopure व्हे प्रोटीन आइसोलेट पाउडर विटामिन के साथ इम्यून सपोर्ट और बायोटीन के लिए- 2.20 lbs, 1 kg ( ...",
+        "snippet_highlighted_words": [
+          "Isopure व्हे प्रोटीन आइसोलेट पाउडर"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.1,
+              "स्टोर_की_रेटिंग_हज़ार": 1.5
+            },
+            "extensions": [
+              "4.1",
+              "स्टोर की रेटिंग (1.5 हज़ार)",
+              "मुफ़्त डिलीवरी"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Isopure व्हे प्रोटीन आइसोलेट पाउडर विटामिन के साथ इम्यून सपोर्ट और बायोटीन के लिए- 2.20 lbs, 1 kg ( ...",
+            "source_info_link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+            "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVnNQRXBHQzBqQkhQdFVtWWpjWjR4SnhBLTFIMkNhU0pMaWszc0taM3piT3FHelBnT1FRWE5YNzI0SXZacUNYYU16NUxBb2swbmFlcDBMLWsyS0d5UURRTmRUelRQaXlId1lLY3RCa0E4WldRZER6Q0ZQYzZqc2w2SUFxSzdUeWhrM2Q5cm1EclZWTl9uWXFEZldqRTUSBBoCCAAa0ggSABoAIgAqADIGCAESAmluOgBCBAgBECNKAFoAcgB6AIJArggIIxAAGAAgACosCgngpJXgpYzgpKgVAAAAABoEa2F1bhoDa29uGg_gpJXgpYzgpKjgpLjgpL4qNQoG4KS44KS-FQNS1D4aAnNhGgngpJDgpLjgpL4aD-CkleCljOCkqOCkuOCkvhoG4KS44KWAKi8KFeCkquCljeCksOCli-Ckn-ClgOCkqBVmmJFAGgdwcm90ZWluGghwcm90ZWlucyo7Cg_gpKrgpL7gpIngpKHgpLAVpNkAQBoGcG93ZGVyGhvgpLjgpKrgpY3gpLLgpYDgpK7gpYfgpILgpJ8qZQoM4KS44KSs4KS44KWHFfiiyT8aBXNhYnNlGgZzYWJzaGEaCHNhaGFiYXNhGgVzYmFzYRoFc3Vic2EaDOCkuOCkrOCkuOCkvhob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KroBCg_gpIXgpJrgpY3gpJvgpL4VAAAAABoFYWNjaGEaBGFjaGEaBmFjaGNoYRoFYWNoaGEaD-CkheCkmuCljeCkm-ClhxoJ4KSf4KWJ4KSqGgngpKDgpYDgpJUaD-CkrOClh-CkuOCljeCknxoP4KSs4KWH4KS54KSk4KSwGhXgpKzgpYfgpLngpKTgpLDgpYDgpKgaCeCkuOCkueClgBob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KhUKBuCkueCliBUbxwk_GgFoGgNoYWkyqgEvZ290bz91cmw9Q0FFU2RBSHJPekFWc1BFcEdDMGpCSFB0VW1ZamNaNHhKeEEtMUgyQ2FTSkxpazNzS1ozemJPcUd6UGdPUVFYTlg3MjRJdlpxQ1hhTXo1TEFvazBuYWVwMEwtazJLR3lRRFFOZFR6VFBpeUh3WUtjdEJrQThaV1FkRHpDRlBjNmpzbDZJQXFLN1R5aGszZDlybURyVlZOX25ZcURmV2pFNTp54KS14KWN4KS54KWHIDxiPuCkquCljeCksOCli-Ckn-ClgOCkqDwvYj4g4KSu4KWH4KSCIDxiPuCkuOCkrOCkuOClhzwvYj4g4KSy4KWL4KSV4KSq4KWN4KSw4KS_4KSvIOCkhuCkh-Ckn-CkriAtIEFtYXpvbi5pbkLtATxiPklzb3B1cmUg4KS14KWN4KS54KWHIOCkquCljeCksOCli-Ckn-ClgOCkqCDgpIbgpIfgpLjgpYvgpLLgpYfgpJ8g4KSq4KS-4KSJ4KSh4KSwPC9iPiDgpLXgpL_gpJ_gpL7gpK7gpL_gpKgg4KSV4KWHIOCkuOCkvuCkpSDgpIfgpK7gpY3gpK_gpYLgpKgg4KS44KSq4KWL4KSw4KWN4KSfIOCklOCksCDgpKzgpL7gpK_gpYvgpJ_gpYDgpKgg4KSV4KWHIOCksuCkv-Ckjy0gMi4yMCBsYnMsIDEga2cgKCZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVnNQRXBHQzBqQkhQdFVtWWpjWjR4SnhBLTFIMkNhU0pMaWszc0taM3piT3FHelBnT1FRWE5YNzI0SXZacUNYYU16NUxBb2swbmFlcDBMLWsyS0d5UURRTmRUelRQaXlId1lLY3RCa0E4WldRZER6Q0ZQYzZqc2w2SUFxSzdUeWhrM2Q5cm1EclZWTl9uWXFEZldqRTUSBBoCCAAa0ggSABoAIgAqADIGCAESAmluOgBCBAgBECNKAFoAcgB6AIJArggIIxAAGAAgACosCgngpJXgpYzgpKgVAAAAABoEa2F1bhoDa29uGg_gpJXgpYzgpKjgpLjgpL4qNQoG4KS44KS-FQNS1D4aAnNhGgngpJDgpLjgpL4aD-CkleCljOCkqOCkuOCkvhoG4KS44KWAKi8KFeCkquCljeCksOCli-Ckn-ClgOCkqBVmmJFAGgdwcm90ZWluGghwcm90ZWlucyo7Cg_gpKrgpL7gpIngpKHgpLAVpNkAQBoGcG93ZGVyGhvgpLjgpKrgpY3gpLLgpYDgpK7gpYfgpILgpJ8qZQoM4KS44KSs4KS44KWHFfiiyT8aBXNhYnNlGgZzYWJzaGEaCHNhaGFiYXNhGgVzYmFzYRoFc3Vic2EaDOCkuOCkrOCkuOCkvhob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KroBCg_gpIXgpJrgpY3gpJvgpL4VAAAAABoFYWNjaGEaBGFjaGEaBmFjaGNoYRoFYWNoaGEaD-CkheCkmuCljeCkm-ClhxoJ4KSf4KWJ4KSqGgngpKDgpYDgpJUaD-CkrOClh-CkuOCljeCknxoP4KSs4KWH4KS54KSk4KSwGhXgpKzgpYfgpLngpKTgpLDgpYDgpKgaCeCkuOCkueClgBob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KhUKBuCkueCliBUbxwk_GgFoGgNoYWkyqgEvZ290bz91cmw9Q0FFU2RBSHJPekFWc1BFcEdDMGpCSFB0VW1ZamNaNHhKeEEtMUgyQ2FTSkxpazNzS1ozemJPcUd6UGdPUVFYTlg3MjRJdlpxQ1hhTXo1TEFvazBuYWVwMEwtazJLR3lRRFFOZFR6VFBpeUh3WUtjdEJrQThaV1FkRHpDRlBjNmpzbDZJQXFLN1R5aGszZDlybURyVlZOX25ZcURmV2pFNTp54KS14KWN4KS54KWHIDxiPuCkquCljeCksOCli-Ckn-ClgOCkqDwvYj4g4KSu4KWH4KSCIDxiPuCkuOCkrOCkuOClhzwvYj4g4KSy4KWL4KSV4KSq4KWN4KSw4KS_4KSvIOCkhuCkh-Ckn-CkriAtIEFtYXpvbi5pbkLtATxiPklzb3B1cmUg4KS14KWN4KS54KWHIOCkquCljeCksOCli-Ckn-ClgOCkqCDgpIbgpIfgpLjgpYvgpLLgpYfgpJ8g4KSq4KS-4KSJ4KSh4KSwPC9iPiDgpLXgpL_gpJ_gpL7gpK7gpL_gpKgg4KSV4KWHIOCkuOCkvuCkpSDgpIfgpK7gpY3gpK_gpYLgpKgg4KS44KSq4KWL4KSw4KWN4KSfIOCklOCksCDgpKzgpL7gpK_gpYvgpJ_gpYDgpKgg4KSV4KWHIOCksuCkv-Ckjy0gMi4yMCBsYnMsIDEga2cgKCZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "Amazon.in"
+      },
+      {
+        "position": 3,
+        "title": "प्रोटीन पाउडर के फायदे, लेने का समय, खुराक और बेस्ट ...",
+        "link": "https://www.myupchar.com/fitness/protein-powder",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVbAHiFNeSG9BguZBtLhCGCToYPcKkBxI1COf5t3SXuPRBMrgxD00oWsSHFk8oyP05mhzybZCocYffi1UrASBGzquy_rEuUZSBbs9up2SFqs4baOA-9_ZRxmgl-9QrIWmV7q75hJc&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQFnoECDUQAQ&uoh=1",
+        "displayed_link": "https://www.myupchar.com › फिटनेस",
+        "favicon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAACwBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0dgEcAD0eqv0K0rCue-n5fLhlKqhVRXokavQAA_vfxOiVJZfD29EbDYF81HIYBKYpMtrHNWPQsYbAD-dieVszG41rbxHK4boL5TSvDWSYF5bq_okLes4U4zuiurhMqxr70rI0S8jsgOr_GcE2VZ3YKPi_eiBob3k927ho_pQ9oVerZs0ovPNv1X9XCvsIM-n103VsK4UvMAHuuobD1rCYExFwdd27fiYWtd2DjVrAx21cHjDhWF-SU_aZxOaimgxtReThJdS0gAAA.webp",
+        "snippet": "प्रोटीन से भरपूर सोया, मटर और मट्ठे से प्रोटीन पाउडर तैयार किया जाता है। मांस और सीफूड को ...",
+        "snippet_highlighted_words": [
+          "प्रोटीन पाउडर"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "प्रोटीन पाउडर के फायदे...",
+              "link": "https://www.myupchar.com/fitness/protein-powder#%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8-%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%AB%E0%A4%BE%E0%A4%AF%E0%A4%A6%E0%A5%87-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B9%E0%A5%88%E0%A4%82-benefits-of-protein-powder-in-hindi"
+            },
+            {
+              "title": "प्रोटीन पाउडर के बारे...",
+              "link": "https://www.myupchar.com/fitness/protein-powder#%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8-%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AA%E0%A5%82%E0%A4%9B%E0%A5%87-%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A5%87-%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%87-%E0%A4%86%E0%A4%AE-%E0%A4%B8%E0%A4%B5%E0%A4%BE%E0%A4%B2-faqs-about-protein-powder-in-hindi"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "प्रोटीन से भरपूर सोया, मटर और मट्ठे से प्रोटीन पाउडर तैयार किया जाता है। मांस और सीफूड को ...",
+            "source_info_link": "https://www.myupchar.com/fitness/protein-powder",
+            "icon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAACwBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0dgEcAD0eqv0K0rCue-n5fLhlKqhVRXokavQAA_vfxOiVJZfD29EbDYF81HIYBKYpMtrHNWPQsYbAD-dieVszG41rbxHK4boL5TSvDWSYF5bq_okLes4U4zuiurhMqxr70rI0S8jsgOr_GcE2VZ3YKPi_eiBob3k927ho_pQ9oVerZs0ovPNv1X9XCvsIM-n103VsK4UvMAHuuobD1rCYExFwdd27fiYWtd2DjVrAx21cHjDhWF-SU_aZxOaimgxtReThJdS0gAAA.webp"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmJBSGlGTmVTRzlCZ3VaQnRMaENHQ1RvWVBjS2tCeEkxQ09mNXQzU1h1UFJCTXJneEQwMG9Xc1NIRms4b3lQMDVtaHp5YlpDb2NZZmZpMVVyQVNCR3pxdXlfckV1VVpTQmJzOXVwMlNGcXM0YmFPQS05X1pSeG1nbC05UXJJV21WN3E3NWhKYxIEGgIIABryCBICCAAaACIAKgAyBggBEgJpbjoAQgQIARAjSgBaAHIAegCCQMwICCMQABgAIAAqLAoJ4KSV4KWM4KSoFQAAAAAaBGthdW4aA2tvbhoP4KSV4KWM4KSo4KS44KS-KjUKBuCkuOCkvhXuni0_GgJzYRoJ4KSQ4KS44KS-Gg_gpJXgpYzgpKjgpLjgpL4aBuCkuOClgCovChXgpKrgpY3gpLDgpYvgpJ_gpYDgpKgVtoC1QBoHcHJvdGVpbhoIcHJvdGVpbnMqOwoP4KSq4KS-4KSJ4KSh4KSwFVnPp0AaBnBvd2Rlchob4KS44KSq4KWN4KSy4KWA4KSu4KWH4KSC4KSfKmUKDOCkuOCkrOCkuOClhxW7qq4_GgVzYWJzZRoGc2Fic2hhGghzYWhhYmFzYRoFc2Jhc2EaBXN1YnNhGgzgpLjgpKzgpLjgpL4aG-CkuOCkrOCkuOClh-CkheCkmuCljeCkm-Ckviq6AQoP4KSF4KSa4KWN4KSb4KS-FY-clj8aBWFjY2hhGgRhY2hhGgZhY2hjaGEaBWFjaGhhGg_gpIXgpJrgpY3gpJvgpYcaCeCkn-ClieCkqhoJ4KSg4KWA4KSVGg_gpKzgpYfgpLjgpY3gpJ8aD-CkrOClh-CkueCkpOCksBoV4KSs4KWH4KS54KSk4KSw4KWA4KSoGgngpLjgpLngpYAaG-CkuOCkrOCkuOClh-CkheCkmuCljeCkm-CkvioVCgbgpLngpYgVOEM8QBoBaBoDaGFpMp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmJBSGlGTmVTRzlCZ3VaQnRMaENHQ1RvWVBjS2tCeEkxQ09mNXQzU1h1UFJCTXJneEQwMG9Xc1NIRms4b3lQMDVtaHp5YlpDb2NZZmZpMVVyQVNCR3pxdXlfckV1VVpTQmJzOXVwMlNGcXM0YmFPQS05X1pSeG1nbC05UXJJV21WN3E3NWhKYzqZATxiPuCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLA8L2I-IOCkleClhyDgpKvgpL7gpK_gpKbgpYcsIOCksuClh-CkqOClhyDgpJXgpL4g4KS44KSu4KSvLCDgpJbgpYHgpLDgpL7gpJUg4KSU4KSwIOCkrOClh-CkuOCljeCknyAuLi4gLSBteVVwY2hhckL3AeCkquCljeCksOCli-Ckn-ClgOCkqCDgpLjgpYcg4KSt4KSw4KSq4KWC4KSwIOCkuOCli-Ckr-Ckviwg4KSu4KSf4KSwIOCklOCksCDgpK7gpJ_gpY3gpKDgpYcg4KS44KWHIDxiPuCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLA8L2I-IOCkpOCliOCkr-CkvuCksCDgpJXgpL_gpK_gpL4g4KSc4KS-4KSk4KS-IOCkueCliOClpCDgpK7gpL7gpILgpLgg4KSU4KSwIOCkuOClgOCkq-ClguCkoSDgpJXgpYsmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmJBSGlGTmVTRzlCZ3VaQnRMaENHQ1RvWVBjS2tCeEkxQ09mNXQzU1h1UFJCTXJneEQwMG9Xc1NIRms4b3lQMDVtaHp5YlpDb2NZZmZpMVVyQVNCR3pxdXlfckV1VVpTQmJzOXVwMlNGcXM0YmFPQS05X1pSeG1nbC05UXJJV21WN3E3NWhKYxIEGgIIABryCBICCAAaACIAKgAyBggBEgJpbjoAQgQIARAjSgBaAHIAegCCQMwICCMQABgAIAAqLAoJ4KSV4KWM4KSoFQAAAAAaBGthdW4aA2tvbhoP4KSV4KWM4KSo4KS44KS-KjUKBuCkuOCkvhXuni0_GgJzYRoJ4KSQ4KS44KS-Gg_gpJXgpYzgpKjgpLjgpL4aBuCkuOClgCovChXgpKrgpY3gpLDgpYvgpJ_gpYDgpKgVtoC1QBoHcHJvdGVpbhoIcHJvdGVpbnMqOwoP4KSq4KS-4KSJ4KSh4KSwFVnPp0AaBnBvd2Rlchob4KS44KSq4KWN4KSy4KWA4KSu4KWH4KSC4KSfKmUKDOCkuOCkrOCkuOClhxW7qq4_GgVzYWJzZRoGc2Fic2hhGghzYWhhYmFzYRoFc2Jhc2EaBXN1YnNhGgzgpLjgpKzgpLjgpL4aG-CkuOCkrOCkuOClh-CkheCkmuCljeCkm-Ckviq6AQoP4KSF4KSa4KWN4KSb4KS-FY-clj8aBWFjY2hhGgRhY2hhGgZhY2hjaGEaBWFjaGhhGg_gpIXgpJrgpY3gpJvgpYcaCeCkn-ClieCkqhoJ4KSg4KWA4KSVGg_gpKzgpYfgpLjgpY3gpJ8aD-CkrOClh-CkueCkpOCksBoV4KSs4KWH4KS54KSk4KSw4KWA4KSoGgngpLjgpLngpYAaG-CkuOCkrOCkuOClh-CkheCkmuCljeCkm-CkvioVCgbgpLngpYgVOEM8QBoBaBoDaGFpMp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmJBSGlGTmVTRzlCZ3VaQnRMaENHQ1RvWVBjS2tCeEkxQ09mNXQzU1h1UFJCTXJneEQwMG9Xc1NIRms4b3lQMDVtaHp5YlpDb2NZZmZpMVVyQVNCR3pxdXlfckV1VVpTQmJzOXVwMlNGcXM0YmFPQS05X1pSeG1nbC05UXJJV21WN3E3NWhKYzqZATxiPuCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLA8L2I-IOCkleClhyDgpKvgpL7gpK_gpKbgpYcsIOCksuClh-CkqOClhyDgpJXgpL4g4KS44KSu4KSvLCDgpJbgpYHgpLDgpL7gpJUg4KSU4KSwIOCkrOClh-CkuOCljeCknyAuLi4gLSBteVVwY2hhckL3AeCkquCljeCksOCli-Ckn-ClgOCkqCDgpLjgpYcg4KSt4KSw4KSq4KWC4KSwIOCkuOCli-Ckr-Ckviwg4KSu4KSf4KSwIOCklOCksCDgpK7gpJ_gpY3gpKDgpYcg4KS44KWHIDxiPuCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLA8L2I-IOCkpOCliOCkr-CkvuCksCDgpJXgpL_gpK_gpL4g4KSc4KS-4KSk4KS-IOCkueCliOClpCDgpK7gpL7gpILgpLgg4KSU4KSwIOCkuOClgOCkq-ClguCkoSDgpJXgpYsmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "myUpchar"
+      },
+      {
+        "position": 4,
+        "title": "आइए प्रोटीन पाउडर के बारे में बात करते हैं: आपकी जीवनशैली के ...",
+        "link": "https://translate.google.com/translate?u=https://www.1mg.com/articles/lets-talk-protein-powders-which-one-fits-your-lifestyle-best/&hl=hi&sl=en&tl=hi&client=srp",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES3AEB6zswFV-vHOZr7epc-CfbIYxCCXH9q-cW2uW6foDn75nzwr5NNO9oQsXozORJ_FkE6YMP99ri68X-Z9DkSBwBB60RoyWPIrbUNhGixEJjIGba-gxFmVQUEsnBIHApa8PF0mKGzEZycB_3tQVaw-0JQcs5MsyC41kl0Bhv-1CaGZCe8Uo0P0NEpwPCSuqpOJJrXEvzE8H6LG3Mi1YXByx0-2zx9ozfOq4DT3A-xp1V8D4AXDxNvaie7ji2ymxT4ldIZvh9Lf-b8LAOtDfANg0rwn6LuJVPa4ZMPjz6&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQFnoECDEQAQ&uoh=1",
+        "displayed_link": "https://www.1mg.com › articles › lets-talk-protein-pow...",
+        "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAw3rmOLWBqABliCvOLqV-POH2BlSydBTJPQ3AA_EYZiqJnirAxWOw5BfnIHLnxuu5Aw8r9fKLAIxiC14yw8PbtbSAisHl3uHk5QuFpAittWGsU4gtzcLWD6ZlXXEqf4GDizziiVr7PBgXP06H3lwuTVAmTngake71aLavAwBKa_R4u38vwzJq7SbNY7ElLGskLuZrzwc5tEXIcjgHNveZod_7bLEWHYe_k3LqEex6idp-eC_R5F4mXxO_kLkkp7D0zI-ylz4Gf0TYKjko4A7qAIiGB-50JRyXZi15HAOr0irmvH1Fr_ksyGZ2a_MRIN7X6L1_ydvWxVoxD5NTDKq1S3poGjV6l83BjAEZKR_zfTZYAAAA.webp",
+        "date": "14 मई 2024",
+        "snippet": "प्रोटीन पाउडर एक आहार पूरक है जो प्रोटीन का एक केंद्रित स्रोत प्रदान करता है, ...",
+        "snippet_highlighted_words": [
+          "प्रोटीन पाउडर"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "प्रोटीन पाउडर एक आहार पूरक है जो प्रोटीन का एक केंद्रित स्रोत प्रदान करता है, ...",
+            "source_info_link": "https://translate.google.com/translate?u=https://www.1mg.com/articles/lets-talk-protein-powders-which-one-fits-your-lifestyle-best/&hl=hi&sl=en&tl=hi&client=srp",
+            "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAw3rmOLWBqABliCvOLqV-POH2BlSydBTJPQ3AA_EYZiqJnirAxWOw5BfnIHLnxuu5Aw8r9fKLAIxiC14yw8PbtbSAisHl3uHk5QuFpAittWGsU4gtzcLWD6ZlXXEqf4GDizziiVr7PBgXP06H3lwuTVAmTngake71aLavAwBKa_R4u38vwzJq7SbNY7ElLGskLuZrzwc5tEXIcjgHNveZod_7bLEWHYe_k3LqEex6idp-eC_R5F4mXxO_kLkkp7D0zI-ylz4Gf0TYKjko4A7qAIiGB-50JRyXZi15HAOr0irmvH1Fr_ksyGZ2a_MRIN7X6L1_ydvWxVoxD5NTDKq1S3poGjV6l83BjAEZKR_zfTZYAAAA.webp"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZlVXlZcjlEMmpaT0dxSE5XS1dPVlJoZ3gwZXlrZmRuWGdVLU1jZ2ltOGc2X1IxVFhEZmdxdDRWV1lfSWpCYncySlQwZHpBdFFPdjdNRkV3WTlmVDhVVVN4WW02bEUzUzB1bGJKT1VFLTNJelh6QWNMVjNRbENfV3BPb2pvV2dkTndZMzhSREtDM1poNFJLakdQaU5GUmN5TWFpUFBQVVlPall5S0MwWHFlYUEtQVpzbEJ4TEZWN1VLektYandBQW5nEgQaAggAGoMKEgAaACIAKgAyBggBEgJpbjoAQgQIARAjSgBaAHIAegCCQN8JCCMQABgAIAAqLAoJ4KSV4KWM4KSoFSbgKkAaBGthdW4aA2tvbhoP4KSV4KWM4KSo4KS44KS-KjUKBuCkuOCkvhUFt0VAGgJzYRoJ4KSQ4KS44KS-Gg_gpJXgpYzgpKjgpLjgpL4aBuCkuOClgCovChXgpKrgpY3gpLDgpYvgpJ_gpYDgpKgVBRYAQRoHcHJvdGVpbhoIcHJvdGVpbnMqOwoP4KSq4KS-4KSJ4KSh4KSwFYx1yEAaBnBvd2Rlchob4KS44KSq4KWN4KSy4KWA4KSu4KWH4KSC4KSfKmUKDOCkuOCkrOCkuOClhxXumV5AGgVzYWJzZRoGc2Fic2hhGghzYWhhYmFzYRoFc2Jhc2EaBXN1YnNhGgzgpLjgpKzgpLjgpL4aG-CkuOCkrOCkuOClh-CkheCkmuCljeCkm-Ckviq6AQoP4KSF4KSa4KWN4KSb4KS-FakDJUAaBWFjY2hhGgRhY2hhGgZhY2hjaGEaBWFjaGhhGg_gpIXgpJrgpY3gpJvgpYcaCeCkn-ClieCkqhoJ4KSg4KWA4KSVGg_gpKzgpYfgpLjgpY3gpJ8aD-CkrOClh-CkueCkpOCksBoV4KSs4KWH4KS54KSk4KSw4KWA4KSoGgngpLjgpLngpYAaG-CkuOCkrOCkuOClh-CkheCkmuCljeCkm-CkvioVCgbgpLngpYgV7rgDQRoBaBoDaGFpMrYCL2dvdG8_dXJsPUNBRVMzQUVCNnpzd0ZWLXZIT1pyN2VwYy1DZmJJWXhDQ1hIOXEtY1cydVc2Zm9Ebjc1bnp3cjVOTk85b1FzWG96T1JKX0ZrRTZZTVA5OXJpNjhYLVo5RGtTQndCQjYwUm95V1BJcmJVTmhHaXhFSmpJR2JhLWd4Rm1WUVVFc25CSUhBcGE4UEYwbUtHekVaeWNCXzN0UVZhdy0wSlFjczVNc3lDNDFrbDBCaHYtMUNhR1pDZThVbzBQME5FcHdQQ1N1cXBPSkpyWEV2ekU4SDZMRzNNaTFZWEJ5eDAtMnp4OW96Zk9xNERUM0EteHAxVjhENEFYRHhOdmFpZTdqaTJ5bXhUNGxkSVp2aDlMZi1iOExBT3REZkFOZzByd242THVKVlBhNFpNUGp6NjqxAeCkhuCkh-CkjyA8Yj7gpKrgpY3gpLDgpYvgpJ_gpYDgpKgg4KSq4KS-4KSJ4KSh4KSwPC9iPiDgpJXgpYcg4KSs4KS-4KSw4KWHIOCkruClh-CkgiDgpKzgpL7gpKQg4KSV4KSw4KSk4KWHIOCkueCliOCkgjog4KSG4KSq4KSV4KWAIOCknOClgOCkteCkqOCktuCliOCksuClgCDgpJXgpYcg4KSy4KS_4KSPIC4uLkLZATxiPuCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLA8L2I-IOCkj-CklSDgpIbgpLngpL7gpLAg4KSq4KWC4KSw4KSVIOCkueCliCDgpJzgpYsg4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCkleCkviDgpI_gpJUg4KSV4KWH4KSC4KSm4KWN4KSw4KS_4KSkIOCkuOCljeCksOCli-CkpCDgpKrgpY3gpLDgpKbgpL7gpKgg4KSV4KSw4KSk4KS-IOCkueCliCwmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZlVXlZcjlEMmpaT0dxSE5XS1dPVlJoZ3gwZXlrZmRuWGdVLU1jZ2ltOGc2X1IxVFhEZmdxdDRWV1lfSWpCYncySlQwZHpBdFFPdjdNRkV3WTlmVDhVVVN4WW02bEUzUzB1bGJKT1VFLTNJelh6QWNMVjNRbENfV3BPb2pvV2dkTndZMzhSREtDM1poNFJLakdQaU5GUmN5TWFpUFBQVVlPall5S0MwWHFlYUEtQVpzbEJ4TEZWN1VLektYandBQW5nEgQaAggAGoMKEgAaACIAKgAyBggBEgJpbjoAQgQIARAjSgBaAHIAegCCQN8JCCMQABgAIAAqLAoJ4KSV4KWM4KSoFSbgKkAaBGthdW4aA2tvbhoP4KSV4KWM4KSo4KS44KS-KjUKBuCkuOCkvhUFt0VAGgJzYRoJ4KSQ4KS44KS-Gg_gpJXgpYzgpKjgpLjgpL4aBuCkuOClgCovChXgpKrgpY3gpLDgpYvgpJ_gpYDgpKgVBRYAQRoHcHJvdGVpbhoIcHJvdGVpbnMqOwoP4KSq4KS-4KSJ4KSh4KSwFYx1yEAaBnBvd2Rlchob4KS44KSq4KWN4KSy4KWA4KSu4KWH4KSC4KSfKmUKDOCkuOCkrOCkuOClhxXumV5AGgVzYWJzZRoGc2Fic2hhGghzYWhhYmFzYRoFc2Jhc2EaBXN1YnNhGgzgpLjgpKzgpLjgpL4aG-CkuOCkrOCkuOClh-CkheCkmuCljeCkm-Ckviq6AQoP4KSF4KSa4KWN4KSb4KS-FakDJUAaBWFjY2hhGgRhY2hhGgZhY2hjaGEaBWFjaGhhGg_gpIXgpJrgpY3gpJvgpYcaCeCkn-ClieCkqhoJ4KSg4KWA4KSVGg_gpKzgpYfgpLjgpY3gpJ8aD-CkrOClh-CkueCkpOCksBoV4KSs4KWH4KS54KSk4KSw4KWA4KSoGgngpLjgpLngpYAaG-CkuOCkrOCkuOClh-CkheCkmuCljeCkm-CkvioVCgbgpLngpYgV7rgDQRoBaBoDaGFpMrYCL2dvdG8_dXJsPUNBRVMzQUVCNnpzd0ZWLXZIT1pyN2VwYy1DZmJJWXhDQ1hIOXEtY1cydVc2Zm9Ebjc1bnp3cjVOTk85b1FzWG96T1JKX0ZrRTZZTVA5OXJpNjhYLVo5RGtTQndCQjYwUm95V1BJcmJVTmhHaXhFSmpJR2JhLWd4Rm1WUVVFc25CSUhBcGE4UEYwbUtHekVaeWNCXzN0UVZhdy0wSlFjczVNc3lDNDFrbDBCaHYtMUNhR1pDZThVbzBQME5FcHdQQ1N1cXBPSkpyWEV2ekU4SDZMRzNNaTFZWEJ5eDAtMnp4OW96Zk9xNERUM0EteHAxVjhENEFYRHhOdmFpZTdqaTJ5bXhUNGxkSVp2aDlMZi1iOExBT3REZkFOZzByd242THVKVlBhNFpNUGp6NjqxAeCkhuCkh-CkjyA8Yj7gpKrgpY3gpLDgpYvgpJ_gpYDgpKgg4KSq4KS-4KSJ4KSh4KSwPC9iPiDgpJXgpYcg4KSs4KS-4KSw4KWHIOCkruClh-CkgiDgpKzgpL7gpKQg4KSV4KSw4KSk4KWHIOCkueCliOCkgjog4KSG4KSq4KSV4KWAIOCknOClgOCkteCkqOCktuCliOCksuClgCDgpJXgpYcg4KSy4KS_4KSPIC4uLkLZATxiPuCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLA8L2I-IOCkj-CklSDgpIbgpLngpL7gpLAg4KSq4KWC4KSw4KSVIOCkueCliCDgpJzgpYsg4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCkleCkviDgpI_gpJUg4KSV4KWH4KSC4KSm4KWN4KSw4KS_4KSkIOCkuOCljeCksOCli-CkpCDgpKrgpY3gpLDgpKbgpL7gpKgg4KSV4KSw4KSk4KS-IOCkueCliCwmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "1mg"
+      },
+      {
+        "position": 5,
+        "title": "2026 के 7 सर्वश्रेष्ठ प्रोटीन पाउडर (स्वाद परीक्षण और ...",
+        "link": "https://translate.google.com/translate?u=https://www.treelinereview.com/gearreviews/best-protein-powder&hl=hi&sl=en&tl=hi&client=srp",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwAEB6zswFQpdcX52oizEQrQKDFhPD3kyRO7vzC1fs9XOlVvzIMw7ZMHUkcVIgGC57rhXPw6AvGiw49b4VymhvWLPzSjWIgJ_EqnZGRPHA-atthCzCvNihhFp3cFPozHPaJ7VjOiKTWWzTx1r9mFJKfx4kVoTZTuDqEpkAMPLH9CsVxf0xn7YZ0_YegRfL7t_V4tdOgvA0CYb2wRtAPqLZn_avXm3ADlpAG1qRFLQAXncPvByEYUPSX7MYysYNslO6Jw&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQFnoECC0QAQ&uoh=1",
+        "displayed_link": "https://www.treelinereview.com › Fitness",
+        "favicon": "https://serpapi.com/images/i/UklGRqwAAABXRUJQVlA4IKAAAACwBACdASocABwAPtEutFooIagoGAEAGglpAABchCK3tLR4zxHyTSUvMEwsvtoAAP72B2wdWs1qicmtraMSs7urrpRHJroVibunx5upxlPZzHjen4xu30ONu82Vmonivwcmbt-fCwx29zVTp3ysZ_Z21f0sd7ojsPubxcTe5ps7IDdf_Xb-FybHHWpcFfz6k5C66pHV9ckOx_4ifsY7UAAA.webp",
+        "date": "16 जन॰ 2026",
+        "snippet": "सर्वश्रेष्ठ चयन: ऑप्टिमम न्यूट्रिशन गोल्ड 100% व्हे प्रोटीन को हमारा ...",
+        "snippet_highlighted_words": [
+          "ऑप्टिमम न्यूट्रिशन गोल्ड 100% व्हे प्रोटीन"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "सर्वश्रेष्ठ चयन: ऑप्टिमम न्यूट्रिशन गोल्ड 100% व्हे प्रोटीन को हमारा ...",
+            "source_info_link": "https://translate.google.com/translate?u=https://www.treelinereview.com/gearreviews/best-protein-powder&hl=hi&sl=en&tl=hi&client=srp",
+            "icon": "https://serpapi.com/images/i/UklGRqwAAABXRUJQVlA4IKAAAACwBACdASocABwAPtEutFooIagoGAEAGglpAABchCK3tLR4zxHyTSUvMEwsvtoAAP72B2wdWs1qicmtraMSs7urrpRHJroVibunx5upxlPZzHjen4xu30ONu82Vmonivwcmbt-fCwx29zVTp3ysZ_Z21f0sd7ojsPubxcTe5ps7IDdf_Xb-FybHHWpcFfz6k5C66pHV9ckOx_4ifsY7UAAA.webp"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkZCXzctTzhabi1SSzNYOFZlSmFtM1JOcFpmNGdkNkNVZENBYUhvZk9qX052UlFuN0d5VmNlQlBRMUd0TjdHNGtIUDlHS3RSLXJNMS1jcjFuQU1yVi01Ny1oejNYelVRWWRtZTAxb0JsYzlqWmJfMVlqQ3dTMFVDUEhONFpBVmJzNWtLa0RZTlEwcS1ORTNTUlU3aDFiaG1mUF9FEgQaAggAGpkJEgIIABoAIgAqADIGCAMSAmluOgBCBAgBECNKAFoAcgB6AIJA8wgIIxAAGAAgACosCgngpJXgpYzgpKgVtRV2PhoEa2F1bhoDa29uGg_gpJXgpYzgpKjgpLjgpL4qNQoG4KS44KS-FZEQtj8aAnNhGgngpJDgpLjgpL4aD-CkleCljOCkqOCkuOCkvhoG4KS44KWAKi8KFeCkquCljeCksOCli-Ckn-ClgOCkqBWnxnFAGgdwcm90ZWluGghwcm90ZWlucyo7Cg_gpKrgpL7gpIngpKHgpLAVnSFjQBoGcG93ZGVyGhvgpLjgpKrgpY3gpLLgpYDgpK7gpYfgpILgpJ8qZQoM4KS44KSs4KS44KWHFU3Y5T8aBXNhYnNlGgZzYWJzaGEaCHNhaGFiYXNhGgVzYmFzYRoFc3Vic2EaDOCkuOCkrOCkuOCkvhob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KroBCg_gpIXgpJrgpY3gpJvgpL4VdBOWPxoFYWNjaGEaBGFjaGEaBmFjaGNoYRoFYWNoaGEaD-CkheCkmuCljeCkm-ClhxoJ4KSf4KWJ4KSqGgngpKDgpYDgpJUaD-CkrOClh-CkuOCljeCknxoP4KSs4KWH4KS54KSk4KSwGhXgpKzgpYfgpLngpKTgpLDgpYDgpKgaCeCkuOCkueClgBob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KhUKBuCkueCliBV4agBAGgFoGgNoYWkykQIvZ290bz91cmw9Q0FFU3dBRUI2enN3RlFwZGNYNTJvaXpFUXJRS0RGaFBEM2t5Uk83dnpDMWZzOVhPbFZ2eklNdzdaTUhVa2NWSWdHQzU3cmhYUHc2QXZHaXc0OWI0VnltaHZXTFB6U2pXSWdKX0VxblpHUlBIQS1hdHRoQ3pDdk5paGhGcDNjRlBvekhQYUo3VmpPaUtUV1d6VHgxcjltRkpLZng0a1ZvVFpUdURxRXBrQU1QTEg5Q3NWeGYweG43WVowX1llZ1JmTDd0X1Y0dGRPZ3ZBMENZYjJ3UnRBUHFMWm5fYXZYbTNBRGxwQUcxcVJGTFFBWG5jUHZCeUVZVVBTWDdNWXlzWU5zbE82Snc6gwEyMDI2IOCkleClhyA3IOCkuOCksOCljeCkteCktuCljeCksOClh-Ckt-CljeCkoCA8Yj7gpKrgpY3gpLDgpYvgpJ_gpYDgpKgg4KSq4KS-4KSJ4KSh4KSwPC9iPiAo4KS44KWN4KS14KS-4KSmIC4uLiAtIFRyZWVsaW5lIFJldmlld0LAAeCkuOCksOCljeCkteCktuCljeCksOClh-Ckt-CljeCkoCDgpJrgpK_gpKg6IDxiPuCkkeCkquCljeCkn-Ckv-CkruCkriDgpKjgpY3gpK_gpYLgpJ_gpY3gpLDgpL_gpLbgpKgg4KSX4KWL4KSy4KWN4KShIDEwMCUg4KS14KWN4KS54KWHIOCkquCljeCksOCli-Ckn-ClgOCkqDwvYj4g4KSV4KWLIOCkueCkruCkvuCksOCkviZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkZCXzctTzhabi1SSzNYOFZlSmFtM1JOcFpmNGdkNkNVZENBYUhvZk9qX052UlFuN0d5VmNlQlBRMUd0TjdHNGtIUDlHS3RSLXJNMS1jcjFuQU1yVi01Ny1oejNYelVRWWRtZTAxb0JsYzlqWmJfMVlqQ3dTMFVDUEhONFpBVmJzNWtLa0RZTlEwcS1ORTNTUlU3aDFiaG1mUF9FEgQaAggAGpkJEgIIABoAIgAqADIGCAMSAmluOgBCBAgBECNKAFoAcgB6AIJA8wgIIxAAGAAgACosCgngpJXgpYzgpKgVtRV2PhoEa2F1bhoDa29uGg_gpJXgpYzgpKjgpLjgpL4qNQoG4KS44KS-FZEQtj8aAnNhGgngpJDgpLjgpL4aD-CkleCljOCkqOCkuOCkvhoG4KS44KWAKi8KFeCkquCljeCksOCli-Ckn-ClgOCkqBWnxnFAGgdwcm90ZWluGghwcm90ZWlucyo7Cg_gpKrgpL7gpIngpKHgpLAVnSFjQBoGcG93ZGVyGhvgpLjgpKrgpY3gpLLgpYDgpK7gpYfgpILgpJ8qZQoM4KS44KSs4KS44KWHFU3Y5T8aBXNhYnNlGgZzYWJzaGEaCHNhaGFiYXNhGgVzYmFzYRoFc3Vic2EaDOCkuOCkrOCkuOCkvhob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KroBCg_gpIXgpJrgpY3gpJvgpL4VdBOWPxoFYWNjaGEaBGFjaGEaBmFjaGNoYRoFYWNoaGEaD-CkheCkmuCljeCkm-ClhxoJ4KSf4KWJ4KSqGgngpKDgpYDgpJUaD-CkrOClh-CkuOCljeCknxoP4KSs4KWH4KS54KSk4KSwGhXgpKzgpYfgpLngpKTgpLDgpYDgpKgaCeCkuOCkueClgBob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KhUKBuCkueCliBV4agBAGgFoGgNoYWkykQIvZ290bz91cmw9Q0FFU3dBRUI2enN3RlFwZGNYNTJvaXpFUXJRS0RGaFBEM2t5Uk83dnpDMWZzOVhPbFZ2eklNdzdaTUhVa2NWSWdHQzU3cmhYUHc2QXZHaXc0OWI0VnltaHZXTFB6U2pXSWdKX0VxblpHUlBIQS1hdHRoQ3pDdk5paGhGcDNjRlBvekhQYUo3VmpPaUtUV1d6VHgxcjltRkpLZng0a1ZvVFpUdURxRXBrQU1QTEg5Q3NWeGYweG43WVowX1llZ1JmTDd0X1Y0dGRPZ3ZBMENZYjJ3UnRBUHFMWm5fYXZYbTNBRGxwQUcxcVJGTFFBWG5jUHZCeUVZVVBTWDdNWXlzWU5zbE82Snc6gwEyMDI2IOCkleClhyA3IOCkuOCksOCljeCkteCktuCljeCksOClh-Ckt-CljeCkoCA8Yj7gpKrgpY3gpLDgpYvgpJ_gpYDgpKgg4KSq4KS-4KSJ4KSh4KSwPC9iPiAo4KS44KWN4KS14KS-4KSmIC4uLiAtIFRyZWVsaW5lIFJldmlld0LAAeCkuOCksOCljeCkteCktuCljeCksOClh-Ckt-CljeCkoCDgpJrgpK_gpKg6IDxiPuCkkeCkquCljeCkn-Ckv-CkruCkriDgpKjgpY3gpK_gpYLgpJ_gpY3gpLDgpL_gpLbgpKgg4KSX4KWL4KSy4KWN4KShIDEwMCUg4KS14KWN4KS54KWHIOCkquCljeCksOCli-Ckn-ClgOCkqDwvYj4g4KSV4KWLIOCkueCkruCkvuCksOCkviZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "Treeline Review"
+      },
+      {
+        "position": 6,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स ...",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsAEB6zswFQK7GVxhmI1N6H1o6Vb8bEaNJUgCFvib4OKShC5djfFAQ4hMeD2V4F7rxFFX9zQP2J1UDl8hG3TvH_NesUl5hnwMMMIfzBVhqIRO-gpQ7ZkHaqcn5-nlx0_spRn8zrzOG1ATJJc_VJit7OcW1vPK4PxfSoQIblVsDXoS70209pkANbqd0Pl9YjSsEok8OUW992ntrK5dT6xigIcaReDyshJk0ooL6f9nq2mn4A&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQFnoECCsQAQ&uoh=1",
+        "displayed_link": "https://www.mensxp.com › ... › बॉडी बिल्डिंग",
+        "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBgCdASocABwAPrUurVanIacnG_DgFolsAJ0voh0GsGMAmlgrwPb8wkMuZsvh2CgVGkEE3tcPgWAA_viuLt9jd9qgo-KJ7_6QvXmSYP4YNLVf8nK1wvDo3o_O1QqLbFe0VW5FR8E6moS0vRDawbFNr03bnDcDifkFi5ja_3ll-oVETGpYnhZ-o4XOBNML_dU6CAPytbgMoa7Y4xZkDCBlRIOUk2XwT3BXoXgbZD43KU51mvJ-a5WG0Wp4Pu54NSo5-IPQyzaVB5zoZhMMxOXilVFmz1ohAfwP2nj_c__jewa6K6rCgAAA.webp",
+        "snippet": "1. ऑप्टिमम न्यूट्रिशन (ऑन) 100% व्हे स्टेन्डर्ड (Optimum Nutrition (ON) 100% Whey Gold Standard) · 2. अल्टीमेट ...",
+        "snippet_highlighted_words": [
+          "ऑप्टिमम न्यूट्रिशन (ऑन) 100% व्हे स्टेन्डर्"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "1. ऑप्टिमम न्यूट्रिशन (ऑन) 100% व्हे स्टेन्डर्ड (Optimum Nutrition (ON) 100% Whey Gold Standard) · 2. अल्टीमेट ...",
+            "source_info_link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+            "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBgCdASocABwAPrUurVanIacnG_DgFolsAJ0voh0GsGMAmlgrwPb8wkMuZsvh2CgVGkEE3tcPgWAA_viuLt9jd9qgo-KJ7_6QvXmSYP4YNLVf8nK1wvDo3o_O1QqLbFe0VW5FR8E6moS0vRDawbFNr03bnDcDifkFi5ja_3ll-oVETGpYnhZ-o4XOBNML_dU6CAPytbgMoa7Y4xZkDCBlRIOUk2XwT3BXoXgbZD43KU51mvJ-a5WG0Wp4Pu54NSo5-IPQyzaVB5zoZhMMxOXilVFmz1ohAfwP2nj_c__jewa6K6rCgAAA.webp"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZRSzdHVnhobUkxTjZIMW82VmI4YkVhTkpVZ0NGdmliNE9LU2hDNWRqZkZBUTRoTWVEMlY0RjdyeEZGWDl6UVAySjFVRGw4aEczVHZIX05lc1VsNWhud01NTUlmekJWaHFJUk8tZ3BRN1prSGFxY241LW5seDBfc3BSbjh6cnpPRzFBVEpKY19WSml0N09jVzF2UEs0UHhmU29RSWJsVnNEWG9TNzAyMDlwa0FOYnFkMFBsOVlqU3NFb2s4T1VXOTkybnRySzVkVDZ4aWdJY2FSZUR5c2hKazBvb0w2ZjlucTJtbjRBEgQaAggAGqYJEgIIABoAIgAqADIGCAESAmluOgBCBAgBECNKAFoAcgB6AIJAgAkIIxAAGAAgACosCgngpJXgpYzgpKgVDJcXQBoEa2F1bhoDa29uGg_gpJXgpYzgpKjgpLjgpL4qNQoG4KS44KS-Ff4tOEAaAnNhGgngpJDgpLjgpL4aD-CkleCljOCkqOCkuOCkvhoG4KS44KWAKi8KFeCkquCljeCksOCli-Ckn-ClgOCkqBWCtgpBGgdwcm90ZWluGghwcm90ZWlucyo7Cg_gpKrgpL7gpIngpKHgpLAVoqPHQBoGcG93ZGVyGhvgpLjgpKrgpY3gpLLgpYDgpK7gpYfgpILgpJ8qZQoM4KS44KSs4KS44KWHFboO2z8aBXNhYnNlGgZzYWJzaGEaCHNhaGFiYXNhGgVzYmFzYRoFc3Vic2EaDOCkuOCkrOCkuOCkvhob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KroBCg_gpIXgpJrgpY3gpJvgpL4VdRKzPxoFYWNjaGEaBGFjaGEaBmFjaGNoYRoFYWNoaGEaD-CkheCkmuCljeCkm-ClhxoJ4KSf4KWJ4KSqGgngpKDgpYDgpJUaD-CkrOClh-CkuOCljeCknxoP4KSs4KWH4KS54KSk4KSwGhXgpKzgpYfgpLngpKTgpLDgpYDgpKgaCeCkuOCkueClgBob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KhUKBuCkueCliBVSuMJAGgFoGgNoYWky_AEvZ290bz91cmw9Q0FFU3NBRUI2enN3RlFLN0dWeGhtSTFONkgxbzZWYjhiRWFOSlVnQ0Z2aWI0T0tTaEM1ZGpmRkFRNGhNZUQyVjRGN3J4RkZYOXpRUDJKMVVEbDhoRzNUdkhfTmVzVWw1aG53TU1NSWZ6QlZocUlSTy1ncFE3WmtIYXFjbjUtbmx4MF9zcFJuOHpyek9HMUFUSkpjX1ZKaXQ3T2NXMXZQSzRQeGZTb1FJYmxWc0RYb1M3MDIwOXBrQU5icWQwUGw5WWpTc0VvazhPVVc5OTJudHJLNWRUNnhpZ0ljYVJlRHlzaEprMG9vTDZmOW5xMm1uNEE6jgE8Yj5Qcm90ZWluIFBvd2RlcjwvYj4gZm9yIE1lbjogNSDgpKzgpYfgpLjgpY3gpJ8g4KS14KWN4KS54KWHIDxiPuCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLA8L2I-IOCkruCkuOCksuCljeCkuCDgpKzgpL_gpLLgpY3gpKEgLi4uQtcBMS4gPGI-4KSR4KSq4KWN4KSf4KS_4KSu4KSuIOCkqOCljeCkr-ClguCkn-CljeCksOCkv-CktuCkqCAo4KSR4KSoKSAxMDAlIOCkteCljeCkueClhyDgpLjgpY3gpJ_gpYfgpKjgpY3gpKHgpLDgpY08L2I-4KShIChPcHRpbXVtIE51dHJpdGlvbiAoT04pIDEwMCUgV2hleSBHb2xkIFN0YW5kYXJkKSAmbWlkZG90OyAyLiDgpIXgpLLgpY3gpJ_gpYDgpK7gpYfgpJ8mbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZRSzdHVnhobUkxTjZIMW82VmI4YkVhTkpVZ0NGdmliNE9LU2hDNWRqZkZBUTRoTWVEMlY0RjdyeEZGWDl6UVAySjFVRGw4aEczVHZIX05lc1VsNWhud01NTUlmekJWaHFJUk8tZ3BRN1prSGFxY241LW5seDBfc3BSbjh6cnpPRzFBVEpKY19WSml0N09jVzF2UEs0UHhmU29RSWJsVnNEWG9TNzAyMDlwa0FOYnFkMFBsOVlqU3NFb2s4T1VXOTkybnRySzVkVDZ4aWdJY2FSZUR5c2hKazBvb0w2ZjlucTJtbjRBEgQaAggAGqYJEgIIABoAIgAqADIGCAESAmluOgBCBAgBECNKAFoAcgB6AIJAgAkIIxAAGAAgACosCgngpJXgpYzgpKgVDJcXQBoEa2F1bhoDa29uGg_gpJXgpYzgpKjgpLjgpL4qNQoG4KS44KS-Ff4tOEAaAnNhGgngpJDgpLjgpL4aD-CkleCljOCkqOCkuOCkvhoG4KS44KWAKi8KFeCkquCljeCksOCli-Ckn-ClgOCkqBWCtgpBGgdwcm90ZWluGghwcm90ZWlucyo7Cg_gpKrgpL7gpIngpKHgpLAVoqPHQBoGcG93ZGVyGhvgpLjgpKrgpY3gpLLgpYDgpK7gpYfgpILgpJ8qZQoM4KS44KSs4KS44KWHFboO2z8aBXNhYnNlGgZzYWJzaGEaCHNhaGFiYXNhGgVzYmFzYRoFc3Vic2EaDOCkuOCkrOCkuOCkvhob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KroBCg_gpIXgpJrgpY3gpJvgpL4VdRKzPxoFYWNjaGEaBGFjaGEaBmFjaGNoYRoFYWNoaGEaD-CkheCkmuCljeCkm-ClhxoJ4KSf4KWJ4KSqGgngpKDgpYDgpJUaD-CkrOClh-CkuOCljeCknxoP4KSs4KWH4KS54KSk4KSwGhXgpKzgpYfgpLngpKTgpLDgpYDgpKgaCeCkuOCkueClgBob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KhUKBuCkueCliBVSuMJAGgFoGgNoYWky_AEvZ290bz91cmw9Q0FFU3NBRUI2enN3RlFLN0dWeGhtSTFONkgxbzZWYjhiRWFOSlVnQ0Z2aWI0T0tTaEM1ZGpmRkFRNGhNZUQyVjRGN3J4RkZYOXpRUDJKMVVEbDhoRzNUdkhfTmVzVWw1aG53TU1NSWZ6QlZocUlSTy1ncFE3WmtIYXFjbjUtbmx4MF9zcFJuOHpyek9HMUFUSkpjX1ZKaXQ3T2NXMXZQSzRQeGZTb1FJYmxWc0RYb1M3MDIwOXBrQU5icWQwUGw5WWpTc0VvazhPVVc5OTJudHJLNWRUNnhpZ0ljYVJlRHlzaEprMG9vTDZmOW5xMm1uNEE6jgE8Yj5Qcm90ZWluIFBvd2RlcjwvYj4gZm9yIE1lbjogNSDgpKzgpYfgpLjgpY3gpJ8g4KS14KWN4KS54KWHIDxiPuCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLA8L2I-IOCkruCkuOCksuCljeCkuCDgpKzgpL_gpLLgpY3gpKEgLi4uQtcBMS4gPGI-4KSR4KSq4KWN4KSf4KS_4KSu4KSuIOCkqOCljeCkr-ClguCkn-CljeCksOCkv-CktuCkqCAo4KSR4KSoKSAxMDAlIOCkteCljeCkueClhyDgpLjgpY3gpJ_gpYfgpKjgpY3gpKHgpLDgpY08L2I-4KShIChPcHRpbXVtIE51dHJpdGlvbiAoT04pIDEwMCUgV2hleSBHb2xkIFN0YW5kYXJkKSAmbWlkZG90OyAyLiDgpIXgpLLgpY3gpJ_gpYDgpK7gpYfgpJ8mbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "MensXP"
+      },
+      {
+        "position": 7,
+        "title": "प्रोटीन पाउडर के फायदे एवं नुकसान किस प्रकार के हैं",
+        "link": "https://www.healthkart.com/connect/benefits-of-protein-powder-in-hindi/?srsltid=AU7gw4VJBN8_PyuOZIbPtziQul5W7D6HUIzf2c-yA9DXIz7HIWm8xUJA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxAEB6zswFUHLyJfREQTrSHWzXf-1ZZADLNticgbZFMdePAXxYPb5X98cHddc9LwCr4bW5QMxXp3ch2hMMaSOvnaNSjeSHNyH-H6jQ52LmjLGBg4uvLTpSj2a_9hVpwIiuFuecrqOWwCKGOMNM_G8XPFEqqADkIeoPKFZmsZz2LxNZnz7YfQO5d57l31HEnoG3lIWm7uN2axImEXqa5OQZ5LUN35L2r2CrFUhv1I8dB3CPjG5IeytHdR0apx4cx4kS79dVL3S&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQFnoECCoQAQ&uoh=1",
+        "displayed_link": "https://www.healthkart.com › Home › Diet & Nutrition",
+        "favicon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAABwBQCdASocABwAPtE-tFooIigoFAEAGglsALEfNDmfprjAXZXvI7dShX-HWAMPUY9CrtgwANJj2_tC51KWQ0MnPY5jKsjie1wVsxs7_ML7bZrcP_-lzIMO39VODzL5B4n_9rQ_a0PzLF-_8jexnK_d-ojHmiYT116Da8si0d9OQ4rM_H7Uo2WQPf1M4Bn8xLu5ood-rTrJ4ldJdbNGEUdRx_01fFJwjsR9pC-7SCqrfRHnxAxtpy4OpZtT3gfGIwy9nZog76nXu4hs3ci1jQKAAAA.webp",
+        "snippet": "प्रोटीन पाउडर खाने के फायदे में से एक है आपके शरीर में मेटाबोलिज्म को बढ़ावा। प्रोटीन ...",
+        "snippet_highlighted_words": [
+          "प्रोटीन पाउडर"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "प्रोटीन पाउडर खाने के फायदे में से एक है आपके शरीर में मेटाबोलिज्म को बढ़ावा। प्रोटीन ...",
+            "source_info_link": "https://www.healthkart.com/connect/benefits-of-protein-powder-in-hindi/?srsltid=AU7gw4VJBN8_PyuOZIbPtziQul5W7D6HUIzf2c-yA9DXIz7HIWm8xUJA",
+            "icon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAABwBQCdASocABwAPtE-tFooIigoFAEAGglsALEfNDmfprjAXZXvI7dShX-HWAMPUY9CrtgwANJj2_tC51KWQ0MnPY5jKsjie1wVsxs7_ML7bZrcP_-lzIMO39VODzL5B4n_9rQ_a0PzLF-_8jexnK_d-ojHmiYT116Da8si0d9OQ4rM_H7Uo2WQPf1M4Bn8xLu5ood-rTrJ4ldJdbNGEUdRx_01fFJwjsR9pC-7SCqrfRHnxAxtpy4OpZtT3gfGIwy9nZog76nXu4hs3ci1jQKAAAA.webp"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYCL2dvdG8_dXJsPUNBRVN4QUVCNnpzd0ZVSEx5SmZSRVFUclNIV3pYZi0xWlpBRExOdGljZ2JaRk1kZVBBWHhZUGI1WDk4Y0hkZGM5THdDcjRiVzVRTXhYcDNjaDJoTU1hU092bmFOU2plU0hOeUgtSDZqUTUyTG1qTEdCZzR1dkxUcFNqMmFfOWhWcHdJaXVGdWVjcnFPV3dDS0dPTU5NX0c4WFBGRXFxQURrSWVvUEtGWm1zWnoyTHhOWm56N1lmUU81ZDU3bDMxSEVub0czbElXbTd1TjJheEltRVhxYTVPUVo1TFVOMzVMMnIyQ3JGVWh2MUk4ZEIzQ1BqRzVJZXl0SGRSMGFweDRjeDRrUzc5ZFZMM1MSBBoCCAAajQkSABoAIgAqADIGCAESAmluOgBCBAgBECNKAFoAcgB6AIJA6QgIIxAAGAAgACosCgngpJXgpYzgpKgVAAAAABoEa2F1bhoDa29uGg_gpJXgpYzgpKjgpLjgpL4qNQoG4KS44KS-FWB2yz8aAnNhGgngpJDgpLjgpL4aD-CkleCljOCkqOCkuOCkvhoG4KS44KWAKi8KFeCkquCljeCksOCli-Ckn-ClgOCkqBXWadlAGgdwcm90ZWluGghwcm90ZWlucyo7Cg_gpKrgpL7gpIngpKHgpLAVmzG6QBoGcG93ZGVyGhvgpLjgpKrgpY3gpLLgpYDgpK7gpYfgpILgpJ8qZQoM4KS44KSs4KS44KWHFV1gyj8aBXNhYnNlGgZzYWJzaGEaCHNhaGFiYXNhGgVzYmFzYRoFc3Vic2EaDOCkuOCkrOCkuOCkvhob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KroBCg_gpIXgpJrgpY3gpJvgpL4VkKD0PhoFYWNjaGEaBGFjaGEaBmFjaGNoYRoFYWNoaGEaD-CkheCkmuCljeCkm-ClhxoJ4KSf4KWJ4KSqGgngpKDgpYDgpJUaD-CkrOClh-CkuOCljeCknxoP4KSs4KWH4KS54KSk4KSwGhXgpKzgpYfgpLngpKTgpLDgpYDgpKgaCeCkuOCkueClgBob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KhUKBuCkueCliBV3R7VAGgFoGgNoYWkyvgEvZ290bz91cmw9Q0FFU2dnRUI2enN3RmZOZnhSZW1ZNDlJSWdNaGxXbUVYR1V0bUZWMWdWM2gwOHZDeVRPdEtjTWFVM2VxbkowMjZZWldqVV94aFlUc2tiemRaZmpOR280elYyM3FwMjdtRDdEckZXM09CT0J3LU5VU1d5Mi1tN0RDZmVDU3UwemRVYTd1d3VYY3BqbTczR1dyczZmVUFpTzUtbGQ3OXFhaWR1cmJocmZjaUV3cGhDeVNxRGF6OpsBPGI-4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCkquCkvuCkieCkoeCksDwvYj4g4KSV4KWHIOCkq-CkvuCkr-CkpuClhyDgpI_gpLXgpIIg4KSo4KWB4KSV4KS44KS-4KSoIOCkleCkv-CkuCDgpKrgpY3gpLDgpJXgpL7gpLAg4KSV4KWHIOCkueCliOCkgiAtIEhlYWx0aEthcnRC8QE8Yj7gpKrgpY3gpLDgpYvgpJ_gpYDgpKgg4KSq4KS-4KSJ4KSh4KSwPC9iPiDgpJbgpL7gpKjgpYcg4KSV4KWHIOCkq-CkvuCkr-CkpuClhyDgpK7gpYfgpIIg4KS44KWHIOCkj-CklSDgpLngpYgg4KSG4KSq4KSV4KWHIOCktuCksOClgOCksCDgpK7gpYfgpIIg4KSu4KWH4KSf4KS-4KSs4KWL4KSy4KS_4KSc4KWN4KSuIOCkleCliyDgpKzgpKLgpLzgpL7gpLXgpL7gpaQg4KSq4KWN4KSw4KWL4KSf4KWA4KSoJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYCL2dvdG8_dXJsPUNBRVN4QUVCNnpzd0ZVSEx5SmZSRVFUclNIV3pYZi0xWlpBRExOdGljZ2JaRk1kZVBBWHhZUGI1WDk4Y0hkZGM5THdDcjRiVzVRTXhYcDNjaDJoTU1hU092bmFOU2plU0hOeUgtSDZqUTUyTG1qTEdCZzR1dkxUcFNqMmFfOWhWcHdJaXVGdWVjcnFPV3dDS0dPTU5NX0c4WFBGRXFxQURrSWVvUEtGWm1zWnoyTHhOWm56N1lmUU81ZDU3bDMxSEVub0czbElXbTd1TjJheEltRVhxYTVPUVo1TFVOMzVMMnIyQ3JGVWh2MUk4ZEIzQ1BqRzVJZXl0SGRSMGFweDRjeDRrUzc5ZFZMM1MSBBoCCAAajQkSABoAIgAqADIGCAESAmluOgBCBAgBECNKAFoAcgB6AIJA6QgIIxAAGAAgACosCgngpJXgpYzgpKgVAAAAABoEa2F1bhoDa29uGg_gpJXgpYzgpKjgpLjgpL4qNQoG4KS44KS-FWB2yz8aAnNhGgngpJDgpLjgpL4aD-CkleCljOCkqOCkuOCkvhoG4KS44KWAKi8KFeCkquCljeCksOCli-Ckn-ClgOCkqBXWadlAGgdwcm90ZWluGghwcm90ZWlucyo7Cg_gpKrgpL7gpIngpKHgpLAVmzG6QBoGcG93ZGVyGhvgpLjgpKrgpY3gpLLgpYDgpK7gpYfgpILgpJ8qZQoM4KS44KSs4KS44KWHFV1gyj8aBXNhYnNlGgZzYWJzaGEaCHNhaGFiYXNhGgVzYmFzYRoFc3Vic2EaDOCkuOCkrOCkuOCkvhob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KroBCg_gpIXgpJrgpY3gpJvgpL4VkKD0PhoFYWNjaGEaBGFjaGEaBmFjaGNoYRoFYWNoaGEaD-CkheCkmuCljeCkm-ClhxoJ4KSf4KWJ4KSqGgngpKDgpYDgpJUaD-CkrOClh-CkuOCljeCknxoP4KSs4KWH4KS54KSk4KSwGhXgpKzgpYfgpLngpKTgpLDgpYDgpKgaCeCkuOCkueClgBob4KS44KSs4KS44KWH4KSF4KSa4KWN4KSb4KS-KhUKBuCkueCliBV3R7VAGgFoGgNoYWkyvgEvZ290bz91cmw9Q0FFU2dnRUI2enN3RmZOZnhSZW1ZNDlJSWdNaGxXbUVYR1V0bUZWMWdWM2gwOHZDeVRPdEtjTWFVM2VxbkowMjZZWldqVV94aFlUc2tiemRaZmpOR280elYyM3FwMjdtRDdEckZXM09CT0J3LU5VU1d5Mi1tN0RDZmVDU3UwemRVYTd1d3VYY3BqbTczR1dyczZmVUFpTzUtbGQ3OXFhaWR1cmJocmZjaUV3cGhDeVNxRGF6OpsBPGI-4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCkquCkvuCkieCkoeCksDwvYj4g4KSV4KWHIOCkq-CkvuCkr-CkpuClhyDgpI_gpLXgpIIg4KSo4KWB4KSV4KS44KS-4KSoIOCkleCkv-CkuCDgpKrgpY3gpLDgpJXgpL7gpLAg4KSV4KWHIOCkueCliOCkgiAtIEhlYWx0aEthcnRC8QE8Yj7gpKrgpY3gpLDgpYvgpJ_gpYDgpKgg4KSq4KS-4KSJ4KSh4KSwPC9iPiDgpJbgpL7gpKjgpYcg4KSV4KWHIOCkq-CkvuCkr-CkpuClhyDgpK7gpYfgpIIg4KS44KWHIOCkj-CklSDgpLngpYgg4KSG4KSq4KSV4KWHIOCktuCksOClgOCksCDgpK7gpYfgpIIg4KSu4KWH4KSf4KS-4KSs4KWL4KSy4KS_4KSc4KWN4KSuIOCkleCliyDgpKzgpKLgpLzgpL7gpLXgpL7gpaQg4KSq4KWN4KSw4KWL4KSf4KWA4KSoJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "HealthKart"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "जिम के लिए सबसे अच्छा प्रोटीन कौन सा है",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&q=%E0%A4%9C%E0%A4%BF%E0%A4%AE+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88&sa=X&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ1QJ6BAgjEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%9C%E0%A4%BF%E0%A4%AE+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88"
+      },
+      {
+        "block_position": 1,
+        "query": "महिलाओं के लिए सबसे अच्छा प्रोटीन पाउडर",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&q=%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0&sa=X&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ1QJ6BAg0EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0"
+      },
+      {
+        "block_position": 1,
+        "query": "सबसे अच्छा व्हे प्रोटीन कौन सा है",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&q=%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88&sa=X&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ1QJ6BAgyEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88"
+      },
+      {
+        "block_position": 1,
+        "query": "Sabse best protein kaun si company ka hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&q=Sabse+best+protein+kaun+si+company+ka+hai&sa=X&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ1QJ6BAgwEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Sabse+best+protein+kaun+si+company+ka+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "प्रोटीन पाउडर प्राइस 1kg",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&q=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B8+1kg&sa=X&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ1QJ6BAgpEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B8+1kg"
+      },
+      {
+        "block_position": 1,
+        "query": "Whey protein kaun sa hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&q=Whey+protein+kaun+sa+hai&sa=X&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ1QJ6BAgnEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Whey+protein+kaun+sa+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "India ka sabse best protein kaun sa hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&q=India+ka+sabse+best+protein+kaun+sa+hai&sa=X&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ1QJ6BAgmEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=India+ka+sabse+best+protein+kaun+sa+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "World ka sabse achcha protein kaun sa hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&q=World+ka+sabse+achcha+protein+kaun+sa+hai&sa=X&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ1QJ6BAgkEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=World+ka+sabse+achcha+protein+kaun+sa+hai"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&ei=gevEas3ZCtuTwt0PycSjoQo&start=10&sa=N&sstk=AS6-VmKP-mjfQgoX6AAq0HXTs69KCUhHhM97oi6KCzbJsbVyuFR-xlRMeoMjhXbPXu5ZAOu5fOwImlHS54K030mDquoT3p3m_hgYcA&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ8NMDegQIPhAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&ei=gevEas3ZCtuTwt0PycSjoQo&start=10&sa=N&sstk=AS6-VmKP-mjfQgoX6AAq0HXTs69KCUhHhM97oi6KCzbJsbVyuFR-xlRMeoMjhXbPXu5ZAOu5fOwImlHS54K030mDquoT3p3m_hgYcA&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ8tMDegQIPhAE",
+        "3": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&ei=gevEas3ZCtuTwt0PycSjoQo&start=20&sa=N&sstk=AS6-VmKP-mjfQgoX6AAq0HXTs69KCUhHhM97oi6KCzbJsbVyuFR-xlRMeoMjhXbPXu5ZAOu5fOwImlHS54K030mDquoT3p3m_hgYcA&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ8tMDegQIPhAG",
+        "4": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&ei=gevEas3ZCtuTwt0PycSjoQo&start=30&sa=N&sstk=AS6-VmKP-mjfQgoX6AAq0HXTs69KCUhHhM97oi6KCzbJsbVyuFR-xlRMeoMjhXbPXu5ZAOu5fOwImlHS54K030mDquoT3p3m_hgYcA&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ8tMDegQIPhAI",
+        "5": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&ei=gevEas3ZCtuTwt0PycSjoQo&start=40&sa=N&sstk=AS6-VmKP-mjfQgoX6AAq0HXTs69KCUhHhM97oi6KCzbJsbVyuFR-xlRMeoMjhXbPXu5ZAOu5fOwImlHS54K030mDquoT3p3m_hgYcA&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ8tMDegQIPhAK",
+        "6": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&ei=gevEas3ZCtuTwt0PycSjoQo&start=50&sa=N&sstk=AS6-VmKP-mjfQgoX6AAq0HXTs69KCUhHhM97oi6KCzbJsbVyuFR-xlRMeoMjhXbPXu5ZAOu5fOwImlHS54K030mDquoT3p3m_hgYcA&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ8tMDegQIPhAM",
+        "7": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&ei=gevEas3ZCtuTwt0PycSjoQo&start=60&sa=N&sstk=AS6-VmKP-mjfQgoX6AAq0HXTs69KCUhHhM97oi6KCzbJsbVyuFR-xlRMeoMjhXbPXu5ZAOu5fOwImlHS54K030mDquoT3p3m_hgYcA&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ8tMDegQIPhAO",
+        "8": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&ei=gevEas3ZCtuTwt0PycSjoQo&start=70&sa=N&sstk=AS6-VmKP-mjfQgoX6AAq0HXTs69KCUhHhM97oi6KCzbJsbVyuFR-xlRMeoMjhXbPXu5ZAOu5fOwImlHS54K030mDquoT3p3m_hgYcA&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ8tMDegQIPhAQ",
+        "9": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&ei=gevEas3ZCtuTwt0PycSjoQo&start=80&sa=N&sstk=AS6-VmKP-mjfQgoX6AAq0HXTs69KCUhHhM97oi6KCzbJsbVyuFR-xlRMeoMjhXbPXu5ZAOu5fOwImlHS54K030mDquoT3p3m_hgYcA&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ8tMDegQIPhAS",
+        "10": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnupaQRSy2FGys08lfGFLR_xiV5sCA:1791290241183&ei=gevEas3ZCtuTwt0PycSjoQo&start=90&sa=N&sstk=AS6-VmKP-mjfQgoX6AAq0HXTs69KCUhHhM97oi6KCzbJsbVyuFR-xlRMeoMjhXbPXu5ZAOu5fOwImlHS54K030mDquoT3p3m_hgYcA&ved=2ahUKEwiNno-UtKWXAxXbibAFHUniKKQQ8tMDegQIPhAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&start=90"
+      }
+    }
+  }
+}

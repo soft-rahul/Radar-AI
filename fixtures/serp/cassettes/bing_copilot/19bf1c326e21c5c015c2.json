@@ -1,0 +1,388 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "नंबर वन व्हे प्रोटीन पाउडर कौन सा है?",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:35:07+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eac6874d507fc2719fe1",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/2t9uG-4pECd6DoM-apUSKMe-CGDpyn0tAkVOcCbVtpo/6ac4eac6874d507fc2719fe1.json",
+      "markdown_endpoint": "https://serpapi.com/searches/2t9uG-4pECd6DoM-apUSKMe-CGDpyn0tAkVOcCbVtpo/6ac4eac6874d507fc2719fe1.md",
+      "created_at": "2026-10-06 12:34:14 UTC",
+      "processed_at": "2026-10-06 12:34:14 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88%3F&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/2t9uG-4pECd6DoM-apUSKMe-CGDpyn0tAkVOcCbVtpo/6ac4eac6874d507fc2719fe1.html",
+      "total_time_taken": 53.52
+    },
+    "search_parameters": {
+      "q": "नंबर वन व्हे प्रोटीन पाउडर कौन सा है?",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "भारत में उपलब्ध विकल्पों में Optimum Nutrition (ON) Gold Standard 100% Whey को सबसे अच्छा और नंबर‑वन व्हे प्रोटीन माना जाता है, क्योंकि इसमें उच्च प्रोटीन प्रतिशत, कम फैट‑शुगर और भरोसेमंद क्वालिटी मिलती है।",
+    "text_blocks": [
+      {
+        "type": "heading",
+        "snippet": "⭐ भारत में सबसे टॉप और नंबर‑वन माने जाने वाले व्हे प्रोटीन",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "वेब‑रिज़ल्ट के अनुसार, भारत में सबसे ज़्यादा उपयोग और भरोसे वाला व्हे प्रोटीन है:"
+      },
+      {
+        "type": "heading",
+        "snippet": "1. Optimum Nutrition (ON) Gold Standard 100% Whey MensXP",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Optimum Nutrition (ON) Gold Standard 100% Whey"
+        ],
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप प्रोटीन: 24g",
+            "snippet_highlighted_words": [
+              "प्रति स्कूप प्रोटीन:"
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत: 78.94%",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रतिशत:",
+              "78.94%"
+            ]
+          },
+          {
+            "snippet": "फैट: 1g",
+            "snippet_highlighted_words": [
+              "फैट:"
+            ]
+          },
+          {
+            "snippet": "शुगर: 1g",
+            "snippet_highlighted_words": [
+              "शुगर:"
+            ]
+          },
+          {
+            "snippet": "फॉर्म: Whey Isolate + Concentrate",
+            "snippet_highlighted_words": [
+              "फॉर्म:"
+            ]
+          },
+          {
+            "snippet": "BCAAs: 5.5g",
+            "snippet_highlighted_words": [
+              "BCAAs:"
+            ]
+          },
+          {
+            "snippet": "इसे भारत में मिलने वाले व्हे प्रोटीन में सबसे अच्छा माना गया है 1 ।",
+            "snippet_highlighted_words": [
+              "सबसे अच्छा"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. Ultimate Nutrition Prostar 100% Whey MensXP",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Ultimate Nutrition Prostar 100% Whey"
+        ],
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप प्रोटीन: 25g",
+            "snippet_highlighted_words": [
+              "प्रति स्कूप प्रोटीन:"
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत: 83%",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रतिशत:",
+              "83%"
+            ]
+          },
+          {
+            "snippet": "BCAAs: 6g",
+            "snippet_highlighted_words": [
+              "BCAAs:"
+            ]
+          },
+          {
+            "snippet": "हाई प्रोटीन प्रतिशत होने के कारण यह भी टॉप विकल्पों में है।"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. Isopure Low Carb Whey Isolate MensXP",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Isopure Low Carb Whey Isolate"
+        ],
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप प्रोटीन: 25g",
+            "snippet_highlighted_words": [
+              "प्रति स्कूप प्रोटीन:"
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत: 80.64%",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रतिशत:",
+              "80.64%"
+            ]
+          },
+          {
+            "snippet": "100% Isolate, लैक्टोज‑फ्री — कटिंग या लीन फिजिक वालों के लिए बढ़िया।"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "4. Dymatize Elite Whey MensXP",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Dymatize Elite Whey"
+        ],
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप प्रोटीन: 25g",
+            "snippet_highlighted_words": [
+              "प्रति स्कूप प्रोटीन:"
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत: 69.44%",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रतिशत:"
+            ]
+          },
+          {
+            "snippet": "अमीनो एसिड प्रोफाइल अच्छा है।"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "5. Muscletech Nitrotech Whey MensXP",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Muscletech Nitrotech Whey"
+        ],
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप प्रोटीन: 30g",
+            "snippet_highlighted_words": [
+              "प्रति स्कूप प्रोटीन:"
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत: 68.18%",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रतिशत:"
+            ]
+          },
+          {
+            "snippet": "इसमें क्रिएटिन भी शामिल है — मसल गेनर्स के लिए अच्छा।"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ कौन सा नंबर‑वन है?",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "वेब‑रिज़ल्ट के अनुसार: ON Gold Standard Whey को भारत में मिलने वाले व्हे प्रोटीन में सबसे अच्छा (नंबर वन) माना गया है MensXP ।",
+        "snippet_highlighted_words": [
+          "ON Gold Standard Whey",
+          "सबसे अच्छा (नंबर वन)"
+        ],
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "कारण:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "उच्च गुणवत्ता"
+          },
+          {
+            "snippet": "बेहतर प्रोटीन‑टू‑कैलोरी रेश्यो"
+          },
+          {
+            "snippet": "कम फैट और शुगर"
+          },
+          {
+            "snippet": "भरोसेमंद ब्रांड"
+          },
+          {
+            "snippet": "एथलीट्स और बॉडीबिल्डर्स में सबसे लोकप्रिय"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ आपकी ज़रूरत के अनुसार कौन सा चुनें?",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "मसल बिल्डिंग + भरोसेमंद क्वालिटी: ON Gold Standard",
+            "snippet_highlighted_words": [
+              "मसल बिल्डिंग + भरोसेमंद क्वालिटी:"
+            ]
+          },
+          {
+            "snippet": "हाई प्रोटीन प्रतिशत: Ultimate Nutrition Prostar",
+            "snippet_highlighted_words": [
+              "हाई प्रोटीन प्रतिशत:"
+            ]
+          },
+          {
+            "snippet": "लैक्टोज‑फ्री / कटिंग: Isopure Low Carb",
+            "snippet_highlighted_words": [
+              "लैक्टोज‑फ्री / कटिंग:"
+            ]
+          },
+          {
+            "snippet": "मसल गेन + क्रिएटिन: Muscletech Nitrotech",
+            "snippet_highlighted_words": [
+              "मसल गेन + क्रिएटिन:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "अगर आप चाहें तो मैं आपके लक्ष्य (मसल गेन, फैट लॉस, बजट) के अनुसार सबसे सही प्रोटीन भी चुनकर बता सकता हूँ — क्या आप वह बताना चाहेंगे?",
+        "snippet_highlighted_words": [
+          "लक्ष्य (मसल गेन, फैट लॉस, बजट)"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "व्हे प्रोटीन और प्रोटीन पाउडर के फायदे: पूरी गाइड (2026)",
+        "link": "https://imuscles.in/blogs/weight-gainer/%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8-%E0%A4%94%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8-%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%AB%E0%A4%BE%E0%A4%AF%E0%A4%A6%E0%A5%87-%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%80-%E0%A4%97%E0%A4%BE%E0%A4%87%E0%A4%A1-2026",
+        "snippet": "व्हे प्रोटीन और प्रोटीन पाउडर के फायदे, प्रकार, सही खुराक, नुकसान और भारत में सही व्हे चुनने का तरीका — एक आसान, पूरी हिंदी गाइड।",
+        "source": "imuscles.in"
+      },
+      {
+        "index": 1,
+        "title": "प्लांट प्रोटीन पाउडर बनाम व्हे प्रोटीन: आपके लिए कौन सा सही है?",
+        "link": "https://clearcals.com/hi/blogs/plant-protein-vs-whey-protein/",
+        "snippet": "प्लांट प्रोटीन बनाम व्हे प्रोटीन — प्रोटीन की गुणवत्ता, पाचन, मांसपेशियों में वृद्धि, वजन घटाने और अपनी डाइट, लक्ष्यों व बजट के आधार ...",
+        "source": "Clearcals"
+      },
+      {
+        "index": 2,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "हाई क्वालिटी के 'कंप्‍लीट प्रोटीन' को व्हे प्रोटीन (whey protein) कहते हैं। इसमें ...",
+        "source": "MensXP"
+      },
+      {
+        "index": 3,
+        "title": "व्हे प्रोटीन: फायदे और नुकसान, पूरी गाइड (Whey Protein in Hindi)",
+        "link": "https://happytummy.aashirvaad.com/en/hindi/whey-protein-ke-fayde-in-hindi/",
+        "snippet": "क्या आप व्हे प्रोटीन के बारे में जानना चाहते हैं और यह आपके फिटनेस गोल्स को कैसे फ़ायदा पहुँचा सकता है? तो इस पूरी गाइड को पढ़ें।",
+        "source": "Aashirvaad"
+      },
+      {
+        "index": 4,
+        "title": "प्राकृतिक व्हे प्रोटीन पाउडर पोषण",
+        "link": "https://www.snapcalorie.com/nutrition/hi/natural_whey_protein_powder_nutrition.html",
+        "snippet": "प्राकृतिक व्हे प्रोटीन पाउडर एक प्रीमियम प्रोटीन सप्लीमेंट है जो 100% घास-पालने वाली गायों से लाया गया है। इसमें आवश्यक एमिनो एसिड ...",
+        "source": "snapcalorie.com"
+      },
+      {
+        "index": 5,
+        "title": "Protein Powder: व्हे, सोया या पी? जानें कौन है बेस्ट",
+        "link": "https://khabarindiatv.in/protein-powder-whey-vs-soy-which-protein-powder-is-best/",
+        "snippet": "Protein Powder: व्हे, पी और सोया प्रोटीन में अंतर जानें। मसल्स ग्रोथ, रिकवरी और आपकी डाइट के हिसाब से कौन-सा प्रोटीन पाउडर है बेहतर।",
+        "source": "khabarindiatv.in"
+      },
+      {
+        "index": 6,
+        "title": "गलत प्रोटीन पाउडर खरीदकर बर्बाद कर रहे हैं पैसे? समझें व्हे, पी या सोया ...",
+        "link": "https://www.jagran.com/lifestyle/food-news-wasting-money-on-the-wrong-protein-powder-whey-vs-pea-vs-soy-how-to-choose-the-best-one-for-your-body-40307378.html",
+        "snippet": "क्यों है खास: इस सप्लीमेंट में प्रोटीन के साथ-साथ ओमेगा-3 फैटी एसिड, फाइबर और कई तरह के मिनरल्स का खजाना होता है। हालांकि, इसमें सभी 9 जरूरी अमीनो एसिड्स तो होते हैं लेकिन उनका अनुपात थोड़ा ऊपर-नीचे होता है, इसलिए कुछ लोग इसे पूरी तरह से 'कम्प्लीट प्रोटीन' नहीं मानते।",
+        "source": "Dainik Jagran"
+      },
+      {
+        "index": 7,
+        "title": "व्हे प्रोटीन क्या है? Concentrate, Isolate, मात्रा, फायदे, नुकसान और ...",
+        "link": "https://1hindi.com/whey-protein-online-india-hindi/",
+        "snippet": "व्हे प्रोटीन को अक्सर केवल जिम करने वालों का supplement समझा जाता है, लेकिन वास्तव में यह दूध से मिलने वाला एक उच्च गुणवत्ता वाला protein source है ...",
+        "source": "1Hindi"
+      },
+      {
+        "index": 8,
+        "title": "व्हे प्रोटीन क्या है? फायदे, साइड एफ़ेक्ट, खुराक, कीमत | Whey Protein ...",
+        "link": "https://healthygk.com/%e0%a4%b5%e0%a5%8d%e0%a4%b9%e0%a5%87-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%8b%e0%a4%9f%e0%a5%80%e0%a4%a8-%e0%a4%95%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%b9%e0%a5%88-%e0%a4%ab%e0%a4%be%e0%a4%af%e0%a4%a6/",
+        "snippet": "यह सबसे महंगा व्हे प्रोटीन माना जाता है। इसमें 100 प्रतिशत प्रोटीन होता है, जो सबके लिए उचित नहीं है। इसे पचाने में कम समय लगता है ...",
+        "source": "HGK - Your GK Dose"
+      },
+      {
+        "index": 9,
+        "title": "जानिए व्हे प्रोटीन कंसन्ट्रेट vs आइसोलेट: कौन सा चुनें - Whey ...",
+        "link": "https://nakpro.com/blogs/hindi-blogs/%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%8F-%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8-%E0%A4%95%E0%A4%82%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9F-vs-%E0%A4%86%E0%A4%87%E0%A4%B8%E0%A5%8B%E0%A4%B2%E0%A5%87%E0%A4%9F-%E0%A4%95%E0%A5%8C%E0%A4%A8-%E0%A4%B8%E0%A4%BE-%E0%A4%9A%E0%A5%81%E0%A4%A8%E0%A5%87%E0%A4%82-whey-concentrate-vs-isolate-key-differences-best-choice-in-hindi",
+        "snippet": "मार्केट में खासतौर से 3 अलग-अलग प्रकार के व्हे प्रोटीन पाउडर उपलब्ध हैं: आइसोलेट (isolate), कंसन्ट्रेट (concentrate) और हाइड्रोलाइसेट (hydrolysate)। हर एक ...",
+        "source": "NAKPRO NUTRITION"
+      }
+    ]
+  }
+}

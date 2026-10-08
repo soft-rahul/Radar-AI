@@ -1,0 +1,117 @@
+{
+  "readings": [
+    {
+      "answer_id": "q5|copilot|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition Gold Standard 100% Whey या MuscleBlaze Biozyme Performance Whey सबसे लोकप्रिय और असरदार विकल्प हैं"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition Gold Standard 100% Whey या MuscleBlaze Biozyme Performance Whey सबसे लोकप्रिय और असरदार विकल्प हैं"
+        },
+        {
+          "brand": "Bigmuscles",
+          "stance": "recommended",
+          "quote": "यदि आप अतिरिक्त बीसीएए और तेज अवशोषण चाहते हैं, तो Bigmuscles Nutrition Nitra Isolate पर विचार कर सकते हैं।"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "neutral",
+          "quote": "Isopure Low Carb Whey Protein"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q5|copilot|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Whey Concentrate 80% और NAKPRO Whey सबसे भरोसेमंद विकल्प हैं"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Whey Concentrate 80% और NAKPRO Whey सबसे भरोसेमंद विकल्प हैं"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "3) MuscleBlaze Raw Whey Concentrate / Beginner’s Whey"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "neutral",
+          "quote": "4) The Whole Truth Whey Concentrate (Unflavoured)"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS Whey Protein Concentrate 80%",
+          "attribute": "protein_per_serving_g",
+          "value": "~24–27g",
+          "quote": "AS-IT-IS Whey 80% | ~24–27g | Concentrate | सबसे हाई प्रोटीन %, सबसे किफायती"
+        },
+        {
+          "brand": "Nakpro",
+          "product": "NAKPRO Nutrition Whey (Impact / Gold / Perform)",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "NAKPRO Impact/Gold | 24g | Concentrate/Isolate | क्लीन, सस्ता, भरोसेमंद"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Raw Whey Concentrate / Beginner’s Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24–27g",
+          "quote": "MuscleBlaze Raw Whey | 24–27g | Concentrate | Trusted brand, raw & clean"
+        },
+        {
+          "brand": "The Whole Truth",
+          "product": "The Whole Truth Whey Concentrate (Unflavoured)",
+          "attribute": "protein_per_serving_g",
+          "value": "24–26g",
+          "quote": "The Whole Truth Whey | 24–26g | Concentrate | No additives, clean label"
+        }
+      ]
+    },
+    {
+      "answer_id": "q5|copilot|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "BeastLife",
+          "stance": "recommended",
+          "quote": "Stick to trusted brands like BeastLife or AS-IT-IS for verified quality and effectiveness."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "Stick to trusted brands like BeastLife or AS-IT-IS for verified quality and effectiveness."
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q5|copilot|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS ONE Whey Protein Concentrate and BeastLife Pro Concentrate Whey Protein offer excellent options under ₹2000"
+        },
+        {
+          "brand": "BeastLife",
+          "stance": "recommended",
+          "quote": "AS-IT-IS ONE Whey Protein Concentrate and BeastLife Pro Concentrate Whey Protein offer excellent options under ₹2000"
+        }
+      ],
+      "claims": []
+    }
+  ]
+}

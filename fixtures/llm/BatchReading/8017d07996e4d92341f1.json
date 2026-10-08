@@ -1,0 +1,278 @@
+{
+  "readings": [
+    {
+      "answer_id": "q1|copilot|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "गुणवत्ता के आधार पर ON Gold Standard, Prostar और Isopure लगातार टॉप‑रेटेड माने जाते हैं।"
+        },
+        {
+          "brand": "Ultimate Nutrition",
+          "stance": "recommended",
+          "quote": "गुणवत्ता के आधार पर ON Gold Standard, Prostar और Isopure लगातार टॉप‑रेटेड माने जाते हैं।"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "गुणवत्ता के आधार पर ON Gold Standard, Prostar और Isopure लगातार टॉप‑रेटेड माने जाते हैं।"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "neutral",
+          "quote": "4) Dymatize Elite Whey MensXP"
+        },
+        {
+          "brand": "MuscleTech",
+          "stance": "neutral",
+          "quote": "5) Muscletech Nitrotech MensXP"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "MuscleBlaze Biozyme Whey"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Budget में अच्छा | NAKPRO / The Whole Truth"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "Budget में अच्छा | NAKPRO / The Whole Truth"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q1|copilot|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard Whey प्रति स्कूप 24g प्रोटीन, सिर्फ़ 1g फैट, 1g शुगर, और 5.5g BCAA — इसे “सबसे अच्छा” बताया गया है 1 ।"
+        },
+        {
+          "brand": "Ultimate Nutrition",
+          "stance": "recommended",
+          "quote": "संक्षिप्त उत्तर: वेब‑रिज़ल्ट में भारत के टॉप व्हे प्रोटीन में ON Gold Standard, Ultimate Nutrition Prostar, Isopure Low Carb, Dymatize Elite Whey, और Muscletech Nitrotech को सबसे अच्छा बताया गया है MensXP ।"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "संक्षिप्त उत्तर: वेब‑रिज़ल्ट में भारत के टॉप व्हे प्रोटीन में ON Gold Standard, Ultimate Nutrition Prostar, Isopure Low Carb, Dymatize Elite Whey, और Muscletech Nitrotech को सबसे अच्छा बताया गया है MensXP ।"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "recommended",
+          "quote": "संक्षिप्त उत्तर: वेब‑रिज़ल्ट में भारत के टॉप व्हे प्रोटीन में ON Gold Standard, Ultimate Nutrition Prostar, Isopure Low Carb, Dymatize Elite Whey, और Muscletech Nitrotech को सबसे अच्छा बताया गया है MensXP ।"
+        },
+        {
+          "brand": "MuscleTech",
+          "stance": "recommended",
+          "quote": "संक्षिप्त उत्तर: वेब‑रिज़ल्ट में भारत के टॉप व्हे प्रोटीन में ON Gold Standard, Ultimate Nutrition Prostar, Isopure Low Carb, Dymatize Elite Whey, और Muscletech Nitrotech को सबसे अच्छा बताया गया है MensXP ।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "MuscleBlaze Biozyme Whey"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Budget + Quality | NAKPRO Impact, The Whole Truth Whey"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "Budget + Quality | NAKPRO Impact, The Whole Truth Whey"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "प्रति स्कूप 24g प्रोटीन"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard Whey",
+          "attribute": "sugar_g",
+          "value": "1g",
+          "quote": "1g शुगर"
+        },
+        {
+          "brand": "Ultimate Nutrition",
+          "product": "Prostar Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "प्रति स्कूप 25g प्रोटीन"
+        },
+        {
+          "brand": "Isopure",
+          "product": "Low Carb Whey Isolate",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "प्रति स्कूप 25g प्रोटीन"
+        },
+        {
+          "brand": "Dymatize",
+          "product": "Elite Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "प्रति स्कूप 25g प्रोटीन"
+        },
+        {
+          "brand": "MuscleTech",
+          "product": "Nitrotech",
+          "attribute": "protein_per_serving_g",
+          "value": "30g",
+          "quote": "प्रति स्कूप 30g प्रोटीन"
+        }
+      ]
+    },
+    {
+      "answer_id": "q1|copilot|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "According to the expert-ranked list HealthKart , MuscleBlaze Biozyme leads because of:"
+        },
+        {
+          "brand": "TrueBasics",
+          "stance": "recommended",
+          "quote": "TrueBasics Clean Whey (Score: 74/100) — Best for clean-label buyers who want simple ingredients 1 ."
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition Gold Standard (Score: 72/100) — Best international benchmark with Informed Choice certification 1 ."
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Raw Whey Isolate 90",
+          "attribute": "protein_per_serving_g",
+          "value": "27g",
+          "quote": "27g protein per 30g serving"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "Raw Whey Isolate 90",
+          "attribute": "serving_size_g",
+          "value": "30g",
+          "quote": "27g protein per 30g serving"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard",
+          "attribute": "certification",
+          "value": "Informed Choice",
+          "quote": "Informed Choice certification"
+        }
+      ]
+    },
+    {
+      "answer_id": "q1|copilot|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "In summary, MuscleBlaze Biozyme Whey Protein Powder stands out as the top whey protein in India for overall performance"
+        },
+        {
+          "brand": "TrueBasics",
+          "stance": "recommended",
+          "quote": "TrueBasics Clean Whey Protein – A clean-label option mixing isolate and concentrate, providing about 25.2g protein per serving; suitable for those seeking minimal additives 1 ."
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition Gold Standard 100% Whey – Internationally trusted whey blend for those preferring a globally recognized brand, delivering 24g of protein per serving 1 ."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate 80% – Budget-friendly raw whey with sufficient protein content, catering to users seeking value without added flavors 1 ."
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Raw Whey Isolate 90",
+          "attribute": "protein_per_serving_g",
+          "value": "27g",
+          "quote": "27g protein per 30g serving"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "Raw Whey Isolate 90",
+          "attribute": "serving_size_g",
+          "value": "30g",
+          "quote": "27g protein per 30g serving"
+        },
+        {
+          "brand": "TrueBasics",
+          "product": "Clean Whey Protein",
+          "attribute": "protein_per_serving_g",
+          "value": "25.2g",
+          "quote": "providing about 25.2g protein per serving"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard 100% Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "delivering 24g of protein per serving"
+        }
+      ]
+    },
+    {
+      "answer_id": "q2|ai_mode|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "अगर बजट की कोई समस्या नहीं है और बेस्ट क्वालिटी चाहिए: Optimum Nutrition (ON) चुनें।"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "recommended",
+          "quote": "अगर पाचन की दिक्कत (Lactose Intolerance) है: Dymatize ISO100 या Isopure Isolate चुनें।"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "अगर पाचन की दिक्कत (Lactose Intolerance) है: Dymatize ISO100 या Isopure Isolate चुनें।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "अगर आप भारतीय ब्रांड में सबसे अच्छा और पचने में आसान चाहते हैं: MuscleBlaze Biozyme चुनें।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "कम बजट के लिए: AS-IT-IS या Nakpro का रॉ व्हे प्रोटीन ट्राई करें।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "कम बजट के लिए: AS-IT-IS या Nakpro का रॉ व्हे प्रोटीन ट्राई करें।"
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "recommended",
+          "quote": "यदि आप बजट में बिना किसी मिलावट के \"रॉ (Raw) या अनफ्लेवर्ड\" व्हे प्रोटीन चाहते हैं, तो ये ब्रांड्स सबसे सस्ते और भरोसेमंद माने जाते हैं।"
+        }
+      ],
+      "claims": []
+    }
+  ]
+}

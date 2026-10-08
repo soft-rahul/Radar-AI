@@ -1,0 +1,456 @@
+{
+  "request": {
+    "engine": "google",
+    "params": {
+      "q": "beginners ke liye sabse accha whey protein kaun sa hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:38:03+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eba2c4f20f5682a5a35e",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/azutV_YTYI0K1RGmgN3kO_CRYe_-oztQEQGFenQ1b8w/6ac4eba2c4f20f5682a5a35e.json",
+      "markdown_endpoint": "https://serpapi.com/searches/azutV_YTYI0K1RGmgN3kO_CRYe_-oztQEQGFenQ1b8w/6ac4eba2c4f20f5682a5a35e.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/azutV_YTYI0K1RGmgN3kO_CRYe_-oztQEQGFenQ1b8w/6ac4eba2c4f20f5682a5a35e.json_with_pixel_position",
+      "created_at": "2026-10-06 12:37:54 UTC",
+      "processed_at": "2026-10-06 12:37:54 UTC",
+      "google_url": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&oq=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&uule=w+CAIQICILRGVsaGksSW5kaWE&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/azutV_YTYI0K1RGmgN3kO_CRYe_-oztQEQGFenQ1b8w/6ac4eba2c4f20f5682a5a35e.html",
+      "total_time_taken": 9.0
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "beginners ke liye sabse accha whey protein kaun sa hai",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "beginners ke liye sabse accha whey protein kaun sa hai",
+      "total_results": 130,
+      "time_taken_displayed": 0.28,
+      "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+      "spelling_fix": "beginners ke liye sabse accha whey protein kaun sa hai",
+      "showing_results_for": "beginners ke liye sabse accha whey protein kaun sa hai"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Low Budget TOP 9 Whey Protein Powder in INDIA | Save More",
+        "link": "https://www.youtube.com/watch?v=kj4csShFuQA",
+        "thumbnail": "https://serpapi.com/searches/6ac4eba2c4f20f5682a5a35e/images/KWV0fFXTiciiaFzbiVmlE7uS7gfEo30Rsp1NI-NWvjo.jpeg",
+        "channel": "COREFITLAB",
+        "duration": "12:52",
+        "platform": "YouTube",
+        "date": "2 weeks ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQSJWNdnelfgkQA7HVWT68uNfyYJHFEmXI69g"
+      },
+      {
+        "position": 2,
+        "title": "TOP 10 WHEY PROTEIN UNDER RS 2000 FOR STUDENTS",
+        "link": "https://www.youtube.com/watch?v=0XaxQUWQ6Js",
+        "thumbnail": "https://serpapi.com/searches/6ac4eba2c4f20f5682a5a35e/images/RJj2uOKoHShVEgpZDW2JFsGUFezbExXGT_EBSTutmTI.jpeg",
+        "channel": "COREFITLAB",
+        "duration": "6:10",
+        "platform": "YouTube",
+        "date": "14 Jun 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQXCsrF8TY4kB0CrI4XI7XkHz0trkWop87iKQ"
+      },
+      {
+        "position": 3,
+        "title": "Top 10 BEST Whey Protein Under 2000 Rupees",
+        "link": "https://www.youtube.com/watch?v=bJfbnTpkmyk",
+        "thumbnail": "https://serpapi.com/searches/6ac4eba2c4f20f5682a5a35e/images/P6uoPcCddameKsJTuiHfmE6N4WZGPdb8VIzTasK5hJc.jpeg",
+        "channel": "COREFITLAB",
+        "duration": "6:10",
+        "platform": "YouTube",
+        "date": "7 May 2026"
+      },
+      {
+        "position": 4,
+        "title": "Top 10 Whey Protein from 1500 to 3000 Rs",
+        "link": "https://www.youtube.com/watch?v=3tW5HwUkN00",
+        "thumbnail": "https://serpapi.com/searches/6ac4eba2c4f20f5682a5a35e/images/CM_B8i2zfgEVxnq-AfAW_KPtn8WsIXcCOO131V39iCo.jpeg",
+        "channel": "COREFITLAB",
+        "duration": "9:25",
+        "platform": "YouTube",
+        "date": "17 Jul 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQqIioa_Tdv073FKV-grJlfd5xtmXEN7xy8Qw"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "शुरुआती लोगों के लिए सबसे अच्छा प्रोटीन कौन सा है?",
+        "type": "ai_overview",
+        "page_token": "y0IDR3icHdDBbpswAABQ9WdybGLTZmqkqIKAo7jDrW1sgy9TYpO4YEy6sEJz67_sq_Y1rXZ_p_f517-G9t_NuxuG82U1n4_jeHvq-5Ovb03fzfeXj2DmZu_9YW_a1fLHEjwezTr7s0s2b7uEivNZpmzBpfNa4Y3wCXlGMTAhhkzG9znCmII-4lBzCjysyhiQKBvzgMGhIS95mtxVnfupNgugpHUE3occkYyCBBUCPx0iPRA16RolqVFA51vEVWM7kaI7i6pRpn4pUkkowCHvcMkh2PCuhXUhE32VTm0fnmoZAyEstlvL2dWFqhWDbdFb0bCcdNoX22yqGj_Z4D0v6MdziVnm7KRLjaoyg3QBAMvEpAtHjWK-KgmzU_9KBbuaxnciaE-g04USkYbsIr6dvCawDtJxRRSDD4Wgs6N5X0ez_5_rX8duWJ1_96cvMRqAxA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=y0IDR3icHdDBbpswAABQ9WdybGLTZmqkqIKAo7jDrW1sgy9TYpO4YEy6sEJz67_sq_Y1rXZ_p_f517-G9t_NuxuG82U1n4_jeHvq-5Ovb03fzfeXj2DmZu_9YW_a1fLHEjwezTr7s0s2b7uEivNZpmzBpfNa4Y3wCXlGMTAhhkzG9znCmII-4lBzCjysyhiQKBvzgMGhIS95mtxVnfupNgugpHUE3occkYyCBBUCPx0iPRA16RolqVFA51vEVWM7kaI7i6pRpn4pUkkowCHvcMkh2PCuhXUhE32VTm0fnmoZAyEstlvL2dWFqhWDbdFb0bCcdNoX22yqGj_Z4D0v6MdziVnm7KRLjaoyg3QBAMvEpAtHjWK-KgmzU_9KBbuaxnciaE-g04USkYbsIr6dvCawDtJxRRSDD4Wgs6N5X0ez_5_rX8duWJ1_96cvMRqAxA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJWb3pSakJGUWxaNlYydFZTbVpsWm5SVmJrVlhhQzFRYUZoWFpUYzJPSGhTUlZSbFIyWm1NMk5xT0MxQ2VFeEJORk5IWmtwZlVEbHJUbTQ0TUd4a1pYTjFZVzFqU0VWS2VISjNZVVF5ZWtjME16aDVlRWhFWTFkZmR4SVhjV1YyUldGeE5rTk5kVVJGTVdVNFVIRmtaV0Z6VVhjYUlrRkVjM0k1WmxONFlYVjJXVEV3UTA1cE5rZEdRbkZsVlhFellUQllkV0Z6WjNjIiwiZmN2IjoiMyIsImVpIjoicWV2RWFxNkNNdURFMWU4UHFkZWFzUXciLCJxYyI6IkNqWmlaV2RwYm01bGNuTWdhMlVnYkdsNVpTQnpZV0p6WlNCaFkyTm9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzB0RlFNX29nRUNhR2siLCJxdWVzdGlvbiI6IuCktuClgeCksOClgeCkhuCkpOClgCDgpLLgpYvgpJfgpYvgpIIg4KSV4KWHIOCksuCkv+CkjyDgpLjgpKzgpLjgpYcg4KSF4KSa4KWN4KSb4KS+IOCkquCljeCksOCli+Ckn+ClgOCkqCDgpJXgpYzgpKgg4KS44KS+IOCkueCliD8iLCJsayI6IkdoMWlaV2RwYm01bGNpQnJaU0JzYVhsbElHSmxjM1FnY0hKdmRHVnBiZyIsImJzIjoiYzcxU3UycENRUkJsMjYyc0wwajJGMkloZG41R3RBb0lxMXdpTjZJMmRvbVFoNmhZU1VBTEVXWWxpTWhGVUx5TmZvTl9jRDRsYzJkVEJRSkdpTTNzbkhtY003dXplcUYwVjRGMmNNLWdXT3dyaU9DZURHZ0Qxd2Q5aU8weUhzTzlTWmlPb0JGN2U5QXF0UkotQVUzZ2hxQXA2TUI0S1NDVzdoa1RnajQ5eDhCN2UxLVd3TDBYY3pkQnRtSnJZUlRacG5td3BoNTJyS25ZVnRzMG1vOXRHMFo2cTNUcGgtQ0tEd0VzTTJPOEZTX3h5VC1wbDRPN2YtTFdVNlh2T2NvUEtQU3hjRW5WR1pSTEpnTDFRSFBmLWN2NGhTQl9tWVEtS1YyOTVkeENWcHEyck9YaWZ0dHBqSVQ1Y042OEcybi1ycF9JOEluX0xNVmNMYkJYVWNxb0x3IiwiaWQiOiJmY19xZXZFYXE2Q011REUxZThQcWRlYXNRd18xIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJWb3pSakJGUWxaNlYydFZTbVpsWm5SVmJrVlhhQzFRYUZoWFpUYzJPSGhTUlZSbFIyWm1NMk5xT0MxQ2VFeEJORk5IWmtwZlVEbHJUbTQ0TUd4a1pYTjFZVzFqU0VWS2VISjNZVVF5ZWtjME16aDVlRWhFWTFkZmR4SVhjV1YyUldGeE5rTk5kVVJGTVdVNFVIRmtaV0Z6VVhjYUlrRkVjM0k1WmxONFlYVjJXVEV3UTA1cE5rZEdRbkZsVlhFellUQllkV0Z6WjNjIiwiZmN2IjoiMyIsImVpIjoicWV2RWFxNkNNdURFMWU4UHFkZWFzUXciLCJxYyI6IkNqWmlaV2RwYm01bGNuTWdhMlVnYkdsNVpTQnpZV0p6WlNCaFkyTm9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzB0RlFNX29nRUNhR2siLCJxdWVzdGlvbiI6IuCktuClgeCksOClgeCkhuCkpOClgCDgpLLgpYvgpJfgpYvgpIIg4KSV4KWHIOCksuCkv%2BCkjyDgpLjgpKzgpLjgpYcg4KSF4KSa4KWN4KSb4KS%2BIOCkquCljeCksOCli%2BCkn%2BClgOCkqCDgpJXgpYzgpKgg4KS44KS%2BIOCkueCliD8iLCJsayI6IkdoMWlaV2RwYm01bGNpQnJaU0JzYVhsbElHSmxjM1FnY0hKdmRHVnBiZyIsImJzIjoiYzcxU3UycENRUkJsMjYyc0wwajJGMkloZG41R3RBb0lxMXdpTjZJMmRvbVFoNmhZU1VBTEVXWWxpTWhGVUx5TmZvTl9jRDRsYzJkVEJRSkdpTTNzbkhtY003dXplcUYwVjRGMmNNLWdXT3dyaU9DZURHZ0Qxd2Q5aU8weUhzTzlTWmlPb0JGN2U5QXF0UkotQVUzZ2hxQXA2TUI0S1NDVzdoa1RnajQ5eDhCN2UxLVd3TDBYY3pkQnRtSnJZUlRacG5td3BoNTJyS25ZVnRzMG1vOXRHMFo2cTNUcGgtQ0tEd0VzTTJPOEZTX3h5VC1wbDRPN2YtTFdVNlh2T2NvUEtQU3hjRW5WR1pSTEpnTDFRSFBmLWN2NGhTQl9tWVEtS1YyOTVkeENWcHEyck9YaWZ0dHBqSVQ1Y042OEcybi1ycF9JOEluX0xNVmNMYkJYVWNxb0x3IiwiaWQiOiJmY19xZXZFYXE2Q011REUxZThQcWRlYXNRd18xIn0%3D"
+      },
+      {
+        "question": "सबसे बेस्ट व्हे प्रोटीन कौन सा है?",
+        "type": "ai_overview",
+        "page_token": "u0oTQ3icHdHBkpowGADg6cvscTVG7OqMszMqUVTomvD_gVw6GFBqEmErC-it79K32Tfo07TT-3f7fv22P67mz5fPsmnq22ww6Lru-VxVZ1s868oNstv9qgc6s_aYaTObfJ2Q15Oe--_BcvkRLA5Q17jiQwFl-41piiu04mIBSL6XwJS46nsa2zftLFU-cm6aLvPrtZBen5uqz0dTT7voFl8VO8rtGFjUFhKpTqI-GQZDBWEjNjlFplTmbCsof0NASOV0hVBOCsQdWB6GsUp5bDccqk7YOsP1dJHH0Ue2KZd70I12ZJkSOy6gt6Hx3vOkGnPMF2LDJsIvXTZ6odHII3ESEvHgVDK7Bdc1PIbmYKo7JpaIYR8U1nh7BHIkzPCLCvCxaGLYAq7Vo1gf-oxBc0TouatbTfhOXkpPrvvwn0tVHyRa4ohL1kcminLgLJQwhg0zSrIHJDoLDPM1DTxlw_HRTFG4l2FOc4wdoWCnYQjeLr4caIrbWhv_6aTbOX36nzT_fnLNrP5Znf8CqiGf3A",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=u0oTQ3icHdHBkpowGADg6cvscTVG7OqMszMqUVTomvD_gVw6GFBqEmErC-it79K32Tfo07TT-3f7fv22P67mz5fPsmnq22ww6Lru-VxVZ1s868oNstv9qgc6s_aYaTObfJ2Q15Oe--_BcvkRLA5Q17jiQwFl-41piiu04mIBSL6XwJS46nsa2zftLFU-cm6aLvPrtZBen5uqz0dTT7voFl8VO8rtGFjUFhKpTqI-GQZDBWEjNjlFplTmbCsof0NASOV0hVBOCsQdWB6GsUp5bDccqk7YOsP1dJHH0Ue2KZd70I12ZJkSOy6gt6Hx3vOkGnPMF2LDJsIvXTZ6odHII3ESEvHgVDK7Bdc1PIbmYKo7JpaIYR8U1nh7BHIkzPCLCvCxaGLYAq7Vo1gf-oxBc0TouatbTfhOXkpPrvvwn0tVHyRa4ohL1kcminLgLJQwhg0zSrIHJDoLDPM1DTxlw_HRTFG4l2FOc4wdoWCnYQjeLr4caIrbWhv_6aTbOX36nzT_fnLNrP5Znf8CqiGf3A",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJWb3pSakJGUWxaNlYydFZTbVpsWm5SVmJrVlhhQzFRYUZoWFpUYzJPSGhTUlZSbFIyWm1NMk5xT0MxQ2VFeEJORk5IWmtwZlVEbHJUbTQ0TUd4a1pYTjFZVzFqU0VWS2VISjNZVVF5ZWtjME16aDVlRWhFWTFkZmR4SVhjV1YyUldGeE5rTk5kVVJGTVdVNFVIRmtaV0Z6VVhjYUlrRkVjM0k1WmxONFlYVjJXVEV3UTA1cE5rZEdRbkZsVlhFellUQllkV0Z6WjNjIiwiZmN2IjoiMyIsImVpIjoicWV2RWFxNkNNdURFMWU4UHFkZWFzUXciLCJxYyI6IkNqWmlaV2RwYm01bGNuTWdhMlVnYkdsNVpTQnpZV0p6WlNCaFkyTm9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzB0RlFNX29nRUNhR2siLCJxdWVzdGlvbiI6IuCkuOCkrOCkuOClhyDgpKzgpYfgpLjgpY3gpJ8g4KS14KWN4KS54KWHIOCkquCljeCksOCli+Ckn+ClgOCkqCDgpJXgpYzgpKgg4KS44KS+IOCkueCliD8iLCJsayI6ImM1TUtmN0JreDRNbGEwRGswbllGRUd0cE81alQtMkRKZkNCX0s1aTFFeUs1Q3N6WjhHQnBOMUR5d2RLR0IwdFdBRVduUGxqYUEyRUJUZHFuQUZiZEFRQSIsImJzIjoiYzcxU3UycENRUkJsMjYyc0wwajJGMkloZG41R3RBb0lxMXdpTjZJMmRvbVFoNmhZU1VBTEVXWWxpTWhGVUx5TmZvTl9jRDRsYzJkVEJRSkdpTTNzbkhtY003dXplcUYwVjRGMmNNLWdXT3dyaU9DZURHZ0Qxd2Q5aU8weUhzTzlTWmlPb0JGN2U5QXF0UkotQVUzZ2hxQXA2TUI0S1NDVzdoa1RnajQ5eDhCN2UxLVd3TDBYY3pkQnRtSnJZUlRacG5td3BoNTJyS25ZVnRzMG1vOXRHMFo2cTNUcGgtQ0tEd0VzTTJPOEZTX3h5VC1wbDRPN2YtTFdVNlh2T2NvUEtQU3hjRW5WR1pSTEpnTDFRSFBmLWN2NGhTQl9tWVEtS1YyOTVkeENWcHEyck9YaWZ0dHBqSVQ1Y042OEcybi1ycF9JOEluX0xNVmNMYkJYVWNxb0x3IiwiaWQiOiJmY19xZXZFYXE2Q011REUxZThQcWRlYXNRd18xIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJWb3pSakJGUWxaNlYydFZTbVpsWm5SVmJrVlhhQzFRYUZoWFpUYzJPSGhTUlZSbFIyWm1NMk5xT0MxQ2VFeEJORk5IWmtwZlVEbHJUbTQ0TUd4a1pYTjFZVzFqU0VWS2VISjNZVVF5ZWtjME16aDVlRWhFWTFkZmR4SVhjV1YyUldGeE5rTk5kVVJGTVdVNFVIRmtaV0Z6VVhjYUlrRkVjM0k1WmxONFlYVjJXVEV3UTA1cE5rZEdRbkZsVlhFellUQllkV0Z6WjNjIiwiZmN2IjoiMyIsImVpIjoicWV2RWFxNkNNdURFMWU4UHFkZWFzUXciLCJxYyI6IkNqWmlaV2RwYm01bGNuTWdhMlVnYkdsNVpTQnpZV0p6WlNCaFkyTm9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzB0RlFNX29nRUNhR2siLCJxdWVzdGlvbiI6IuCkuOCkrOCkuOClhyDgpKzgpYfgpLjgpY3gpJ8g4KS14KWN4KS54KWHIOCkquCljeCksOCli%2BCkn%2BClgOCkqCDgpJXgpYzgpKgg4KS44KS%2BIOCkueCliD8iLCJsayI6ImM1TUtmN0JreDRNbGEwRGswbllGRUd0cE81alQtMkRKZkNCX0s1aTFFeUs1Q3N6WjhHQnBOMUR5d2RLR0IwdFdBRVduUGxqYUEyRUJUZHFuQUZiZEFRQSIsImJzIjoiYzcxU3UycENRUkJsMjYyc0wwajJGMkloZG41R3RBb0lxMXdpTjZJMmRvbVFoNmhZU1VBTEVXWWxpTWhGVUx5TmZvTl9jRDRsYzJkVEJRSkdpTTNzbkhtY003dXplcUYwVjRGMmNNLWdXT3dyaU9DZURHZ0Qxd2Q5aU8weUhzTzlTWmlPb0JGN2U5QXF0UkotQVUzZ2hxQXA2TUI0S1NDVzdoa1RnajQ5eDhCN2UxLVd3TDBYY3pkQnRtSnJZUlRacG5td3BoNTJyS25ZVnRzMG1vOXRHMFo2cTNUcGgtQ0tEd0VzTTJPOEZTX3h5VC1wbDRPN2YtTFdVNlh2T2NvUEtQU3hjRW5WR1pSTEpnTDFRSFBmLWN2NGhTQl9tWVEtS1YyOTVkeENWcHEyck9YaWZ0dHBqSVQ1Y042OEcybi1ycF9JOEluX0xNVmNMYkJYVWNxb0x3IiwiaWQiOiJmY19xZXZFYXE2Q011REUxZThQcWRlYXNRd18xIn0%3D"
+      },
+      {
+        "question": "नंबर वन व्हे प्रोटीन पाउडर कौन सा है?",
+        "type": "ai_overview",
+        "page_token": "3ICzVHicHdFRkpowGADg6WX2cQWp29UZp1MWAiJEickf4KWDiYomAaqpgm-9S0_VC_Qanel3he_Xb31u1Z9Pfxtr-9tiMnk8Hq-nrjvpw6vozKS-ja2YiFrrfS3U4u3Lm_v1KJbhVXx83IWfs76HgDi7IplC3KcHM7tmiI25mQ2lJkfyTM5Z9O7Vkd5SF7NSQ5pTwMQl2_KSpCLQD6wqKjmUPADKjcYZl5QD2HyK75TbVrLGUOX6wpC4LhIgTpOXhozgJEygd1eaJAO3s7zNrWTCkij5IfS3sVYNqtWwrmNUHZRUErIBB2CyQt9BNR5cEMUI3QXXuCxKmwJag-dHG-YGuK3i0vOr2syP4NhoP517NZv9pBpZOh38Khyu4ErKPAj4JfTEVG54AWcayJYq3JYMurKAaOcMD-mRDUQ9OlD_xkI7yKDa7t357gAacOynwKuUk1UhOEwJRwNWGEtGUMbZZxYjVXH0ZIWoVwqFwlvNKp007AmKhc2qQtWaaTHbUBgzbjNq3JE6iYO5eDmK-9J7-R-4_H40dtFfu9M_aYGp-w",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3ICzVHicHdFRkpowGADg6WX2cQWp29UZp1MWAiJEickf4KWDiYomAaqpgm-9S0_VC_Qanel3he_Xb31u1Z9Pfxtr-9tiMnk8Hq-nrjvpw6vozKS-ja2YiFrrfS3U4u3Lm_v1KJbhVXx83IWfs76HgDi7IplC3KcHM7tmiI25mQ2lJkfyTM5Z9O7Vkd5SF7NSQ5pTwMQl2_KSpCLQD6wqKjmUPADKjcYZl5QD2HyK75TbVrLGUOX6wpC4LhIgTpOXhozgJEygd1eaJAO3s7zNrWTCkij5IfS3sVYNqtWwrmNUHZRUErIBB2CyQt9BNR5cEMUI3QXXuCxKmwJag-dHG-YGuK3i0vOr2syP4NhoP517NZv9pBpZOh38Khyu4ErKPAj4JfTEVG54AWcayJYq3JYMurKAaOcMD-mRDUQ9OlD_xkI7yKDa7t357gAacOynwKuUk1UhOEwJRwNWGEtGUMbZZxYjVXH0ZIWoVwqFwlvNKp007AmKhc2qQtWaaTHbUBgzbjNq3JE6iYO5eDmK-9J7-R-4_H40dtFfu9M_aYGp-w",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJWb3pSakJGUWxaNlYydFZTbVpsWm5SVmJrVlhhQzFRYUZoWFpUYzJPSGhTUlZSbFIyWm1NMk5xT0MxQ2VFeEJORk5IWmtwZlVEbHJUbTQ0TUd4a1pYTjFZVzFqU0VWS2VISjNZVVF5ZWtjME16aDVlRWhFWTFkZmR4SVhjV1YyUldGeE5rTk5kVVJGTVdVNFVIRmtaV0Z6VVhjYUlrRkVjM0k1WmxONFlYVjJXVEV3UTA1cE5rZEdRbkZsVlhFellUQllkV0Z6WjNjIiwiZmN2IjoiMyIsImVpIjoicWV2RWFxNkNNdURFMWU4UHFkZWFzUXciLCJxYyI6IkNqWmlaV2RwYm01bGNuTWdhMlVnYkdsNVpTQnpZV0p6WlNCaFkyTm9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzB0RlFNX29nRUNhR2siLCJxdWVzdGlvbiI6IuCkqOCkguCkrOCksCDgpLXgpKgg4KS14KWN4KS54KWHIOCkquCljeCksOCli+Ckn+ClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSV4KWM4KSoIOCkuOCkviDgpLngpYg/IiwibGsiOiJjNU15ZTdCa3hZTWxUUS1Xckhtd1pJUENneVZiZ1h3d3RiVDN3WktkRDVhMkF6bXJ3SndORDVaMlAxZ3lfOEhTQnFBU0FBIiwiYnMiOiJjNzFTdTJwQ1FSQmwyNjJzTDBqMkYySWhkbjVHdEFvSXExd2lONkkyZG9tUWg2aFlTVUFMRVdZbGlNaEZVTHlOZm9OX2NENGxjMmRUQlFKR2lNM3NuSG1jTTd1emVxRjBWNEYyY00tZ1dPd3JpT0NlREdnRDF3ZDlpTzB5SHNPOVNaaU9vQkY3ZTlBcXRSSi1BVTNnaHFBcDZNQjRLU0NXN2hrVGdqNDl4OEI3ZTEtV3dMMFhjemRCdG1KcllSVFpwbm13cGg1MnJLbllWdHMwbW85dEcwWjZxM1RwaC1DS0R3RXNNMk84RlNfeHlULXBsNE83Zi1MV1U2WHZPY29QS1BTeGNFblZHWlJMSmdMMVFIUGYtY3Y0aFNCX21ZUS1LVjI5NWR4Q1ZwcTJyT1hpZnR0cGpJVDVjTjY4RzJuLXJwX0k4SW5fTE1WY0xiQlhVY3FvTHciLCJpZCI6ImZjX3FldkVhcTZDTXVERTFlOFBxZGVhc1F3XzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJWb3pSakJGUWxaNlYydFZTbVpsWm5SVmJrVlhhQzFRYUZoWFpUYzJPSGhTUlZSbFIyWm1NMk5xT0MxQ2VFeEJORk5IWmtwZlVEbHJUbTQ0TUd4a1pYTjFZVzFqU0VWS2VISjNZVVF5ZWtjME16aDVlRWhFWTFkZmR4SVhjV1YyUldGeE5rTk5kVVJGTVdVNFVIRmtaV0Z6VVhjYUlrRkVjM0k1WmxONFlYVjJXVEV3UTA1cE5rZEdRbkZsVlhFellUQllkV0Z6WjNjIiwiZmN2IjoiMyIsImVpIjoicWV2RWFxNkNNdURFMWU4UHFkZWFzUXciLCJxYyI6IkNqWmlaV2RwYm01bGNuTWdhMlVnYkdsNVpTQnpZV0p6WlNCaFkyTm9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzB0RlFNX29nRUNhR2siLCJxdWVzdGlvbiI6IuCkqOCkguCkrOCksCDgpLXgpKgg4KS14KWN4KS54KWHIOCkquCljeCksOCli%2BCkn%2BClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSV4KWM4KSoIOCkuOCkviDgpLngpYg%2FIiwibGsiOiJjNU15ZTdCa3hZTWxUUS1Xckhtd1pJUENneVZiZ1h3d3RiVDN3WktkRDVhMkF6bXJ3SndORDVaMlAxZ3lfOEhTQnFBU0FBIiwiYnMiOiJjNzFTdTJwQ1FSQmwyNjJzTDBqMkYySWhkbjVHdEFvSXExd2lONkkyZG9tUWg2aFlTVUFMRVdZbGlNaEZVTHlOZm9OX2NENGxjMmRUQlFKR2lNM3NuSG1jTTd1emVxRjBWNEYyY00tZ1dPd3JpT0NlREdnRDF3ZDlpTzB5SHNPOVNaaU9vQkY3ZTlBcXRSSi1BVTNnaHFBcDZNQjRLU0NXN2hrVGdqNDl4OEI3ZTEtV3dMMFhjemRCdG1KcllSVFpwbm13cGg1MnJLbllWdHMwbW85dEcwWjZxM1RwaC1DS0R3RXNNMk84RlNfeHlULXBsNE83Zi1MV1U2WHZPY29QS1BTeGNFblZHWlJMSmdMMVFIUGYtY3Y0aFNCX21ZUS1LVjI5NWR4Q1ZwcTJyT1hpZnR0cGpJVDVjTjY4RzJuLXJwX0k4SW5fTE1WY0xiQlhVY3FvTHciLCJpZCI6ImZjX3FldkVhcTZDTXVERTFlOFBxZGVhc1F3XzEifQ%3D%3D"
+      },
+      {
+        "question": "1 दिन में कितना व्हे प्रोटीन लेना चाहिए?",
+        "type": "ai_overview",
+        "page_token": "edUW9HicHdFLjpswAABQ9TKznGA-qRIpqkqCDXTsaWxswJsKDAkd83ESCiG73qWnmgvMNVp1-7bv95_2Z6_fP30042hu29Vqnufn8zCc2_pZDd2quC29WqmibctC6e368xp8OaldcFX7_aT8IzdGHKiVQOgLTjqcVd_r1PMrJ3BxxmeeeuErp3meUVALOFLUiDKQa-lQUh4CtziQi-jlL5L5e3VQFkYtJuj24MkRZBZ5Ib3vplpMKvQXHMqYW0en0NZ8BEQya3YFMIsUymZOFVJNTA0ju9LNlPZxIK1hFCF0MfChgBshg8gRdsyoDVnSbXSJCBI2GERHX-qk2actMQqJhdj3iwjptUIb8M8bZm8m3JH2NaGLsmdPZoaX1nDPu2BhCGYMGZyLaMQtLCi6uXUS2VJXEw81YClxhCW_kTfilwI2_BEfckDeWOhfCGxgybVLQAMYjTKVCpum8E40IRWnEKfc5SHUMoUPnqki0jBQTuTJNs6w5bV1Kg0Dm5MKKp1n5sItb4_7r3ON4gkHwdNJTTvn6X_g7sepG7fmOpz_AuLypTI",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=edUW9HicHdFLjpswAABQ9TKznGA-qRIpqkqCDXTsaWxswJsKDAkd83ESCiG73qWnmgvMNVp1-7bv95_2Z6_fP30042hu29Vqnufn8zCc2_pZDd2quC29WqmibctC6e368xp8OaldcFX7_aT8IzdGHKiVQOgLTjqcVd_r1PMrJ3BxxmeeeuErp3meUVALOFLUiDKQa-lQUh4CtziQi-jlL5L5e3VQFkYtJuj24MkRZBZ5Ib3vplpMKvQXHMqYW0en0NZ8BEQya3YFMIsUymZOFVJNTA0ju9LNlPZxIK1hFCF0MfChgBshg8gRdsyoDVnSbXSJCBI2GERHX-qk2actMQqJhdj3iwjptUIb8M8bZm8m3JH2NaGLsmdPZoaX1nDPu2BhCGYMGZyLaMQtLCi6uXUS2VJXEw81YClxhCW_kTfilwI2_BEfckDeWOhfCGxgybVLQAMYjTKVCpum8E40IRWnEKfc5SHUMoUPnqki0jBQTuTJNs6w5bV1Kg0Dm5MKKp1n5sItb4_7r3ON4gkHwdNJTTvn6X_g7sepG7fmOpz_AuLypTI",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJWb3pSakJGUWxaNlYydFZTbVpsWm5SVmJrVlhhQzFRYUZoWFpUYzJPSGhTUlZSbFIyWm1NMk5xT0MxQ2VFeEJORk5IWmtwZlVEbHJUbTQ0TUd4a1pYTjFZVzFqU0VWS2VISjNZVVF5ZWtjME16aDVlRWhFWTFkZmR4SVhjV1YyUldGeE5rTk5kVVJGTVdVNFVIRmtaV0Z6VVhjYUlrRkVjM0k1WmxONFlYVjJXVEV3UTA1cE5rZEdRbkZsVlhFellUQllkV0Z6WjNjIiwiZmN2IjoiMyIsImVpIjoicWV2RWFxNkNNdURFMWU4UHFkZWFzUXciLCJxYyI6IkNqWmlaV2RwYm01bGNuTWdhMlVnYkdsNVpTQnpZV0p6WlNCaFkyTm9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzB0RlFNX29nRUNhR2siLCJxdWVzdGlvbiI6IjEg4KSm4KS/4KSoIOCkruClh+CkgiDgpJXgpL/gpKTgpKjgpL4g4KS14KWN4KS54KWHIOCkquCljeCksOCli+Ckn+ClgOCkqCDgpLLgpYfgpKjgpL4g4KSa4KS+4KS54KS/4KSPPyIsImxrIjoiYzVOS05WUjRzR1RaZ3lYN0h5eFpBV1N0ZTdDMF9jR1NKaUJyS2xoc0NWRDR3Wko5UVA3V0IwdDdIeXpaQ1pRSGNsYUJPUnNlTE8xLXNHVC1nNlVORU0yYndKcWg2bWNCS1pCNmtDbjlBQSIsImJzIjoiYzcxU3UycENRUkJsMjYyc0wwajJGMkloZG41R3RBb0lxMXdpTjZJMmRvbVFoNmhZU1VBTEVXWWxpTWhGVUx5TmZvTl9jRDRsYzJkVEJRSkdpTTNzbkhtY003dXplcUYwVjRGMmNNLWdXT3dyaU9DZURHZ0Qxd2Q5aU8weUhzTzlTWmlPb0JGN2U5QXF0UkotQVUzZ2hxQXA2TUI0S1NDVzdoa1RnajQ5eDhCN2UxLVd3TDBYY3pkQnRtSnJZUlRacG5td3BoNTJyS25ZVnRzMG1vOXRHMFo2cTNUcGgtQ0tEd0VzTTJPOEZTX3h5VC1wbDRPN2YtTFdVNlh2T2NvUEtQU3hjRW5WR1pSTEpnTDFRSFBmLWN2NGhTQl9tWVEtS1YyOTVkeENWcHEyck9YaWZ0dHBqSVQ1Y042OEcybi1ycF9JOEluX0xNVmNMYkJYVWNxb0x3IiwiaWQiOiJmY19xZXZFYXE2Q011REUxZThQcWRlYXNRd18xIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJWb3pSakJGUWxaNlYydFZTbVpsWm5SVmJrVlhhQzFRYUZoWFpUYzJPSGhTUlZSbFIyWm1NMk5xT0MxQ2VFeEJORk5IWmtwZlVEbHJUbTQ0TUd4a1pYTjFZVzFqU0VWS2VISjNZVVF5ZWtjME16aDVlRWhFWTFkZmR4SVhjV1YyUldGeE5rTk5kVVJGTVdVNFVIRmtaV0Z6VVhjYUlrRkVjM0k1WmxONFlYVjJXVEV3UTA1cE5rZEdRbkZsVlhFellUQllkV0Z6WjNjIiwiZmN2IjoiMyIsImVpIjoicWV2RWFxNkNNdURFMWU4UHFkZWFzUXciLCJxYyI6IkNqWmlaV2RwYm01bGNuTWdhMlVnYkdsNVpTQnpZV0p6WlNCaFkyTm9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzB0RlFNX29nRUNhR2siLCJxdWVzdGlvbiI6IjEg4KSm4KS%2F4KSoIOCkruClh%2BCkgiDgpJXgpL%2FgpKTgpKjgpL4g4KS14KWN4KS54KWHIOCkquCljeCksOCli%2BCkn%2BClgOCkqCDgpLLgpYfgpKjgpL4g4KSa4KS%2B4KS54KS%2F4KSPPyIsImxrIjoiYzVOS05WUjRzR1RaZ3lYN0h5eFpBV1N0ZTdDMF9jR1NKaUJyS2xoc0NWRDR3Wko5UVA3V0IwdDdIeXpaQ1pRSGNsYUJPUnNlTE8xLXNHVC1nNlVORU0yYndKcWg2bWNCS1pCNmtDbjlBQSIsImJzIjoiYzcxU3UycENRUkJsMjYyc0wwajJGMkloZG41R3RBb0lxMXdpTjZJMmRvbVFoNmhZU1VBTEVXWWxpTWhGVUx5TmZvTl9jRDRsYzJkVEJRSkdpTTNzbkhtY003dXplcUYwVjRGMmNNLWdXT3dyaU9DZURHZ0Qxd2Q5aU8weUhzTzlTWmlPb0JGN2U5QXF0UkotQVUzZ2hxQXA2TUI0S1NDVzdoa1RnajQ5eDhCN2UxLVd3TDBYY3pkQnRtSnJZUlRacG5td3BoNTJyS25ZVnRzMG1vOXRHMFo2cTNUcGgtQ0tEd0VzTTJPOEZTX3h5VC1wbDRPN2YtTFdVNlh2T2NvUEtQU3hjRW5WR1pSTEpnTDFRSFBmLWN2NGhTQl9tWVEtS1YyOTVkeENWcHEyck9YaWZ0dHBqSVQ1Y042OEcybi1ycF9JOEluX0xNVmNMYkJYVWNxb0x3IiwiaWQiOiJmY19xZXZFYXE2Q011REUxZThQcWRlYXNRd18xIn0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "IsjLeHiczVbdcrI4GL6AvY7lxKr429oZ5psEI1KtFq36tSdOCGlAENSgqGd7L3tVuzezAbWiLbvdHuxsHH6SvHn_Hx5_-91zfPePX_60w3DB74vFKIoKLAiYRwskmBcx3_mk-BZ4fEXsH8xTHF-yPYX60nrtUSXKqUA3dFXvDrQxx5rLh5OaiydI2m2UikS4IkvUUZZ0g_Cyrj6um6hE756WFsXciKREuzI1MaczYXw748VpUdzcXytNMSnwAvWnGixstdEGG7un5atcKMvlSqFfxHMhA_6zAYEufsAATFxqthwTkl9RF0sNL2SZcbCTGs3DFLHk0cnUpuvoaJzFL-J62s72TQKAxk4yw8zTKB2PCqBx9JAlmlRV_0pAaXXHOIzjAsuW_TRXx8VUuOk6o0xd8NKQyoD6VAXsfORyHwXpmfFuhTBw1w5gE4JRtuMi5wx0XoDsgXOgGQPBFgUnY5A3DYCKFhPdKxfNlXiUig6xSfKy4nFTq88NOUBazV9Uxo1mWLb20zDwWmP81ovGcn5rFIkp5LwAW9Sa2lP5RzIvlUs1uVG5vbtJAEX4O6J4GlGg5ucrj-5k1ZcL3QIsnbAkmuBc6XRI8erosxhh3Dgoo4qHgx-Oqap2nhyToiKgQQCv9KgzObbxXjQGSATaYHDpwcmS-gFL5zlKCZ8A4bCj0sRU2ukmSvUYTLVb-zqWeLjXC6x_sqXrB1-PIaArQ3HcEMV7pyRFV6o0cSYQmlpCxKnqBzXkHBgM9Djsi7aON8XHBR1zDy824nsKS3EO7PhlFn8cHkDwAIZxsfWDdFzco2uqfVVJPQPUyBXujDIx-rcDfenTiU6gucJAGjsaoI9DmJ_uV6-PuEF6b6OgnyeRGWfrc6wEc_Pf0Q_5PwHqnZyCAzllAwp-BVAw1veRnM76kvo2T4A6kFM2oLoHQB3ICabIqf0ZOV0BCgHnDKjOICEnyDLI6RuAYtmAgu_3j4DqfA4oNwtQicOXgBpekJOeQU4nQH2PnOD3yCnBFz08LplqPWOZjKVpJlv3B7yqLsKnPG4ZLG_rvW6-PRj_M2O9zcP7Oba8m6lj3cPyQ7izbqZiIbinlrRUTMoc36crnnNpznN2NMexyWkOE2LjXGTTXW6xCkLq-DkXr32xm7OxI829VaDIuF4BC4BHYNUNyG7_GOJOE_o11aVvATOXZAgHc7OtwfrDpsrb4dBt1bWJVdvb-7vm88Yl5c5-aNfrPb7t-obZ0rd0Vr_b1iuTcNY38bN82_Prtf3Qg6-R9fKC7G3L_zmj67Yb9tdbuIHTB3P_83l5W6rMR_thDYLEL650zPHsxVHzrZBLIlROlZI0XxFF9EmVgZ4BJgwSoL4AQ_yXGWEBbjUChlYHBoJl0TgSJ3hK-UapmrUyLdWpVaGNWo0ILSzcLZRyQ-L-Sin9BR9CXvU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IsjLeHiczVbdcrI4GL6AvY7lxKr429oZ5psEI1KtFq36tSdOCGlAENSgqGd7L3tVuzezAbWiLbvdHuxsHH6SvHn_Hx5_-91zfPePX_60w3DB74vFKIoKLAiYRwskmBcx3_mk-BZ4fEXsH8xTHF-yPYX60nrtUSXKqUA3dFXvDrQxx5rLh5OaiydI2m2UikS4IkvUUZZ0g_Cyrj6um6hE756WFsXciKREuzI1MaczYXw748VpUdzcXytNMSnwAvWnGixstdEGG7un5atcKMvlSqFfxHMhA_6zAYEufsAATFxqthwTkl9RF0sNL2SZcbCTGs3DFLHk0cnUpuvoaJzFL-J62s72TQKAxk4yw8zTKB2PCqBx9JAlmlRV_0pAaXXHOIzjAsuW_TRXx8VUuOk6o0xd8NKQyoD6VAXsfORyHwXpmfFuhTBw1w5gE4JRtuMi5wx0XoDsgXOgGQPBFgUnY5A3DYCKFhPdKxfNlXiUig6xSfKy4nFTq88NOUBazV9Uxo1mWLb20zDwWmP81ovGcn5rFIkp5LwAW9Sa2lP5RzIvlUs1uVG5vbtJAEX4O6J4GlGg5ucrj-5k1ZcL3QIsnbAkmuBc6XRI8erosxhh3Dgoo4qHgx-Oqap2nhyToiKgQQCv9KgzObbxXjQGSATaYHDpwcmS-gFL5zlKCZ8A4bCj0sRU2ukmSvUYTLVb-zqWeLjXC6x_sqXrB1-PIaArQ3HcEMV7pyRFV6o0cSYQmlpCxKnqBzXkHBgM9Djsi7aON8XHBR1zDy824nsKS3EO7PhlFn8cHkDwAIZxsfWDdFzco2uqfVVJPQPUyBXujDIx-rcDfenTiU6gucJAGjsaoI9DmJ_uV6-PuEF6b6OgnyeRGWfrc6wEc_Pf0Q_5PwHqnZyCAzllAwp-BVAw1veRnM76kvo2T4A6kFM2oLoHQB3ICabIqf0ZOV0BCgHnDKjOICEnyDLI6RuAYtmAgu_3j4DqfA4oNwtQicOXgBpekJOeQU4nQH2PnOD3yCnBFz08LplqPWOZjKVpJlv3B7yqLsKnPG4ZLG_rvW6-PRj_M2O9zcP7Oba8m6lj3cPyQ7izbqZiIbinlrRUTMoc36crnnNpznN2NMexyWkOE2LjXGTTXW6xCkLq-DkXr32xm7OxI829VaDIuF4BC4BHYNUNyG7_GOJOE_o11aVvATOXZAgHc7OtwfrDpsrb4dBt1bWJVdvb-7vm88Yl5c5-aNfrPb7t-obZ0rd0Vr_b1iuTcNY38bN82_Prtf3Qg6-R9fKC7G3L_zmj67Yb9tdbuIHTB3P_83l5W6rMR_thDYLEL650zPHsxVHzrZBLIlROlZI0XxFF9EmVgZ4BJgwSoL4AQ_yXGWEBbjUChlYHBoJl0TgSJ3hK-UapmrUyLdWpVaGNWo0ILSzcLZRyQ-L-Sin9BR9CXvU"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "शुरुआती लोगों के लिए व्हे प्रोटीन",
+        "link": "https://translate.google.com/translate?u=https://www.muscleblaze.com/categories/proteins/beginners-whey-proteins%3FnavKey%3DCL-5694&hl=hi&sl=en&tl=hi&client=srp&srsltid=AU7gw4WlgrcunTKjlJ9ywPTQHZ5_JvRr6Tlm_03gYvKX1KC8wEjo5b-D",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQIB6zswFZ3jO2nYnQnrCZKtmkl3edEJTfX3d_e5xoXqQc217N6yuzRWcvd3XH6-M8nKuzB0EjrzHtCl_MQnhLKqhdWOhA_i0pOiZEmY1EOC2AjKXzSeG0Lhrgmve1wLTiSX_feMeEMKYkl14pWsOrwV-OuJaUvhyIrpAoHja0bsUH7jPM0J4PA8FpGZ-W4ZWLK6hSj3QCsLQJ855t6BA0jtvU9xLefN0X14xPnlDpoXpaHIPo9kgvkjN_RZdkKOTYH2Im3aTtxt7D8-STV6jujsdO0REkEyNBUsyBjJDLyfqXpuSzdee5W4o50zEay8RWIFkCcKssL1J220rHf6SERQNOu5VAd2wWLTCV22Cvlwoyn04S3wY2-w2NTFzHU&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQFnoECCkQAQ&uoh=1",
+        "displayed_link": "https://www.muscleblaze.com › Proteins",
+        "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACwBACdASocABwAPtEutFooIagoGAEAGgliAAPjTln8cROP-IMf1Ic_2hKnHAioAP7-9dn2s_xLpM4xT-1UCBjp15l_wGcxx_lFMJHjQm-Yo-S60D_dru9W_0SySJ24h1vsjHaQ_dOmgNs1jARGcr7wWP9cUOMlC5ayb47ylidDNQsXtwwx15W-aNprmDLK-AFFtEin3m2tlnkh94oevzi-Z_9oGyaDfV0DsPu2nR_3WCXTn_v_X4Qb-HUX_8NetuAfcvp4LiQ__ppLy0_7ye8mYvTqp1v9b-7uwXzn41xED603fRqlaU-7Z02PlPNO6zJb6eeH4uS1yx26SF3PAAAA.webp",
+        "snippet": "आमतौर पर, व्हे प्रोटीन के एक स्कूप में लगभग 25 से 30 ग्राम प्रोटीन होता है। यह मांसपेशियों ...Read more",
+        "snippet_highlighted_words": [
+          "व्हे"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "आमतौर पर, व्हे प्रोटीन के एक स्कूप में लगभग 25 से 30 ग्राम प्रोटीन होता है। यह मांसपेशियों ...",
+            "source_info_link": "https://translate.google.com/translate?u=https://www.muscleblaze.com/categories/proteins/beginners-whey-proteins%3FnavKey%3DCL-5694&hl=hi&sl=en&tl=hi&client=srp&srsltid=AU7gw4WlgrcunTKjlJ9ywPTQHZ5_JvRr6Tlm_03gYvKX1KC8wEjo5b-D",
+            "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACwBACdASocABwAPtEutFooIagoGAEAGgliAAPjTln8cROP-IMf1Ic_2hKnHAioAP7-9dn2s_xLpM4xT-1UCBjp15l_wGcxx_lFMJHjQm-Yo-S60D_dru9W_0SySJ24h1vsjHaQ_dOmgNs1jARGcr7wWP9cUOMlC5ayb47ylidDNQsXtwwx15W-aNprmDLK-AFFtEin3m2tlnkh94oevzi-Z_9oGyaDfV0DsPu2nR_3WCXTn_v_X4Qb-HUX_8NetuAfcvp4LiQ__ppLy0_7ye8mYvTqp1v9b-7uwXzn41xED603fRqlaU-7Z02PlPNO6zJb6eeH4uS1yx26SF3PAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZUSjhwYW1pSUo4YkFyand4YWItVzVJN3ptR3NVWEZ4TWxQSVA0OEZPN3hBaFlXdnZOM0RnX0pRZENxRUlvNFNPR1BpdWYyd2lVcmEtSFJqRzMwLVJad0oyNlFzMlhfRnhidV9oeEVvalhRQ3NZeHMwUzdxeUFjQUFOT1FLNGtIRTdGSml4N3J1LXNGWjBxd18zUzl1WW1qMG5BZVY1dS1EcDFIeHJvQV9JNjJBQXBFYUZOS3dYMEhNdmI4EgQaAggAGuwLEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQMgLCCMQABgAIAAqUQoJYmVnaW5uZXJzFQAAAD8aFeCkrOCkv-Ckl-CkqOCksOCljeCkuBoY4KSs4KS_4KSX4KS_4KSo4KSw4KWN4KS4Gg5pdjtwO2JlZ2lubmVycyoJCgJrZRUAAAAAKm8KBGxpeWUVAAAAABoEbGFuZRoCbGkaBGxpeWEaCeCksuCkv-CkjxoP4KSy4KS_4KSW4KS_4KSPGgzgpLLgpL_gpK_gpYcaD-CksuCkv-CkluCkqOCkvhoM4KSy4KWH4KSo4KS-GglpdjtwO2xpeWUqRAoFc2Fic2UVAAAAABoGc2FiYXNlGgbgpLjgpKwaDOCkuOCkrOCkuOClhxoM4KS44KSs4KS44KS-GgppdjtwO3NhYnNlKloKBWFjY2hhFQAAAAAaBWFjY2hpGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRUAAAA_GgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqYQoHcHJvdGVpbhUAAAAAGghwcm90ZWlucxoV4KSq4KWN4KSw4KSl4KS_4KSo4KWHGgt3aGV5cHJvdGVpbhoV4KSq4KWN4KSw4KSl4KS_4KSo4KS-GgxpdjtwO3Byb3RlaW4qWwoEa2F1bhUAAAAAGgNrb24aBGtvdW4aCeCkleCkv-CkuBoP4KSV4KS_4KS44KSo4KWHGgngpJXgpYvgpKMaCeCkleCljOCkqBoGa2F1bnNhGglpdjtwO2thdW4qRwoCc2EVAAAAABoMc291dGggYWZyaWNhGgbgpI_gpLgaCeCkj-CkuOCkjxoD4KS4GgbgpLjgpL4aBuCkuOClgBoGa2F1bnNhKjAKA2hhaRUAAAAAGgFoGgJoZRoCaGkaBuCkueClhxoG4KS54KWIGgngpLngpYjgpIIytgIvZ290bz91cmw9Q0FFUzNBRUI2enN3RlprSG1RbW94Qml3a2lwbnM1NlZGUm1XXzM2NDZRQXlrNmpKU0VLU1FLWDVCRW9vZkEtU2ZEVGJRaDJ6Z3ozZXFWMTVETmJITjFsNlQ2b1BCU01uUkZrWEpvRFk5eDBVYjlFaTU0Q0FmM2lTbW5Gem9INU9vLVpadWhTRDFodDk0a24yMXhqUFV0cXM3YVV4aTdrNjI2WktvUXZOVGR5b2ZEYUJBQ29aRUZGbnRxOWpRS3lDNEdSWWpFdWE4NGd0ai1xZFhzTWlGQV9DWVBuUHRqVU1kUUg1UkZjTkNTbURoM2c4eWwwLW5MdHZPMzFaZ19rX3RWMzROSmQ5NGh1UkVDcjN2MXZIbEphUnA1LUZNZ1Q0VkdMOXhNWWlfNVlYOm7gpLbgpYHgpLDgpYHgpIbgpKTgpYAg4KSy4KWL4KSX4KWL4KSCIOCkleClhyA8Yj7gpLLgpL_gpI8g4KS14KWN4KS54KWHPC9iPiDgpKrgpY3gpLDgpYvgpJ_gpYDgpKggLSBNdXNjbGVCbGF6ZULyAeCkhuCkruCkpOCljOCksCDgpKrgpLAsIDxiPuCkteCljeCkueClhzwvYj4g4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCkleClhyDgpI_gpJUg4KS44KWN4KSV4KWC4KSqIOCkruClh-CkgiDgpLLgpJfgpK3gpJcgMjUg4KS44KWHIDMwIOCkl-CljeCksOCkvuCkriDgpKrgpY3gpLDgpYvgpJ_gpYDgpKgg4KS54KWL4KSk4KS-IOCkueCliOClpCDgpK_gpLkg4KSu4KS-4KSC4KS44KSq4KWH4KS24KS_4KSv4KWL4KSCJm5ic3A7Li4uSgJrZVIJ4KS54KWI4KSCUgngpLLgpL_gpI9SBuCkueCliCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZUSjhwYW1pSUo4YkFyand4YWItVzVJN3ptR3NVWEZ4TWxQSVA0OEZPN3hBaFlXdnZOM0RnX0pRZENxRUlvNFNPR1BpdWYyd2lVcmEtSFJqRzMwLVJad0oyNlFzMlhfRnhidV9oeEVvalhRQ3NZeHMwUzdxeUFjQUFOT1FLNGtIRTdGSml4N3J1LXNGWjBxd18zUzl1WW1qMG5BZVY1dS1EcDFIeHJvQV9JNjJBQXBFYUZOS3dYMEhNdmI4EgQaAggAGuwLEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQMgLCCMQABgAIAAqUQoJYmVnaW5uZXJzFQAAAD8aFeCkrOCkv-Ckl-CkqOCksOCljeCkuBoY4KSs4KS_4KSX4KS_4KSo4KSw4KWN4KS4Gg5pdjtwO2JlZ2lubmVycyoJCgJrZRUAAAAAKm8KBGxpeWUVAAAAABoEbGFuZRoCbGkaBGxpeWEaCeCksuCkv-CkjxoP4KSy4KS_4KSW4KS_4KSPGgzgpLLgpL_gpK_gpYcaD-CksuCkv-CkluCkqOCkvhoM4KSy4KWH4KSo4KS-GglpdjtwO2xpeWUqRAoFc2Fic2UVAAAAABoGc2FiYXNlGgbgpLjgpKwaDOCkuOCkrOCkuOClhxoM4KS44KSs4KS44KS-GgppdjtwO3NhYnNlKloKBWFjY2hhFQAAAAAaBWFjY2hpGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRUAAAA_GgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqYQoHcHJvdGVpbhUAAAAAGghwcm90ZWlucxoV4KSq4KWN4KSw4KSl4KS_4KSo4KWHGgt3aGV5cHJvdGVpbhoV4KSq4KWN4KSw4KSl4KS_4KSo4KS-GgxpdjtwO3Byb3RlaW4qWwoEa2F1bhUAAAAAGgNrb24aBGtvdW4aCeCkleCkv-CkuBoP4KSV4KS_4KS44KSo4KWHGgngpJXgpYvgpKMaCeCkleCljOCkqBoGa2F1bnNhGglpdjtwO2thdW4qRwoCc2EVAAAAABoMc291dGggYWZyaWNhGgbgpI_gpLgaCeCkj-CkuOCkjxoD4KS4GgbgpLjgpL4aBuCkuOClgBoGa2F1bnNhKjAKA2hhaRUAAAAAGgFoGgJoZRoCaGkaBuCkueClhxoG4KS54KWIGgngpLngpYjgpIIytgIvZ290bz91cmw9Q0FFUzNBRUI2enN3RlprSG1RbW94Qml3a2lwbnM1NlZGUm1XXzM2NDZRQXlrNmpKU0VLU1FLWDVCRW9vZkEtU2ZEVGJRaDJ6Z3ozZXFWMTVETmJITjFsNlQ2b1BCU01uUkZrWEpvRFk5eDBVYjlFaTU0Q0FmM2lTbW5Gem9INU9vLVpadWhTRDFodDk0a24yMXhqUFV0cXM3YVV4aTdrNjI2WktvUXZOVGR5b2ZEYUJBQ29aRUZGbnRxOWpRS3lDNEdSWWpFdWE4NGd0ai1xZFhzTWlGQV9DWVBuUHRqVU1kUUg1UkZjTkNTbURoM2c4eWwwLW5MdHZPMzFaZ19rX3RWMzROSmQ5NGh1UkVDcjN2MXZIbEphUnA1LUZNZ1Q0VkdMOXhNWWlfNVlYOm7gpLbgpYHgpLDgpYHgpIbgpKTgpYAg4KSy4KWL4KSX4KWL4KSCIOCkleClhyA8Yj7gpLLgpL_gpI8g4KS14KWN4KS54KWHPC9iPiDgpKrgpY3gpLDgpYvgpJ_gpYDgpKggLSBNdXNjbGVCbGF6ZULyAeCkhuCkruCkpOCljOCksCDgpKrgpLAsIDxiPuCkteCljeCkueClhzwvYj4g4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCkleClhyDgpI_gpJUg4KS44KWN4KSV4KWC4KSqIOCkruClh-CkgiDgpLLgpJfgpK3gpJcgMjUg4KS44KWHIDMwIOCkl-CljeCksOCkvuCkriDgpKrgpY3gpLDgpYvgpJ_gpYDgpKgg4KS54KWL4KSk4KS-IOCkueCliOClpCDgpK_gpLkg4KSu4KS-4KSC4KS44KSq4KWH4KS24KS_4KSv4KWL4KSCJm5ic3A7Li4uSgJrZVIJ4KS54KWI4KSCUgngpLLgpL_gpI9SBuCkueCliCICEAFIAFgAaAA",
+        "source": "MuscleBlaze",
+        "read_more_link": "https://translate.google.com/translate?u=https://www.muscleblaze.com/categories/proteins/beginners-whey-proteins?navKey%3DCL-5694&hl=hi&sl=en&tl=hi&client=srp&srsltid=AU7gw4WlgrcunTKjlJ9ywPTQHZ5_JvRr6Tlm_03gYvKX1KC8wEjo5b-D#:~:text=%E0%A4%86%E0%A4%AE%E0%A4%A4%E0%A5%8C%E0%A4%B0%20%E0%A4%AA%E0%A4%B0%2C%20%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8%20%E0%A4%95%E0%A5%87,%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AC%E0%A4%B9%E0%A5%81%E0%A4%A4%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A5%80%20%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4"
+      },
+      {
+        "position": 2,
+        "title": "व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVr6v9TRSdqrKUQncM2s13eTBnhU46_qEyrpPuIsUoXSFl19h-tLln8d3vik3Ix5VH2aB1yKpjA7r-vDzo3TTw0pQHYIyrqeE-IwUHzH98TPCrKFN48qMWgYyhk6fvrl65C6GUto63BbGTostvyDL-&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQFnoECEoQAQ&uoh=1",
+        "displayed_link": "https://www.amazon.in › hpc",
+        "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+        "snippet": "AS-IT-IS एटम व्हे प्रोटीन 1kg पाचन एंजाइमों के साथ | डबल रिच चॉकलेट | 27g प्रोटीन | 5.7g BCAA | ...",
+        "snippet_highlighted_words": [
+          "AS-IT-IS एटम व्हे प्रोटीन"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.1
+            },
+            "extensions": [
+              "4.1",
+              "store rating (1.5K)",
+              "Free delivery"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "AS-IT-IS एटम व्हे प्रोटीन 1kg पाचन एंजाइमों के साथ | डबल रिच चॉकलेट | 27g प्रोटीन | 5.7g BCAA | ...",
+            "source_info_link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+            "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVnI2djlUUlNkcXJLVVFuY00yczEzZVRCbmhVNDZfcUV5cnBQdUlzVW9YU0ZsMTloLXRMbG44ZDN2aWszSXg1VkgyYUIxeUtwakE3ci12RHpvM1RUdzBwUUhZSXlycWVFLUl3VUh6SDk4VFBDcktGTjQ4cU1XZ1l5aGs2ZnZybDY1QzZHVXRvNjNCYkdUb3N0dnlETC0SBBoCCAAazAoSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAqAoIIxAAGAAgACpRCgliZWdpbm5lcnMVAAAAABoV4KSs4KS_4KSX4KSo4KSw4KWN4KS4GhjgpKzgpL_gpJfgpL_gpKjgpLDgpY3gpLgaDml2O3A7YmVnaW5uZXJzKgkKAmtlFQAAAAAqbwoEbGl5ZRUAAAAAGgRsYW5lGgJsaRoEbGl5YRoJ4KSy4KS_4KSPGg_gpLLgpL_gpJbgpL_gpI8aDOCksuCkv-Ckr-ClhxoP4KSy4KS_4KSW4KSo4KS-GgzgpLLgpYfgpKjgpL4aCWl2O3A7bGl5ZSpECgVzYWJzZRUAAAAAGgZzYWJhc2UaBuCkuOCkrBoM4KS44KSs4KS44KWHGgzgpLjgpKzgpLjgpL4aCml2O3A7c2Fic2UqWgoFYWNjaGEVAAAAABoFYWNjaGkaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoFYWNoaGEaBGJlc3QaBGdvb2QaD-CkheCkmuCljeCkm-CkvhoKaXY7cDthY2NoYSpSCgR3aGV5FYWSDT8aCeCkteCkvuCkiBoG4KS14KWHGgzgpLXgpY3gpLngpYcaC3doZXlwcm90ZWluGgzgpLXgpY3gpLngpL4aCWl2O3A7d2hleSphCgdwcm90ZWluFW5jSD8aCHByb3RlaW5zGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqMAoDaGFpFQAAAAAaAWgaAmhlGgJoaRoG4KS54KWHGgbgpLngpYgaCeCkueCliOCkgjKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZyNnY5VFJTZHFyS1VRbmNNMnMxM2VUQm5oVTQ2X3FFeXJwUHVJc1VvWFNGbDE5aC10TGxuOGQzdmlrM0l4NVZIMmFCMXlLcGpBN3ItdkR6bzNUVHcwcFFIWUl5cnFlRS1Jd1VIekg5OFRQQ3JLRk40OHFNV2dZeWhrNmZ2cmw2NUM2R1V0bzYzQmJHVG9zdHZ5REwtOnk8Yj7gpLXgpY3gpLngpYc8L2I-IOCkquCljeCksOCli-Ckn-ClgOCkqCDgpK7gpYfgpIIgPGI-4KS44KSs4KS44KWHPC9iPiDgpLLgpYvgpJXgpKrgpY3gpLDgpL_gpK8g4KSG4KSH4KSf4KSuIC0gQW1hem9uLmluQtMBPGI-QVMtSVQtSVMg4KSP4KSf4KSuIOCkteCljeCkueClhyDgpKrgpY3gpLDgpYvgpJ_gpYDgpKg8L2I-IDFrZyDgpKrgpL7gpJrgpKgg4KSP4KSC4KSc4KS-4KSH4KSu4KWL4KSCIOCkleClhyDgpLjgpL7gpKUgfCDgpKHgpKzgpLIg4KSw4KS_4KSaIOCkmuClieCkleCksuClh-CknyB8IDI3ZyDgpKrgpY3gpLDgpYvgpJ_gpYDgpKggfCA1LjdnIEJDQUEgfCZuYnNwOy4uLkoCa2VSBuCkueCliFIJ4KSy4KS_4KSPUgngpLngpYjgpIIiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVnI2djlUUlNkcXJLVVFuY00yczEzZVRCbmhVNDZfcUV5cnBQdUlzVW9YU0ZsMTloLXRMbG44ZDN2aWszSXg1VkgyYUIxeUtwakE3ci12RHpvM1RUdzBwUUhZSXlycWVFLUl3VUh6SDk4VFBDcktGTjQ4cU1XZ1l5aGs2ZnZybDY1QzZHVXRvNjNCYkdUb3N0dnlETC0SBBoCCAAazAoSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAqAoIIxAAGAAgACpRCgliZWdpbm5lcnMVAAAAABoV4KSs4KS_4KSX4KSo4KSw4KWN4KS4GhjgpKzgpL_gpJfgpL_gpKjgpLDgpY3gpLgaDml2O3A7YmVnaW5uZXJzKgkKAmtlFQAAAAAqbwoEbGl5ZRUAAAAAGgRsYW5lGgJsaRoEbGl5YRoJ4KSy4KS_4KSPGg_gpLLgpL_gpJbgpL_gpI8aDOCksuCkv-Ckr-ClhxoP4KSy4KS_4KSW4KSo4KS-GgzgpLLgpYfgpKjgpL4aCWl2O3A7bGl5ZSpECgVzYWJzZRUAAAAAGgZzYWJhc2UaBuCkuOCkrBoM4KS44KSs4KS44KWHGgzgpLjgpKzgpLjgpL4aCml2O3A7c2Fic2UqWgoFYWNjaGEVAAAAABoFYWNjaGkaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoFYWNoaGEaBGJlc3QaBGdvb2QaD-CkheCkmuCljeCkm-CkvhoKaXY7cDthY2NoYSpSCgR3aGV5FYWSDT8aCeCkteCkvuCkiBoG4KS14KWHGgzgpLXgpY3gpLngpYcaC3doZXlwcm90ZWluGgzgpLXgpY3gpLngpL4aCWl2O3A7d2hleSphCgdwcm90ZWluFW5jSD8aCHByb3RlaW5zGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqMAoDaGFpFQAAAAAaAWgaAmhlGgJoaRoG4KS54KWHGgbgpLngpYgaCeCkueCliOCkgjKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZyNnY5VFJTZHFyS1VRbmNNMnMxM2VUQm5oVTQ2X3FFeXJwUHVJc1VvWFNGbDE5aC10TGxuOGQzdmlrM0l4NVZIMmFCMXlLcGpBN3ItdkR6bzNUVHcwcFFIWUl5cnFlRS1Jd1VIekg5OFRQQ3JLRk40OHFNV2dZeWhrNmZ2cmw2NUM2R1V0bzYzQmJHVG9zdHZ5REwtOnk8Yj7gpLXgpY3gpLngpYc8L2I-IOCkquCljeCksOCli-Ckn-ClgOCkqCDgpK7gpYfgpIIgPGI-4KS44KSs4KS44KWHPC9iPiDgpLLgpYvgpJXgpKrgpY3gpLDgpL_gpK8g4KSG4KSH4KSf4KSuIC0gQW1hem9uLmluQtMBPGI-QVMtSVQtSVMg4KSP4KSf4KSuIOCkteCljeCkueClhyDgpKrgpY3gpLDgpYvgpJ_gpYDgpKg8L2I-IDFrZyDgpKrgpL7gpJrgpKgg4KSP4KSC4KSc4KS-4KSH4KSu4KWL4KSCIOCkleClhyDgpLjgpL7gpKUgfCDgpKHgpKzgpLIg4KSw4KS_4KSaIOCkmuClieCkleCksuClh-CknyB8IDI3ZyDgpKrgpY3gpLDgpYvgpJ_gpYDgpKggfCA1LjdnIEJDQUEgfCZuYnNwOy4uLkoCa2VSBuCkueCliFIJ4KSy4KS_4KSPUgngpLngpYjgpIIiAhABSABYAGgA",
+        "source": "Amazon.in",
+        "read_more_link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031#:~:text=AS%2DIT%2DIS%20%E0%A4%8F%E0%A4%9F%E0%A4%AE%20%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8%201kg,5.7g%20BCAA%20%7C%20%E0%A4%B2%E0%A5%88%E0%A4%AC%20%E0%A4%9F%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%A1%E2%80%A6"
+      },
+      {
+        "position": 3,
+        "title": "Beginners ke liye best Protein kaun sa hai",
+        "link": "https://www.facebook.com/sumit1770/videos/beginners-ke-liye-best-protein-kaun-sa-hai-best-whey-protein-in-india-2026-best-/1750448572865724/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyAEB6zswFd7ev9dzcQsc5vGzHZK2SWSEBQokivHt8XUec7bUn_F6On2lqS0D8gf4QMHmljk-Mi6JOmNWC9nt7sblpLUSJL2rW4hRTdwtnUbcBAPgmsi6rwFDHMNpFJXnO1uC407zDjhC6bEi0zv-n5hnSSrtIEd2FRmlBFTr_BfKVh9woPcme7-2sKITXwR6IOTGG8LwHnEQxbBy-I9inUPlCEYaMQQ0lYxGPaxSvyLBk3XPO350Zy2hr1gcTvksjE7o6UDjr4pVcw&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQFnoECEUQAQ&uoh=1",
+        "displayed_link": "https://www.facebook.com › ... › Sumit Sharma › Videos",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "date": "14 Sept 2026",
+        "snippet": "... liye best hai. Whey Hydrolysate: Ye sabse pure aur pre-digested form hai, jo body mein ultra-fast absorb hoti hai aur digestion par bilkul ...",
+        "snippet_highlighted_words": [
+          "Whey Hydrolysate"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "... liye best hai. Whey Hydrolysate: Ye sabse pure aur pre-digested form hai, jo body mein ultra-fast absorb hoti hai aur digestion par bilkul ...",
+            "source_info_link": "https://www.facebook.com/sumit1770/videos/beginners-ke-liye-best-protein-kaun-sa-hai-best-whey-protein-in-india-2026-best-/1750448572865724/",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZkN2V2OWR6Y1FzYzV2R3pIWksyU1dTRUJRb2tpdkh0OFhVZWM3YlVuX0Y2T24ybHFTMEQ4Z2Y0UU1IbWxqay1NaTZKT21OV0M5bnQ3c2JscExVU0pMMnJXNGhSVGR3dG5VYmNCQVBnbXNpNnJ3RkRITU5wRkpYbk8xdUM0MDd6RGpoQzZiRWkwenYtbjVoblNTcnRJRWQyRlJtbEJGVHJfQmZLVmg5d29QY21lNy0yc0tJVFh3UjZJT1RHRzhMd0huRVF4YkJ5LUk5aW5VUGxDRVlhTVFRMGxZeEdQYXhTdnlMQmszWFBPMzUwWnkyaHIxZ2NUdmtzakU3bzZVRGpyNHBWY3cSBBoCCAAa2goSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAtgoIIxAAGAAgACpRCgliZWdpbm5lcnMVWPunQBoV4KSs4KS_4KSX4KSo4KSw4KWN4KS4GhjgpKzgpL_gpJfgpL_gpKjgpLDgpY3gpLgaDml2O3A7YmVnaW5uZXJzKgkKAmtlFQAAAAAqbwoEbGl5ZRXIaLBAGgRsYW5lGgJsaRoEbGl5YRoJ4KSy4KS_4KSPGg_gpLLgpL_gpJbgpL_gpI8aDOCksuCkv-Ckr-ClhxoP4KSy4KS_4KSW4KSo4KS-GgzgpLLgpYfgpKjgpL4aCWl2O3A7bGl5ZSpECgVzYWJzZRX7wRQ_GgZzYWJhc2UaBuCkuOCkrBoM4KS44KSs4KS44KWHGgzgpLjgpKzgpLjgpL4aCml2O3A7c2Fic2UqWgoFYWNjaGEV2eFMPxoFYWNjaGkaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoFYWNoaGEaBGJlc3QaBGdvb2QaD-CkheCkmuCljeCkm-CkvhoKaXY7cDthY2NoYSpSCgR3aGV5FT7JzkAaCeCkteCkvuCkiBoG4KS14KWHGgzgpLXgpY3gpLngpYcaC3doZXlwcm90ZWluGgzgpLXgpY3gpLngpL4aCWl2O3A7d2hleSphCgdwcm90ZWluFcp9DUEaCHByb3RlaW5zGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFforrkAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRX6K65AGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqMAoDaGFpFepPyEAaAWgaAmhlGgJoaRoG4KS54KWHGgbgpLngpYgaCeCkueCliOCkgjKcAi9nb3RvP3VybD1DQUVTeUFFQjZ6c3dGZDdldjlkemNRc2M1dkd6SFpLMlNXU0VCUW9raXZIdDhYVWVjN2JVbl9GNk9uMmxxUzBEOGdmNFFNSG1samstTWk2Sk9tTldDOW50N3NibHBMVVNKTDJyVzRoUlRkd3RuVWJjQkFQZ21zaTZyd0ZESE1OcEZKWG5PMXVDNDA3ekRqaEM2YkVpMHp2LW41aG5TU3J0SUVkMkZSbWxCRlRyX0JmS1ZoOXdvUGNtZTctMnNLSVRYd1I2SU9UR0c4THdIbkVReGJCeS1JOWluVVBsQ0VZYU1RUTBsWXhHUGF4U3Z5TEJrM1hQTzM1MFp5MmhyMWdjVHZrc2pFN282VURqcjRwVmN3Oko8Yj5CZWdpbm5lcnM8L2I-IGtlIDxiPmxpeWU8L2I-IGJlc3QgPGI-UHJvdGVpbiBrYXVuIHNhPC9iPiBoYWkgLSBGYWNlYm9va0KeAS4uLiBsaXllIGJlc3QgaGFpLiA8Yj5XaGV5IEh5ZHJvbHlzYXRlPC9iPjogWWUgc2Fic2UgcHVyZSBhdXIgcHJlLWRpZ2VzdGVkIGZvcm0gaGFpLCBqbyBib2R5IG1laW4gdWx0cmEtZmFzdCBhYnNvcmIgaG90aSBoYWkgYXVyIGRpZ2VzdGlvbiBwYXIgYmlsa3VsJm5ic3A7Li4uSgJrZVIG4KS54KWIUgngpLLgpL_gpI9SCeCkueCliOCkgiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZkN2V2OWR6Y1FzYzV2R3pIWksyU1dTRUJRb2tpdkh0OFhVZWM3YlVuX0Y2T24ybHFTMEQ4Z2Y0UU1IbWxqay1NaTZKT21OV0M5bnQ3c2JscExVU0pMMnJXNGhSVGR3dG5VYmNCQVBnbXNpNnJ3RkRITU5wRkpYbk8xdUM0MDd6RGpoQzZiRWkwenYtbjVoblNTcnRJRWQyRlJtbEJGVHJfQmZLVmg5d29QY21lNy0yc0tJVFh3UjZJT1RHRzhMd0huRVF4YkJ5LUk5aW5VUGxDRVlhTVFRMGxZeEdQYXhTdnlMQmszWFBPMzUwWnkyaHIxZ2NUdmtzakU3bzZVRGpyNHBWY3cSBBoCCAAa2goSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAtgoIIxAAGAAgACpRCgliZWdpbm5lcnMVWPunQBoV4KSs4KS_4KSX4KSo4KSw4KWN4KS4GhjgpKzgpL_gpJfgpL_gpKjgpLDgpY3gpLgaDml2O3A7YmVnaW5uZXJzKgkKAmtlFQAAAAAqbwoEbGl5ZRXIaLBAGgRsYW5lGgJsaRoEbGl5YRoJ4KSy4KS_4KSPGg_gpLLgpL_gpJbgpL_gpI8aDOCksuCkv-Ckr-ClhxoP4KSy4KS_4KSW4KSo4KS-GgzgpLLgpYfgpKjgpL4aCWl2O3A7bGl5ZSpECgVzYWJzZRX7wRQ_GgZzYWJhc2UaBuCkuOCkrBoM4KS44KSs4KS44KWHGgzgpLjgpKzgpLjgpL4aCml2O3A7c2Fic2UqWgoFYWNjaGEV2eFMPxoFYWNjaGkaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoFYWNoaGEaBGJlc3QaBGdvb2QaD-CkheCkmuCljeCkm-CkvhoKaXY7cDthY2NoYSpSCgR3aGV5FT7JzkAaCeCkteCkvuCkiBoG4KS14KWHGgzgpLXgpY3gpLngpYcaC3doZXlwcm90ZWluGgzgpLXgpY3gpLngpL4aCWl2O3A7d2hleSphCgdwcm90ZWluFcp9DUEaCHByb3RlaW5zGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFforrkAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRX6K65AGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqMAoDaGFpFepPyEAaAWgaAmhlGgJoaRoG4KS54KWHGgbgpLngpYgaCeCkueCliOCkgjKcAi9nb3RvP3VybD1DQUVTeUFFQjZ6c3dGZDdldjlkemNRc2M1dkd6SFpLMlNXU0VCUW9raXZIdDhYVWVjN2JVbl9GNk9uMmxxUzBEOGdmNFFNSG1samstTWk2Sk9tTldDOW50N3NibHBMVVNKTDJyVzRoUlRkd3RuVWJjQkFQZ21zaTZyd0ZESE1OcEZKWG5PMXVDNDA3ekRqaEM2YkVpMHp2LW41aG5TU3J0SUVkMkZSbWxCRlRyX0JmS1ZoOXdvUGNtZTctMnNLSVRYd1I2SU9UR0c4THdIbkVReGJCeS1JOWluVVBsQ0VZYU1RUTBsWXhHUGF4U3Z5TEJrM1hQTzM1MFp5MmhyMWdjVHZrc2pFN282VURqcjRwVmN3Oko8Yj5CZWdpbm5lcnM8L2I-IGtlIDxiPmxpeWU8L2I-IGJlc3QgPGI-UHJvdGVpbiBrYXVuIHNhPC9iPiBoYWkgLSBGYWNlYm9va0KeAS4uLiBsaXllIGJlc3QgaGFpLiA8Yj5XaGV5IEh5ZHJvbHlzYXRlPC9iPjogWWUgc2Fic2UgcHVyZSBhdXIgcHJlLWRpZ2VzdGVkIGZvcm0gaGFpLCBqbyBib2R5IG1laW4gdWx0cmEtZmFzdCBhYnNvcmIgaG90aSBoYWkgYXVyIGRpZ2VzdGlvbiBwYXIgYmlsa3VsJm5ic3A7Li4uSgJrZVIG4KS54KWIUgngpLLgpL_gpI9SCeCkueCliOCkgiICEAFIAFgAaAA",
+        "source": "Facebook",
+        "read_more_link": "https://www.facebook.com/sumit1770/videos/beginners-ke-liye-best-protein-kaun-sa-hai-best-whey-protein-in-india-2026-best-/1750448572865724/#:~:text=Ye%20jaldi%20absorb%20hota%20hai,par%20bilkul%20heavy%20nahi%20hoti."
+      },
+      {
+        "position": 4,
+        "title": "1500 Rs to 4000 Rs TOP 11 BEST Whey Protein In INDIA",
+        "link": "https://www.youtube.com/watch?v=jLJ4fwdrZbE",
+        "displayed_link": "47.9K+ views · 7 months ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9H7roZ3II1RjO5ik02hn6pXKPgUB77lWyG72SJ076_pWHkBBIWogO4Q&s",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+        "snippet": "Premium whey protein under ₹4000 ✔️ Whey protein for muscle gain & fat loss. Gym beginners • Muscle gain seekers • Fat loss trainees • Budget ...",
+        "duration": "12:03",
+        "about_this_result": {
+          "source": {
+            "description": "Premium whey protein under ₹4000 ✔️ Whey protein for muscle gain & fat loss. Gym beginners • Muscle gain seekers • Fat loss trainees • Budget ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkN0MkhabXdCYzl1SVROcXY0U0tYclcta2tEVkJIM3hKS1NBMHBvamd1RHRsUnhObVVRUVFGTmI2ZVU3dnUxYTBBVG0tNXBQWkdZMmNyZm5ObnB3NG9USEV1ckZ3d2lnYnY3M0w2eFRzZmVWWWpqYW9zT1JTMFByU1JmaGlIMVdhNWcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkN0MkhabXdCYzl1SVROcXY0U0tYclcta2tEVkJIM3hKS1NBMHBvamd1RHRsUnhObVVRUVFGTmI2ZVU3dnUxYTBBVG0tNXBQWkdZMmNyZm5ObnB3NG9USEV1ckZ3d2lnYnY3M0w2eFRzZmVWWWpqYW9zT1JTMFByU1JmaGlIMVdhNWcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSHZAfXz_ia6t966SWN14_1weFZ0_DHcuN5Fg",
+        "source": "YouTube · COREFITLAB"
+      },
+      {
+        "position": 5,
+        "title": "शुरुआती लोगों के लिए सर्वश्रेष्ठ व्हे प्रोटीन पाउडर",
+        "link": "https://translate.google.com/translate?u=https://asitisnutrition.com/blogs/health/the-best-whey-protein-powders-for-beginners&hl=hi&sl=en&tl=hi&client=srp&srsltid=AU7gw4V91Y08Pl0fIiqvEuxjf2UhOANakADO5mkLT715wT7jnMUULYbH",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwIB6zswFQB5yIqtzm3TabfjjNWP6grRNcgKGcmeuYNQopWsNNH-Z4OFBusSBf9ul_pJWwavUHu_orVKs_moLDTveg6SO7-k2CIBCFESeLyf2Qxxe7ikwZOSo94Di9WRQOIRyfZNABlmv7iBSO4hVFryWWutxT6jdOIPUTSPm3lhi8v_uktiXu0LDJ2PuxG3WTdy8K7R8Fl_8j7dOYE9Go8T6TIwBXfDtMDf-1ClHb_b340xoAFfdoOmbK-SjKve3nE0J-z1A70qfW-KJeWLZTXDJ3IZiCvvyYgaESPewN65b53x9SKOtc1ArmuObJVAzQ_h8yLVwQBRCNJOrD2UP2ioqCLbiYwJq8VBxVlhoEWQh8xfkIvm7rU&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQFnoECEcQAQ&uoh=1",
+        "displayed_link": "https://asitisnutrition.com › blogs › health › the-best-wh...",
+        "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBgCdASocABwAPtEutFooIagoGAEAGglqAMUHXR9ERoHRuZzU0PdM1tjPX-H8hAn9IYDjTQozheEi1_LloAD-_oeIo44dfpePl4iGq18KG5G9J65JP9o_z73wIdmANWDrKSICtrY7SfwDfOUf7g5aoThv-UzQJW0kWGpJxt1ujmfOYE616ho28K-O9tXxZzKZzvclNfRXn4ejr-spI4c9e9Qo7vY7CRZ-SNKkWeA6L_Xq57Pg27hR2iofzHhE-dVfEosd-e3BfbXLjFrdXnnPkQWE5XGfteRRW6PQxGCP_8st529EZnfUwoZ5cSZiaCgzTmz7Dy7IMTAkYQMc0BsJ3fauahhf801wTbZScRLYSiy4GgKZ7X_HeoEQn9QAAAA.webp",
+        "date": "31 Aug 2026",
+        "snippet": "हैं, तो ATOM Whey आपके लिए सबसे अच्छा विकल्प है । ATOM Whey को बेहतर परफॉर्मेंस लिए डिज़ाइन किया गया है, AS-IT-IS बनाम ATOM Whey:",
+        "snippet_highlighted_words": [
+          "ATOM Whey"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "हैं, तो ATOM Whey आपके लिए सबसे अच्छा विकल्प है । ATOM Whey को बेहतर परफॉर्मेंस लिए डिज़ाइन किया गया है, AS-IT-IS बनाम ATOM Whey:",
+            "source_info_link": "https://translate.google.com/translate?u=https://asitisnutrition.com/blogs/health/the-best-whey-protein-powders-for-beginners&hl=hi&sl=en&tl=hi&client=srp&srsltid=AU7gw4V91Y08Pl0fIiqvEuxjf2UhOANakADO5mkLT715wT7jnMUULYbH",
+            "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBgCdASocABwAPtEutFooIagoGAEAGglqAMUHXR9ERoHRuZzU0PdM1tjPX-H8hAn9IYDjTQozheEi1_LloAD-_oeIo44dfpePl4iGq18KG5G9J65JP9o_z73wIdmANWDrKSICtrY7SfwDfOUf7g5aoThv-UzQJW0kWGpJxt1ujmfOYE616ho28K-O9tXxZzKZzvclNfRXn4ejr-spI4c9e9Qo7vY7CRZ-SNKkWeA6L_Xq57Pg27hR2iofzHhE-dVfEosd-e3BfbXLjFrdXnnPkQWE5XGfteRRW6PQxGCP_8st529EZnfUwoZ5cSZiaCgzTmz7Dy7IMTAkYQMc0BsJ3fauahhf801wTbZScRLYSiy4GgKZ7X_HeoEQn9QAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZSYVVoVS1pTzJPTl85alZPWWlua3RPUW1sRXlSR1NhdTllc3c4d29LaGlxM2s2aV9RVmNSVXNtUlBoaE9kNlNvWnNMWm4zeUI3cF83OVY0eFZzQzBYVW9JNUhoSGt2TjhjNThUZVRFOHJDXzNlNTJGMWhzU2d4XzRSNGE2Sko3VEFhR2tVYVU3YW9OVm05aklSWVl2d2dSQVpjZzJWd1VVTDhna1JrV0pZeWxUMjNYY3Vkc2pyeWdkZxIEGgIIABqyDBIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkCODAgjEAAYACAAKlEKCWJlZ2lubmVycxUAAAA_GhXgpKzgpL_gpJfgpKjgpLDgpY3gpLgaGOCkrOCkv-Ckl-Ckv-CkqOCksOCljeCkuBoOaXY7cDtiZWdpbm5lcnMqCQoCa2UVAAAAACpvCgRsaXllFQAAAAAaBGxhbmUaAmxpGgRsaXlhGgngpLLgpL_gpI8aD-CksuCkv-CkluCkv-CkjxoM4KSy4KS_4KSv4KWHGg_gpLLgpL_gpJbgpKjgpL4aDOCksuClh-CkqOCkvhoJaXY7cDtsaXllKkQKBXNhYnNlFQAAAAAaBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpaCgVhY2NoYRUAAAAAGgVhY2NoaRoEYWNoYRoGYWNoY2hhGgdhY2hjaGhhGgVhY2hoYRoEYmVzdBoEZ29vZBoP4KSF4KSa4KWN4KSb4KS-GgppdjtwO2FjY2hhKlIKBHdoZXkV_hTVPxoJ4KS14KS-4KSIGgbgpLXgpYcaDOCkteCljeCkueClhxoLd2hleXByb3RlaW4aDOCkteCljeCkueCkvhoJaXY7cDt3aGV5KmEKB3Byb3RlaW4VAAAAPxoIcHJvdGVpbnMaFeCkquCljeCksOCkpeCkv-CkqOClhxoLd2hleXByb3RlaW4aFeCkquCljeCksOCkpeCkv-CkqOCkvhoMaXY7cDtwcm90ZWluKlsKBGthdW4VAAAAABoDa29uGgRrb3VuGgngpJXgpL_gpLgaD-CkleCkv-CkuOCkqOClhxoJ4KSV4KWL4KSjGgngpJXgpYzgpKgaBmthdW5zYRoJaXY7cDtrYXVuKkcKAnNhFQAAAAAaDHNvdXRoIGFmcmljYRoG4KSP4KS4GgngpI_gpLjgpI8aA-CkuBoG4KS44KS-GgbgpLjgpYAaBmthdW5zYSowCgNoYWkVAAAAABoBaBoCaGUaAmhpGgbgpLngpYcaBuCkueCliBoJ4KS54KWI4KSCMq4CL2dvdG8_dXJsPUNBRVMxZ0VCNnpzd0ZUSVcwM3R3cWVuTkFma0RjMUY0ZjUwUmJKUUE2THU0dWlPY2J2WUxQWkxaRHRGOGpYTHVmVnRGdW02SjNmdGRUOXVTRTgyNHRIZkFodGpGbE51amJZc2E5d1JXWVpZOVVicFY1M1d6VXYtUHYwaml5UWtKalFzME5TcGlsV1R3Tng0NkxhQW1KdFZnb0JMc0NrUi03SkdLTlRJeFp4ZElEd0Y5dWQ1aUdVeURMcG1Kd1NWRjJxakpxU2pMUi10OVl1ekpzUEZibi1hSVhpeURqWWQ5M051aWZUQVUzUG5aemk4bkFVWHFFQ2otc1BCNkVnejg1MUFQeEV4ZkpiUjk2Y25Xc0o2SFpIc25WcFVfakFpemR0cjY6mQHgpLbgpYHgpLDgpYHgpIbgpKTgpYAg4KSy4KWL4KSX4KWL4KSCIOCkleClhyA8Yj7gpLLgpL_gpI88L2I-IOCkuOCksOCljeCkteCktuCljeCksOClh-Ckt-CljeCkoCA8Yj7gpLXgpY3gpLngpYc8L2I-IOCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLBClALgpLngpYjgpIIsIOCkpOCliyA8Yj5BVE9NIFdoZXk8L2I-IOCkhuCkquCkleClhyDgpLLgpL_gpI8g4KS44KSs4KS44KWHIOCkheCkmuCljeCkm-CkviDgpLXgpL_gpJXgpLLgpY3gpKog4KS54KWIIOClpCBBVE9NIFdoZXkg4KSV4KWLIOCkrOClh-CkueCkpOCksCDgpKrgpLDgpKvgpYngpLDgpY3gpK7gpYfgpILgpLgg4KSy4KS_4KSPIOCkoeCkv-CknOCkvOCkvuCkh-CkqCDgpJXgpL_gpK_gpL4g4KSX4KSv4KS-IOCkueCliCwgQVMtSVQtSVMg4KSs4KSo4KS-4KSuIEFUT00gV2hleTpKAmtlUgngpLngpYjgpIJSCeCksuCkv-Ckj1IG4KS54KWIIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZSYVVoVS1pTzJPTl85alZPWWlua3RPUW1sRXlSR1NhdTllc3c4d29LaGlxM2s2aV9RVmNSVXNtUlBoaE9kNlNvWnNMWm4zeUI3cF83OVY0eFZzQzBYVW9JNUhoSGt2TjhjNThUZVRFOHJDXzNlNTJGMWhzU2d4XzRSNGE2Sko3VEFhR2tVYVU3YW9OVm05aklSWVl2d2dSQVpjZzJWd1VVTDhna1JrV0pZeWxUMjNYY3Vkc2pyeWdkZxIEGgIIABqyDBIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkCODAgjEAAYACAAKlEKCWJlZ2lubmVycxUAAAA_GhXgpKzgpL_gpJfgpKjgpLDgpY3gpLgaGOCkrOCkv-Ckl-Ckv-CkqOCksOCljeCkuBoOaXY7cDtiZWdpbm5lcnMqCQoCa2UVAAAAACpvCgRsaXllFQAAAAAaBGxhbmUaAmxpGgRsaXlhGgngpLLgpL_gpI8aD-CksuCkv-CkluCkv-CkjxoM4KSy4KS_4KSv4KWHGg_gpLLgpL_gpJbgpKjgpL4aDOCksuClh-CkqOCkvhoJaXY7cDtsaXllKkQKBXNhYnNlFQAAAAAaBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpaCgVhY2NoYRUAAAAAGgVhY2NoaRoEYWNoYRoGYWNoY2hhGgdhY2hjaGhhGgVhY2hoYRoEYmVzdBoEZ29vZBoP4KSF4KSa4KWN4KSb4KS-GgppdjtwO2FjY2hhKlIKBHdoZXkV_hTVPxoJ4KS14KS-4KSIGgbgpLXgpYcaDOCkteCljeCkueClhxoLd2hleXByb3RlaW4aDOCkteCljeCkueCkvhoJaXY7cDt3aGV5KmEKB3Byb3RlaW4VAAAAPxoIcHJvdGVpbnMaFeCkquCljeCksOCkpeCkv-CkqOClhxoLd2hleXByb3RlaW4aFeCkquCljeCksOCkpeCkv-CkqOCkvhoMaXY7cDtwcm90ZWluKlsKBGthdW4VAAAAABoDa29uGgRrb3VuGgngpJXgpL_gpLgaD-CkleCkv-CkuOCkqOClhxoJ4KSV4KWL4KSjGgngpJXgpYzgpKgaBmthdW5zYRoJaXY7cDtrYXVuKkcKAnNhFQAAAAAaDHNvdXRoIGFmcmljYRoG4KSP4KS4GgngpI_gpLjgpI8aA-CkuBoG4KS44KS-GgbgpLjgpYAaBmthdW5zYSowCgNoYWkVAAAAABoBaBoCaGUaAmhpGgbgpLngpYcaBuCkueCliBoJ4KS54KWI4KSCMq4CL2dvdG8_dXJsPUNBRVMxZ0VCNnpzd0ZUSVcwM3R3cWVuTkFma0RjMUY0ZjUwUmJKUUE2THU0dWlPY2J2WUxQWkxaRHRGOGpYTHVmVnRGdW02SjNmdGRUOXVTRTgyNHRIZkFodGpGbE51amJZc2E5d1JXWVpZOVVicFY1M1d6VXYtUHYwaml5UWtKalFzME5TcGlsV1R3Tng0NkxhQW1KdFZnb0JMc0NrUi03SkdLTlRJeFp4ZElEd0Y5dWQ1aUdVeURMcG1Kd1NWRjJxakpxU2pMUi10OVl1ekpzUEZibi1hSVhpeURqWWQ5M051aWZUQVUzUG5aemk4bkFVWHFFQ2otc1BCNkVnejg1MUFQeEV4ZkpiUjk2Y25Xc0o2SFpIc25WcFVfakFpemR0cjY6mQHgpLbgpYHgpLDgpYHgpIbgpKTgpYAg4KSy4KWL4KSX4KWL4KSCIOCkleClhyA8Yj7gpLLgpL_gpI88L2I-IOCkuOCksOCljeCkteCktuCljeCksOClh-Ckt-CljeCkoCA8Yj7gpLXgpY3gpLngpYc8L2I-IOCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLBClALgpLngpYjgpIIsIOCkpOCliyA8Yj5BVE9NIFdoZXk8L2I-IOCkhuCkquCkleClhyDgpLLgpL_gpI8g4KS44KSs4KS44KWHIOCkheCkmuCljeCkm-CkviDgpLXgpL_gpJXgpLLgpY3gpKog4KS54KWIIOClpCBBVE9NIFdoZXkg4KSV4KWLIOCkrOClh-CkueCkpOCksCDgpKrgpLDgpKvgpYngpLDgpY3gpK7gpYfgpILgpLgg4KSy4KS_4KSPIOCkoeCkv-CknOCkvOCkvuCkh-CkqCDgpJXgpL_gpK_gpL4g4KSX4KSv4KS-IOCkueCliCwgQVMtSVQtSVMg4KSs4KSo4KS-4KSuIEFUT00gV2hleTpKAmtlUgngpLngpYjgpIJSCeCksuCkv-Ckj1IG4KS54KWIIgIQAUgAWABoAA",
+        "source": "AS-IT-IS Nutrition"
+      },
+      {
+        "position": 6,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स ...",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsAEB6zswFZ_o1-1OYUGM1V5tcd2OkD86Xz9kYDQUbvAnhW-l2dLljxZ1UYXxs_FbzIevYLB-I_uk9u8YAlgtNqtY6jwAUNqHdWrgnuFpHrkyMlZwz2cuMkpyps9O7j_U1KDn6gnlbh8sZkjpx-U4akSyagMk6SFFLhqyHB5m_1m9KbDYQLhOSYO7sDfUe6ZG6S0nMA_qDuI21XfASEkOWEhn3RCV5dRTSKg_0wyrlCq2cQ&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQFnoECEQQAQ&uoh=1",
+        "displayed_link": "https://www.mensxp.com › health",
+        "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBgCdASocABwAPrUurVanIacnG_DgFolsAJ0voh0GsGMAmlgrwPb8wkMuZsvh2CgVGkEE3tcPgWAA_viuLt9jd9qgo-KJ7_6QvXmSYP4YNLVf8nK1wvDo3o_O1QqLbFe0VW5FR8E6moS0vRDawbFNr03bnDcDifkFi5ja_3ll-oVETGpYnhZ-o4XOBNML_dU6CAPytbgMoa7Y4xZkDCBlRIOUk2XwT3BXoXgbZD43KU51mvJ-a5WG0Wp4Pu54NSo5-IPQyzaVB5zoZhMMxOXilVFmz1ohAfwP2nj_c__jewa6K6rCgAAA.webp",
+        "snippet": "डायमटाइज न्यूट्रिशन एलीट व्हे प्रोटीन पाउडर के एक स्कूप (36 Gm) में 25 Gm प्रोटीन होता है।",
+        "snippet_highlighted_words": [
+          "डायमटाइज न्यूट्रिशन एलीट व्हे प्रोटीन पाउडर"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "डायमटाइज न्यूट्रिशन एलीट व्हे प्रोटीन पाउडर के एक स्कूप (36 Gm) में 25 Gm प्रोटीन होता है।",
+            "source_info_link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+            "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBgCdASocABwAPrUurVanIacnG_DgFolsAJ0voh0GsGMAmlgrwPb8wkMuZsvh2CgVGkEE3tcPgWAA_viuLt9jd9qgo-KJ7_6QvXmSYP4YNLVf8nK1wvDo3o_O1QqLbFe0VW5FR8E6moS0vRDawbFNr03bnDcDifkFi5ja_3ll-oVETGpYnhZ-o4XOBNML_dU6CAPytbgMoa7Y4xZkDCBlRIOUk2XwT3BXoXgbZD43KU51mvJ-a5WG0Wp4Pu54NSo5-IPQyzaVB5zoZhMMxOXilVFmz1ohAfwP2nj_c__jewa6K6rCgAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZaX28xLTFPWVVHTTFWNXRjZDJPa0Q4Nlh6OWtZRFFVYnZBbmhXLWwyZExsanhaMVVZWHhzX0ZieklldllMQi1JX3VrOXU4WUFsZ3ROcXRZNmp3QVVOcUhkV3JnbnVGcEhya3lNbFp3ejJjdU1rcHlwczlPN2pfVTFLRG42Z25sYmg4c1pranB4LVU0YWtTeWFnTWs2U0ZGTGhxeUhCNW1fMW05S2JEWVFMaE9TWU83c0RmVWU2Wkc2UzBuTUFfcUR1STIxWGZBU0VrT1dFaG4zUkNWNWRSVFNLZ18wd3lybENxMmNREgQaAggAGsQLEgIIABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAngsIIxAAGAAgACpRCgliZWdpbm5lcnMVAAAAABoV4KSs4KS_4KSX4KSo4KSw4KWN4KS4GhjgpKzgpL_gpJfgpL_gpKjgpLDgpY3gpLgaDml2O3A7YmVnaW5uZXJzKgkKAmtlFQAAAAAqbwoEbGl5ZRUAAAAAGgRsYW5lGgJsaRoEbGl5YRoJ4KSy4KS_4KSPGg_gpLLgpL_gpJbgpL_gpI8aDOCksuCkv-Ckr-ClhxoP4KSy4KS_4KSW4KSo4KS-GgzgpLLgpYfgpKjgpL4aCWl2O3A7bGl5ZSpECgVzYWJzZRUAAAAAGgZzYWJhc2UaBuCkuOCkrBoM4KS44KSs4KS44KWHGgzgpLjgpKzgpLjgpL4aCml2O3A7c2Fic2UqWgoFYWNjaGEVAAAAABoFYWNjaGkaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoFYWNoaGEaBGJlc3QaBGdvb2QaD-CkheCkmuCljeCkm-CkvhoKaXY7cDthY2NoYSpSCgR3aGV5FS7fh0AaCeCkteCkvuCkiBoG4KS14KWHGgzgpLXgpY3gpLngpYcaC3doZXlwcm90ZWluGgzgpLXgpY3gpLngpL4aCWl2O3A7d2hleSphCgdwcm90ZWluFWKD00AaCHByb3RlaW5zGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqMAoDaGFpFQAAAAAaAWgaAmhlGgJoaRoG4KS54KWHGgbgpLngpYgaCeCkueCliOCkgjL8AS9nb3RvP3VybD1DQUVTc0FFQjZ6c3dGWl9vMS0xT1lVR00xVjV0Y2QyT2tEODZYejlrWURRVWJ2QW5oVy1sMmRMbGp4WjFVWVh4c19GYnpJZXZZTEItSV91azl1OFlBbGd0TnF0WTZqd0FVTnFIZFdyZ251RnBIcmt5TWxad3oyY3VNa3B5cHM5TzdqX1UxS0RuNmdubGJoOHNaa2pweC1VNGFrU3lhZ01rNlNGRkxocXlIQjVtXzFtOUtiRFlRTGhPU1lPN3NEZlVlNlpHNlMwbk1BX3FEdUkyMVhmQVNFa09XRWhuM1JDVjVkUlRTS2dfMHd5cmxDcTJjUTqOATxiPlByb3RlaW48L2I-IFBvd2RlciBmb3IgTWVuOiA1IOCkrOClh-CkuOCljeCknyA8Yj7gpLXgpY3gpLngpYc8L2I-IOCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSu4KS44KSy4KWN4KS4IOCkrOCkv-CksuCljeCkoSAuLi5C4QE8Yj7gpKHgpL7gpK_gpK7gpJ_gpL7gpIfgpJwg4KSo4KWN4KSv4KWC4KSf4KWN4KSw4KS_4KS24KSoIOCkj-CksuClgOCknyDgpLXgpY3gpLngpYcg4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCkquCkvuCkieCkoeCksDwvYj4g4KSV4KWHIOCkj-CklSDgpLjgpY3gpJXgpYLgpKogKDM2IEdtKSDgpK7gpYfgpIIgMjUgR20g4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCkueCli-CkpOCkviDgpLngpYjgpaRKAmtlUgbgpLngpYhSCeCksuCkv-Ckj1IJ4KS54KWI4KSCIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZaX28xLTFPWVVHTTFWNXRjZDJPa0Q4Nlh6OWtZRFFVYnZBbmhXLWwyZExsanhaMVVZWHhzX0ZieklldllMQi1JX3VrOXU4WUFsZ3ROcXRZNmp3QVVOcUhkV3JnbnVGcEhya3lNbFp3ejJjdU1rcHlwczlPN2pfVTFLRG42Z25sYmg4c1pranB4LVU0YWtTeWFnTWs2U0ZGTGhxeUhCNW1fMW05S2JEWVFMaE9TWU83c0RmVWU2Wkc2UzBuTUFfcUR1STIxWGZBU0VrT1dFaG4zUkNWNWRSVFNLZ18wd3lybENxMmNREgQaAggAGsQLEgIIABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAngsIIxAAGAAgACpRCgliZWdpbm5lcnMVAAAAABoV4KSs4KS_4KSX4KSo4KSw4KWN4KS4GhjgpKzgpL_gpJfgpL_gpKjgpLDgpY3gpLgaDml2O3A7YmVnaW5uZXJzKgkKAmtlFQAAAAAqbwoEbGl5ZRUAAAAAGgRsYW5lGgJsaRoEbGl5YRoJ4KSy4KS_4KSPGg_gpLLgpL_gpJbgpL_gpI8aDOCksuCkv-Ckr-ClhxoP4KSy4KS_4KSW4KSo4KS-GgzgpLLgpYfgpKjgpL4aCWl2O3A7bGl5ZSpECgVzYWJzZRUAAAAAGgZzYWJhc2UaBuCkuOCkrBoM4KS44KSs4KS44KWHGgzgpLjgpKzgpLjgpL4aCml2O3A7c2Fic2UqWgoFYWNjaGEVAAAAABoFYWNjaGkaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoFYWNoaGEaBGJlc3QaBGdvb2QaD-CkheCkmuCljeCkm-CkvhoKaXY7cDthY2NoYSpSCgR3aGV5FS7fh0AaCeCkteCkvuCkiBoG4KS14KWHGgzgpLXgpY3gpLngpYcaC3doZXlwcm90ZWluGgzgpLXgpY3gpLngpL4aCWl2O3A7d2hleSphCgdwcm90ZWluFWKD00AaCHByb3RlaW5zGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqMAoDaGFpFQAAAAAaAWgaAmhlGgJoaRoG4KS54KWHGgbgpLngpYgaCeCkueCliOCkgjL8AS9nb3RvP3VybD1DQUVTc0FFQjZ6c3dGWl9vMS0xT1lVR00xVjV0Y2QyT2tEODZYejlrWURRVWJ2QW5oVy1sMmRMbGp4WjFVWVh4c19GYnpJZXZZTEItSV91azl1OFlBbGd0TnF0WTZqd0FVTnFIZFdyZ251RnBIcmt5TWxad3oyY3VNa3B5cHM5TzdqX1UxS0RuNmdubGJoOHNaa2pweC1VNGFrU3lhZ01rNlNGRkxocXlIQjVtXzFtOUtiRFlRTGhPU1lPN3NEZlVlNlpHNlMwbk1BX3FEdUkyMVhmQVNFa09XRWhuM1JDVjVkUlRTS2dfMHd5cmxDcTJjUTqOATxiPlByb3RlaW48L2I-IFBvd2RlciBmb3IgTWVuOiA1IOCkrOClh-CkuOCljeCknyA8Yj7gpLXgpY3gpLngpYc8L2I-IOCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSu4KS44KSy4KWN4KS4IOCkrOCkv-CksuCljeCkoSAuLi5C4QE8Yj7gpKHgpL7gpK_gpK7gpJ_gpL7gpIfgpJwg4KSo4KWN4KSv4KWC4KSf4KWN4KSw4KS_4KS24KSoIOCkj-CksuClgOCknyDgpLXgpY3gpLngpYcg4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCkquCkvuCkieCkoeCksDwvYj4g4KSV4KWHIOCkj-CklSDgpLjgpY3gpJXgpYLgpKogKDM2IEdtKSDgpK7gpYfgpIIgMjUgR20g4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCkueCli-CkpOCkviDgpLngpYjgpaRKAmtlUgbgpLngpYhSCeCksuCkv-Ckj1IJ4KS54KWI4KSCIgIQAUgAWABoAA",
+        "source": "MensXP",
+        "read_more_link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html#:~:text=%E0%A4%A1%E0%A4%BE%E0%A4%AF%E0%A4%AE%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%9C%20%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B6%E0%A4%A8%20%E0%A4%8F%E0%A4%B2%E0%A5%80%E0%A4%9F%20%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8,25%20Gm%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8%20%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4"
+      },
+      {
+        "position": 7,
+        "title": "Supplement For Beginners | Which Whey Protein is best?",
+        "link": "https://www.youtube.com/watch?v=Lwtz3spvKn8",
+        "displayed_link": "1.4L+ views · 5 years ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWkqJwcIXUmhqebucSi63Ddb8x2JmLu4-b7yv38kP3PIkJM0gun6GvQ&s",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+        "snippet": "Which Whey Protein Supplement is Best for Beginners ? protein supplement. Which is best 1. Whey Protein Concentrate ? 2. Whey Protein Isolate ? ...",
+        "duration": "8:48",
+        "key_moments": [
+          {
+            "time": "03:01",
+            "title": "NOT RECOMMENDED FOR PEOPLE WITH LACTOSE INTOLERANCE",
+            "link": "https://www.youtube.com/watch?v=Lwtz3spvKn8&t=181"
+          },
+          {
+            "time": "05:18",
+            "title": "With Excessive Filtration Whey Loses Its Qualities",
+            "link": "https://www.youtube.com/watch?v=Lwtz3spvKn8&t=318"
+          },
+          {
+            "time": "07:07",
+            "title": "Brand A Has Higher Chances of Having Good Quality Protein",
+            "link": "https://www.youtube.com/watch?v=Lwtz3spvKn8&t=427"
+          },
+          {
+            "time": "07:18",
+            "title": "SET A BUDGET",
+            "link": "https://www.youtube.com/watch?v=Lwtz3spvKn8&t=438"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Which Whey Protein Supplement is Best for Beginners ? protein supplement. Which is best 1. Whey Protein Concentrate ? 2. Whey Protein Isolate ? ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVl9NcVdqUU1oSmE1R1htVEhzT1pHa2Iwb2hlZzVySzZsc25oenFpdjJiS2N5ZG16MGotUTEzY2didGRFNjBDRDdzZFFGQTBRNVFXOFpwbnFYSEN1R3pMbGVoR3VyOXk1Z1JZUms5UVdCQTk2OHEzQnRzUnQxUVFfZTFDd1VtV0Q0ZVESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVl9NcVdqUU1oSmE1R1htVEhzT1pHa2Iwb2hlZzVySzZsc25oenFpdjJiS2N5ZG16MGotUTEzY2didGRFNjBDRDdzZFFGQTBRNVFXOFpwbnFYSEN1R3pMbGVoR3VyOXk1Z1JZUms5UVdCQTk2OHEzQnRzUnQxUVFfZTFDd1VtV0Q0ZVESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "source": "YouTube · Nikhil Nautiyal Fitness"
+      },
+      {
+        "position": 8,
+        "title": "भारत में सबसे अच्छा व्हे प्रोटीन पाउडर कौन सा है? - Quora",
+        "link": "https://hi.quora.com/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE-%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87-1",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwIB6zswFczgXdbNmZVlqVKRfUAlQdCOyja2aNuYOYaJ4lDAGQOdnj7apEc2HmpkNQjRJPGo0dd1wYjcrim1jKWc67sirj6CvEow563XSYJdxFc9FnIOAha07EBCce8MEPKB765keTM7XlQ00LkoB2OUW61-ZXZ6lbzdRU3yaRU57qpl0MoARHOnj5pT7fZ6jwwwXk1ExN-gH1usbyqrppVIPmxrmOs9oninXMEKtJJS2-IIOxjtkKZMK5cFqksB60uvfxHSOnQo-JxkXri6bKGyeNKqEM2zFyWjJT2PXTvOHvNgcWtFlfhlFgOJcnCONMkWSc7Wn7Kg1RkUqVHdzD6Lxi6q7CGOPYXbukI&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQFnoECE0QAQ&uoh=1",
+        "displayed_link": "40+ answers · 7 years ago",
+        "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+        "snippet": "भारत में सबसे अच्छा व्हे प्रोटीन पाउडर कौन सा है?",
+        "about_this_result": {
+          "source": {
+            "description": "ऑप्टिमम न्यूट्रिशन 100% व्हे स्टेन्डर्ड (Optimum Nutrition(ON) 100% Whey Gold Standard) · मसल ब्लेज ...",
+            "source_info_link": "https://hi.quora.com/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE-%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87-1",
+            "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvUCL2dvdG8_dXJsPUNBRVNpd0lCNnpzd0ZjemdYZGJObVpWbHFWS1JmVUFsUWRDT3lqYTJhTnVZT1lhSjRsREFHUU9kbmo3YXBFYzJIbXBrTlFqUkpQR28wZGQxd1lqY3JpbTFqS1djNjdzaXJqNkN2RW93NTYzWFNZSmR4RmM5Rm5JT0FoYTA3RUJDY2U4TUVQS0I3NjVrZVRNN1hsUTAwTGtvQjJPVVc2MS1aWFo2bGJ6ZFJVM3lhUlU1N3FwbDBNb0FSSE9uajVwVDdmWjZqd3d3WGsxRXhOLWdIMXVzYnlxcnBwVklQbXhybU9zOW9uaW5YTUVLdEpKUzItSUlPeGp0a0taTUs1Y0Zxa3NCNjB1dmZ4SFNPblFvLUp4a1hyaTZiS0d5ZU5LcUVNMnpGeVdqSlQyUFhUdk9Idk5nY1d0RmxmaGxGZ09KY25DT05Na1dTYzdXbjdLZzFSa1VxVkhkekQ2THhpNnE3Q0dPUFlYYnVrSRIEGgIIABqpDBIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkCFDAgjEAAYACAAKlEKCWJlZ2lubmVycxWG8YQ_GhXgpKzgpL_gpJfgpKjgpLDgpY3gpLgaGOCkrOCkv-Ckl-Ckv-CkqOCksOCljeCkuBoOaXY7cDtiZWdpbm5lcnMqCQoCa2UVAAAAACpvCgRsaXllFQAAAAAaBGxhbmUaAmxpGgRsaXlhGgngpLLgpL_gpI8aD-CksuCkv-CkluCkv-CkjxoM4KSy4KS_4KSv4KWHGg_gpLLgpL_gpJbgpKjgpL4aDOCksuClh-CkqOCkvhoJaXY7cDtsaXllKkQKBXNhYnNlFSGcZT0aBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpaCgVhY2NoYRUAAAAAGgVhY2NoaRoEYWNoYRoGYWNoY2hhGgdhY2hjaGhhGgVhY2hoYRoEYmVzdBoEZ29vZBoP4KSF4KSa4KWN4KSb4KS-GgppdjtwO2FjY2hhKlIKBHdoZXkVHp2jPxoJ4KS14KS-4KSIGgbgpLXgpYcaDOCkteCljeCkueClhxoLd2hleXByb3RlaW4aDOCkteCljeCkueCkvhoJaXY7cDt3aGV5KmEKB3Byb3RlaW4VF52rPxoIcHJvdGVpbnMaFeCkquCljeCksOCkpeCkv-CkqOClhxoLd2hleXByb3RlaW4aFeCkquCljeCksOCkpeCkv-CkqOCkvhoMaXY7cDtwcm90ZWluKlsKBGthdW4VAAAAABoDa29uGgRrb3VuGgngpJXgpL_gpLgaD-CkleCkv-CkuOCkqOClhxoJ4KSV4KWL4KSjGgngpJXgpYzgpKgaBmthdW5zYRoJaXY7cDtrYXVuKkcKAnNhFQAAAAAaDHNvdXRoIGFmcmljYRoG4KSP4KS4GgngpI_gpLjgpI8aA-CkuBoG4KS44KS-GgbgpLjgpYAaBmthdW5zYSowCgNoYWkVAAAAABoBaBoCaGUaAmhpGgbgpLngpYcaBuCkueCliBoJ4KS54KWI4KSCMvUCL2dvdG8_dXJsPUNBRVNpd0lCNnpzd0ZjemdYZGJObVpWbHFWS1JmVUFsUWRDT3lqYTJhTnVZT1lhSjRsREFHUU9kbmo3YXBFYzJIbXBrTlFqUkpQR28wZGQxd1lqY3JpbTFqS1djNjdzaXJqNkN2RW93NTYzWFNZSmR4RmM5Rm5JT0FoYTA3RUJDY2U4TUVQS0I3NjVrZVRNN1hsUTAwTGtvQjJPVVc2MS1aWFo2bGJ6ZFJVM3lhUlU1N3FwbDBNb0FSSE9uajVwVDdmWjZqd3d3WGsxRXhOLWdIMXVzYnlxcnBwVklQbXhybU9zOW9uaW5YTUVLdEpKUzItSUlPeGp0a0taTUs1Y0Zxa3NCNjB1dmZ4SFNPblFvLUp4a1hyaTZiS0d5ZU5LcUVNMnpGeVdqSlQyUFhUdk9Idk5nY1d0RmxmaGxGZ09KY25DT05Na1dTYzdXbjdLZzFSa1VxVkhkekQ2THhpNnE3Q0dPUFlYYnVrSTqVAeCkreCkvuCksOCkpCDgpK7gpYfgpIIgPGI-4KS44KSs4KS44KWHIOCkheCkmuCljeCkm-CkviDgpLXgpY3gpLngpYc8L2I-IOCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSV4KWM4KSoIDxiPuCkuOCkvjwvYj4g4KS54KWIPyAtIFF1b3JhQsgBPGI-4KSR4KSq4KWN4KSf4KS_4KSu4KSuIOCkqOCljeCkr-ClguCkn-CljeCksOCkv-CktuCkqCAxMDAlIOCkteCljeCkueClhyDgpLjgpY3gpJ_gpYfgpKjgpY3gpKHgpLDgpY08L2I-4KShIChPcHRpbXVtIE51dHJpdGlvbihPTikgMTAwJSBXaGV5IEdvbGQgU3RhbmRhcmQpICZtaWRkb3Q7IOCkruCkuOCksiDgpKzgpY3gpLLgpYfgpJwmbmJzcDsuLi5KAmtlUgngpLngpYjgpIJSCeCksuCkv-Ckj1IG4KS54KWIIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvUCL2dvdG8_dXJsPUNBRVNpd0lCNnpzd0ZjemdYZGJObVpWbHFWS1JmVUFsUWRDT3lqYTJhTnVZT1lhSjRsREFHUU9kbmo3YXBFYzJIbXBrTlFqUkpQR28wZGQxd1lqY3JpbTFqS1djNjdzaXJqNkN2RW93NTYzWFNZSmR4RmM5Rm5JT0FoYTA3RUJDY2U4TUVQS0I3NjVrZVRNN1hsUTAwTGtvQjJPVVc2MS1aWFo2bGJ6ZFJVM3lhUlU1N3FwbDBNb0FSSE9uajVwVDdmWjZqd3d3WGsxRXhOLWdIMXVzYnlxcnBwVklQbXhybU9zOW9uaW5YTUVLdEpKUzItSUlPeGp0a0taTUs1Y0Zxa3NCNjB1dmZ4SFNPblFvLUp4a1hyaTZiS0d5ZU5LcUVNMnpGeVdqSlQyUFhUdk9Idk5nY1d0RmxmaGxGZ09KY25DT05Na1dTYzdXbjdLZzFSa1VxVkhkekQ2THhpNnE3Q0dPUFlYYnVrSRIEGgIIABqpDBIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkCFDAgjEAAYACAAKlEKCWJlZ2lubmVycxWG8YQ_GhXgpKzgpL_gpJfgpKjgpLDgpY3gpLgaGOCkrOCkv-Ckl-Ckv-CkqOCksOCljeCkuBoOaXY7cDtiZWdpbm5lcnMqCQoCa2UVAAAAACpvCgRsaXllFQAAAAAaBGxhbmUaAmxpGgRsaXlhGgngpLLgpL_gpI8aD-CksuCkv-CkluCkv-CkjxoM4KSy4KS_4KSv4KWHGg_gpLLgpL_gpJbgpKjgpL4aDOCksuClh-CkqOCkvhoJaXY7cDtsaXllKkQKBXNhYnNlFSGcZT0aBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpaCgVhY2NoYRUAAAAAGgVhY2NoaRoEYWNoYRoGYWNoY2hhGgdhY2hjaGhhGgVhY2hoYRoEYmVzdBoEZ29vZBoP4KSF4KSa4KWN4KSb4KS-GgppdjtwO2FjY2hhKlIKBHdoZXkVHp2jPxoJ4KS14KS-4KSIGgbgpLXgpYcaDOCkteCljeCkueClhxoLd2hleXByb3RlaW4aDOCkteCljeCkueCkvhoJaXY7cDt3aGV5KmEKB3Byb3RlaW4VF52rPxoIcHJvdGVpbnMaFeCkquCljeCksOCkpeCkv-CkqOClhxoLd2hleXByb3RlaW4aFeCkquCljeCksOCkpeCkv-CkqOCkvhoMaXY7cDtwcm90ZWluKlsKBGthdW4VAAAAABoDa29uGgRrb3VuGgngpJXgpL_gpLgaD-CkleCkv-CkuOCkqOClhxoJ4KSV4KWL4KSjGgngpJXgpYzgpKgaBmthdW5zYRoJaXY7cDtrYXVuKkcKAnNhFQAAAAAaDHNvdXRoIGFmcmljYRoG4KSP4KS4GgngpI_gpLjgpI8aA-CkuBoG4KS44KS-GgbgpLjgpYAaBmthdW5zYSowCgNoYWkVAAAAABoBaBoCaGUaAmhpGgbgpLngpYcaBuCkueCliBoJ4KS54KWI4KSCMvUCL2dvdG8_dXJsPUNBRVNpd0lCNnpzd0ZjemdYZGJObVpWbHFWS1JmVUFsUWRDT3lqYTJhTnVZT1lhSjRsREFHUU9kbmo3YXBFYzJIbXBrTlFqUkpQR28wZGQxd1lqY3JpbTFqS1djNjdzaXJqNkN2RW93NTYzWFNZSmR4RmM5Rm5JT0FoYTA3RUJDY2U4TUVQS0I3NjVrZVRNN1hsUTAwTGtvQjJPVVc2MS1aWFo2bGJ6ZFJVM3lhUlU1N3FwbDBNb0FSSE9uajVwVDdmWjZqd3d3WGsxRXhOLWdIMXVzYnlxcnBwVklQbXhybU9zOW9uaW5YTUVLdEpKUzItSUlPeGp0a0taTUs1Y0Zxa3NCNjB1dmZ4SFNPblFvLUp4a1hyaTZiS0d5ZU5LcUVNMnpGeVdqSlQyUFhUdk9Idk5nY1d0RmxmaGxGZ09KY25DT05Na1dTYzdXbjdLZzFSa1VxVkhkekQ2THhpNnE3Q0dPUFlYYnVrSTqVAeCkreCkvuCksOCkpCDgpK7gpYfgpIIgPGI-4KS44KSs4KS44KWHIOCkheCkmuCljeCkm-CkviDgpLXgpY3gpLngpYc8L2I-IOCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSV4KWM4KSoIDxiPuCkuOCkvjwvYj4g4KS54KWIPyAtIFF1b3JhQsgBPGI-4KSR4KSq4KWN4KSf4KS_4KSu4KSuIOCkqOCljeCkr-ClguCkn-CljeCksOCkv-CktuCkqCAxMDAlIOCkteCljeCkueClhyDgpLjgpY3gpJ_gpYfgpKjgpY3gpKHgpLDgpY08L2I-4KShIChPcHRpbXVtIE51dHJpdGlvbihPTikgMTAwJSBXaGV5IEdvbGQgU3RhbmRhcmQpICZtaWRkb3Q7IOCkruCkuOCksiDgpKzgpY3gpLLgpYfgpJwmbmJzcDsuLi5KAmtlUgngpLngpYjgpIJSCeCksuCkv-Ckj1IG4KS54KWIIgIQAUgAWABoAA",
+        "source": "Quora"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Body banane ke liye sabse accha protein kaun sa hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&q=Body+banane+ke+liye+sabse+accha+protein+kaun+sa+hai&sa=X&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ1QJ6BAg-EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Body+banane+ke+liye+sabse+accha+protein+kaun+sa+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "Sabse best Protein Powder kaun sa hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&q=Sabse+best+Protein+Powder+kaun+sa+hai&sa=X&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ1QJ6BAhCEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Sabse+best+Protein+Powder+kaun+sa+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "Whey Protein sabse achcha kaun sa hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&q=Whey+Protein+sabse+achcha+kaun+sa+hai&sa=X&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ1QJ6BAhMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Whey+Protein+sabse+achcha+kaun+sa+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "Duniya ka sabse achcha Protein kaun sa hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&q=Duniya+ka+sabse+achcha+Protein+kaun+sa+hai&sa=X&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ1QJ6BAhJEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Duniya+ka+sabse+achcha+Protein+kaun+sa+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "India ka sabse best whey protein kaun sa hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&q=India+ka+sabse+best+whey+protein+kaun+sa+hai&sa=X&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=India+ka+sabse+best+whey+protein+kaun+sa+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "Sabse mahanga protein kaun sa hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&q=Sabse+mahanga+protein+kaun+sa+hai&sa=X&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ1QJ6BAhGEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Sabse+mahanga+protein+kaun+sa+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "Sabse sasta Protein powder kaun sa hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&q=Sabse+sasta+Protein+powder+kaun+sa+hai&sa=X&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Sabse+sasta+Protein+powder+kaun+sa+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "India ka sabse best protein kaun sa hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&q=India+ka+sabse+best+protein+kaun+sa+hai&sa=X&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ1QJ6BAhBEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=India+ka+sabse+best+protein+kaun+sa+hai"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&ei=qevEaq6CMuDE1e8PqdeasQw&start=10&sa=N&sstk=AS6-VmJGBLQxjiv6oHORxf2LWM-1DTua9fief0j5fokRIwXdlRwESgA5DT9D3RbPVIQJq4rRWWNjq_jeSnZaC_wtZDGz07FUg159Dg&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ8NMDegQIPBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&ei=qevEaq6CMuDE1e8PqdeasQw&start=10&sa=N&sstk=AS6-VmJGBLQxjiv6oHORxf2LWM-1DTua9fief0j5fokRIwXdlRwESgA5DT9D3RbPVIQJq4rRWWNjq_jeSnZaC_wtZDGz07FUg159Dg&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ8tMDegQIPBAE",
+        "3": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&ei=qevEaq6CMuDE1e8PqdeasQw&start=20&sa=N&sstk=AS6-VmJGBLQxjiv6oHORxf2LWM-1DTua9fief0j5fokRIwXdlRwESgA5DT9D3RbPVIQJq4rRWWNjq_jeSnZaC_wtZDGz07FUg159Dg&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ8tMDegQIPBAG",
+        "4": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&ei=qevEaq6CMuDE1e8PqdeasQw&start=30&sa=N&sstk=AS6-VmJGBLQxjiv6oHORxf2LWM-1DTua9fief0j5fokRIwXdlRwESgA5DT9D3RbPVIQJq4rRWWNjq_jeSnZaC_wtZDGz07FUg159Dg&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ8tMDegQIPBAI",
+        "5": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&ei=qevEaq6CMuDE1e8PqdeasQw&start=40&sa=N&sstk=AS6-VmJGBLQxjiv6oHORxf2LWM-1DTua9fief0j5fokRIwXdlRwESgA5DT9D3RbPVIQJq4rRWWNjq_jeSnZaC_wtZDGz07FUg159Dg&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ8tMDegQIPBAK",
+        "6": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&ei=qevEaq6CMuDE1e8PqdeasQw&start=50&sa=N&sstk=AS6-VmJGBLQxjiv6oHORxf2LWM-1DTua9fief0j5fokRIwXdlRwESgA5DT9D3RbPVIQJq4rRWWNjq_jeSnZaC_wtZDGz07FUg159Dg&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ8tMDegQIPBAM",
+        "7": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&ei=qevEaq6CMuDE1e8PqdeasQw&start=60&sa=N&sstk=AS6-VmJGBLQxjiv6oHORxf2LWM-1DTua9fief0j5fokRIwXdlRwESgA5DT9D3RbPVIQJq4rRWWNjq_jeSnZaC_wtZDGz07FUg159Dg&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ8tMDegQIPBAO",
+        "8": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&ei=qevEaq6CMuDE1e8PqdeasQw&start=70&sa=N&sstk=AS6-VmJGBLQxjiv6oHORxf2LWM-1DTua9fief0j5fokRIwXdlRwESgA5DT9D3RbPVIQJq4rRWWNjq_jeSnZaC_wtZDGz07FUg159Dg&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ8tMDegQIPBAQ",
+        "9": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&ei=qevEaq6CMuDE1e8PqdeasQw&start=80&sa=N&sstk=AS6-VmJGBLQxjiv6oHORxf2LWM-1DTua9fief0j5fokRIwXdlRwESgA5DT9D3RbPVIQJq4rRWWNjq_jeSnZaC_wtZDGz07FUg159Dg&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ8tMDegQIPBAS",
+        "10": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnt-pkx4bizRz-iMVEo9Qi9UOmU8cQ:1791290281827&ei=qevEaq6CMuDE1e8PqdeasQw&start=90&sa=N&sstk=AS6-VmJGBLQxjiv6oHORxf2LWM-1DTua9fief0j5fokRIwXdlRwESgA5DT9D3RbPVIQJq4rRWWNjq_jeSnZaC_wtZDGz07FUg159Dg&ved=2ahUKEwju-r-ntKWXAxVgYvUHHamrJsYQ8tMDegQIPBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&start=90"
+      }
+    }
+  }
+}

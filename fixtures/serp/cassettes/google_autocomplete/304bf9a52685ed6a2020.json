@@ -1,0 +1,128 @@
+{
+  "request": {
+    "engine": "google_autocomplete",
+    "params": {
+      "q": "best whey protein",
+      "gl": "in",
+      "hl": "en"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:02:44+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4e363e396eb74d3d62bde",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/_SQbUWlBXhvaCWBmC8kHb5bzjoXNW0Jtk-4pofA6gc0/6ac4e363e396eb74d3d62bde.json",
+      "markdown_endpoint": "https://serpapi.com/searches/_SQbUWlBXhvaCWBmC8kHb5bzjoXNW0Jtk-4pofA6gc0/6ac4e363e396eb74d3d62bde.md",
+      "created_at": "2026-10-06 12:02:43 UTC",
+      "processed_at": "2026-10-06 12:02:43 UTC",
+      "google_autocomplete_url": "https://www.google.com/complete/search?q=best+whey+protein&gl=in&hl=en&client=chrome&dpr=1",
+      "raw_html_file": "https://serpapi.com/searches/_SQbUWlBXhvaCWBmC8kHb5bzjoXNW0Jtk-4pofA6gc0/6ac4e363e396eb74d3d62bde.html",
+      "prettify_html_file": "https://serpapi.com/searches/_SQbUWlBXhvaCWBmC8kHb5bzjoXNW0Jtk-4pofA6gc0/6ac4e363e396eb74d3d62bde.prettify",
+      "total_time_taken": 0.62
+    },
+    "search_parameters": {
+      "engine": "google_autocomplete",
+      "q": "best whey protein",
+      "gl": "in",
+      "hl": "en"
+    },
+    "search_information": {
+      "autocomplete_results_state": "Showing completion results."
+    },
+    "suggestions": [
+      {
+        "value": "best whey protein powder",
+        "relevance": 601,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+powder"
+      },
+      {
+        "value": "best whey protein isolate",
+        "relevance": 600,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+isolate"
+      },
+      {
+        "value": "best whey protein for muscle gain",
+        "relevance": 562,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+for+muscle+gain"
+      },
+      {
+        "value": "best whey protein brands in india",
+        "relevance": 561,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+brands+in+india"
+      },
+      {
+        "value": "best whey protein under 2000",
+        "relevance": 560,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+under+2000"
+      },
+      {
+        "value": "best whey protein in the world",
+        "relevance": 559,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+in+the+world"
+      },
+      {
+        "value": "best whey protein isolate in india",
+        "relevance": 558,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+isolate+in+india"
+      },
+      {
+        "value": "best whey protein brand",
+        "relevance": 557,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+brand"
+      },
+      {
+        "value": "best whey protein powder in india",
+        "relevance": 556,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+powder+in+india"
+      },
+      {
+        "value": "best whey protein for weight loss",
+        "relevance": 555,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+for+weight+loss"
+      },
+      {
+        "value": "best whey protein in india reddit",
+        "relevance": 554,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+in+india+reddit"
+      },
+      {
+        "value": "best whey protein for women",
+        "relevance": 553,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+for+women"
+      },
+      {
+        "value": "best whey protein for beginners",
+        "relevance": 552,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+for+beginners"
+      },
+      {
+        "value": "best whey protein under 1500 1 kg",
+        "relevance": 551,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+under+1500+1+kg"
+      },
+      {
+        "value": "best whey protein under 1500",
+        "relevance": 550,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=best+whey+protein+under+1500"
+      }
+    ],
+    "verbatim_relevance": 1300
+  }
+}

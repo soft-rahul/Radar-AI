@@ -1,0 +1,174 @@
+{
+  "readings": [
+    {
+      "answer_id": "q4|ai_mode|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "यह दुनिया भर में सबसे लोकप्रिय और भरोसेमंद बेंचमार्क है।"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "तो Isopure Protein on Amazon एक शानदार विकल्प है।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "यह भारत के सबसे लोकप्रिय ब्रांड्स में से एक है।"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "तो यह सबसे अच्छे विकल्पों में से एक है।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "HealthKart Clean Whey Rankings के अनुसार ये बजट-फ्रेंडली और भरोसेमंद विकल्प हैं।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "HealthKart Clean Whey Rankings के अनुसार ये बजट-फ्रेंडली और भरोसेमंद विकल्प हैं।"
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "neutral",
+          "quote": "व्हे प्रोटीन आइसोलेट (जैसे Isopure या Nutrabay Isolate) चुनें।"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q4|ai_mode|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "neutral",
+          "quote": "इसे आप Optimum Nutrition Gold Standard 100% Whey पर देख सकते हैं।"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "neutral",
+          "quote": "Isopure Low Carb / Zero Carb Whey Isolate:"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "इसे आप MuscleBlaze Whey Gold पर देख सकते हैं।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "इसे आप AS-IT-IS Nutrition पर देख सकते हैं।"
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition / Nutrabay Pure (Raw Whey):"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q4|ai_mode|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "को क्वालिटी, इंटरनेशनल लैब टेस्टिंग और मिक्सेबिलिटी के मामले में सबसे अच्छा प्रोटीन पाउडर माना जाता है।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "यह भारतीय डाइजेशन (पाचन तंत्र) के हिसाब से बहुत बेहतरीन है।"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "neutral",
+          "quote": "यह 100% फ्रेश गाय के दूध से सीधे भारत में बनता है।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "यह बिना फ्लेवर (Unflavoured) वाला प्रोटीन है जो लैब टेस्टेड और बजट-फ्रेंडली है।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "यह बजट में काफी लोकप्रिय ब्रांड है जो कम पैसों में अच्छी प्रोटीन प्रोफाइल देता है।"
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "recommended",
+          "quote": "ये मटर और अन्य पौधों से तैयार किए जाते हैं और पचाने में बहुत आसान होते हैं।"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q4|ai_mode|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Best Overall / Premium | Optimum Nutrition (ON) Gold Standard | World-class quality, great taste, trusted globally."
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "Best for Digestion (Indian) | MuscleBlaze Biozyme Series | Enhanced absorption formula, easy on the stomach."
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "Best Clean Label (No Additives) | The Whole Truth or Naturaltein | Zero artificial sweeteners, 100% transparent ingredients."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "Best Budget-Friendly | AS-IT-IS or Nakpro | Raw, unflavored, cost-effective, and lab-tested."
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Best Budget-Friendly | AS-IT-IS or Nakpro | Raw, unflavored, cost-effective, and lab-tested."
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q4|ai_mode|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Biozyme Performance Whey: Widely regarded as a top choice for the Indian market."
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard 100% Whey: A globally recognized best-seller with a long-standing reputation for mixability and amino acid profile."
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "recommended",
+          "quote": "Nutrabay Gold 100% Whey Protein Isolate or Isopure Zero/Low Carb: Ideal if you want maximum protein per gram with minimal fats, carbs, or lactose."
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "Nutrabay Gold 100% Whey Protein Isolate or Isopure Zero/Low Carb: Ideal if you want maximum protein per gram with minimal fats, carbs, or lactose."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate 80%: Excellent for strict budgets where you only want raw, unflavoured, filler-free protein without paying for fancy flavorings."
+        }
+      ],
+      "claims": []
+    }
+  ]
+}

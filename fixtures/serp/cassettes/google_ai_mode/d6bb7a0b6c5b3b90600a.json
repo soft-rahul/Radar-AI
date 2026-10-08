@@ -1,0 +1,123 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "beginners ke liye sabse accha whey protein kaun sa hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:36:37+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb4d5abea53c1d8240ee",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/L1XoG6uI-vEoPKYyIMe1MsT2dTemjCi-SQLQiXuo7zo/6ac4eb4d5abea53c1d8240ee.json",
+      "markdown_endpoint": "https://serpapi.com/searches/L1XoG6uI-vEoPKYyIMe1MsT2dTemjCi-SQLQiXuo7zo/6ac4eb4d5abea53c1d8240ee.md",
+      "created_at": "2026-10-06 12:36:29 UTC",
+      "processed_at": "2026-10-06 12:36:29 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&udm=50&gl=in&hl=en&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/L1XoG6uI-vEoPKYyIMe1MsT2dTemjCi-SQLQiXuo7zo/6ac4eb4d5abea53c1d8240ee.html",
+      "prettify_html_file": "https://serpapi.com/searches/L1XoG6uI-vEoPKYyIMe1MsT2dTemjCi-SQLQiXuo7zo/6ac4eb4d5abea53c1d8240ee.prettify",
+      "total_time_taken": 7.84
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "beginners ke liye sabse accha whey protein kaun sa hai",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Beginners ke liye whey protein chunna thoda confusing ho sakta hai, kyunki market mein bahut saare options hain. Shuruat karne walon ke liye ek aisa protein accha hota hai jo budget-friendly ho, pachan (digestion) mein aasaan ho aur jismein protein ki matra acchi milti ho.",
+        "snippet_highlighted_words": [
+          "Shuruat karne walon ke liye ek aisa protein accha hota hai jo budget-friendly ho, pachan (digestion) mein aasaan ho aur jismein protein ki matra acchi milti ho"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Kuch sabse acche aur bharosemand whey protein brands jo beginners ke liye best maane jaate hain:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey",
+            "list": [
+              {
+                "snippet": "Khaas baat: Yeh duniya bhar mein sabse zyada trusted aur popular whey protein hai. Har scoop mein lagbhag 24g high-quality protein milta hai. Iska digestion bhi bahut accha hai aur taste bhi badiya hai. Agar budget ki koi khas problem nahi hai, toh yeh sabse best all-rounder hai."
+              }
+            ]
+          },
+          {
+            "snippet": "MuscleBlaze Beginner's Whey Protein",
+            "list": [
+              {
+                "snippet": "Khaas baat: Ise khaas तौर par beginners ke liye hi design kiya gaya hai. Isme aapko sahi matra mein protein aur digestive enzymes milte hain taaki naye logo ko pet ki samasya (bloating ya gas) na ho. Yeh pocket-friendly bhi hota hai."
+              }
+            ]
+          },
+          {
+            "snippet": "Nakpro Impact Whey / AS-IT-IS Nutrition Whey Concentrate",
+            "list": [
+              {
+                "snippet": "Khaas baat: Agar aapka budget kam hai aur aap ekdum pure aur unflavored/flavored protein chahte hain bina kisi extra kharche ke, toh Nakpro aur AS-IT-IS bahut acche budget options hain. Yeh unflavored bhi aate hain aur inki lab-testing reports bhi transparent hoti hain."
+              }
+            ]
+          },
+          {
+            "snippet": "Myprotein Impact Whey Protein",
+            "list": [
+              {
+                "snippet": "Khaas baat: Iska protein profile bahut accha hai aur isme per serving lagbhag 21g se 22g protein milta hai. Iske flavors bhi kaafi acche hain aur international quality standard par banta hai."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Beginners ke liye kuch zaroori tips:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Whey Concentrate se shuru karein: Agar aapko lactose intolerance (doodh se pareshani) nahi hai, toh Whey Protein Concentrate ek sasta aur accha option hai."
+          },
+          {
+            "snippet": "Paani ke saath lein: Shuruat mein ise paani yatoned milk ke saath lein taaki calories aur digestion control mein rahein."
+          },
+          {
+            "snippet": "Paani zyada piyein: Jab aap protein powder shuru karte hain, toh din bhar mein khoob paani peena zaroori hai."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Agar aap batana chahein ki aapka budget kitna hai aur koi dietary preference (veg/non-veg/lactose issue) hai, toh main aapko inme se ek sabse sahi product chunne mein aur madad kar sakta hoon!"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Lean Starter Shake",
+        "link": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhwaWRuZDNZalJ3GAo",
+        "snippet": "30g whey concentrate with water. Light, low-calorie, beginner-friendly protein boost 120 Kcal | 22g Protein | 3g Carbs | 0g Fibre",
+        "source": "google.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      }
+    ],
+    "reconstructed_markdown": "Beginners ke liye whey protein chunna thoda confusing ho sakta hai, kyunki market mein bahut saare options hain. Shuruat karne walon ke liye ek aisa protein accha hota hai jo budget\\-friendly ho, pachan \\(digestion\\) mein aasaan ho aur jismein protein ki matra acchi milti ho. [0]\n\nKuch sabse acche aur bharosemand whey protein brands jo beginners ke liye best maane jaate hain:\n\n- Optimum Nutrition \\(ON\\) Gold Standard 100% Whey\n  - Khaas baat: Yeh duniya bhar mein sabse zyada trusted aur popular whey protein hai. Har scoop mein lagbhag 24g high\\-quality protein milta hai. Iska digestion bhi bahut accha hai aur taste bhi badiya hai. Agar budget ki koi khas problem nahi hai, toh yeh sabse best all\\-rounder hai.\n- MuscleBlaze Beginner's Whey Protein\n  - Khaas baat: Ise khaas तौर par beginners ke liye hi design kiya gaya hai. Isme aapko sahi matra mein protein aur digestive enzymes milte hain taaki naye logo ko pet ki samasya \\(bloating ya gas\\) na ho. Yeh pocket\\-friendly bhi hota hai.\n- Nakpro Impact Whey / AS\\-IT\\-IS Nutrition Whey Concentrate\n  - Khaas baat: Agar aapka budget kam hai aur aap ekdum pure aur unflavored/flavored protein chahte hain bina kisi extra kharche ke, toh Nakpro aur AS\\-IT\\-IS bahut acche budget options hain. Yeh unflavored bhi aate hain aur inki lab\\-testing reports bhi transparent hoti hain.\n- Myprotein Impact Whey Protein\n  - Khaas baat: Iska protein profile bahut accha hai aur isme per serving lagbhag 21g se 22g protein milta hai. Iske flavors bhi kaafi acche hain aur international quality standard par banta hai.\n\n### Beginners ke liye kuch zaroori tips:\n\n- Whey Concentrate se shuru karein: Agar aapko lactose intolerance \\(doodh se pareshani\\) nahi hai, toh Whey Protein Concentrate ek sasta aur accha option hai.\n- Paani ke saath lein: Shuruat mein ise paani yatoned milk ke saath lein taaki calories aur digestion control mein rahein.\n- Paani zyada piyein: Jab aap protein powder shuru karte hain, toh din bhar mein khoob paani peena zaroori hai.\n\nAgar aap batana chahein ki aapka budget kitna hai aur koi dietary preference \\(veg/non\\-veg/lactose issue\\) hai, toh main aapko inme se ek sabse sahi product chunne mein aur madad kar sakta hoon\\!\n\n\n### References\n\n[0] [Lean Starter Shake](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhwaWRuZDNZalJ3GAo) — 30g whey concentrate with water. Light, low\\-calorie, beginner\\-friendly protein boost 120 Kcal \\| 22g Protein \\| 3g Carbs \\| 0g Fibre\n"
+  }
+}

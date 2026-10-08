@@ -1,0 +1,392 @@
+{
+  "request": {
+    "engine": "google",
+    "params": {
+      "q": "नंबर वन व्हे प्रोटीन पाउडर कौन सा है?",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "hi",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:34:00+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eab70e285dc597e817e5",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/FIep7_hYO7PCr3LRoBhv89tutfQOicLRmee2YeKfnvo/6ac4eab70e285dc597e817e5.json",
+      "markdown_endpoint": "https://serpapi.com/searches/FIep7_hYO7PCr3LRoBhv89tutfQOicLRmee2YeKfnvo/6ac4eab70e285dc597e817e5.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/FIep7_hYO7PCr3LRoBhv89tutfQOicLRmee2YeKfnvo/6ac4eab70e285dc597e817e5.json_with_pixel_position",
+      "created_at": "2026-10-06 12:33:59 UTC",
+      "processed_at": "2026-10-06 12:33:59 UTC",
+      "google_url": "https://www.google.com/search?q=%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88%3F&oq=%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88%3F&uule=w+CAIQICILRGVsaGksSW5kaWE&hl=hi&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/FIep7_hYO7PCr3LRoBhv89tutfQOicLRmee2YeKfnvo/6ac4eab70e285dc597e817e5.html",
+      "total_time_taken": 1.36
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "नंबर वन व्हे प्रोटीन पाउडर कौन सा है?",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "google_domain": "google.com",
+      "hl": "hi",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "नंबर वन व्हे प्रोटीन पाउडर कौन सा है?",
+      "total_results": 25270000000,
+      "time_taken_displayed": 1.2,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "नंबर वन प्रोटीन पाउडर कौन सा है?",
+        "type": "ai_overview",
+        "page_token": "li8KOXicHZFJbtswAEXRy2QZi5Kt1gaMAhqooTUdieIgbgqZtK1U1GCLiRztcpfepjfoaeJ0_d8DHvDf_-jnrvn35W9tzDBuFotpmh7PfX_Wx0fZt4tqfOvkQlZaHyrZbNyvLvh-ktvwkvj-S-JlZBhokFtFSG9ICxeF36ayQ3EB8xEDNSCicdYpIVhpMEEGRemIu3rE3PPwnJmdTp_5TAfZJSC31nMVJfORmBNujH1g6IeywiVhqXdozFS2td45eqki4ClY34pITkhnjrIUFzz3j9x7URReKKmTKqgJYfkk7PtC1uXdv5Lu3mqJlMQEMF3jAlIoeW_tGW1FrKKfVFXcEm4J8svBXveKCQcFKs4_We4NjN2AgHCVNWsbt7cGxR4kMQ2KBjxVzXmJOzipOfUrDgFj1MW2uUgoUkTongI5Z3nClQ_ecgatXSsiGYgrIqtX4gNQEmkyvquSBobSSVZC50UBPb4PLbCDAu3D4enYjqs9Q4mEvUN-07Z05MNJvm6dh_8nbX-dWrMZrv35A7FHnws",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=li8KOXicHZFJbtswAEXRy2QZi5Kt1gaMAhqooTUdieIgbgqZtK1U1GCLiRztcpfepjfoaeJ0_d8DHvDf_-jnrvn35W9tzDBuFotpmh7PfX_Wx0fZt4tqfOvkQlZaHyrZbNyvLvh-ktvwkvj-S-JlZBhokFtFSG9ICxeF36ayQ3EB8xEDNSCicdYpIVhpMEEGRemIu3rE3PPwnJmdTp_5TAfZJSC31nMVJfORmBNujH1g6IeywiVhqXdozFS2td45eqki4ClY34pITkhnjrIUFzz3j9x7URReKKmTKqgJYfkk7PtC1uXdv5Lu3mqJlMQEMF3jAlIoeW_tGW1FrKKfVFXcEm4J8svBXveKCQcFKs4_We4NjN2AgHCVNWsbt7cGxR4kMQ2KBjxVzXmJOzipOfUrDgFj1MW2uUgoUkTongI5Z3nClQ_ecgatXSsiGYgrIqtX4gNQEmkyvquSBobSSVZC50UBPb4PLbCDAu3D4enYjqs9Q4mEvUN-07Z05MNJvm6dh_8nbX-dWrMZrv35A7FHnws",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuUjRVekJEV0VGWVoycGxabkEyWkZwNk5VVjVhblZVU1VOZlVGVXlRVzF3VXpkUVJIZGZVVlZtV0U1RlVua3ROREYzZFRWWVpIbERSSE0wZWtkR2JUaFROV0Y2U0ZJelgyeFRhMnB2TTBSbU9YWkxTak14UmsxQlFSSVhkQzF5UldGME1tWkdjRFpyTlU1dlVDMTFZVWN0UVhNYUlrRkVjM0k1WmxSNVJFUlFTWEU1ZG5relYxQnVlVEZ0ZW5WaU1XaGZUMHBhWVhjIiwiZmN2IjoiMyIsImVpIjoidC1yRWF0MmZGcDZrNU5vUC11YUctQXMiLCJxYyI6ImMtT0tlN0JreFlNbFRRLVdySG13WklQQ2d5VmJnWHd3dGJUM3daS2RENWEyQXptcndKd05ENVoyUDFneV84SFNCb2lTVlEtVzdIdXdwUFBCa29VUW5WTWZMTzJCeU93QXlpaUFkWGNJS05jLVdadG12NGlSS1NNVEFBIiwicXVlc3Rpb24iOiLgpKjgpILgpKzgpLAg4KS14KSoIOCkquCljeCksOCli+Ckn+ClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSV4KWM4KSoIOCkuOCkviDgpLngpYg/IiwibGsiOiJjNU95ZkxCa3hZTWxUUS1Xckhtd1pJUENneVZiZ1h3Z3RlckIwbDZnd0lPbDNRLVd6SC13dEFFbXVtVGZneVdkRDVZc0JNb0JBQSIsImJzIjoiYzYyUlBRckNRQkNGMlhZcjYxU0tsZGhvQ29tSTVBNDJZdUVOckR5QkJFRWxpbGpZQllJd2kwRkUwNGl4MFNONGhUbUtzenVHRUFzVnNkbWZ0N1BmZXpzclYwSjJFQ0lFRDJHUEVCY1JUclNuYVlkcVFRSXFIeUZFTlVwVnVDTE1FRFpjdkVZMTU1T0VUbWk2b0pxNmRzdHFfa3lWWXlIN2RzMXVNSDZVWFk0UmJnYmhHd1NCUWxJUHFDYmt4TldrSFRsSVlKaVJWdlVpWmhMSEsxdWx0MUR0TGdleVhYZDBtVTdwZlVxUjgyYVhxbFdwTzhYdkNQSXU1SkFMak94bGo0OVQtSm5oQ2IyWC04M2RwWEZyZ1BEeUgtYjIwZUFDMHdscXc1TFJPaUN0WEx0bmRmX2dtak41NGd2aUFRIiwiaWQiOiJmY190LXJFYXQyZkZwNms1Tm9QLXVhRy1Bc181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuUjRVekJEV0VGWVoycGxabkEyWkZwNk5VVjVhblZVU1VOZlVGVXlRVzF3VXpkUVJIZGZVVlZtV0U1RlVua3ROREYzZFRWWVpIbERSSE0wZWtkR2JUaFROV0Y2U0ZJelgyeFRhMnB2TTBSbU9YWkxTak14UmsxQlFSSVhkQzF5UldGME1tWkdjRFpyTlU1dlVDMTFZVWN0UVhNYUlrRkVjM0k1WmxSNVJFUlFTWEU1ZG5relYxQnVlVEZ0ZW5WaU1XaGZUMHBhWVhjIiwiZmN2IjoiMyIsImVpIjoidC1yRWF0MmZGcDZrNU5vUC11YUctQXMiLCJxYyI6ImMtT0tlN0JreFlNbFRRLVdySG13WklQQ2d5VmJnWHd3dGJUM3daS2RENWEyQXptcndKd05ENVoyUDFneV84SFNCb2lTVlEtVzdIdXdwUFBCa29VUW5WTWZMTzJCeU93QXlpaUFkWGNJS05jLVdadG12NGlSS1NNVEFBIiwicXVlc3Rpb24iOiLgpKjgpILgpKzgpLAg4KS14KSoIOCkquCljeCksOCli%2BCkn%2BClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSV4KWM4KSoIOCkuOCkviDgpLngpYg%2FIiwibGsiOiJjNU95ZkxCa3hZTWxUUS1Xckhtd1pJUENneVZiZ1h3Z3RlckIwbDZnd0lPbDNRLVd6SC13dEFFbXVtVGZneVdkRDVZc0JNb0JBQSIsImJzIjoiYzYyUlBRckNRQkNGMlhZcjYxU0tsZGhvQ29tSTVBNDJZdUVOckR5QkJFRWxpbGpZQllJd2kwRkUwNGl4MFNONGhUbUtzenVHRUFzVnNkbWZ0N1BmZXpzclYwSjJFQ0lFRDJHUEVCY1JUclNuYVlkcVFRSXFIeUZFTlVwVnVDTE1FRFpjdkVZMTU1T0VUbWk2b0pxNmRzdHFfa3lWWXlIN2RzMXVNSDZVWFk0UmJnYmhHd1NCUWxJUHFDYmt4TldrSFRsSVlKaVJWdlVpWmhMSEsxdWx0MUR0TGdleVhYZDBtVTdwZlVxUjgyYVhxbFdwTzhYdkNQSXU1SkFMak94bGo0OVQtSm5oQ2IyWC04M2RwWEZyZ1BEeUgtYjIwZUFDMHdscXc1TFJPaUN0WEx0bmRmX2dtak41NGd2aUFRIiwiaWQiOiJmY190LXJFYXQyZkZwNms1Tm9QLXVhRy1Bc181In0%3D"
+      },
+      {
+        "question": "2026 की वन रिपोर्ट में क्या जानकारी है?",
+        "type": "ai_overview",
+        "page_token": "NOkURHicHZFLjpswAEDVy8xygkOYzkSKKhEM5IOpHWwHbyqwSTLBGJfQQNj1Lj1VL9BrdNrVWz49vZ-_9Lupf3_6c-l7e1vOZsMwPJ_b9qyrZ9k2s-L2MHImC63LQtbLl88v4MtJrmAn1-u79DG1lgXEOUzEKJi4lIKvB0125QeRE35HLBwZ8Efm5ABz71LS0eSTcHggBHVZLCa1Q9EbKiEgJGOeakaUc2aFCd_lhFLsoI5f9V7W9ULFFuVHtajCbS7_2ej4A9PLnl_VQrrUq0w7svotr6BAimtAzCUVVPYZfR0xIz2DBJTwMhUTgTyyJxYKmmihBQQ4hRZjRidOB48CQkuz7YRRx4orJB12UzUcSEQeVc0MqkVCue0wRXkZbPsi3g5VpNsk81HCF27Ox4BEvSMiuy-a8brnr6CKQ1vG7bxag55QMWHjD4L3WRr4u8xFNvE3R7UGD8JDJ2lEJAPRIerd6RqA_KMBH5NiU4dQuhtPaBTvmT8UUKUy9oFsbnMaozjJNkN6cEA27zdlCJ9O8r5yn_4PXH07Nf3Sdu35Lw7tqXo",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NOkURHicHZFLjpswAEDVy8xygkOYzkSKKhEM5IOpHWwHbyqwSTLBGJfQQNj1Lj1VL9BrdNrVWz49vZ-_9Lupf3_6c-l7e1vOZsMwPJ_b9qyrZ9k2s-L2MHImC63LQtbLl88v4MtJrmAn1-u79DG1lgXEOUzEKJi4lIKvB0125QeRE35HLBwZ8Efm5ABz71LS0eSTcHggBHVZLCa1Q9EbKiEgJGOeakaUc2aFCd_lhFLsoI5f9V7W9ULFFuVHtajCbS7_2ej4A9PLnl_VQrrUq0w7svotr6BAimtAzCUVVPYZfR0xIz2DBJTwMhUTgTyyJxYKmmihBQQ4hRZjRidOB48CQkuz7YRRx4orJB12UzUcSEQeVc0MqkVCue0wRXkZbPsi3g5VpNsk81HCF27Ox4BEvSMiuy-a8brnr6CKQ1vG7bxag55QMWHjD4L3WRr4u8xFNvE3R7UGD8JDJ2lEJAPRIerd6RqA_KMBH5NiU4dQuhtPaBTvmT8UUKUy9oFsbnMaozjJNkN6cEA27zdlCJ9O8r5yn_4PXH07Nf3Sdu35Lw7tqXo",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuUjRVekJEV0VGWVoycGxabkEyWkZwNk5VVjVhblZVU1VOZlVGVXlRVzF3VXpkUVJIZGZVVlZtV0U1RlVua3ROREYzZFRWWVpIbERSSE0wZWtkR2JUaFROV0Y2U0ZJelgyeFRhMnB2TTBSbU9YWkxTak14UmsxQlFSSVhkQzF5UldGME1tWkdjRFpyTlU1dlVDMTFZVWN0UVhNYUlrRkVjM0k1WmxSNVJFUlFTWEU1ZG5relYxQnVlVEZ0ZW5WaU1XaGZUMHBhWVhjIiwiZmN2IjoiMyIsImVpIjoidC1yRWF0MmZGcDZrNU5vUC11YUctQXMiLCJxYyI6ImMtT0tlN0JreFlNbFRRLVdySG13WklQQ2d5VmJnWHd3dGJUM3daS2RENWEyQXptcndKd05ENVoyUDFneV84SFNCb2lTVlEtVzdIdXdwUFBCa29VUW5WTWZMTzJCeU93QXlpaUFkWGNJS05jLVdadG12NGlSS1NNVEFBIiwicXVlc3Rpb24iOiIyMDI2IOCkleClgCDgpLXgpKgg4KSw4KS/4KSq4KWL4KSw4KWN4KSfIOCkruClh+CkgiDgpJXgpY3gpK/gpL4g4KSc4KS+4KSo4KSV4KS+4KSw4KWAIOCkueCliD8iLCJsayI6IkdpSGdwTFhncEtnZzRLU3c0S1NfNEtTcTRLV0w0S1N3NEtXTjRLU2ZJREl3TWpZIiwiYnMiOiJjNjJSUFFyQ1FCQ0YyWFlyNjFTS2xkaG9Db21JNUE0Mll1RU5yRHlCQkVFbGlsallCWUl3aTBGRTA0aXgwU040aFRtS3N6dUdFQXNWc2RtZnQ3UGZlenNyVjBKMkVDSUVEMkdQRUJjUlRyU25hWWRxUVFJcUh5RkVOVXBWdUNMTUVEWmN2RVkxNTVPRVRtaTZvSnE2ZHN0cV9reVZZeUg3ZHMxdU1INlVYWTRSYmdiaEd3U0JRbElQcUNia3hOV2tIVGxJWUppUlZ2VWlaaExISzF1bHQxRHRMZ2V5WFhkMG1VN3BmVXFSODJhWHFsV3BPOFh2Q1BJdTVKQUxqT3hsajQ5VC1KbmhDYjJYLTgzZHBYRnJnUER5SC1iMjBlQUMwd2xxdzVMUk9pQ3RYTHRuZGZfZ21qTjU0Z3ZpQVEiLCJpZCI6ImZjX3QtckVhdDJmRnA2azVOb1AtdWFHLUFzXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuUjRVekJEV0VGWVoycGxabkEyWkZwNk5VVjVhblZVU1VOZlVGVXlRVzF3VXpkUVJIZGZVVlZtV0U1RlVua3ROREYzZFRWWVpIbERSSE0wZWtkR2JUaFROV0Y2U0ZJelgyeFRhMnB2TTBSbU9YWkxTak14UmsxQlFSSVhkQzF5UldGME1tWkdjRFpyTlU1dlVDMTFZVWN0UVhNYUlrRkVjM0k1WmxSNVJFUlFTWEU1ZG5relYxQnVlVEZ0ZW5WaU1XaGZUMHBhWVhjIiwiZmN2IjoiMyIsImVpIjoidC1yRWF0MmZGcDZrNU5vUC11YUctQXMiLCJxYyI6ImMtT0tlN0JreFlNbFRRLVdySG13WklQQ2d5VmJnWHd3dGJUM3daS2RENWEyQXptcndKd05ENVoyUDFneV84SFNCb2lTVlEtVzdIdXdwUFBCa29VUW5WTWZMTzJCeU93QXlpaUFkWGNJS05jLVdadG12NGlSS1NNVEFBIiwicXVlc3Rpb24iOiIyMDI2IOCkleClgCDgpLXgpKgg4KSw4KS%2F4KSq4KWL4KSw4KWN4KSfIOCkruClh%2BCkgiDgpJXgpY3gpK%2FgpL4g4KSc4KS%2B4KSo4KSV4KS%2B4KSw4KWAIOCkueCliD8iLCJsayI6IkdpSGdwTFhncEtnZzRLU3c0S1NfNEtTcTRLV0w0S1N3NEtXTjRLU2ZJREl3TWpZIiwiYnMiOiJjNjJSUFFyQ1FCQ0YyWFlyNjFTS2xkaG9Db21JNUE0Mll1RU5yRHlCQkVFbGlsallCWUl3aTBGRTA0aXgwU040aFRtS3N6dUdFQXNWc2RtZnQ3UGZlenNyVjBKMkVDSUVEMkdQRUJjUlRyU25hWWRxUVFJcUh5RkVOVXBWdUNMTUVEWmN2RVkxNTVPRVRtaTZvSnE2ZHN0cV9reVZZeUg3ZHMxdU1INlVYWTRSYmdiaEd3U0JRbElQcUNia3hOV2tIVGxJWUppUlZ2VWlaaExISzF1bHQxRHRMZ2V5WFhkMG1VN3BmVXFSODJhWHFsV3BPOFh2Q1BJdTVKQUxqT3hsajQ5VC1KbmhDYjJYLTgzZHBYRnJnUER5SC1iMjBlQUMwd2xxdzVMUk9pQ3RYTHRuZGZfZ21qTjU0Z3ZpQVEiLCJpZCI6ImZjX3QtckVhdDJmRnA2azVOb1AtdWFHLUFzXzUifQ%3D%3D"
+      },
+      {
+        "question": "18वीं वन रिपोर्ट क्या है?",
+        "type": "ai_overview",
+        "page_token": "NzJPPHicHdFBjpswAABA9TN73BgoW22kqCqsIaGJszbYGC4V2EkcbANKWCDc-pee-6C-plU_MJf5-ctcW_3n0281DP19vVpN0_R86bqLOT2Lzq6q-6MVK1EZU1dCr1--vDhfz2IDuykM71OAad-zNwJSbj6TmFxRK2kaz5Zqpak7z6llXMKyOHLZVbnvCqi6elEAvQWwcBNSuc7txIMdyy8AAx_gts8qpnZ5Zrb_jFu2EE540go4n1MvyVLoA-omY-3sXAKHUXrlTVh0IMZU2AQZAwgiqvYViGAey49DPozIQQY3TNUQ-QfqYALIeGAmR43cZlp6KHQ0Ysl3GbPiuE2C1FMHZCOGcp-fLLJM7zzEuolFkqX6laRZuTCPFVVeAKo1kHaAtfk2H2GPoZJgz5Oo4PhR6nJC9u5k9hXvOVPk4QRi7q6YkkU0xrItehyZ8vI4GrDuqfDUR9GY95qyUDQoJLpYyunpLMaN9_T_YfPjbId1f-sufwFwApc0",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NzJPPHicHdFBjpswAABA9TN73BgoW22kqCqsIaGJszbYGC4V2EkcbANKWCDc-pee-6C-plU_MJf5-ctcW_3n0281DP19vVpN0_R86bqLOT2Lzq6q-6MVK1EZU1dCr1--vDhfz2IDuykM71OAad-zNwJSbj6TmFxRK2kaz5Zqpak7z6llXMKyOHLZVbnvCqi6elEAvQWwcBNSuc7txIMdyy8AAx_gts8qpnZ5Zrb_jFu2EE540go4n1MvyVLoA-omY-3sXAKHUXrlTVh0IMZU2AQZAwgiqvYViGAey49DPozIQQY3TNUQ-QfqYALIeGAmR43cZlp6KHQ0Ysl3GbPiuE2C1FMHZCOGcp-fLLJM7zzEuolFkqX6laRZuTCPFVVeAKo1kHaAtfk2H2GPoZJgz5Oo4PhR6nJC9u5k9hXvOVPk4QRi7q6YkkU0xrItehyZ8vI4GrDuqfDUR9GY95qyUDQoJLpYyunpLMaN9_T_YfPjbId1f-sufwFwApc0",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuUjRVekJEV0VGWVoycGxabkEyWkZwNk5VVjVhblZVU1VOZlVGVXlRVzF3VXpkUVJIZGZVVlZtV0U1RlVua3ROREYzZFRWWVpIbERSSE0wZWtkR2JUaFROV0Y2U0ZJelgyeFRhMnB2TTBSbU9YWkxTak14UmsxQlFSSVhkQzF5UldGME1tWkdjRFpyTlU1dlVDMTFZVWN0UVhNYUlrRkVjM0k1WmxSNVJFUlFTWEU1ZG5relYxQnVlVEZ0ZW5WaU1XaGZUMHBhWVhjIiwiZmN2IjoiMyIsImVpIjoidC1yRWF0MmZGcDZrNU5vUC11YUctQXMiLCJxYyI6ImMtT0tlN0JreFlNbFRRLVdySG13WklQQ2d5VmJnWHd3dGJUM3daS2RENWEyQXptcndKd05ENVoyUDFneV84SFNCb2lTVlEtVzdIdXdwUFBCa29VUW5WTWZMTzJCeU93QXlpaUFkWGNJS05jLVdadG12NGlSS1NNVEFBIiwicXVlc3Rpb24iOiIxOOCkteClgOCkgiDgpLXgpKgg4KSw4KS/4KSq4KWL4KSw4KWN4KSfIOCkleCljeCkr+CkviDgpLngpYg/IiwibGsiOiJjNVBTTkxSUWVMQms2NE9sRFEtV05JRlpTMVlBcVEwUGx1eF9zR1RWZzZYZElQYlMzZ2RMNWdNQSIsImJzIjoiYzYyUlBRckNRQkNGMlhZcjYxU0tsZGhvQ29tSTVBNDJZdUVOckR5QkJFRWxpbGpZQllJd2kwRkUwNGl4MFNONGhUbUtzenVHRUFzVnNkbWZ0N1BmZXpzclYwSjJFQ0lFRDJHUEVCY1JUclNuYVlkcVFRSXFIeUZFTlVwVnVDTE1FRFpjdkVZMTU1T0VUbWk2b0pxNmRzdHFfa3lWWXlIN2RzMXVNSDZVWFk0UmJnYmhHd1NCUWxJUHFDYmt4TldrSFRsSVlKaVJWdlVpWmhMSEsxdWx0MUR0TGdleVhYZDBtVTdwZlVxUjgyYVhxbFdwTzhYdkNQSXU1SkFMak94bGo0OVQtSm5oQ2IyWC04M2RwWEZyZ1BEeUgtYjIwZUFDMHdscXc1TFJPaUN0WEx0bmRmX2dtak41NGd2aUFRIiwiaWQiOiJmY190LXJFYXQyZkZwNms1Tm9QLXVhRy1Bc181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuUjRVekJEV0VGWVoycGxabkEyWkZwNk5VVjVhblZVU1VOZlVGVXlRVzF3VXpkUVJIZGZVVlZtV0U1RlVua3ROREYzZFRWWVpIbERSSE0wZWtkR2JUaFROV0Y2U0ZJelgyeFRhMnB2TTBSbU9YWkxTak14UmsxQlFSSVhkQzF5UldGME1tWkdjRFpyTlU1dlVDMTFZVWN0UVhNYUlrRkVjM0k1WmxSNVJFUlFTWEU1ZG5relYxQnVlVEZ0ZW5WaU1XaGZUMHBhWVhjIiwiZmN2IjoiMyIsImVpIjoidC1yRWF0MmZGcDZrNU5vUC11YUctQXMiLCJxYyI6ImMtT0tlN0JreFlNbFRRLVdySG13WklQQ2d5VmJnWHd3dGJUM3daS2RENWEyQXptcndKd05ENVoyUDFneV84SFNCb2lTVlEtVzdIdXdwUFBCa29VUW5WTWZMTzJCeU93QXlpaUFkWGNJS05jLVdadG12NGlSS1NNVEFBIiwicXVlc3Rpb24iOiIxOOCkteClgOCkgiDgpLXgpKgg4KSw4KS%2F4KSq4KWL4KSw4KWN4KSfIOCkleCljeCkr%2BCkviDgpLngpYg%2FIiwibGsiOiJjNVBTTkxSUWVMQms2NE9sRFEtV05JRlpTMVlBcVEwUGx1eF9zR1RWZzZYZElQYlMzZ2RMNWdNQSIsImJzIjoiYzYyUlBRckNRQkNGMlhZcjYxU0tsZGhvQ29tSTVBNDJZdUVOckR5QkJFRWxpbGpZQllJd2kwRkUwNGl4MFNONGhUbUtzenVHRUFzVnNkbWZ0N1BmZXpzclYwSjJFQ0lFRDJHUEVCY1JUclNuYVlkcVFRSXFIeUZFTlVwVnVDTE1FRFpjdkVZMTU1T0VUbWk2b0pxNmRzdHFfa3lWWXlIN2RzMXVNSDZVWFk0UmJnYmhHd1NCUWxJUHFDYmt4TldrSFRsSVlKaVJWdlVpWmhMSEsxdWx0MUR0TGdleVhYZDBtVTdwZlVxUjgyYVhxbFdwTzhYdkNQSXU1SkFMak94bGo0OVQtSm5oQ2IyWC04M2RwWEZyZ1BEeUgtYjIwZUFDMHdscXc1TFJPaUN0WEx0bmRmX2dtak41NGd2aUFRIiwiaWQiOiJmY190LXJFYXQyZkZwNms1Tm9QLXVhRy1Bc181In0%3D"
+      },
+      {
+        "question": "वनों की रक्षा से संबंधित कौन सी योजनाएं हैं?",
+        "type": "ai_overview",
+        "page_token": "Bp7T0XicHZHbbpswAECl7V_62Ngm6bZI0aQATmCFFGMb45cp2CQUG0ITUi5v_Zd91b5m1Z7Pyzk6H3_sa2v-fvla9X13Wy8WwzA8ni-Xsy0f1aVZHG9TqxbqaG1xVGb99O0J_jypjX8bXPcyuAnrOu4RkGahoDhGkcUvWnR-XIdv1Mq9ZBoxYGmWEZHysOccYy3wSTXhLrIdJbOOJQ3vz6zfF0C_UrzlR7NCdBe2Rdt1stGh9smO0SoqLIOFPQNWx1CgcctcmMSgszkLedpYI2HUH0Q35s52UjX3FcK4pGalm2p4pmbUnnS0GYkyeFaebYnhrprlNsMy-CRO6YfX0mJQTFAINCBtySHejdc8i2YFcJft8VL5cBlnuC6pRRpJQUUVpyAAtIH3YgJzYcKcZ98dkvlD2uAXgn4kihvAMuiRtloyHMZFrZYxt1HZqKk04b2sI4eK5NMd_9IggIzGifRxQrh-K7wERVUgtAsnkmEQNXKnPHmN2er9sx_mTPWJiI6Bwb5ygpW0wUgRuZU1D5So8sLwNGXQFzNHpD3D0lSH1PoPJ_W-cR7-z938PjX9urtezv8A4iKxkg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Bp7T0XicHZHbbpswAECl7V_62Ngm6bZI0aQATmCFFGMb45cp2CQUG0ITUi5v_Zd91b5m1Z7Pyzk6H3_sa2v-fvla9X13Wy8WwzA8ni-Xsy0f1aVZHG9TqxbqaG1xVGb99O0J_jypjX8bXPcyuAnrOu4RkGahoDhGkcUvWnR-XIdv1Mq9ZBoxYGmWEZHysOccYy3wSTXhLrIdJbOOJQ3vz6zfF0C_UrzlR7NCdBe2Rdt1stGh9smO0SoqLIOFPQNWx1CgcctcmMSgszkLedpYI2HUH0Q35s52UjX3FcK4pGalm2p4pmbUnnS0GYkyeFaebYnhrprlNsMy-CRO6YfX0mJQTFAINCBtySHejdc8i2YFcJft8VL5cBlnuC6pRRpJQUUVpyAAtIH3YgJzYcKcZ98dkvlD2uAXgn4kihvAMuiRtloyHMZFrZYxt1HZqKk04b2sI4eK5NMd_9IggIzGifRxQrh-K7wERVUgtAsnkmEQNXKnPHmN2er9sx_mTPWJiI6Bwb5ygpW0wUgRuZU1D5So8sLwNGXQFzNHpD3D0lSH1PoPJ_W-cR7-z938PjX9urtezv8A4iKxkg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuUjRVekJEV0VGWVoycGxabkEyWkZwNk5VVjVhblZVU1VOZlVGVXlRVzF3VXpkUVJIZGZVVlZtV0U1RlVua3ROREYzZFRWWVpIbERSSE0wZWtkR2JUaFROV0Y2U0ZJelgyeFRhMnB2TTBSbU9YWkxTak14UmsxQlFSSVhkQzF5UldGME1tWkdjRFpyTlU1dlVDMTFZVWN0UVhNYUlrRkVjM0k1WmxSNVJFUlFTWEU1ZG5relYxQnVlVEZ0ZW5WaU1XaGZUMHBhWVhjIiwiZmN2IjoiMyIsImVpIjoidC1yRWF0MmZGcDZrNU5vUC11YUctQXMiLCJxYyI6ImMtT0tlN0JreFlNbFRRLVdySG13WklQQ2d5VmJnWHd3dGJUM3daS2RENWEyQXptcndKd05ENVoyUDFneV84SFNCb2lTVlEtVzdIdXdwUFBCa29VUW5WTWZMTzJCeU93QXlpaUFkWGNJS05jLVdadG12NGlSS1NNVEFBIiwicXVlc3Rpb24iOiLgpLXgpKjgpYvgpIIg4KSV4KWAIOCksOCkleCljeCkt+CkviDgpLjgpYcg4KS44KSC4KSs4KSC4KSn4KS/4KSkIOCkleCljOCkqCDgpLjgpYAg4KSv4KWL4KSc4KSo4KS+4KSP4KSCIOCkueCliOCkgj8iLCJsayI6ImM1TUtmN0JrNjRNbEt4NHM3WDZ3cEVuaHdaS3BENVkyQUtrTllGYnZneVhiSHl6WkItVHZlTEMwSFV3dGFYcXdaQTJZWFA1Z3lmNEhTNVlBUmRlRGRjOEJHUU5XdlBQQjBnNEEiLCJicyI6ImM2MlJQUXJDUUJDRjJYWXI2MVNLbGRob0NvbUk1QTQyWXVFTnJEeUJCRUVsaWxqWUJZSXdpMEZFMDRpeDBTTjRoVG1Lc3p1R0VBc1ZzZG1mdDdQZmV6c3JWMEoyRUNJRUQyR1BFQmNSVHJTbmFZZHFRUUlxSHlGRU5VcFZ1Q0xNRURaY3ZFWTE1NU9FVG1pNm9KcTZkc3RxX2t5Vll5SDdkczF1TUg2VVhZNFJiZ2JoR3dTQlFsSVBxQ2JreE5Xa0hUbElZSmlSVnZVaVpoTEhLMXVsdDFEdExnZXlYWGQwbVU3cGZVcVI4MmFYcWxXcE84WHZDUEl1NUpBTGpPeGxqNDlULUpuaENiMlgtODNkcFhGcmdQRHlILWIyMGVBQzB3bHF3NUxST2lDdFhMdG5kZl9nbWpONTRndmlBUSIsImlkIjoiZmNfdC1yRWF0MmZGcDZrNU5vUC11YUctQXNfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFuUjRVekJEV0VGWVoycGxabkEyWkZwNk5VVjVhblZVU1VOZlVGVXlRVzF3VXpkUVJIZGZVVlZtV0U1RlVua3ROREYzZFRWWVpIbERSSE0wZWtkR2JUaFROV0Y2U0ZJelgyeFRhMnB2TTBSbU9YWkxTak14UmsxQlFSSVhkQzF5UldGME1tWkdjRFpyTlU1dlVDMTFZVWN0UVhNYUlrRkVjM0k1WmxSNVJFUlFTWEU1ZG5relYxQnVlVEZ0ZW5WaU1XaGZUMHBhWVhjIiwiZmN2IjoiMyIsImVpIjoidC1yRWF0MmZGcDZrNU5vUC11YUctQXMiLCJxYyI6ImMtT0tlN0JreFlNbFRRLVdySG13WklQQ2d5VmJnWHd3dGJUM3daS2RENWEyQXptcndKd05ENVoyUDFneV84SFNCb2lTVlEtVzdIdXdwUFBCa29VUW5WTWZMTzJCeU93QXlpaUFkWGNJS05jLVdadG12NGlSS1NNVEFBIiwicXVlc3Rpb24iOiLgpLXgpKjgpYvgpIIg4KSV4KWAIOCksOCkleCljeCkt%2BCkviDgpLjgpYcg4KS44KSC4KSs4KSC4KSn4KS%2F4KSkIOCkleCljOCkqCDgpLjgpYAg4KSv4KWL4KSc4KSo4KS%2B4KSP4KSCIOCkueCliOCkgj8iLCJsayI6ImM1TUtmN0JrNjRNbEt4NHM3WDZ3cEVuaHdaS3BENVkyQUtrTllGYnZneVhiSHl6WkItVHZlTEMwSFV3dGFYcXdaQTJZWFA1Z3lmNEhTNVlBUmRlRGRjOEJHUU5XdlBQQjBnNEEiLCJicyI6ImM2MlJQUXJDUUJDRjJYWXI2MVNLbGRob0NvbUk1QTQyWXVFTnJEeUJCRUVsaWxqWUJZSXdpMEZFMDRpeDBTTjRoVG1Lc3p1R0VBc1ZzZG1mdDdQZmV6c3JWMEoyRUNJRUQyR1BFQmNSVHJTbmFZZHFRUUlxSHlGRU5VcFZ1Q0xNRURaY3ZFWTE1NU9FVG1pNm9KcTZkc3RxX2t5Vll5SDdkczF1TUg2VVhZNFJiZ2JoR3dTQlFsSVBxQ2JreE5Xa0hUbElZSmlSVnZVaVpoTEhLMXVsdDFEdExnZXlYWGQwbVU3cGZVcVI4MmFYcWxXcE84WHZDUEl1NUpBTGpPeGxqNDlULUpuaENiMlgtODNkcFhGcmdQRHlILWIyMGVBQzB3bHF3NUxST2lDdFhMdG5kZl9nbWpONTRndmlBUSIsImlkIjoiZmNfdC1yRWF0MmZGcDZrNU5vUC11YUctQXNfNSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "jifW1niczZXLcqs4EEB_YH4jbBIMxi9IFZWSZLDx9Qs_4iQbCgMWfmAcMMH27v7LbOeH5mtGYHCBX5N7F1OjBZJa3a2W6KP--edqvl7-_cdf9na78Z8ZJgzDAnZdvLIKhuswur9fG8zMXfmeYb_glThfU0GwssTwEQFFVZDSHjRefb2x9IeTylKfSJS9Eu05tf8SS5ThiyxlzcUt7Un6lpvJm-qy0nX7dKA3aOBTsXdRm-q-tSCb7xY-ozHks3wo1cmk4BfseeEQdhe9YLvjx8sCx3KlQo_RHaIA_tOGFfBOulY0lm5qQQDQd7xJxAVUso4gjLuMNSbLMOoUNZ7Ld7zFZpKK4whI03aLQ52YNXCqs7xpnVtpHB2oStxLxBwp3zlQJphcsPeMb63hnIf42vNL1xvMLioA4Q7oK8C-bkzuPrc9uav6UW4AhW-WIfkf6p3NwA8Meh9Aso-299oYNqzT3rJPtpEYE5MEZpmpR7oiMzdsIx54fpTXaCSwbrNoW3JT6X_NcXk_5Ez-05i8Lufw0KMBY0yJ3srVTcvUbI19iedFrlhhhVKNf4qBMvwTUX6WqIYz1Qa8Icg1t9AuwGKKE8r-kOyRIun42hlhlK1SmnLnDUWGF2YIuTkXiUL6M3LwILkZXdsJdDLYYRDkkyBFCINLnNC50xindM-BerLOhalIcJ6xyJ6ueX4c4vvy9LiXrqWpm6SmBM6fByTBiLFTALmjRY8JIlDDIwyfZeWo0snosVLr4jWKrsImpsk04Tv9ue_ZPaI7IK_GO1BbQIGSMpLJs3S0jC9QSm6I4HTOg3KLRUxOq95-Iu-18be0pJSbMwyy-Eh9EHzw3uFtw4ded_Y1qfe3Xp-eTqUFuI6L60x_oQIZ_zeg0voUKUj3gELfAYrUJ3ylPqGjv6PTU31qJfXpNlByDFRSnyJHaX1qXtSnS6CWWaCS-jRwb9SnXwVKuQPUyfFVoORrQOF7QOE8UHZHzdUn5VZ9SoD6nfo0_t36FPNlHbt8sQoW-HbR-vBkHNIVvxX237xd1aiNgpJcHIUaCP-1aM2c7bOjm6snbW4-Q6613ZtPGhG4z5ZJfYoPEvsAyg-ATwY8l0pQMoDsYzqqnLTPRJUHvp5KhFRSS5UAuFBiUwlMJIKcStiLTRJ7YialUQrpUvEiSuEUEroMlz95eryIl3-hnJXniqxeNd9GWqj3WXr8PrArcK1w1XC9bk_NjnDYlIZKUK_RyJM79Hht1epN4w0qNY9tczD06YrVddbD9w7LDnt898B97kvGdiF87NYGChve64zD5sJGm_KPAG8EelYcVqtC0DaGtXY4pde1MdaGnY3qlDlr4Uw6ncNIjePyRVPr1_iNMGi4BuV4hkjyv4xBVwUTTPIXEToQBmPdJX0I1EaVpDfkCBmUb-ia5X-J5WmFs4pVyyxZQqViFCkHb_cbUWApf-2JxX8AKeh9IQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jifW1niczZXLcqs4EEB_YH4jbBIMxi9IFZWSZLDx9Qs_4iQbCgMWfmAcMMH27v7LbOeH5mtGYHCBX5N7F1OjBZJa3a2W6KP--edqvl7-_cdf9na78Z8ZJgzDAnZdvLIKhuswur9fG8zMXfmeYb_glThfU0GwssTwEQFFVZDSHjRefb2x9IeTylKfSJS9Eu05tf8SS5ThiyxlzcUt7Un6lpvJm-qy0nX7dKA3aOBTsXdRm-q-tSCb7xY-ozHks3wo1cmk4BfseeEQdhe9YLvjx8sCx3KlQo_RHaIA_tOGFfBOulY0lm5qQQDQd7xJxAVUso4gjLuMNSbLMOoUNZ7Ld7zFZpKK4whI03aLQ52YNXCqs7xpnVtpHB2oStxLxBwp3zlQJphcsPeMb63hnIf42vNL1xvMLioA4Q7oK8C-bkzuPrc9uav6UW4AhW-WIfkf6p3NwA8Meh9Aso-299oYNqzT3rJPtpEYE5MEZpmpR7oiMzdsIx54fpTXaCSwbrNoW3JT6X_NcXk_5Ez-05i8Lufw0KMBY0yJ3srVTcvUbI19iedFrlhhhVKNf4qBMvwTUX6WqIYz1Qa8Icg1t9AuwGKKE8r-kOyRIun42hlhlK1SmnLnDUWGF2YIuTkXiUL6M3LwILkZXdsJdDLYYRDkkyBFCINLnNC50xindM-BerLOhalIcJ6xyJ6ueX4c4vvy9LiXrqWpm6SmBM6fByTBiLFTALmjRY8JIlDDIwyfZeWo0snosVLr4jWKrsImpsk04Tv9ue_ZPaI7IK_GO1BbQIGSMpLJs3S0jC9QSm6I4HTOg3KLRUxOq95-Iu-18be0pJSbMwyy-Eh9EHzw3uFtw4ded_Y1qfe3Xp-eTqUFuI6L60x_oQIZ_zeg0voUKUj3gELfAYrUJ3ylPqGjv6PTU31qJfXpNlByDFRSnyJHaX1qXtSnS6CWWaCS-jRwb9SnXwVKuQPUyfFVoORrQOF7QOE8UHZHzdUn5VZ9SoD6nfo0_t36FPNlHbt8sQoW-HbR-vBkHNIVvxX237xd1aiNgpJcHIUaCP-1aM2c7bOjm6snbW4-Q6613ZtPGhG4z5ZJfYoPEvsAyg-ATwY8l0pQMoDsYzqqnLTPRJUHvp5KhFRSS5UAuFBiUwlMJIKcStiLTRJ7YialUQrpUvEiSuEUEroMlz95eryIl3-hnJXniqxeNd9GWqj3WXr8PrArcK1w1XC9bk_NjnDYlIZKUK_RyJM79Hht1epN4w0qNY9tczD06YrVddbD9w7LDnt898B97kvGdiF87NYGChve64zD5sJGm_KPAG8EelYcVqtC0DaGtXY4pde1MdaGnY3qlDlr4Uw6ncNIjePyRVPr1_iNMGi4BuV4hkjyv4xBVwUTTPIXEToQBmPdJX0I1EaVpDfkCBmUb-ia5X-J5WmFs4pVyyxZQqViFCkHb_cbUWApf-2JxX8AKeh9IQ"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "वन",
+        "link": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%A8",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAV1wrzFSc21-WFuMiLnU16EMdYye7vc4l97K1U3Q0k7_CWekG26vVECFu8b1kurk8fy9K3S3h9sIwivgEeRDHLoMiITzqYbvZkym1H2RggTWIivvmOTJTZRfjb4YYTfEmMHTxBU9Z7&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8QFnoECCUQAQ&uoh=1",
+        "displayed_link": "https://hi.wikipedia.org › wiki › वन",
+        "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+        "snippet": "भू क्षेत्र जहाँ वृक्षों का घनत्व सामान्य से अधिक है उसे वन (जंगल) कहते हैं। इस में एक शंकुवृक्ष वन स्विस आल्प्स (Swiss Alps) (राष्ट्रीय उद्यान (National Park)). वन प्रबंधन और वन हानि 4 वनों का महत्व … वन प्र ...",
+        "snippet_highlighted_words": [
+          "वन",
+          "वन",
+          "वन",
+          "वन",
+          "वन"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "भू क्षेत्र जहाँ वृक्षों का घनत्व सामान्य से अधिक है उसे वन (जंगल) कहते हैं। इस में एक शंकुवृक्ष वन स्विस आल्प्स (Swiss Alps) (राष्ट्रीय उद्यान (National Park)). वन प्रबंधन और वन हानि 4 वनों का महत्व … वन प्र ...",
+            "source_info_link": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%A8",
+            "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVjF3cnpGU2MyMS1XRnVNaUxuVTE2RU1kWXllN3ZjNGw5N0sxVTNRMGs3X0NXZWtHMjZ2VkVDRnU4YjFrdXJrOGZ5OUszUzNoOXNJd2l2Z0VlUkRITG9NaUlUenFZYnZaa3ltMUgyUmdnVFdJaXZ2bU9USlRaUmZqYjRZWVRmRW1NSFR4QlU5WjcSBBoCCAAajQcSAggBGgAiACoAMgYIARICaW46AEIECAEQI0oAWgByAHoAgkDnBggjEAAYACAAKnEKDOCkqOCkguCkrOCksBUM37tAGgJubxoGbnVtYmVyGgngpIXgpILgpJUaCeCkn-ClieCkqhoJ4KSr4KWL4KSoGhLgpK7gpYvgpKzgpL7gpIfgpLIaEuCkuOCkguCkluCljeCkr-CkvhoHbnVtYmVyczKeAS9nb3RvP3VybD1DQUVTYXdIck96QVYxd3J6RlNjMjEtV0Z1TWlMblUxNkVNZFl5ZTd2YzRsOTdLMVUzUTBrN19DV2VrRzI2dlZFQ0Z1OGIxa3VyazhmeTlLM1MzaDlzSXdpdmdFZVJESExvTWlJVHpxWWJ2Wmt5bTFIMlJnZ1RXSWl2dm1PVEpUWlJmamI0WVlUZkVtTUhUeEJVOVo3Oi48Yj7gpLXgpKg8L2I-IC0g4KS14KS_4KSV4KS_4KSq4KWA4KSh4KS_4KSv4KS-Qo0E4KSt4KWCIOCkleCljeCkt-Clh-CkpOCljeCksCDgpJzgpLngpL7gpIEg4KS14KWD4KSV4KWN4KS34KWL4KSCIOCkleCkviDgpJjgpKjgpKTgpY3gpLUg4KS44KS-4KSu4KS-4KSo4KWN4KSvIOCkuOClhyDgpIXgpKfgpL_gpJUg4KS54KWIIOCkieCkuOClhyA8Yj7gpLXgpKg8L2I-ICjgpJzgpILgpJfgpLIpIOCkleCkueCkpOClhyDgpLngpYjgpILgpaQg4KSH4KS4IOCkruClh-CkgiDgpI_gpJUg4KS24KSC4KSV4KWB4KS14KWD4KSV4KWN4KS3IDxiPuCkteCkqDwvYj4g4KS44KWN4KS14KS_4KS4IOCkhuCksuCljeCkquCljeCkuCAoU3dpc3MgQWxwcykgKOCksOCkvuCkt-CljeCkn-CljeCksOClgOCkryDgpIngpKbgpY3gpK_gpL7gpKggKE5hdGlvbmFsIFBhcmspKS4gPGI-4KS14KSoPC9iPiDgpKrgpY3gpLDgpKzgpILgpKfgpKgg4KSU4KSwIDxiPuCkteCkqDwvYj4g4KS54KS-4KSo4KS_IDQg4KS14KSo4KWL4KSCIOCkleCkviDgpK7gpLngpKTgpY3gpLUg4oCmIDxiPuCkteCkqDwvYj4g4KSq4KWN4KSwJm5ic3A7Li4uUgExUgbgpI_gpJUiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVjF3cnpGU2MyMS1XRnVNaUxuVTE2RU1kWXllN3ZjNGw5N0sxVTNRMGs3X0NXZWtHMjZ2VkVDRnU4YjFrdXJrOGZ5OUszUzNoOXNJd2l2Z0VlUkRITG9NaUlUenFZYnZaa3ltMUgyUmdnVFdJaXZ2bU9USlRaUmZqYjRZWVRmRW1NSFR4QlU5WjcSBBoCCAAajQcSAggBGgAiACoAMgYIARICaW46AEIECAEQI0oAWgByAHoAgkDnBggjEAAYACAAKnEKDOCkqOCkguCkrOCksBUM37tAGgJubxoGbnVtYmVyGgngpIXgpILgpJUaCeCkn-ClieCkqhoJ4KSr4KWL4KSoGhLgpK7gpYvgpKzgpL7gpIfgpLIaEuCkuOCkguCkluCljeCkr-CkvhoHbnVtYmVyczKeAS9nb3RvP3VybD1DQUVTYXdIck96QVYxd3J6RlNjMjEtV0Z1TWlMblUxNkVNZFl5ZTd2YzRsOTdLMVUzUTBrN19DV2VrRzI2dlZFQ0Z1OGIxa3VyazhmeTlLM1MzaDlzSXdpdmdFZVJESExvTWlJVHpxWWJ2Wmt5bTFIMlJnZ1RXSWl2dm1PVEpUWlJmamI0WVlUZkVtTUhUeEJVOVo3Oi48Yj7gpLXgpKg8L2I-IC0g4KS14KS_4KSV4KS_4KSq4KWA4KSh4KS_4KSv4KS-Qo0E4KSt4KWCIOCkleCljeCkt-Clh-CkpOCljeCksCDgpJzgpLngpL7gpIEg4KS14KWD4KSV4KWN4KS34KWL4KSCIOCkleCkviDgpJjgpKjgpKTgpY3gpLUg4KS44KS-4KSu4KS-4KSo4KWN4KSvIOCkuOClhyDgpIXgpKfgpL_gpJUg4KS54KWIIOCkieCkuOClhyA8Yj7gpLXgpKg8L2I-ICjgpJzgpILgpJfgpLIpIOCkleCkueCkpOClhyDgpLngpYjgpILgpaQg4KSH4KS4IOCkruClh-CkgiDgpI_gpJUg4KS24KSC4KSV4KWB4KS14KWD4KSV4KWN4KS3IDxiPuCkteCkqDwvYj4g4KS44KWN4KS14KS_4KS4IOCkhuCksuCljeCkquCljeCkuCAoU3dpc3MgQWxwcykgKOCksOCkvuCkt-CljeCkn-CljeCksOClgOCkryDgpIngpKbgpY3gpK_gpL7gpKggKE5hdGlvbmFsIFBhcmspKS4gPGI-4KS14KSoPC9iPiDgpKrgpY3gpLDgpKzgpILgpKfgpKgg4KSU4KSwIDxiPuCkteCkqDwvYj4g4KS54KS-4KSo4KS_IDQg4KS14KSo4KWL4KSCIOCkleCkviDgpK7gpLngpKTgpY3gpLUg4oCmIDxiPuCkteCkqDwvYj4g4KSq4KWN4KSwJm5ic3A7Li4uUgExUgbgpI_gpJUiAhABSABYAGgA",
+        "source": "Wikipedia"
+      },
+      {
+        "position": 2,
+        "title": "वन",
+        "link": "https://moef.gov.in/forest",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAV1SemIFCYY1S5vawmO4F4HfWt0_JeS09Kpec3dvtjqah4wEsIto1xsggOQisdiaeBzBYCfE95MecatusybCeSEDM_mY7yIscqyH88noEp4E0&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8QFnoECCMQAQ&uoh=1",
+        "displayed_link": "https://moef.gov.in › forest",
+        "snippet": "सा है title: <b>वन</b> document: NDRI - ICAR NDRI. ज्ञापन भारतीय वन सेवा समाचार और मुख्य अंश आदेश और सूचनाएं प्रतिनियुक्ति (पर्या. कवर को तीन घनत्व श्रेणियों में वर्गीकृत या है: अत्यधिक घने वन (कैनोपि घनत्व ...",
+        "snippet_highlighted_words": [
+          "सा",
+          "वन",
+          "वन",
+          "वन"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "सा है title: <b>वन</b> document: NDRI - ICAR NDRI. ज्ञापन भारतीय वन सेवा समाचार और मुख्य अंश आदेश और सूचनाएं प्रतिनियुक्ति (पर्या. कवर को तीन घनत्व श्रेणियों में वर्गीकृत या है: अत्यधिक घने वन (कैनोपि घनत्व ...",
+            "source_info_link": "https://moef.gov.in/forest"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVjFTZW1JRkNZWTFTNXZhd21PNEY0SGZXdDBfSmVTMDlLcGVjM2R2dGpxYWg0d0VzSXRvMXhzZ2dPUWlzZGlhZUJ6QllDZkU5NU1lY2F0dXN5YkNlU0VETV9tWTd5SXNjcXlIODhub0VwNEUwEgQaAggAGscGEgIIABoAIgAqADIGCAESAmluOgBCBAgBECNKAFoAcgB6AIJAoQYIIxAAGAAgACpxCgzgpKjgpILgpKzgpLAVrY8PQBoCbm8aBm51bWJlchoJ4KSF4KSC4KSVGgngpJ_gpYngpKoaCeCkq-Cli-CkqBoS4KSu4KWL4KSs4KS-4KSH4KSyGhLgpLjgpILgpJbgpY3gpK_gpL4aB251bWJlcnMygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWMVNlbUlGQ1lZMVM1dmF3bU80RjRIZld0MF9KZVMwOUtwZWMzZHZ0anFhaDR3RXNJdG8xeHNnZ09RaXNkaWFlQnpCWUNmRTk1TWVjYXR1c3liQ2VTRURNX21ZN3lJc2NxeUg4OG5vRXA0RTA6DTxiPuCkteCkqDwvYj5ChQQ8Yj7gpLjgpL48L2I-IOCkueCliCB0aXRsZTogJmx0O2ImZ3Q7PGI-4KS14KSoPC9iPiZsdDsvYiZndDsgZG9jdW1lbnQ6IE5EUkkgLSBJQ0FSIE5EUkkuIOCknOCljeCknuCkvuCkquCkqCDgpK3gpL7gpLDgpKTgpYDgpK8gPGI-4KS14KSoPC9iPiDgpLjgpYfgpLXgpL4g4KS44KSu4KS-4KSa4KS-4KSwIOCklOCksCDgpK7gpYHgpJbgpY3gpK8g4KSF4KSC4KS2IOCkhuCkpuClh-CktiDgpJTgpLAg4KS44KWC4KSa4KSo4KS-4KSP4KSCIOCkquCljeCksOCkpOCkv-CkqOCkv-Ckr-ClgeCkleCljeCkpOCkvyAo4KSq4KSw4KWN4KSv4KS-LiDgpJXgpLXgpLAg4KSV4KWLIOCkpOClgOCkqCDgpJjgpKjgpKTgpY3gpLUg4KS24KWN4KSw4KWH4KSj4KS_4KSv4KWL4KSCIOCkruClh-CkgiDgpLXgpLDgpY3gpJfgpYDgpJXgpYPgpKQg4KSv4KS-IOCkueCliDog4KSF4KSk4KWN4KSv4KSn4KS_4KSVIOCkmOCkqOClhyA8Yj7gpLXgpKg8L2I-ICjgpJXgpYjgpKjgpYvgpKrgpL8g4KSY4KSo4KSk4KWN4KS1Jm5ic3A7Li4uUgbgpI_gpJVSATEiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVjFTZW1JRkNZWTFTNXZhd21PNEY0SGZXdDBfSmVTMDlLcGVjM2R2dGpxYWg0d0VzSXRvMXhzZ2dPUWlzZGlhZUJ6QllDZkU5NU1lY2F0dXN5YkNlU0VETV9tWTd5SXNjcXlIODhub0VwNEUwEgQaAggAGscGEgIIABoAIgAqADIGCAESAmluOgBCBAgBECNKAFoAcgB6AIJAoQYIIxAAGAAgACpxCgzgpKjgpILgpKzgpLAVrY8PQBoCbm8aBm51bWJlchoJ4KSF4KSC4KSVGgngpJ_gpYngpKoaCeCkq-Cli-CkqBoS4KSu4KWL4KSs4KS-4KSH4KSyGhLgpLjgpILgpJbgpY3gpK_gpL4aB251bWJlcnMygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWMVNlbUlGQ1lZMVM1dmF3bU80RjRIZld0MF9KZVMwOUtwZWMzZHZ0anFhaDR3RXNJdG8xeHNnZ09RaXNkaWFlQnpCWUNmRTk1TWVjYXR1c3liQ2VTRURNX21ZN3lJc2NxeUg4OG5vRXA0RTA6DTxiPuCkteCkqDwvYj5ChQQ8Yj7gpLjgpL48L2I-IOCkueCliCB0aXRsZTogJmx0O2ImZ3Q7PGI-4KS14KSoPC9iPiZsdDsvYiZndDsgZG9jdW1lbnQ6IE5EUkkgLSBJQ0FSIE5EUkkuIOCknOCljeCknuCkvuCkquCkqCDgpK3gpL7gpLDgpKTgpYDgpK8gPGI-4KS14KSoPC9iPiDgpLjgpYfgpLXgpL4g4KS44KSu4KS-4KSa4KS-4KSwIOCklOCksCDgpK7gpYHgpJbgpY3gpK8g4KSF4KSC4KS2IOCkhuCkpuClh-CktiDgpJTgpLAg4KS44KWC4KSa4KSo4KS-4KSP4KSCIOCkquCljeCksOCkpOCkv-CkqOCkv-Ckr-ClgeCkleCljeCkpOCkvyAo4KSq4KSw4KWN4KSv4KS-LiDgpJXgpLXgpLAg4KSV4KWLIOCkpOClgOCkqCDgpJjgpKjgpKTgpY3gpLUg4KS24KWN4KSw4KWH4KSj4KS_4KSv4KWL4KSCIOCkruClh-CkgiDgpLXgpLDgpY3gpJfgpYDgpJXgpYPgpKQg4KSv4KS-IOCkueCliDog4KSF4KSk4KWN4KSv4KSn4KS_4KSVIOCkmOCkqOClhyA8Yj7gpLXgpKg8L2I-ICjgpJXgpYjgpKjgpYvgpKrgpL8g4KSY4KSo4KSk4KWN4KS1Jm5ic3A7Li4uUgbgpI_gpJVSATEiAhABSABYAGgA",
+        "source": "Ministry of Environment, Forest and Climate Change"
+      },
+      {
+        "position": 3,
+        "title": "मुख्यमंत्री जन-वन योजना :: Mukhyamantri Jan Van Yojana",
+        "link": "https://janvan.jharkhand.gov.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVBYMuvpOqKdMrQdMKoNl-_tbhihd1k46wLc8QMlvRor6Msc0j7og2XhuWCt-QzHjuj-gzo0rfMkcjVR_12gl5elyjb4gzDn7N3FhuNnIuI8cv0CJVISQ&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8QFnoECCQQAQ&uoh=1",
+        "displayed_link": "https://janvan.jharkhand.gov.in",
+        "snippet": "इस योजना के अंतर्गत ग्रामीणों / लाभुकों को निजी भूमि पर वृक्षारोपण एवं खेत की मेड़ पर ...",
+        "about_this_result": {
+          "source": {
+            "description": "इस योजना के अंतर्गत ग्रामीणों / लाभुकों को निजी भूमि पर वृक्षारोपण एवं खेत की मेड़ पर ...",
+            "source_info_link": "https://janvan.jharkhand.gov.in/"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVkJZTXV2cE9xS2RNclFkTUtvTmwtX3RiaGloZDFrNDZ3TGM4UU1sdlJvcjZNc2MwajdvZzJYaHVXQ3QtUXpIanVqLWd6bzByZk1rY2pWUl8xMmdsNWVseWpiNGd6RG43TjNGaHVObkl1SThjdjBDSlZJU1ESBBoCCAAajwUSAggAGgAiACoAMgYIARICaW46AEIECAEQI0oAWgByAHoAgkDpBAgjEAAYACAAKnEKDOCkqOCkguCkrOCksBUu9ZhAGgJubxoGbnVtYmVyGgngpIXgpILgpJUaCeCkn-ClieCkqhoJ4KSr4KWL4KSoGhLgpK7gpYvgpKzgpL7gpIfgpLIaEuCkuOCkguCkluCljeCkr-CkvhoHbnVtYmVyczKJAS9nb3RvP3VybD1DQUVTV3dIck96QVZCWU11dnBPcUtkTXJRZE1Lb05sLV90YmhpaGQxazQ2d0xjOFFNbHZSb3I2TXNjMGo3b2cyWGh1V0N0LVF6SGp1ai1nem8wcmZNa2NqVlJfMTJnbDVlbHlqYjRnekRuN04zRmh1Tm5JdUk4Y3YwQ0pWSVNROmzgpK7gpYHgpJbgpY3gpK_gpK7gpILgpKTgpY3gpLDgpYAg4KSc4KSoLTxiPuCkteCkqDwvYj4g4KSv4KWL4KSc4KSo4KS-IDo6IE11a2h5YW1hbnRyaSBKYW4gPGI-VmFuPC9iPiBZb2phbmFC5gHgpIfgpLgg4KSv4KWL4KSc4KSo4KS-IOCkleClhyDgpIXgpILgpKTgpLDgpY3gpJfgpKQg4KSX4KWN4KSw4KS-4KSu4KWA4KSj4KWL4KSCIC8g4KSy4KS-4KSt4KWB4KSV4KWL4KSCIOCkleCliyDgpKjgpL_gpJzgpYAg4KSt4KWC4KSu4KS_IOCkquCksCDgpLXgpYPgpJXgpY3gpLfgpL7gpLDgpYvgpKrgpKMg4KSP4KS14KSCIOCkluClh-CkpCDgpJXgpYAg4KSu4KWH4KSh4KS8IOCkquCksCZuYnNwOy4uLlIG4KSP4KSVUgExIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVkJZTXV2cE9xS2RNclFkTUtvTmwtX3RiaGloZDFrNDZ3TGM4UU1sdlJvcjZNc2MwajdvZzJYaHVXQ3QtUXpIanVqLWd6bzByZk1rY2pWUl8xMmdsNWVseWpiNGd6RG43TjNGaHVObkl1SThjdjBDSlZJU1ESBBoCCAAajwUSAggAGgAiACoAMgYIARICaW46AEIECAEQI0oAWgByAHoAgkDpBAgjEAAYACAAKnEKDOCkqOCkguCkrOCksBUu9ZhAGgJubxoGbnVtYmVyGgngpIXgpILgpJUaCeCkn-ClieCkqhoJ4KSr4KWL4KSoGhLgpK7gpYvgpKzgpL7gpIfgpLIaEuCkuOCkguCkluCljeCkr-CkvhoHbnVtYmVyczKJAS9nb3RvP3VybD1DQUVTV3dIck96QVZCWU11dnBPcUtkTXJRZE1Lb05sLV90YmhpaGQxazQ2d0xjOFFNbHZSb3I2TXNjMGo3b2cyWGh1V0N0LVF6SGp1ai1nem8wcmZNa2NqVlJfMTJnbDVlbHlqYjRnekRuN04zRmh1Tm5JdUk4Y3YwQ0pWSVNROmzgpK7gpYHgpJbgpY3gpK_gpK7gpILgpKTgpY3gpLDgpYAg4KSc4KSoLTxiPuCkteCkqDwvYj4g4KSv4KWL4KSc4KSo4KS-IDo6IE11a2h5YW1hbnRyaSBKYW4gPGI-VmFuPC9iPiBZb2phbmFC5gHgpIfgpLgg4KSv4KWL4KSc4KSo4KS-IOCkleClhyDgpIXgpILgpKTgpLDgpY3gpJfgpKQg4KSX4KWN4KSw4KS-4KSu4KWA4KSj4KWL4KSCIC8g4KSy4KS-4KSt4KWB4KSV4KWL4KSCIOCkleCliyDgpKjgpL_gpJzgpYAg4KSt4KWC4KSu4KS_IOCkquCksCDgpLXgpYPgpJXgpY3gpLfgpL7gpLDgpYvgpKrgpKMg4KSP4KS14KSCIOCkluClh-CkpCDgpJXgpYAg4KSu4KWH4KSh4KS8IOCkquCksCZuYnNwOy4uLlIG4KSP4KSVUgExIgIQAUgAWABoAA",
+        "source": "Mukhyamantri Jan Van Yojana"
+      },
+      {
+        "position": 4,
+        "title": "भारतीय वन सर्वेक्षण",
+        "link": "https://fsi.nic.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAV1f2nCfA5lQsYxLaX5AaLbdG_ebtCxMj1_TJ1-0oOB7eklGOerNEwB-g9tjhdRXL-rIeZeuhWpm-GeG_MwJPV5jefsPptZJoc5w&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8QFnoECCIQAQ&uoh=1",
+        "displayed_link": "https://fsi.nic.in",
+        "snippet": "देश, देश में वन सर्वेक्षण करना एवं वन संसाधनों का आकलन करना है। इसकी शुरूआत 1965 में, वन संसाधनों का निवेश पूर्व सर्वेक्षण … मानचित्रण राज्य और जिला स्तर पर देश के वन संसाधनों पर जानकारी..",
+        "snippet_highlighted_words": [
+          "वन",
+          "वन",
+          "वन",
+          "वन"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "देश, देश में वन सर्वेक्षण करना एवं वन संसाधनों का आकलन करना है। इसकी शुरूआत 1965 में, वन संसाधनों का निवेश पूर्व सर्वेक्षण … मानचित्रण राज्य और जिला स्तर पर देश के वन संसाधनों पर जानकारी..",
+            "source_info_link": "https://fsi.nic.in/"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWMWYybkNmQTVsUXNZeExhWDVBYUxiZEdfZWJ0Q3hNajFfVEoxLTBvT0I3ZWtsR09lck5Fd0ItZzl0amhkUlhMLXJJZVpldWhXcG0tR2VHX013SlBWNWplZnNQcHRaSm9jNXcSBBoCCAAa4QYSAggAGgAiACoAMgYIARICaW46AEIECAEQI0oAWgByAHoAgkC7BggjEAAYACAAKnEKDOCkqOCkguCkrOCksBWaochAGgJubxoGbnVtYmVyGgngpIXgpILgpJUaCeCkn-ClieCkqhoJ4KSr4KWL4KSoGhLgpK7gpYvgpKzgpL7gpIfgpLIaEuCkuOCkguCkluCljeCkr-CkvhoHbnVtYmVyczJ4L2dvdG8_dXJsPUNBRVNUZ0hyT3pBVjFmMm5DZkE1bFFzWXhMYVg1QWFMYmRHX2VidEN4TWoxX1RKMS0wb09CN2VrbEdPZXJORXdCLWc5dGpoZFJYTC1ySWVaZXVoV3BtLUdlR19Nd0pQVjVqZWZzUHB0WkpvYzV3OjzgpK3gpL7gpLDgpKTgpYDgpK8gPGI-4KS14KSoPC9iPiDgpLjgpLDgpY3gpLXgpYfgpJXgpY3gpLfgpKNC-gPgpKbgpYfgpLYsIOCkpuClh-CktiDgpK7gpYfgpIIgPGI-4KS14KSoPC9iPiDgpLjgpLDgpY3gpLXgpYfgpJXgpY3gpLfgpKMg4KSV4KSw4KSo4KS-IOCkj-CkteCkgiA8Yj7gpLXgpKg8L2I-IOCkuOCkguCkuOCkvuCkp-CkqOCli-CkgiDgpJXgpL4g4KSG4KSV4KSy4KSoIOCkleCksOCkqOCkviDgpLngpYjgpaQg4KSH4KS44KSV4KWAIOCktuClgeCksOClguCkhuCkpCAxOTY1IOCkruClh-CkgiwgPGI-4KS14KSoPC9iPiDgpLjgpILgpLjgpL7gpKfgpKjgpYvgpIIg4KSV4KS-IOCkqOCkv-CkteClh-CktiDgpKrgpYLgpLDgpY3gpLUg4KS44KSw4KWN4KS14KWH4KSV4KWN4KS34KSjIOKApiDgpK7gpL7gpKjgpJrgpL_gpKTgpY3gpLDgpKMg4KSw4KS-4KSc4KWN4KSvIOCklOCksCDgpJzgpL_gpLLgpL4g4KS44KWN4KSk4KSwIOCkquCksCDgpKbgpYfgpLYg4KSV4KWHIDxiPuCkteCkqDwvYj4g4KS44KSC4KS44KS-4KSn4KSo4KWL4KSCIOCkquCksCDgpJzgpL7gpKjgpJXgpL7gpLDgpYAuLlIBMVIG4KSP4KSVIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWMWYybkNmQTVsUXNZeExhWDVBYUxiZEdfZWJ0Q3hNajFfVEoxLTBvT0I3ZWtsR09lck5Fd0ItZzl0amhkUlhMLXJJZVpldWhXcG0tR2VHX013SlBWNWplZnNQcHRaSm9jNXcSBBoCCAAa4QYSAggAGgAiACoAMgYIARICaW46AEIECAEQI0oAWgByAHoAgkC7BggjEAAYACAAKnEKDOCkqOCkguCkrOCksBWaochAGgJubxoGbnVtYmVyGgngpIXgpILgpJUaCeCkn-ClieCkqhoJ4KSr4KWL4KSoGhLgpK7gpYvgpKzgpL7gpIfgpLIaEuCkuOCkguCkluCljeCkr-CkvhoHbnVtYmVyczJ4L2dvdG8_dXJsPUNBRVNUZ0hyT3pBVjFmMm5DZkE1bFFzWXhMYVg1QWFMYmRHX2VidEN4TWoxX1RKMS0wb09CN2VrbEdPZXJORXdCLWc5dGpoZFJYTC1ySWVaZXVoV3BtLUdlR19Nd0pQVjVqZWZzUHB0WkpvYzV3OjzgpK3gpL7gpLDgpKTgpYDgpK8gPGI-4KS14KSoPC9iPiDgpLjgpLDgpY3gpLXgpYfgpJXgpY3gpLfgpKNC-gPgpKbgpYfgpLYsIOCkpuClh-CktiDgpK7gpYfgpIIgPGI-4KS14KSoPC9iPiDgpLjgpLDgpY3gpLXgpYfgpJXgpY3gpLfgpKMg4KSV4KSw4KSo4KS-IOCkj-CkteCkgiA8Yj7gpLXgpKg8L2I-IOCkuOCkguCkuOCkvuCkp-CkqOCli-CkgiDgpJXgpL4g4KSG4KSV4KSy4KSoIOCkleCksOCkqOCkviDgpLngpYjgpaQg4KSH4KS44KSV4KWAIOCktuClgeCksOClguCkhuCkpCAxOTY1IOCkruClh-CkgiwgPGI-4KS14KSoPC9iPiDgpLjgpILgpLjgpL7gpKfgpKjgpYvgpIIg4KSV4KS-IOCkqOCkv-CkteClh-CktiDgpKrgpYLgpLDgpY3gpLUg4KS44KSw4KWN4KS14KWH4KSV4KWN4KS34KSjIOKApiDgpK7gpL7gpKjgpJrgpL_gpKTgpY3gpLDgpKMg4KSw4KS-4KSc4KWN4KSvIOCklOCksCDgpJzgpL_gpLLgpL4g4KS44KWN4KSk4KSwIOCkquCksCDgpKbgpYfgpLYg4KSV4KWHIDxiPuCkteCkqDwvYj4g4KS44KSC4KS44KS-4KSn4KSo4KWL4KSCIOCkquCksCDgpJzgpL7gpKjgpJXgpL7gpLDgpYAuLlIBMVIG4KSP4KSVIgIQAUgAWABoAA",
+        "source": "भारतीय वन सर्वेक्षण"
+      },
+      {
+        "position": 5,
+        "title": "देहरादून में वन भूमि पर चला बुलडोजर, 1015 वर्ग मीटर ...",
+        "link": "https://www.etvbharat.com/hi/state/forest-department-reclaimed-1015-square-meters-of-reserved-forest-land-in-dehradun-uts26091304928",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwAEB6zswFbDJlkZdE0lJjK8N_Qye3NnV2AnUCeFseir1ZbSjqUHn-sO26v-0XBJncG1rlyadPZMdf-oFdtrPAWlrbxcRFXBfw-eq2Ymo782JNxXMMK277iKbj7S1WfzD7O1GWDd80smDtdVk8b5OVnmB3UywscDaoaSEA91dNws-6tye47Sied1ukT14TdNckXQnicPUlPGGCk9cYbYV3SZ-d5etn4bJztU8YAIuTsEsYG_7tv-TPWs6fu4ejMrSAmk&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8QFnoECCYQAQ&uoh=1",
+        "displayed_link": "https://www.etvbharat.com › Home › State",
+        "favicon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAAAwCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAnGboEYDbX3ar6AH6q9aOV-2ZV4zfov2A90rDtGfHuexn2pIeRp4fADfMYz1_1-LauwkisAP5s9buThKIeb7-7DCMRxO7ABVnExA14D9mz5fQ9jMH7NbpCTMYmGmiPGckO-7rM0V1A4fqxa8UHRe8WCEl_6q7m7UpzYzgL1Tk1yJdVL56Nj7kaLYF-v__Ej0zox0fHOBnxJ7QnVdc3Nk75ansnzjS1daU1lzAvH75PFQS-WaAmq2gM-porF1l9gzi_Hs86QQX5X-SSlgei0f4D48J9QrmFd0OIzaCl7lsHCHBZPA1Ia_9b02ikd_V7aBZXCojsBlE1ixfStVtEvN1k2SVdOKKEv_YCK7yznJw1bRGAjNGMqXMuIPK02Ld8KOvj-7P1qb4Ugh4_EBJdLFFedZr2QOIqB3m7OrTp1srw_c3RwMHMb9x9FBfoRSXBHcrKkfYmpQ_grvVymUpE5uPhiW8j_9B2J96aEWeoUzn44cOCdlqyfYPL54BVYukRzE_AHt59W-3hn5Ha7YaHUgBlg6xF1KNwAAA.webp",
+        "date": "13 सित॰ 2026",
+        "snippet": "देहरादून में वन भूमि पर चला बुलडोजर, 1015 वर्ग मीटर वन क्षेत्र हुआ कब्जामुक्त ...",
+        "snippet_highlighted_words": [
+          "वन",
+          "वन"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "देहरादून में वन भूमि पर चला बुलडोजर, 1015 वर्ग मीटर वन क्षेत्र हुआ कब्जामुक्त ...",
+            "source_info_link": "https://www.etvbharat.com/hi/state/forest-department-reclaimed-1015-square-meters-of-reserved-forest-land-in-dehradun-uts26091304928",
+            "icon": "https://serpapi.com/images/i/UklGRsIBAABXRUJQVlA4ILYBAAAwCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAnGboEYDbX3ar6AH6q9aOV-2ZV4zfov2A90rDtGfHuexn2pIeRp4fADfMYz1_1-LauwkisAP5s9buThKIeb7-7DCMRxO7ABVnExA14D9mz5fQ9jMH7NbpCTMYmGmiPGckO-7rM0V1A4fqxa8UHRe8WCEl_6q7m7UpzYzgL1Tk1yJdVL56Nj7kaLYF-v__Ej0zox0fHOBnxJ7QnVdc3Nk75ansnzjS1daU1lzAvH75PFQS-WaAmq2gM-porF1l9gzi_Hs86QQX5X-SSlgei0f4D48J9QrmFd0OIzaCl7lsHCHBZPA1Ia_9b02ikd_V7aBZXCojsBlE1ixfStVtEvN1k2SVdOKKEv_YCK7yznJw1bRGAjNGMqXMuIPK02Ld8KOvj-7P1qb4Ugh4_EBJdLFFedZr2QOIqB3m7OrTp1srw_c3RwMHMb9x9FBfoRSXBHcrKkfYmpQ_grvVymUpE5uPhiW8j_9B2J96aEWeoUzn44cOCdlqyfYPL54BVYukRzE_AHt59W-3hn5Ha7YaHUgBlg6xF1KNwAAA.webp"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0ZiREpsa1pkRTBsSmpLOE5fUXllM05uVjJBblVDZUZzZWlyMVpiU2pxVUhuLXNPMjZ2LTBYQkpuY0cxcmx5YWRQWk1kZi1vRmR0clBBV2xyYnhjUkZYQmZ3LWVxMlltbzc4MkpOeFhNTUsyNzdpS2JqN1MxV2Z6RDdPMUdXRGQ4MHNtRHRkVms4YjVPVm5tQjNVeXdzY0Rhb2FTRUE5MWROd3MtNnR5ZTQ3U2llZDF1a1QxNFRkTmNrWFFuaWNQVWxQR0dDazljWWJZVjNTWi1kNWV0bjRiSnp0VThZQUl1VHNFc1lHXzd0di1UUFdzNmZ1NGVqTXJTQW1rEgQaAggAGsoGEgAaACIAKgAyBggBEgJpbjoAQgQIARAjSgBaAHIAegCCQKYGCCMQABgAIAAqcQoM4KSo4KSC4KSs4KSwFaZVtkAaAm5vGgZudW1iZXIaCeCkheCkguCklRoJ4KSf4KWJ4KSqGgngpKvgpYvgpKgaEuCkruCli-CkrOCkvuCkh-CkshoS4KS44KSC4KSW4KWN4KSv4KS-GgdudW1iZXJzMpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0ZiREpsa1pkRTBsSmpLOE5fUXllM05uVjJBblVDZUZzZWlyMVpiU2pxVUhuLXNPMjZ2LTBYQkpuY0cxcmx5YWRQWk1kZi1vRmR0clBBV2xyYnhjUkZYQmZ3LWVxMlltbzc4MkpOeFhNTUsyNzdpS2JqN1MxV2Z6RDdPMUdXRGQ4MHNtRHRkVms4YjVPVm5tQjNVeXdzY0Rhb2FTRUE5MWROd3MtNnR5ZTQ3U2llZDF1a1QxNFRkTmNrWFFuaWNQVWxQR0dDazljWWJZVjNTWi1kNWV0bjRiSnp0VThZQUl1VHNFc1lHXzd0di1UUFdzNmZ1NGVqTXJTQW1rOqwB4KSm4KWH4KS54KSw4KS-4KSm4KWC4KSoIOCkruClh-CkgiA8Yj7gpLXgpKg8L2I-IOCkreClguCkruCkvyDgpKrgpLAg4KSa4KSy4KS-IOCkrOClgeCksuCkoeCli-CknOCksCwgMTAxNSDgpLXgpLDgpY3gpJcg4KSu4KWA4KSf4KSwIDxiPuCkteCkqDwvYj4g4KSV4KWN4KS34KWH4KSk4KWN4KSwIC4uLkLaAeCkpuClh-CkueCksOCkvuCkpuClguCkqCDgpK7gpYfgpIIgPGI-4KS14KSoPC9iPiDgpK3gpYLgpK7gpL8g4KSq4KSwIOCkmuCksuCkviDgpKzgpYHgpLLgpKHgpYvgpJzgpLAsIDEwMTUg4KS14KSw4KWN4KSXIOCkruClgOCkn-CksCA8Yj7gpLXgpKg8L2I-IOCkleCljeCkt-Clh-CkpOCljeCksCDgpLngpYHgpIYg4KSV4KSs4KWN4KSc4KS-4KSu4KWB4KSV4KWN4KSkJm5ic3A7Li4uUgExUgbgpI_gpJUiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0ZiREpsa1pkRTBsSmpLOE5fUXllM05uVjJBblVDZUZzZWlyMVpiU2pxVUhuLXNPMjZ2LTBYQkpuY0cxcmx5YWRQWk1kZi1vRmR0clBBV2xyYnhjUkZYQmZ3LWVxMlltbzc4MkpOeFhNTUsyNzdpS2JqN1MxV2Z6RDdPMUdXRGQ4MHNtRHRkVms4YjVPVm5tQjNVeXdzY0Rhb2FTRUE5MWROd3MtNnR5ZTQ3U2llZDF1a1QxNFRkTmNrWFFuaWNQVWxQR0dDazljWWJZVjNTWi1kNWV0bjRiSnp0VThZQUl1VHNFc1lHXzd0di1UUFdzNmZ1NGVqTXJTQW1rEgQaAggAGsoGEgAaACIAKgAyBggBEgJpbjoAQgQIARAjSgBaAHIAegCCQKYGCCMQABgAIAAqcQoM4KSo4KSC4KSs4KSwFaZVtkAaAm5vGgZudW1iZXIaCeCkheCkguCklRoJ4KSf4KWJ4KSqGgngpKvgpYvgpKgaEuCkruCli-CkrOCkvuCkh-CkshoS4KS44KSC4KSW4KWN4KSv4KS-GgdudW1iZXJzMpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0ZiREpsa1pkRTBsSmpLOE5fUXllM05uVjJBblVDZUZzZWlyMVpiU2pxVUhuLXNPMjZ2LTBYQkpuY0cxcmx5YWRQWk1kZi1vRmR0clBBV2xyYnhjUkZYQmZ3LWVxMlltbzc4MkpOeFhNTUsyNzdpS2JqN1MxV2Z6RDdPMUdXRGQ4MHNtRHRkVms4YjVPVm5tQjNVeXdzY0Rhb2FTRUE5MWROd3MtNnR5ZTQ3U2llZDF1a1QxNFRkTmNrWFFuaWNQVWxQR0dDazljWWJZVjNTWi1kNWV0bjRiSnp0VThZQUl1VHNFc1lHXzd0di1UUFdzNmZ1NGVqTXJTQW1rOqwB4KSm4KWH4KS54KSw4KS-4KSm4KWC4KSoIOCkruClh-CkgiA8Yj7gpLXgpKg8L2I-IOCkreClguCkruCkvyDgpKrgpLAg4KSa4KSy4KS-IOCkrOClgeCksuCkoeCli-CknOCksCwgMTAxNSDgpLXgpLDgpY3gpJcg4KSu4KWA4KSf4KSwIDxiPuCkteCkqDwvYj4g4KSV4KWN4KS34KWH4KSk4KWN4KSwIC4uLkLaAeCkpuClh-CkueCksOCkvuCkpuClguCkqCDgpK7gpYfgpIIgPGI-4KS14KSoPC9iPiDgpK3gpYLgpK7gpL8g4KSq4KSwIOCkmuCksuCkviDgpKzgpYHgpLLgpKHgpYvgpJzgpLAsIDEwMTUg4KS14KSw4KWN4KSXIOCkruClgOCkn-CksCA8Yj7gpLXgpKg8L2I-IOCkleCljeCkt-Clh-CkpOCljeCksCDgpLngpYHgpIYg4KSV4KSs4KWN4KSc4KS-4KSu4KWB4KSV4KWN4KSkJm5ic3A7Li4uUgExUgbgpI_gpJUiAhABSABYAGgA",
+        "source": "ETV Bharat"
+      },
+      {
+        "position": 6,
+        "title": "बीते 12 वर्षों में देश के अत्यंत सघन वन क्षेत्र में 22% से अधिक की ...",
+        "link": "https://www.facebook.com/BJP4CGState/videos/%E0%A4%AC%E0%A5%80%E0%A4%A4%E0%A5%87-12-%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%A6%E0%A5%87%E0%A4%B6-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%82%E0%A4%A4-%E0%A4%B8%E0%A4%98%E0%A4%A8-%E0%A4%B5%E0%A4%A8-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82-22-%E0%A4%B8%E0%A5%87-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95-%E0%A4%95%E0%A5%80-%E0%A4%B5%E0%A5%83%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF-%E0%A4%B9%E0%A5%81%E0%A4%88-%E0%A4%B9%E0%A5%88%E0%A4%AF/2426632514488282/",
+        "displayed_link": "80+ प्रतिक्रियाएं · 2 सप्ताह पहले",
+        "thumbnail": "https://serpapi.com/searches/6ac4eab70e285dc597e817e5/images/DmlP2dm49OQHWFTUkPSAy3Hw1Dj0ZdCi7zIf9Hy5bxg.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "snippet": "यह पर्यावरण संरक्षण की दिशा में एक बड़ी उपलब्धि है। 'एक पेड़ मां के नाम' अभियान ...",
+        "duration": "0:32",
+        "about_this_result": {
+          "source": {
+            "description": "यह पर्यावरण संरक्षण की दिशा में एक बड़ी उपलब्धि है। 'एक पेड़ मां के नाम' अभियान ...",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQHL2dvdG8_dXJsPUNBRVNvZ1VCNnpzd0ZYX1R5a3g5UWd5QUt3Mkd2NVNIeFdsNGFuek40dXB5d2hwT1hyQ2FxR1E3Q2pzeHRSYlpCSG43RlBGRkdzYTZiT1NsTzVFNUNod2dDYV9mTnhVNl85RmZXNE45UE1GeHl2Y3NKd0owa2lLM3U3ZHVtYnI5SmNlREhoZUgxSkhlNmh0Q0dhN0cyTGpKQTNKRm84WjhaVGtfSktGRjlOcjBZYVd1QlRqeUNuUWxYRlhnSmE0UEpha3hoLUFGSlh0SzB4N3FON2QwcFdmSVFjb1RQNi13cG4tcEpIUG1ycEh0Smx2M205NXZMdTNRd1UwNlZGZ0xGeE9tLWM0NWw3U0RKV2EwVXlxRWRFeEx6eWIzNmI1WG9XOGplaDdlS0FiS0Jlck0wd2xMM3pZbk83Wkd3YlRKQW5DcXczNWVCVk9nekpPNUNnV0Mxd3pkbHpoZmJSVUZLZ3VCOUt2NDVuMm9wcklwRTBOUXc5QWw4NnB5T291ZmlXQ3ExMUFEemJTY0tQbEJsMzhmYS1aeUtIVV9DQUpDRHRCZzd2WkxTbUFvd1puSTVORE1fMTNNdUoydlNvZTlMTi1Hdy1RN21DSVQxM3otcjFlZjB2UHR0bDdSanlKV0FzZDFMNVdBYnMwX1liYmlXTXg1eHNjLVR5UDVmeHViUXlPS1FlY2xTNlZMWEhVVWEtS3BOVTdjNHBsVms4aVR1dlRENHQ4LWhkN2NwV0ZIQkRrWkF5UmZhUXp0UVN3VUFaaldoV3NLV19jRk5Eb3o3b0lCOVkteUJKWUozbm1pcmpSSWpubWtvdHU2eVJLMmk3Wk1BWlBRSTJuZzdWWkZIOG9ZbFlDcVNrXzdDT1N4YUZGWTNDMkVma3c3d3lDdmc3eExiTUhLZzZRU1VKMG8xX3Y1WXFQSXZYRVpqVWdrZjVDaWFGNWY4UC1ITE5SdFBEczdwdDlKZmxIWDY5cVlaakhnSFUzQl9BSFNMWlgxZWVEY1pNVFlLaG5rMTRjZThYWGRmV1dBbkx0ZF91MUlqdGxWUVNmR0ZHZEZNb2tLSVpjRzV2czhUdUNNdG16Z09WaWVXcmhFOTJmcDNULUlHRk5OUmtvLXBDUzhoMkY4NmR6VXV1S09ldENKTUZJSDZLZ0I4c2RZOHp1aXY0WXp3Rl9yZ191SlFHR01hT0NPNVJOdDNpWDJHURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQHL2dvdG8_dXJsPUNBRVNvZ1VCNnpzd0ZYX1R5a3g5UWd5QUt3Mkd2NVNIeFdsNGFuek40dXB5d2hwT1hyQ2FxR1E3Q2pzeHRSYlpCSG43RlBGRkdzYTZiT1NsTzVFNUNod2dDYV9mTnhVNl85RmZXNE45UE1GeHl2Y3NKd0owa2lLM3U3ZHVtYnI5SmNlREhoZUgxSkhlNmh0Q0dhN0cyTGpKQTNKRm84WjhaVGtfSktGRjlOcjBZYVd1QlRqeUNuUWxYRlhnSmE0UEpha3hoLUFGSlh0SzB4N3FON2QwcFdmSVFjb1RQNi13cG4tcEpIUG1ycEh0Smx2M205NXZMdTNRd1UwNlZGZ0xGeE9tLWM0NWw3U0RKV2EwVXlxRWRFeEx6eWIzNmI1WG9XOGplaDdlS0FiS0Jlck0wd2xMM3pZbk83Wkd3YlRKQW5DcXczNWVCVk9nekpPNUNnV0Mxd3pkbHpoZmJSVUZLZ3VCOUt2NDVuMm9wcklwRTBOUXc5QWw4NnB5T291ZmlXQ3ExMUFEemJTY0tQbEJsMzhmYS1aeUtIVV9DQUpDRHRCZzd2WkxTbUFvd1puSTVORE1fMTNNdUoydlNvZTlMTi1Hdy1RN21DSVQxM3otcjFlZjB2UHR0bDdSanlKV0FzZDFMNVdBYnMwX1liYmlXTXg1eHNjLVR5UDVmeHViUXlPS1FlY2xTNlZMWEhVVWEtS3BOVTdjNHBsVms4aVR1dlRENHQ4LWhkN2NwV0ZIQkRrWkF5UmZhUXp0UVN3VUFaaldoV3NLV19jRk5Eb3o3b0lCOVkteUJKWUozbm1pcmpSSWpubWtvdHU2eVJLMmk3Wk1BWlBRSTJuZzdWWkZIOG9ZbFlDcVNrXzdDT1N4YUZGWTNDMkVma3c3d3lDdmc3eExiTUhLZzZRU1VKMG8xX3Y1WXFQSXZYRVpqVWdrZjVDaWFGNWY4UC1ITE5SdFBEczdwdDlKZmxIWDY5cVlaakhnSFUzQl9BSFNMWlgxZWVEY1pNVFlLaG5rMTRjZThYWGRmV1dBbkx0ZF91MUlqdGxWUVNmR0ZHZEZNb2tLSVpjRzV2czhUdUNNdG16Z09WaWVXcmhFOTJmcDNULUlHRk5OUmtvLXBDUzhoMkY4NmR6VXV1S09ldENKTUZJSDZLZ0I4c2RZOHp1aXY0WXp3Rl9yZ191SlFHR01hT0NPNVJOdDNpWDJHURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS4302BFijgh6o2ImvjKTdnQn0CsAxoXVEoZw",
+        "source": "Facebook · Bjp Chhattisgarh"
+      },
+      {
+        "position": 7,
+        "title": "Global Container Shipping Solutions | ONE",
+        "link": "https://www.one-line.com/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVpnEfMLkI0izerKS11eeRViGlZja5GvTL6mV_AEeRkqnewd5M29Fb_Wrl9zD_KkFk_6mAJsVmeLNxjPUrdBS8z_x5V_CWT5i15WcdWZdymg&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8QFnoECEYQAQ&uoh=1",
+        "displayed_link": "https://www.one-line.com",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEW9D3K8AG-6AGvYkLLfpsG5AGf04en____y3Ob57PPjmsTafbDTV5_TWqDilcDRW5335O7KRo3UYKLI7VHXAAAAYElEQVR4AaTJswEAMQAAwNjef9c3gia49sAiiCowO0wq-F_KeIXRP0WdYiCl0sYejFayTaf9Rbs2g40IHlC0oc0U9zGCvSUoNEwlMQMBb_ARCngK4hNvMsGbwPAmTcoAACFHDVGCXKyOAAAAAElFTkSuQmCC.png",
+        "snippet": "ONE offers premier global container shipping solutions with a reliable network and innovative digital tools. Book your shipment today.",
+        "snippet_highlighted_words": [
+          "ONE"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "ONE offers premier global container shipping solutions with a reliable network and innovative digital tools. Book your shipment today.",
+            "source_info_link": "https://www.one-line.com/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEW9D3K8AG-6AGvYkLLfpsG5AGf04en____y3Ob57PPjmsTafbDTV5_TWqDilcDRW5335O7KRo3UYKLI7VHXAAAAYElEQVR4AaTJswEAMQAAwNjef9c3gia49sAiiCowO0wq-F_KeIXRP0WdYiCl0sYejFayTaf9Rbs2g40IHlC0oc0U9zGCvSUoNEwlMQMBb_ARCngK4hNvMsGbwPAmTcoAACFHDVGCXKyOAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVnBuRWZNTGtJMGl6ZXJLUzExZWVSVmlHbFpqYTVHdlRMNm1WX0FFZVJrcW5ld2Q1TTI5RmJfV3JsOXpEX0trRmtfNm1BSnNWbWVMTnhqUFVyZEJTOHpfeDVWX0NXVDVpMTVXY2RXWmR5bWcSBBoCCAAa8QMSAggBGgAiACoAMgYIAxICaW46AEIECAIQI0oAWgByAHoAgkDLAwgjEAAYACAAKnEKDOCkqOCkguCkrOCksBUAAAAAGgJubxoGbnVtYmVyGgngpIXgpILgpJUaCeCkn-ClieCkqhoJ4KSr4KWL4KSoGhLgpK7gpYvgpKzgpL7gpIfgpLIaEuCkuOCkguCkluCljeCkr-CkvhoHbnVtYmVyczKAAS9nb3RvP3VybD1DQUVTVkFIck96QVZwbkVmTUxrSTBpemVyS1MxMWVlUlZpR2xaamE1R3ZUTDZtVl9BRWVSa3FuZXdkNU0yOUZiX1dybDl6RF9La0ZrXzZtQUpzVm1lTE54alBVcmRCUzh6X3g1Vl9DV1Q1aTE1V2NkV1pkeW1nOjBHbG9iYWwgQ29udGFpbmVyIFNoaXBwaW5nIFNvbHV0aW9ucyB8IDxiPk9ORTwvYj5CjQE8Yj5PTkU8L2I-IG9mZmVycyBwcmVtaWVyIGdsb2JhbCBjb250YWluZXIgc2hpcHBpbmcgc29sdXRpb25zIHdpdGggYSByZWxpYWJsZSBuZXR3b3JrIGFuZCBpbm5vdmF0aXZlIGRpZ2l0YWwgdG9vbHMuIEJvb2sgeW91ciBzaGlwbWVudCB0b2RheS5SATFSBuCkj-CklSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVnBuRWZNTGtJMGl6ZXJLUzExZWVSVmlHbFpqYTVHdlRMNm1WX0FFZVJrcW5ld2Q1TTI5RmJfV3JsOXpEX0trRmtfNm1BSnNWbWVMTnhqUFVyZEJTOHpfeDVWX0NXVDVpMTVXY2RXWmR5bWcSBBoCCAAa8QMSAggBGgAiACoAMgYIAxICaW46AEIECAIQI0oAWgByAHoAgkDLAwgjEAAYACAAKnEKDOCkqOCkguCkrOCksBUAAAAAGgJubxoGbnVtYmVyGgngpIXgpILgpJUaCeCkn-ClieCkqhoJ4KSr4KWL4KSoGhLgpK7gpYvgpKzgpL7gpIfgpLIaEuCkuOCkguCkluCljeCkr-CkvhoHbnVtYmVyczKAAS9nb3RvP3VybD1DQUVTVkFIck96QVZwbkVmTUxrSTBpemVyS1MxMWVlUlZpR2xaamE1R3ZUTDZtVl9BRWVSa3FuZXdkNU0yOUZiX1dybDl6RF9La0ZrXzZtQUpzVm1lTE54alBVcmRCUzh6X3g1Vl9DV1Q1aTE1V2NkV1pkeW1nOjBHbG9iYWwgQ29udGFpbmVyIFNoaXBwaW5nIFNvbHV0aW9ucyB8IDxiPk9ORTwvYj5CjQE8Yj5PTkU8L2I-IG9mZmVycyBwcmVtaWVyIGdsb2JhbCBjb250YWluZXIgc2hpcHBpbmcgc29sdXRpb25zIHdpdGggYSByZWxpYWJsZSBuZXR3b3JrIGFuZCBpbm5vdmF0aXZlIGRpZ2l0YWwgdG9vbHMuIEJvb2sgeW91ciBzaGlwbWVudCB0b2RheS5SATFSBuCkj-CklSICEAFIAFgAaAA",
+        "source": "Ocean Network Express Pte. Ltd."
+      },
+      {
+        "position": 8,
+        "title": "Van Mitra Scheme | Haryana Forest Department | India",
+        "link": "https://haryanaforest.gov.in/van-mitra-scheme/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVGK9eAPGiDawSnl0i5NHcDl-iHNR_AyeNq4PWvLhGbjB3j3ZqV3j_5tw_VAzyg_ScEALhMGAdqYomPFxlgmjiFpP_k5BfrMLRHZAapnq9eUE3lZdNCjLpSLUhz_cSbpSFSv1IUQ&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8QFnoECEcQAQ&uoh=1",
+        "displayed_link": "https://haryanaforest.gov.in › van-mitra-scheme",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png",
+        "date": "24 सित॰ 2025",
+        "snippet": "1. Van Mitra Scheme Notification (PDF, 1.41 MB) · 2. User Manual for Van Mitra Scheme (English) ( PDF, 723 KB) वन मित्र योजना के ...",
+        "snippet_highlighted_words": [
+          "Van",
+          "Van",
+          "वन"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "1. Van Mitra Scheme Notification (PDF, 1.41 MB) · 2. User Manual for Van Mitra Scheme (English) ( PDF, 723 KB) वन मित्र योजना के ...",
+            "source_info_link": "https://haryanaforest.gov.in/van-mitra-scheme/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "hi"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkdLOWVBUEdpRGF3U25sMGk1TkhjRGwtaUhOUl9BeWVOcTRQV3ZMaEdiakIzajNacVYzal81dHdfVkF6eWdfU2NFQUxoTUdBZHFZb21QRnhsZ21qaUZwUF9rNUJmck1MUkhaQWFwbnE5ZVVFM2xaZE5DakxwU0xVaHpfY1NicFNGU3YxSVVREgQaAggAGswEEgIIABoAIgAqADIGCAESAmluOgBCBAgBECNKAFoAcgB6AIJApgQIIxAAGAAgACpxCgzgpKjgpILgpKzgpLAVlKwCQBoCbm8aBm51bWJlchoJ4KSF4KSC4KSVGgngpJ_gpYngpKoaCeCkq-Cli-CkqBoS4KSu4KWL4KSs4KS-4KSH4KSyGhLgpLjgpILgpJbgpY3gpK_gpL4aB251bWJlcnMynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWR0s5ZUFQR2lEYXdTbmwwaTVOSGNEbC1pSE5SX0F5ZU5xNFBXdkxoR2JqQjNqM1pxVjNqXzV0d19WQXp5Z19TY0VBTGhNR0FkcVlvbVBGeGxnbWppRnBQX2s1QmZyTUxSSFpBYXBucTllVUUzbFpkTkNqTHBTTFVoel9jU2JwU0ZTdjFJVVE6OzxiPlZhbjwvYj4gTWl0cmEgU2NoZW1lIHwgSGFyeWFuYSBGb3Jlc3QgRGVwYXJ0bWVudCB8IEluZGlhQsEBMS4gPGI-VmFuPC9iPiBNaXRyYSBTY2hlbWUgTm90aWZpY2F0aW9uIChQREYsIDEuNDEgTUIpICZtaWRkb3Q7IDIuIFVzZXIgTWFudWFsIGZvciA8Yj5WYW48L2I-IE1pdHJhIFNjaGVtZSAoRW5nbGlzaCkgKCBQREYsIDcyMyBLQikgPGI-4KS14KSoPC9iPiDgpK7gpL_gpKTgpY3gpLAg4KSv4KWL4KSc4KSo4KS-IOCkleClhyZuYnNwOy4uLlIG4KSP4KSVUgExIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkdLOWVBUEdpRGF3U25sMGk1TkhjRGwtaUhOUl9BeWVOcTRQV3ZMaEdiakIzajNacVYzal81dHdfVkF6eWdfU2NFQUxoTUdBZHFZb21QRnhsZ21qaUZwUF9rNUJmck1MUkhaQWFwbnE5ZVVFM2xaZE5DakxwU0xVaHpfY1NicFNGU3YxSVVREgQaAggAGswEEgIIABoAIgAqADIGCAESAmluOgBCBAgBECNKAFoAcgB6AIJApgQIIxAAGAAgACpxCgzgpKjgpILgpKzgpLAVlKwCQBoCbm8aBm51bWJlchoJ4KSF4KSC4KSVGgngpJ_gpYngpKoaCeCkq-Cli-CkqBoS4KSu4KWL4KSs4KS-4KSH4KSyGhLgpLjgpILgpJbgpY3gpK_gpL4aB251bWJlcnMynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWR0s5ZUFQR2lEYXdTbmwwaTVOSGNEbC1pSE5SX0F5ZU5xNFBXdkxoR2JqQjNqM1pxVjNqXzV0d19WQXp5Z19TY0VBTGhNR0FkcVlvbVBGeGxnbWppRnBQX2s1QmZyTUxSSFpBYXBucTllVUUzbFpkTkNqTHBTTFVoel9jU2JwU0ZTdjFJVVE6OzxiPlZhbjwvYj4gTWl0cmEgU2NoZW1lIHwgSGFyeWFuYSBGb3Jlc3QgRGVwYXJ0bWVudCB8IEluZGlhQsEBMS4gPGI-VmFuPC9iPiBNaXRyYSBTY2hlbWUgTm90aWZpY2F0aW9uIChQREYsIDEuNDEgTUIpICZtaWRkb3Q7IDIuIFVzZXIgTWFudWFsIGZvciA8Yj5WYW48L2I-IE1pdHJhIFNjaGVtZSAoRW5nbGlzaCkgKCBQREYsIDcyMyBLQikgPGI-4KS14KSoPC9iPiDgpK7gpL_gpKTgpY3gpLAg4KSv4KWL4KSc4KSo4KS-IOCkleClhyZuYnNwOy4uLlIG4KSP4KSVUgExIgIQAUgAWABoAA",
+        "source": "Haryana Forest Department"
+      },
+      {
+        "position": 9,
+        "title": "पवित्र वनों के फायदे सिर्फ उस इलाके और उसके द्वारा संरक्षित जैव ...",
+        "link": "https://www.facebook.com/moefcc/videos/%E0%A4%AA%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%B5%E0%A4%A8%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%AB%E0%A4%BE%E0%A4%AF%E0%A4%A6%E0%A5%87-%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AB-%E0%A4%89%E0%A4%B8-%E0%A4%87%E0%A4%B2%E0%A4%BE%E0%A4%95%E0%A5%87-%E0%A4%94%E0%A4%B0-%E0%A4%89%E0%A4%B8%E0%A4%95%E0%A5%87-%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%A4-%E0%A4%9C%E0%A5%88%E0%A4%B5-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%A4%E0%A4%BE-%E0%A4%A4%E0%A4%95-%E0%A4%B9%E0%A5%80-%E0%A4%B8%E0%A5%80/1893682517988709/",
+        "displayed_link": "110+ प्रतिक्रियाएं · 7 माह पहले",
+        "thumbnail": "https://serpapi.com/searches/6ac4eab70e285dc597e817e5/images/DmlP2dm49OQHWFTUkPSAy18FaaYi8fBEYwOENlbCYTo.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "snippet": "... वन वाष्पीकरण के माध्यम से वर्षा लाते हैं और स्थानीय तापमान को ठंडा व स्थिर ...",
+        "duration": "0:49",
+        "about_this_result": {
+          "source": {
+            "description": "... वन वाष्पीकरण के माध्यम से वर्षा लाते हैं और स्थानीय तापमान को ठंडा व स्थिर ...",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0HL2dvdG8_dXJsPUNBRVN6UVVCNnpzd0ZRWVBCNXdBQ3JrQ3ljRDVfWEIzbVdWdFIxMnY0SkpUVi1xbXJnTWJJV2haeEVidV94aUNnNlNSS3l2d0JGUlVKWlBWTFY4c3NBamtYeElraGsxT2Q0aFRxa3NKeWs2Z19TaEl4RkVDbGRmeGtBR24xdG94d1pfaXIwc3pxMmpCbGc2c3hvR1JwQWlfclNYYjhHbm1WOUZNOER5dGFoTG5NbzRlR3pQc3VvQ2g4RUg1WHZ2OHI3UlJYeFRkcjFTRjcwbzRSNGM3dEV2bm1QUGJ5aFFfeHQzZjFXQXlWamJTWWkxTEkzRWwxdzJGdDF0c3JXLWxzU2wybWVETGxLRVpFdUdhUTZYV2hTejdHcDU5RDV4LUdacWJta0FHeDA0QWlNN0I0RWRSeUhZdTBMajczWTdlR1F4Mko5Mjh1anA3WV9rR2lMemt6cjV6bUp3c0JKNFJGcXZ3X3dpeGFKNmpoSGRlaDZuTFVLaU96aWJ4OW5TRVBVTkRoZmRFVG9jS2JydDhsSkI4RlpjV1BIZWxGc0dPckpUNUF4MWM4a1k4TDU5enJ5azZpUEREb29aVEg2WGlkWVNHRXBrdXpfN0IyaFBady1fbW1mblEyaWV4YkV4RTlhclRkd001cGgtYzU2Z1dJVllDbV96RGFxMXhOMl9NWWUtWkpteWdKNjhCTVRFWUtNbXFtMFpWVWlicUh4TXE5ZkFLRmE0UVd5TV9EYUEtYjl3SS1YZEhZSGZSV3dOYTlFYWdIdXg3RzVON1J5YlktclFKQ0NTRm0wd2tHR2hULTVXWHNGM2hzUlIzMl84QW1mQ1NlSkEtbERDVVRwTzVOLXZtdHpsZkRvLTVLVzgyWGllSHN4WFlDOGo4Z1NXSGxDS3ZpZDFmblNXeVB3YXQ1Q0IwcUtCeVRRUl9nZ1RoNjdDUWd6TkxVZl9OclVyUzFFQi1TdEppNjVxQllwVEZaR2lMcXpNa3FDZjR0aXJVc1ZrYmRKaUFHdkh6RGtyaGZiVDFtOE9PczgxUDlNYXNteGlFb1d3czZSemIza01sQXZzZFQwVERBa2I5Q1p4OE5OWU85MlNzZjVlcEgzNU9NQWRWcnFYTTViel9KekFZZE9lOGFvNjdlOGJ3WUxkY3otUm5XSmVOTHF0WFZicldvMy05VW5rNmx0RElHRTV1YTBCdlp5dTZMcG8waVZEMHVsczVQTGJYcWlNSHV6TzJFWnNoQXVad0liNGluTW5ZVFJlQ2Qyd1lZOTBTcUVtUkplRRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0HL2dvdG8_dXJsPUNBRVN6UVVCNnpzd0ZRWVBCNXdBQ3JrQ3ljRDVfWEIzbVdWdFIxMnY0SkpUVi1xbXJnTWJJV2haeEVidV94aUNnNlNSS3l2d0JGUlVKWlBWTFY4c3NBamtYeElraGsxT2Q0aFRxa3NKeWs2Z19TaEl4RkVDbGRmeGtBR24xdG94d1pfaXIwc3pxMmpCbGc2c3hvR1JwQWlfclNYYjhHbm1WOUZNOER5dGFoTG5NbzRlR3pQc3VvQ2g4RUg1WHZ2OHI3UlJYeFRkcjFTRjcwbzRSNGM3dEV2bm1QUGJ5aFFfeHQzZjFXQXlWamJTWWkxTEkzRWwxdzJGdDF0c3JXLWxzU2wybWVETGxLRVpFdUdhUTZYV2hTejdHcDU5RDV4LUdacWJta0FHeDA0QWlNN0I0RWRSeUhZdTBMajczWTdlR1F4Mko5Mjh1anA3WV9rR2lMemt6cjV6bUp3c0JKNFJGcXZ3X3dpeGFKNmpoSGRlaDZuTFVLaU96aWJ4OW5TRVBVTkRoZmRFVG9jS2JydDhsSkI4RlpjV1BIZWxGc0dPckpUNUF4MWM4a1k4TDU5enJ5azZpUEREb29aVEg2WGlkWVNHRXBrdXpfN0IyaFBady1fbW1mblEyaWV4YkV4RTlhclRkd001cGgtYzU2Z1dJVllDbV96RGFxMXhOMl9NWWUtWkpteWdKNjhCTVRFWUtNbXFtMFpWVWlicUh4TXE5ZkFLRmE0UVd5TV9EYUEtYjl3SS1YZEhZSGZSV3dOYTlFYWdIdXg3RzVON1J5YlktclFKQ0NTRm0wd2tHR2hULTVXWHNGM2hzUlIzMl84QW1mQ1NlSkEtbERDVVRwTzVOLXZtdHpsZkRvLTVLVzgyWGllSHN4WFlDOGo4Z1NXSGxDS3ZpZDFmblNXeVB3YXQ1Q0IwcUtCeVRRUl9nZ1RoNjdDUWd6TkxVZl9OclVyUzFFQi1TdEppNjVxQllwVEZaR2lMcXpNa3FDZjR0aXJVc1ZrYmRKaUFHdkh6RGtyaGZiVDFtOE9PczgxUDlNYXNteGlFb1d3czZSemIza01sQXZzZFQwVERBa2I5Q1p4OE5OWU85MlNzZjVlcEgzNU9NQWRWcnFYTTViel9KekFZZE9lOGFvNjdlOGJ3WUxkY3otUm5XSmVOTHF0WFZicldvMy05VW5rNmx0RElHRTV1YTBCdlp5dTZMcG8waVZEMHVsczVQTGJYcWlNSHV6TzJFWnNoQXVad0liNGluTW5ZVFJlQ2Qyd1lZOTBTcUVtUkplRRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "Facebook · Ministry of Environment, Forest & Climate Change, Government of India"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "वन विभाग राजस्थान",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnuJbSTODnIMalA7dKFF6hslu7La6Q:1791290039370&q=%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97+%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8&sa=X&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8Q1QJ6BAg-EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97+%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8"
+      },
+      {
+        "block_position": 1,
+        "query": "वन किसे कहते हैं class 10",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnuJbSTODnIMalA7dKFF6hslu7La6Q:1791290039370&q=%E0%A4%B5%E0%A4%A8+%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%87+%E0%A4%95%E0%A4%B9%E0%A4%A4%E0%A5%87+%E0%A4%B9%E0%A5%88%E0%A4%82+class+10&sa=X&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8Q1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%B5%E0%A4%A8+%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%87+%E0%A4%95%E0%A4%B9%E0%A4%A4%E0%A5%87+%E0%A4%B9%E0%A5%88%E0%A4%82+class+10"
+      },
+      {
+        "block_position": 1,
+        "query": "Van kise kahate hain Hindi mein",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnuJbSTODnIMalA7dKFF6hslu7La6Q:1791290039370&q=Van+kise+kahate+hain+Hindi+mein&sa=X&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8Q1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Van+kise+kahate+hain+Hindi+mein"
+      },
+      {
+        "block_position": 1,
+        "query": "Van kise kahate hain answer",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnuJbSTODnIMalA7dKFF6hslu7La6Q:1791290039370&q=Van+kise+kahate+hain+answer&sa=X&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8Q1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Van+kise+kahate+hain+answer"
+      },
+      {
+        "block_position": 1,
+        "query": "भारतीय वन विभाग",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnuJbSTODnIMalA7dKFF6hslu7La6Q:1791290039370&q=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97&sa=X&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8Q1QJ6BAhBEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97"
+      },
+      {
+        "block_position": 1,
+        "query": "Mukhyamantri jan van yojana kab aaya",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnuJbSTODnIMalA7dKFF6hslu7La6Q:1791290039370&q=Mukhyamantri+jan+van+yojana+kab+aaya&sa=X&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8Q1QJ6BAhAEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Mukhyamantri+jan+van+yojana+kab+aaya"
+      },
+      {
+        "block_position": 1,
+        "query": "वन विभाग ऑनलाइन फॉर्म 2026",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnuJbSTODnIMalA7dKFF6hslu7La6Q:1791290039370&q=%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97+%E0%A4%91%E0%A4%A8%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8+%E0%A4%AB%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AE+2026&sa=X&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8Q1QJ6BAg9EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97+%E0%A4%91%E0%A4%A8%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8+%E0%A4%AB%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AE+2026"
+      },
+      {
+        "block_position": 1,
+        "query": "वन विभाग official website",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnuJbSTODnIMalA7dKFF6hslu7La6Q:1791290039370&q=%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97+official+website&sa=X&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8Q1QJ6BAg_EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97+official+website"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88?&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnuJbSTODnIMalA7dKFF6hslu7La6Q:1791290039370&ei=t-rEat2fFp6k5NoP-uaG-As&start=10&sa=N&sstk=AS6-VmLgBsVcLp6FOWtN8uSZs3xo53OsliA_5hNaru068O0L8mlYtmCxgxsFWqVgnqZ-kctXQQ_LUEGxFzBrB8HedAyDPblLKkDWBg&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8Q8NMDegQIORAI",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88?&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnuJbSTODnIMalA7dKFF6hslu7La6Q:1791290039370&ei=t-rEat2fFp6k5NoP-uaG-As&start=10&sa=N&sstk=AS6-VmLgBsVcLp6FOWtN8uSZs3xo53OsliA_5hNaru068O0L8mlYtmCxgxsFWqVgnqZ-kctXQQ_LUEGxFzBrB8HedAyDPblLKkDWBg&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8Q8tMDegQIORAE",
+        "3": "https://www.google.com/search?q=%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88?&sca_esv=4b52e16ed3e955c1&gl=in&hl=hi&sxsrf=APpeQnuJbSTODnIMalA7dKFF6hslu7La6Q:1791290039370&ei=t-rEat2fFp6k5NoP-uaG-As&start=20&sa=N&sstk=AS6-VmLgBsVcLp6FOWtN8uSZs3xo53OsliA_5hNaru068O0L8mlYtmCxgxsFWqVgnqZ-kctXQQ_LUEGxFzBrB8HedAyDPblLKkDWBg&ved=2ahUKEwid1_Gzs6WXAxUeElkFHXqzAb8Q8tMDegQIORAG"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88%3F&start=20"
+      }
+    }
+  }
+}

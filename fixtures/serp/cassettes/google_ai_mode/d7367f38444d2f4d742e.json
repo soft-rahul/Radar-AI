@@ -1,0 +1,105 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "best whey protein under 2000",
+      "location": "Mumbai, Maharashtra, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:39:04+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebde207037eaf15493f5",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/teHNfljtf2aleeyBduGp6_6M-1ZsO-WGR1mHJHoPnDA/6ac4ebde207037eaf15493f5.json",
+      "markdown_endpoint": "https://serpapi.com/searches/teHNfljtf2aleeyBduGp6_6M-1ZsO-WGR1mHJHoPnDA/6ac4ebde207037eaf15493f5.md",
+      "created_at": "2026-10-06 12:38:54 UTC",
+      "processed_at": "2026-10-06 12:38:54 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=best+whey+protein+under+2000&udm=50&gl=in&hl=en&uule=w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh",
+      "raw_html_file": "https://serpapi.com/searches/teHNfljtf2aleeyBduGp6_6M-1ZsO-WGR1mHJHoPnDA/6ac4ebde207037eaf15493f5.html",
+      "prettify_html_file": "https://serpapi.com/searches/teHNfljtf2aleeyBduGp6_6M-1ZsO-WGR1mHJHoPnDA/6ac4ebde207037eaf15493f5.prettify",
+      "total_time_taken": 9.16
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "best whey protein under 2000",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Mumbai, Maharashtra, India",
+      "location_used": "Mumbai,Maharashtra,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Finding a quality, lab-tested whey protein under ₹2,000 (typically for a 1kg pack) means looking primarily at Whey Protein Concentrates (WPC) or economical beginner blends.",
+        "snippet_highlighted_words": [
+          "Whey Protein Concentrates (WPC) or economical beginner blends"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Top options available within this budget prioritize transparency, protein percentage per scoop, and lab certifications (like Trustified or Labdoor):"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "list": [
+              {
+                "snippet": "AS-IT-IS Nutrition Whey Protein Concentrate 80%: Widely considered one of the most value-driven and transparent unflavoured wheys in India. It delivers roughly 24g of protein per 30g scoop, contains zero additives, and fits comfortably below ₹1,800–₹2,000. You can check specifications on the AS-IT-IS Nutrition Whey Protein Concentrate 80% Insights page.",
+                "snippet_links": [
+                  {
+                    "text": "AS-IT-IS Nutrition Whey Protein Concentrate 80% Insights",
+                    "link": "https://www.flavorcatalyst.com/insights/top-10-whey-protein-brands-in-india/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "list": [
+              {
+                "snippet": "Nakpro Nutrition Gold / Platinum Whey Concentrate: Known for offering heavily pocket-friendly flavored and unflavored whey protein concentrates. A standard 1kg pack usually yields about 24g to 25g of protein per serving and often features certifications verifying its label claim purity. Details can be explored via Nakpro Nutrition updates."
+              }
+            ]
+          },
+          {
+            "list": [
+              {
+                "snippet": "MuscleBlaze Raw Whey Concentrate: Often discounted or available in smaller sizes/starter variants within a sub-₹2,000 budget. It usually comes with added digestive enzymes to help prevent bloating, which is a common issue with cheaper concentrates. You can check current offerings directly on HealthKart."
+              }
+            ]
+          },
+          {
+            "list": [
+              {
+                "snippet": "FuelOne Whey Max: A solid budget blend combining concentrate and isolate sources that frequently trades near the ₹1,600–₹1,900 mark during sales, offering around 27g of protein per scoop depending on the specific formulation. Official listings can be viewed via PharmEasy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "To help narrow down the best choice for you, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Do you prefer flavoured (chocolate/vanilla/mango) or unflavoured powder?"
+          },
+          {
+            "snippet": "Do you have any lactose intolerance or digestion issues?"
+          }
+        ]
+      }
+    ],
+    "reconstructed_markdown": "Finding a quality, lab\\-tested whey protein under ₹2,000 \\(typically for a 1kg pack\\) means looking primarily at Whey Protein Concentrates \\(WPC\\) or economical beginner blends.\n\nTop options available within this budget prioritize transparency, protein percentage per scoop, and lab certifications \\(like Trustified or Labdoor\\):\n\n- AS\\-IT\\-IS Nutrition Whey Protein Concentrate 80%: Widely considered one of the most value\\-driven and transparent unflavoured wheys in India. It delivers roughly 24g of protein per 30g scoop, contains zero additives, and fits comfortably below ₹1,800–₹2,000. You can check specifications on the [AS\\-IT\\-IS Nutrition Whey Protein Concentrate 80% Insights](https://www.flavorcatalyst.com/insights/top-10-whey-protein-brands-in-india/) page.\n\n- Nakpro Nutrition Gold / Platinum Whey Concentrate: Known for offering heavily pocket\\-friendly flavored and unflavored whey protein concentrates. A standard 1kg pack usually yields about 24g to 25g of protein per serving and often features certifications verifying its label claim purity. Details can be explored via Nakpro Nutrition updates.\n\n- MuscleBlaze Raw Whey Concentrate: Often discounted or available in smaller sizes/starter variants within a sub\\-₹2,000 budget. It usually comes with added digestive enzymes to help prevent bloating, which is a common issue with cheaper concentrates. You can check current offerings directly on HealthKart.\n\n- FuelOne Whey Max: A solid budget blend combining concentrate and isolate sources that frequently trades near the ₹1,600–₹1,900 mark during sales, offering around 27g of protein per scoop depending on the specific formulation. Official listings can be viewed via PharmEasy.\n\n\nTo help narrow down the best choice for you, let me know:\n\n- Do you prefer flavoured \\(chocolate/vanilla/mango\\) or unflavoured powder?\n- Do you have any lactose intolerance or digestion issues?\n"
+  }
+}

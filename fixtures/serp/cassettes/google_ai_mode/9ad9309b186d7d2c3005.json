@@ -1,0 +1,143 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "नंबर वन व्हे प्रोटीन पाउडर कौन सा है?",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "hi",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:34:14+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eac06c4c0c432e6744a8",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/zD5FCZQB6JTlf8bgPmCdeLIiR7G07PZ4NmyuQCqej8g/6ac4eac06c4c0c432e6744a8.json",
+      "markdown_endpoint": "https://serpapi.com/searches/zD5FCZQB6JTlf8bgPmCdeLIiR7G07PZ4NmyuQCqej8g/6ac4eac06c4c0c432e6744a8.md",
+      "created_at": "2026-10-06 12:34:08 UTC",
+      "processed_at": "2026-10-06 12:34:08 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0+%E0%A4%B5%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88%3F&udm=50&gl=in&hl=hi&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/zD5FCZQB6JTlf8bgPmCdeLIiR7G07PZ4NmyuQCqej8g/6ac4eac06c4c0c432e6744a8.html",
+      "prettify_html_file": "https://serpapi.com/searches/zD5FCZQB6JTlf8bgPmCdeLIiR7G07PZ4NmyuQCqej8g/6ac4eac06c4c0c432e6744a8.prettify",
+      "total_time_taken": 5.31
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "नंबर वन व्हे प्रोटीन पाउडर कौन सा है?",
+      "hl": "hi",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "फिजीकल फिटनेस और बॉडी बिल्डिंग की दुनिया में किसी एक सिंगल \"नंबर वन\" व्हे प्रोटीन को चुनना मुश्किल है, क्योंकि यह इस बात पर निर्भर करता है कि आपकी प्राथमिकता क्या है—क्वालिटी, बजट या पाचन (पचने में आसानी)। हालांकि, बाजार और फिटनेस कम्युनिटी में कुछ ब्रांड्स को सबसे शीर्ष पर माना जाता है:",
+        "snippet_highlighted_words": [
+          "बाजार और फिटनेस कम्युनिटी में कुछ ब्रांड्स को सबसे शीर्ष पर माना जाता है"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "1. ग्लोबल और प्रीमियम स्टैंडर्ड (Global Gold Standard)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey:",
+            "list": [
+              {
+                "snippet": "इसे दुनिया भर में और भारत में भी सबसे बेहतरीन और भरोसेमंद व्हे प्रोटीन माना जाता है।"
+              },
+              {
+                "snippet": "खासियत: इसमें हाई-क्वालिटी व्हे प्रोटीन आइसोलेट प्राइमरी सोर्स होता है, स्वाद बेहतरीन है, और यह आसानी से घुल जाता है (Mixability)।"
+              }
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. भारतीयों के लिए बेस्ट और सबसे लोकप्रिय (Best for Indians)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "MuscleBlaze Biozyme Performance Whey:",
+            "list": [
+              {
+                "snippet": "यह भारत का नंबर-1 बिकने वाला प्रीमियम प्रोटीन है जिसे विशेष रूप से भारतीय शरीर की पाचन क्षमता को ध्यान में रखकर बनाया गया है।"
+              },
+              {
+                "snippet": "खासियत: इसमें पेट में प्रोटीन के बेहतर अवशोषण (Absorption) के लिए पेटेंटेड 'Enhanced Absorption Formula (EAF)' और पाचक एंजाइम होते हैं, जिससे यह भारतीय डाइट और पेट के अनुकूल बैठता है।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. बजट और रॉ/अनफ्लेवर्ड श्रेणी (Best Value / Raw Protein)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "AS-IT-IS Nutrition 100% Whey / Nakpro / The Whole Truth:",
+            "list": [
+              {
+                "snippet": "अगर आप बिना किसी आर्टिफिशियल फ्लेवर और कम कीमत में शुद्ध प्रोटीन चाहते हैं, तो ये ब्रांड्स काफी आगे हैं।"
+              },
+              {
+                "snippet": "खासियत: ये किफायती दाम में लैब-टेस्टेड (NABL/Trustified) और शुद्ध रॉ व्हे प्रोटीन (Raw Whey) उपलब्ध कराते हैं।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "आपके लिए कौन सा सही रहेगा?"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "अगर बजट की कोई समस्या नहीं है और आप दुनिया का सबसे बेहतरीन परिणाम चाहते हैं: Optimum Nutrition (ON) चुनें।"
+          },
+          {
+            "snippet": "अगर आप पाचन से जुड़ी कोई समस्या नहीं चाहते और भारत में सबसे लोकप्रिय व असरदार विकल्प ढूंढ रहे हैं: MuscleBlaze Biozyme चुनें।"
+          },
+          {
+            "snippet": "अगर आप कम बजट में साफ-सुथरा (Clean & Raw) प्रोटीन चाहते हैं: AS-IT-IS या Nakpro चुनें।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "यदि आप मुझे अपने फिटनेस गोल्स (जैसे- वजन घटाना, मांसपेशियां बढ़ाना) और अपना बजट बता दें, तो मैं आपके लिए बिल्कुल सटीक ब्रांड और उसका वेरिएंट सुझा सकता हूँ।"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "व्हे प्रोटीन में सबसे लोकप्रिय आइटम - Amazon.in",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "The Whole Truth व्हे प्रोटीन आइसोलेट+कॉन्सेंट्रेट ・ | 24g प्रोटीन प्रति स्कूप | 6.3g BCAA ・ 2 ऑफर ₹4,909.00 से शुरू",
+        "source": "Amazon.in",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqDIrt-q9IbDvJK9rlAfDGXh_4vTkf4XuD630fnWiWAXe0jxrvhZxOD0fFgPhxvPZaC9KAAD2RUIdZUeyneOoCmpjnYDyo5S6I5JG"
+      }
+    ],
+    "reconstructed_markdown": "फिजीकल फिटनेस और बॉडी बिल्डिंग की दुनिया में किसी एक सिंगल \"नंबर वन\" व्हे प्रोटीन को चुनना मुश्किल है, क्योंकि यह इस बात पर निर्भर करता है कि आपकी प्राथमिकता क्या है—क्वालिटी, बजट या पाचन \\(पचने में आसानी\\)। हालांकि, बाजार और फिटनेस कम्युनिटी में कुछ ब्रांड्स को सबसे शीर्ष पर माना जाता है:\n\n### 1. ग्लोबल और प्रीमियम स्टैंडर्ड \\(Global Gold Standard\\)\n\n- Optimum Nutrition \\(ON\\) Gold Standard 100% Whey: [0]\n  - इसे दुनिया भर में और भारत में भी सबसे बेहतरीन और भरोसेमंद व्हे प्रोटीन माना जाता है।\n  - खासियत: इसमें हाई\\-क्वालिटी व्हे प्रोटीन आइसोलेट प्राइमरी सोर्स होता है, स्वाद बेहतरीन है, और यह आसानी से घुल जाता है \\(Mixability\\)।\n\n### 2. भारतीयों के लिए बेस्ट और सबसे लोकप्रिय \\(Best for Indians\\)\n\n- MuscleBlaze Biozyme Performance Whey:\n  - यह भारत का नंबर\\-1 बिकने वाला प्रीमियम प्रोटीन है जिसे विशेष रूप से भारतीय शरीर की पाचन क्षमता को ध्यान में रखकर बनाया गया है।\n  - खासियत: इसमें पेट में प्रोटीन के बेहतर अवशोषण \\(Absorption\\) के लिए पेटेंटेड 'Enhanced Absorption Formula \\(EAF\\)' और पाचक एंजाइम होते हैं, जिससे यह भारतीय डाइट और पेट के अनुकूल बैठता है।\n\n### 3. बजट और रॉ/अनफ्लेवर्ड श्रेणी \\(Best Value / Raw Protein\\)\n\n- AS\\-IT\\-IS Nutrition 100% Whey / Nakpro / The Whole Truth:\n  - अगर आप बिना किसी आर्टिफिशियल फ्लेवर और कम कीमत में शुद्ध प्रोटीन चाहते हैं, तो ये ब्रांड्स काफी आगे हैं।\n  - खासियत: ये किफायती दाम में लैब\\-टेस्टेड \\(NABL/Trustified\\) और शुद्ध रॉ व्हे प्रोटीन \\(Raw Whey\\) उपलब्ध कराते हैं।\n\n### आपके लिए कौन सा सही रहेगा?\n\n- अगर बजट की कोई समस्या नहीं है और आप दुनिया का सबसे बेहतरीन परिणाम चाहते हैं: Optimum Nutrition \\(ON\\) चुनें।\n- अगर आप पाचन से जुड़ी कोई समस्या नहीं चाहते और भारत में सबसे लोकप्रिय व असरदार विकल्प ढूंढ रहे हैं: MuscleBlaze Biozyme चुनें।\n- अगर आप कम बजट में साफ\\-सुथरा \\(Clean & Raw\\) प्रोटीन चाहते हैं: AS\\-IT\\-IS या Nakpro चुनें।\n\nयदि आप मुझे अपने फिटनेस गोल्स \\(जैसे\\- वजन घटाना, मांसपेशियां बढ़ाना\\) और अपना बजट बता दें, तो मैं आपके लिए बिल्कुल सटीक ब्रांड और उसका वेरिएंट सुझा सकता हूँ।\n\n\n### References\n\n[0] [व्हे प्रोटीन में सबसे लोकप्रिय आइटम \\- Amazon.in](https://www.google.com/goto?url=CAESdAHrOzAVkE4cq81xRmYMqOittRzBufooseVlZn5A36mM5Dq0oldsC_sKIVkb24usq-zn97BWPYtMQLaALTyEuk4U2XSjarxRfmTnTD2Gd6aht-a99LeMKjG6V725LEr81f8lTwqTpwLl1EJAaNSo1oMGqBix) — The Whole Truth व्हे प्रोटीन आइसोलेट\\+कॉन्सेंट्रेट ・ \\| 24g प्रोटीन प्रति स्कूप \\| 6.3g BCAA ・ 2 ऑफर ₹4,909.00 से शुरू\n"
+  }
+}

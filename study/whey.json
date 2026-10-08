@@ -1,0 +1,284 @@
+{
+  "category": "whey protein / protein powder in India",
+  "variants": [
+    {
+      "id": "mumbai-en",
+      "location": "Mumbai, Maharashtra, India",
+      "hl": "en",
+      "lang": "en"
+    },
+    {
+      "id": "delhi-hi",
+      "location": "Delhi, India",
+      "hl": "hi",
+      "lang": "hi"
+    },
+    {
+      "id": "delhi-hinglish",
+      "location": "Delhi, India",
+      "hl": "en",
+      "lang": "hinglish"
+    }
+  ],
+  "seeds": {
+    "en": [
+      "best whey protein",
+      "which protein powder is best"
+    ],
+    "hi": [
+      "सबसे अच्छा व्हे प्रोटीन",
+      "कौन सा प्रोटीन पाउडर"
+    ]
+  },
+  "brands": [
+    {
+      "name": "MuscleBlaze",
+      "aliases": [
+        "Muscle Blaze",
+        "मसलब्लेज़",
+        "मसलब्लेज",
+        "मसल ब्लेज़"
+      ],
+      "domains": [
+        "muscleblaze.com"
+      ]
+    },
+    {
+      "name": "AS-IT-IS",
+      "aliases": [
+        "AS IT IS",
+        "Asitis",
+        "AS-IT-IS Nutrition",
+        "ATOM Whey",
+        "Asitis ATOM"
+      ],
+      "ambiguous_aliases": [
+        "Atom"
+      ],
+      "domains": [
+        "asitisnutrition.com"
+      ]
+    },
+    {
+      "name": "Optimum Nutrition",
+      "aliases": [
+        "ON Gold Standard",
+        "Gold Standard 100% Whey",
+        "ऑप्टिमम न्यूट्रिशन"
+      ],
+      "domains": [
+        "optimumnutrition.com"
+      ]
+    },
+    {
+      "name": "MyProtein",
+      "aliases": [
+        "माई प्रोटीन"
+      ],
+      "domains": [
+        "myprotein.co.in",
+        "myprotein.com"
+      ]
+    },
+    {
+      "name": "Nakpro",
+      "aliases": [
+        "नकप्रो"
+      ],
+      "domains": [
+        "nakpro.com"
+      ]
+    },
+    {
+      "name": "Nutrabay",
+      "aliases": [
+        "Nutrabay Gold"
+      ],
+      "domains": [
+        "nutrabay.com"
+      ]
+    },
+    {
+      "name": "GNC",
+      "aliases": [],
+      "domains": [
+        "guardian.in",
+        "gnc.com"
+      ]
+    },
+    {
+      "name": "The Whole Truth",
+      "aliases": [
+        "Whole Truth",
+        "द होल ट्रुथ"
+      ],
+      "domains": [
+        "thewholetruthfoods.com"
+      ]
+    },
+    {
+      "name": "Avvatar",
+      "aliases": [],
+      "domains": [
+        "avvatarindia.com"
+      ]
+    },
+    {
+      "name": "Wellcore",
+      "aliases": [],
+      "domains": [
+        "wellcore.in"
+      ]
+    },
+    {
+      "name": "Isopure",
+      "aliases": [],
+      "domains": [
+        "theisopurecompany.com"
+      ]
+    },
+    {
+      "name": "Dymatize",
+      "aliases": [],
+      "domains": [
+        "dymatize.com"
+      ]
+    },
+    {
+      "name": "Bigmuscles",
+      "aliases": [
+        "Bigmuscles Nutrition"
+      ],
+      "domains": [
+        "bigmusclesnutrition.com"
+      ]
+    },
+    {
+      "name": "Born Athlete",
+      "aliases": [
+        "BornAthlete"
+      ],
+      "domains": [
+        "bornathlete.in"
+      ]
+    },
+    {
+      "name": "BeastLife",
+      "aliases": [
+        "Beast Life"
+      ],
+      "domains": [
+        "beastlife.in"
+      ]
+    },
+    {
+      "name": "2X Nutrition",
+      "aliases": [
+        "2XNutrition"
+      ],
+      "domains": [
+        "2xnutrition.com"
+      ]
+    },
+    {
+      "name": "Wellbeing Nutrition",
+      "aliases": [],
+      "domains": [
+        "wellbeingnutrition.com"
+      ]
+    },
+    {
+      "name": "Gainz4Ever",
+      "aliases": [],
+      "domains": []
+    },
+    {
+      "name": "TrueBasics",
+      "aliases": [
+        "True Basics"
+      ],
+      "domains": [
+        "truebasics.com"
+      ]
+    },
+    {
+      "name": "Ultimate Nutrition",
+      "aliases": [
+        "Prostar 100% Whey"
+      ],
+      "domains": [
+        "ultimatenutrition.com"
+      ]
+    },
+    {
+      "name": "FuelOne",
+      "aliases": [
+        "Fuel One",
+        "Fuelone"
+      ],
+      "domains": []
+    },
+    {
+      "name": "OZiva",
+      "aliases": [
+        "Oziva"
+      ],
+      "domains": [
+        "oziva.in"
+      ]
+    },
+    {
+      "name": "MuscleTech",
+      "aliases": [
+        "Muscletech",
+        "Nitrotech",
+        "NitroTech",
+        "Nitro-Tech"
+      ],
+      "domains": [
+        "muscletech.com",
+        "muscletech.in"
+      ]
+    },
+    {
+      "name": "Fast&Up",
+      "aliases": [
+        "Fast and Up",
+        "Fast & Up"
+      ],
+      "domains": [
+        "fastandup.in"
+      ]
+    },
+    {
+      "name": "MyFitFuel",
+      "aliases": [],
+      "domains": [
+        "myfitfuel.in"
+      ]
+    },
+    {
+      "name": "HK Vitals",
+      "aliases": [],
+      "domains": [
+        "hkvitals.com"
+      ]
+    },
+    {
+      "name": "PowerLift",
+      "aliases": [],
+      "domains": []
+    }
+  ],
+  "category_terms": [
+    "protein",
+    "whey",
+    "powder",
+    "isolate",
+    "gainer",
+    "supplement",
+    "प्रोटीन",
+    "व्हे",
+    "पाउडर"
+  ]
+}

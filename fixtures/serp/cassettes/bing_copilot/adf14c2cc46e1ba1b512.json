@@ -1,0 +1,460 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "kaun sa protein powder best hota hai",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:38:50+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebb24a99b7768f6baf80",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/4MNTVNEZI8gzEhVBjDFQnZN8ZSqOP3S9j_kI96Dj3FQ/6ac4ebb24a99b7768f6baf80.json",
+      "markdown_endpoint": "https://serpapi.com/searches/4MNTVNEZI8gzEhVBjDFQnZN8ZSqOP3S9j_kI96Dj3FQ/6ac4ebb24a99b7768f6baf80.md",
+      "created_at": "2026-10-06 12:38:10 UTC",
+      "processed_at": "2026-10-06 12:38:10 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=kaun+sa+protein+powder+best+hota+hai&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/4MNTVNEZI8gzEhVBjDFQnZN8ZSqOP3S9j_kI96Dj3FQ/6ac4ebb24a99b7768f6baf80.html",
+      "total_time_taken": 40.07
+    },
+    "search_parameters": {
+      "q": "kaun sa protein powder best hota hai",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "सबसे अच्छा प्रोटीन पाउडर वह होता है जिसमें प्रोटीन प्रतिशत ज़्यादा, BCAA पर्याप्त, शुगर‑फैट कम और व्हे आइसोलेट या हाई‑क्वालिटी ब्लेंड शामिल हो।",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "संक्षिप्त जवाब: भारत में उपलब्ध विकल्पों में Optimum Nutrition (ON) Gold Standard Whey, Ultimate Nutrition Prostar, और Isopure Low Carb उच्च गुणवत्ता वाले माने जाते हैं क्योंकि इनमें प्रोटीन प्रतिशत अधिक और फैट‑शुगर कम है MensXP .",
+        "snippet_highlighted_words": [
+          "संक्षिप्त जवाब:",
+          "Optimum Nutrition (ON) Gold Standard Whey",
+          "Ultimate Nutrition Prostar",
+          "Isopure Low Carb"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "🧬 व्हे प्रोटीन क्यों बेस्ट माना जाता है?",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "व्हे एक कम्प्लीट प्रोटीन है जिसमें सभी जरूरी अमीनो एसिड होते हैं 1 .",
+            "snippet_highlighted_words": [
+              "कम्प्लीट प्रोटीन"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "इसमें BCAA, ग्लूटामिन, ल्यूसिन जैसे तत्व होते हैं जो मसल रिकवरी और ग्रोथ में मदद करते हैं 1 .",
+            "snippet_highlighted_words": [
+              "BCAA, ग्लूटामिन, ल्यूसिन"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "शरीर इसे जल्दी अवशोषित करता है, इसलिए वर्कआउट के बाद सबसे अच्छा माना जाता है 1 .",
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "⭐ भारत में मिलने वाले टॉप प्रोटीन पाउडर (वेब रिज़ल्ट के आधार पर)",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "snippet": "1) Optimum Nutrition (ON) Gold Standard Whey",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "Optimum Nutrition (ON) Gold Standard Whey"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप 24g प्रोटीन (78.94% प्रोटीन) 1",
+            "snippet_highlighted_words": [
+              "24g प्रोटीन"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "सिर्फ 1g फैट और 1g शुगर 1",
+            "snippet_highlighted_words": [
+              "1g फैट",
+              "1g शुगर"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "व्हे आइसोलेट + कंसन्ट्रेट ब्लेंड"
+          },
+          {
+            "snippet": "5.5g BCAA"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "✅ Balanced, clean, reliable — overall best for most people.",
+        "snippet_highlighted_words": [
+          "Balanced, clean, reliable — overall best for most people."
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2) Ultimate Nutrition Prostar 100% Whey",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "Ultimate Nutrition Prostar 100% Whey"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप 25g प्रोटीन (83% प्रोटीन) 1",
+            "snippet_highlighted_words": [
+              "25g प्रोटीन"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "6g BCAA, 1g फैट, 1g शुगर 1",
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "✅ High protein %, good for lean muscle gain.",
+        "snippet_highlighted_words": [
+          "High protein %, good for lean muscle gain."
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3) Isopure Low Carb Whey Isolate",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "Isopure Low Carb Whey Isolate"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप 25g प्रोटीन (80.64% प्रोटीन) 1",
+            "snippet_highlighted_words": [
+              "25g प्रोटीन"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "100% whey isolate"
+          },
+          {
+            "snippet": "लैक्टोज‑फ्री, ग्लूटेन‑फ्री 1",
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "✅ Best for lactose‑intolerant users या low‑carb diet वालों के लिए।",
+        "snippet_highlighted_words": [
+          "Best for lactose‑intolerant users या low‑carb diet वालों के लिए।"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "4) Dymatize Elite Whey",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "Dymatize Elite Whey"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप 25g प्रोटीन (69.44% प्रोटीन) 1",
+            "snippet_highlighted_words": [
+              "25g प्रोटीन"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Essential + non‑essential amino acids का अच्छा ratio 1",
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "✅ Good taste + balanced formula.",
+        "snippet_highlighted_words": [
+          "Good taste + balanced formula."
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "5) Muscletech Nitrotech",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "Muscletech Nitrotech"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप 30g प्रोटीन (68.18% प्रोटीन) 1",
+            "snippet_highlighted_words": [
+              "30g प्रोटीन"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "इसमें creatine भी शामिल है 1",
+            "snippet_highlighted_words": [
+              "creatine"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "✅ Fast muscle gain चाहने वालों के लिए।",
+        "snippet_highlighted_words": [
+          "Fast muscle gain चाहने वालों के लिए।"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📌 आपकी जरूरत के हिसाब से कौन सा बेस्ट है?",
+        "level": 3
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "Lean muscle gain",
+            "ON Gold Standard, Prostar"
+          ],
+          [
+            "Fat loss / Low carb",
+            "Isopure Low Carb"
+          ],
+          [
+            "Lactose intolerance",
+            "Isopure"
+          ],
+          [
+            "Fast muscle gain",
+            "Muscletech Nitrotech"
+          ],
+          [
+            "Budget-friendly",
+            "Prostar, Dymatize"
+          ]
+        ],
+        "headers": [
+          "लक्ष्य",
+          "बेहतर विकल्प"
+        ],
+        "formatted": [
+          {
+            "लक्ष्य": "Lean muscle gain",
+            "बेहतर_विकल्प": "ON Gold Standard, Prostar"
+          },
+          {
+            "लक्ष्य": "Fat loss / Low carb",
+            "बेहतर_विकल्प": "Isopure Low Carb"
+          },
+          {
+            "लक्ष्य": "Lactose intolerance",
+            "बेहतर_विकल्प": "Isopure"
+          },
+          {
+            "लक्ष्य": "Fast muscle gain",
+            "बेहतर_विकल्प": "Muscletech Nitrotech"
+          },
+          {
+            "लक्ष्य": "Budget-friendly",
+            "बेहतर_विकल्प": "Prostar, Dymatize"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "🧭 प्रोटीन पाउडर कब लेना चाहिए?",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "वर्कआउट के बाद व्हे प्रोटीन सबसे अच्छा काम करता है क्योंकि यह जल्दी अवशोषित होता है 1 .",
+            "snippet_highlighted_words": [
+              "वर्कआउट के बाद व्हे प्रोटीन सबसे अच्छा काम करता है"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "कैसिइन रात में लिया जाता है क्योंकि यह धीरे पचता है 1 .",
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ निष्कर्ष",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "कोई एक “सबसे बेस्ट” प्रोटीन नहीं होता — यह आपकी जरूरत, बजट और डाइजेशन पर निर्भर करता है। लेकिन गुणवत्ता के आधार पर ON Gold Standard, Prostar, और Isopure सबसे भरोसेमंद विकल्प हैं MensXP .",
+        "snippet_highlighted_words": [
+          "जरूरत, बजट और डाइजेशन",
+          "ON Gold Standard",
+          "Prostar",
+          "Isopure"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "क्या आप अपना लक्ष्य बताना चाहेंगे — मसल गेन, फैट लॉस या जनरल फिटनेस? इससे मैं आपके लिए सबसे सही विकल्प चुनने में मदद कर सकता हूँ।",
+        "snippet_highlighted_words": [
+          "मसल गेन, फैट लॉस या जनरल फिटनेस"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Best Protein Powder For Men: 5 बेस्ट व्हे ... - MensXP",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "हाई क्वालिटी के 'कंप्‍लीट प्रोटीन' को व्हे प्रोटीन (whey protein) कहते हैं। इसमें काफी सारे अमीनो एसिड्स होते हैं, जैसे - ब्रांच्ड एमीनो एसिड्स (Branched Amino Acids), ग्लूटामिन (Glutamins),...",
+        "source": "MensXP"
+      },
+      {
+        "index": 1,
+        "title": "Best Protein Powder Kaun Sa Hai (2026) | Novocado",
+        "link": "https://www.novocado.com/best-protein-powder-kaun-sa-hai/",
+        "snippet": "This vegan blend combines pea protein concentrate (~17 g per 30 g), rice protein isolate (~5 g), and pumpkin-seed protein (~3 g) to reach ~25 g protein per 40 g serving with all nine essential amino acids.",
+        "source": "novocado.com"
+      },
+      {
+        "index": 2,
+        "title": "प्रोटीन पाउडर के फायदे, लेने का समय, खुराक और बेस्ट प्रोटीन पाउडर ...",
+        "link": "https://www.myupchar.com/fitness/protein-powder",
+        "snippet": "Protein powder benefits, dosage in Hindi. आइये जानते हैं प्रोटीन पाउडर के बारे में विस्तार से - प्रोटीन पाउडर के फायदे, लेने का समय, खुराक और बेस्ट प्रोटीन पाउडर",
+        "source": "myUpchar"
+      },
+      {
+        "index": 3,
+        "title": "Best Protein Powders Of 2026 – Forbes Health",
+        "link": "https://www.forbes.com/health/supplements/best-protein-powders/",
+        "snippet": "Discover the best protein powders, based on recommendations by nutrition experts, lab testing results and an extensive review of the products.",
+        "source": "Forbes"
+      },
+      {
+        "index": 4,
+        "title": "वेट लॉस के लिए प्रोटीन पाउडर,- Weight loss ke liye protein powder ...",
+        "link": "https://www.healthshots.com/hindi/healthy-eating/5-best-protein-powder-options-to-lose-weight-in-a-healthy-way/",
+        "snippet": "कैलोरी सेवन को कम करने और चयापचय दर को बढ़ाने में प्रोटीन पाउडर बेहद फायदेमंद साबित होता है। इसके सेवन से वजन घटाने के अलावा मसल्स की मज़बूती भी बढ़ जाती है। साथ ही टिशूज़ की मरम्मत व एंजाइम और हार्मोन बनाने में मदद मिलती हैं।.",
+        "source": "HealthShots"
+      },
+      {
+        "index": 5,
+        "title": "Top 10 Best Protein Powders in India – (2026 List)",
+        "link": "https://the5xlnutrition.com/best-protein-powder-in-india/",
+        "snippet": "Below is an honest, criteria-based ranking of the top 10 protein powders available in India in 2026, evaluated on protein quality, digestibility, ingredient transparency, value for money, and suitability for long-term daily use.",
+        "source": "the5xlnutrition.com"
+      },
+      {
+        "index": 6,
+        "title": "10 बेस्ट प्रोटीन पाउडर इन इंडिया विथ प्राइस – 10 Best protein powders ...",
+        "link": "https://www.healthunbox.com/10-best-protein-powders-in-india-in-hindi/",
+        "snippet": "इस आर्टिकल में जानिए इंडिया के बेस्ट प्रोटीन पाउडर और उनके प्राइस और भारत में कौन सा प्रोटीन पाउडर ब्रांड है सबसे अच्छा और क्या है ...",
+        "source": "Healthunbox"
+      },
+      {
+        "index": 7,
+        "title": "AIIMS ट्रेंड डॉक्टर ने कर दिया टॉप 5 प्रोटीन फूड्स का खुलासा, डेली डाइट ...",
+        "link": "https://ndtv.in/food/dr-saurabh-sethi-gastroenterologis-rates-popular-protein-sources-top-rated-proteins-sabse-best-protein-kaun-sa-hai-11264080",
+        "snippet": "अंडा (10/10): डॉक्टर सेठी के अनुसार अंडे सबसे बेहतरीन सोर्स है प्रोटीन का. एक अंडे में लगभग 6 से 7 ग्राम प्रोटीन पाया जाता है. इसमें प्रोटीन और कैल्शियम के अलावा, विटामिन ए, विटामिन डी, विटामिन ई, विटामिन बी विटामिन बी12, बी2, और बी5 और फॉस्फोरस, सेलेनियम, आयरन, और जिंक भी पाए जाते हैं.",
+        "source": "NDTV India"
+      },
+      {
+        "index": 8,
+        "title": "7 Best Protein Powders for 2026 (Lab-Tested, Reviewed & Ranked)",
+        "link": "https://brainflow.co/best-protein-powders/",
+        "snippet": "This guide ranks the seven best protein powders for 2025 based on verified purity, protein content accuracy, taste, value, and real-world performance. Whether you’re building muscle, losing fat, or just trying to hit daily protein targets efficiently, here’s what actually works.",
+        "source": "Brainflow"
+      },
+      {
+        "index": 9,
+        "title": "Top 10 Protein Powders in India 2026 (Expert Guide)",
+        "link": "https://zokera.com/blog/10-best-protein-powder-brands-india-2025",
+        "snippet": "Discover the best protein powders in India for 2026. Compare top whey, plant-based, and budget options for muscle gain, recovery, and fitness goals.",
+        "source": "zokera.com"
+      },
+      {
+        "index": 10,
+        "title": "Which Is the Best Protein Powder in India: 2026 Picks",
+        "link": "https://www.thescienceofgoodhealth.com/blogs/news/which-is-the-best-protein-powder-in-india",
+        "snippet": "Discover the best protein powder in India for muscle gain, recovery, taste, and value. Find top brands and expert tips to choose the right supplement.",
+        "source": "thescienceofgoodhealth.com"
+      }
+    ]
+  }
+}

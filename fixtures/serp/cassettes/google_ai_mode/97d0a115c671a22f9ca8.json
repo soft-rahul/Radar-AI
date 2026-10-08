@@ -1,0 +1,98 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "Which is no 1 whey protein in India?",
+      "location": "Mumbai, Maharashtra, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:34:09+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eabd10ceed08485c7430",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/jk_XAuqddUc_xcYts7hRy37bahLtME33ltLHyE8h0xA/6ac4eabd10ceed08485c7430.json",
+      "markdown_endpoint": "https://serpapi.com/searches/jk_XAuqddUc_xcYts7hRy37bahLtME33ltLHyE8h0xA/6ac4eabd10ceed08485c7430.md",
+      "created_at": "2026-10-06 12:34:05 UTC",
+      "processed_at": "2026-10-06 12:34:05 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=Which+is+no+1+whey+protein+in+India%3F&udm=50&gl=in&hl=en&uule=w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh",
+      "raw_html_file": "https://serpapi.com/searches/jk_XAuqddUc_xcYts7hRy37bahLtME33ltLHyE8h0xA/6ac4eabd10ceed08485c7430.html",
+      "prettify_html_file": "https://serpapi.com/searches/jk_XAuqddUc_xcYts7hRy37bahLtME33ltLHyE8h0xA/6ac4eabd10ceed08485c7430.prettify",
+      "total_time_taken": 4.21
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "Which is no 1 whey protein in India?",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Mumbai, Maharashtra, India",
+      "location_used": "Mumbai,Maharashtra,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "When fitness enthusiasts in India talk about the No. 1 whey protein, the title usually comes down to a mix of global reputation, sales volume, and domestic popularity. There isn't just one single official government metric, but the market is heavily dominated by a couple of top contenders:",
+        "snippet_highlighted_words": [
+          "the title usually comes down to a mix of global reputation, sales volume, and domestic popularity"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey: Globally and across major e-commerce platforms in India, ON Gold Standard is widely regarded as the gold standard and the most iconic, best-selling imported whey protein. It is famed for its consistent quality, 24g protein per scoop, and high-end mixability."
+          },
+          {
+            "snippet": "MuscleBlaze (Biozyme / Whey Gold): As the leading home-grown Indian sports nutrition brand, MuscleBlaze consistently ranks as a No. 1 best-seller on major Indian health platforms like HealthKart. Their Biozyme series is specifically tailored and clinically tested for the Indian body to improve protein absorption."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Other top-tier, highly trusted brands frequently competing at the top of Indian market charts include Myprotein, Isopure, Avvatar (notable for being 100% made in India from fresh cow's milk), and AS-IT-IS Nutrition (popular for budget-friendly raw whey).",
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like to narrow down which one fits you best, tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Your budget per kg"
+          },
+          {
+            "snippet": "Your fitness goal (weight loss, lean muscle, or bulking)"
+          },
+          {
+            "snippet": "Whether you prefer flavored or raw/unflavored protein"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can recommend the ideal specific product for your routine."
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Top 7 Cleanest Whey Proteins in India (2026): Ranked by Purity, Quality & social proof · HealthKart",
+        "link": "https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/",
+        "snippet": "Top Cleanest Whey Proteins in India (2026) 4. AS-IT-IS ONE WPC (WPC, 9.35/10, Labdoor + Trustified) Active adults require 1.4g-2.0g protein/kg daily; check batch r...",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkfwm3fkkvJExPFkiO_UYl8lPNWc5sspZ-ZnrG6PYWVWu8z6VOvqDL_vEQFkUJf9TAvwzcnZxjQ_JBDXCm4gIYb7HUB6hQ5ioNL6_I"
+      }
+    ],
+    "reconstructed_markdown": "When fitness enthusiasts in India talk about the No. 1 whey protein, the title usually comes down to a mix of global reputation, sales volume, and domestic popularity. There isn't just one single official government metric, but the market is heavily dominated by a couple of top contenders:\n\n- Optimum Nutrition \\(ON\\) Gold Standard 100% Whey: Globally and across major e\\-commerce platforms in India, ON Gold Standard is widely regarded as the gold standard and the most iconic, best\\-selling imported whey protein. It is famed for its consistent quality, 24g protein per scoop, and high\\-end mixability.\n- MuscleBlaze \\(Biozyme / Whey Gold\\): As the leading home\\-grown Indian sports nutrition brand, MuscleBlaze consistently ranks as a No. 1 best\\-seller on major Indian health platforms like HealthKart. Their Biozyme series is specifically tailored and clinically tested for the Indian body to improve protein absorption.\n\nOther top\\-tier, highly trusted brands frequently competing at the top of Indian market charts include Myprotein, Isopure, Avvatar \\(notable for being 100% made in India from fresh cow's milk\\), and AS\\-IT\\-IS Nutrition \\(popular for budget\\-friendly raw whey\\). [0]\n\nIf you'd like to narrow down which one fits you best, tell me:\n\n- Your budget per kg\n- Your fitness goal \\(weight loss, lean muscle, or bulking\\)\n- Whether you prefer flavored or raw/unflavored protein\n\nI can recommend the ideal specific product for your routine.\n\n\n### References\n\n[0] [Top 7 Cleanest Whey Proteins in India \\(2026\\): Ranked by Purity, Quality & social proof · HealthKart](https://www.google.com/goto?url=CAESswEB6zswFTB2MxgxGLdDlKgfUyajOVz9VIV714SHXdKS071cvNH9-sK7XBeuPwkuUa1LkF_F_1Wzytje6gT7af4G-CHQwIrW0vpbCX3bbaYfZM_a6itPj5ZDPPnMxsNU2zmRd-gz1epjJckyUZAG3yXrEjeJi2ntmQ7kX1iEDpCFgh-tJz-UQcL-AXvBkiaq-atKfaEvn6qgpNXhcAOt_5Xmz-7gZlscuVQClkPn0JCtB3-RJg) — Top Cleanest Whey Proteins in India \\(2026\\) 4. AS\\-IT\\-IS ONE WPC \\(WPC, 9.35/10, Labdoor \\+ Trustified\\) Active adults require 1.4g\\-2.0g protein/kg daily; check batch r...\n"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "request": {
+    "engine": "google_autocomplete",
+    "params": {
+      "q": "कौन सा प्रोटीन पाउडर",
+      "gl": "in",
+      "hl": "hi"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:02:47+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4e3660bbc38353aedd222",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/rD3zX3cj1SSpbZbzqrWR8K91MYPoDl4O-bLAlf4RwPM/6ac4e3660bbc38353aedd222.json",
+      "markdown_endpoint": "https://serpapi.com/searches/rD3zX3cj1SSpbZbzqrWR8K91MYPoDl4O-bLAlf4RwPM/6ac4e3660bbc38353aedd222.md",
+      "created_at": "2026-10-06 12:02:46 UTC",
+      "processed_at": "2026-10-06 12:02:46 UTC",
+      "google_autocomplete_url": "https://www.google.com/complete/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0&gl=in&hl=hi&client=chrome&dpr=1",
+      "raw_html_file": "https://serpapi.com/searches/rD3zX3cj1SSpbZbzqrWR8K91MYPoDl4O-bLAlf4RwPM/6ac4e3660bbc38353aedd222.html",
+      "prettify_html_file": "https://serpapi.com/searches/rD3zX3cj1SSpbZbzqrWR8K91MYPoDl4O-bLAlf4RwPM/6ac4e3660bbc38353aedd222.prettify",
+      "total_time_taken": 0.67
+    },
+    "search_parameters": {
+      "engine": "google_autocomplete",
+      "q": "कौन सा प्रोटीन पाउडर",
+      "gl": "in",
+      "hl": "hi"
+    },
+    "search_information": {
+      "autocomplete_results_state": "Showing completion results."
+    },
+    "suggestions": [
+      {
+        "value": "कौन सा प्रोटीन पाउडर लेना चाहिए",
+        "relevance": 1250,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B2%E0%A5%87%E0%A4%A8%E0%A4%BE+%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F"
+      },
+      {
+        "value": "कौन सा प्रोटीन पाउडर अच्छा होता है",
+        "relevance": 950,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88"
+      },
+      {
+        "value": "कौन सा प्रोटीन पाउडर सबसे अच्छा है",
+        "relevance": 601,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88"
+      },
+      {
+        "value": "कौन सा प्रोटीन पाउडर वजन बढ़ता है",
+        "relevance": 600,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B5%E0%A4%9C%E0%A4%A8+%E0%A4%AC%E0%A4%A2%E0%A4%BC%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88"
+      },
+      {
+        "value": "कौन सा प्रोटीन पाउडर बेस्ट है",
+        "relevance": 560,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%AC%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F+%E0%A4%B9%E0%A5%88"
+      },
+      {
+        "value": "protein powder kaun sa accha hota hai",
+        "relevance": 559,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=protein+powder+kaun+sa+accha+hota+hai"
+      },
+      {
+        "value": "kaun sa protein powder",
+        "relevance": 558,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=kaun+sa+protein+powder"
+      },
+      {
+        "value": "kaun sa protein powder lena chahie",
+        "relevance": 557,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=kaun+sa+protein+powder+lena+chahie"
+      },
+      {
+        "value": "kaun sa protein powder le",
+        "relevance": 556,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=kaun+sa+protein+powder+le"
+      },
+      {
+        "value": "kaun sa protein powder vajan badhata hai",
+        "relevance": 555,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=kaun+sa+protein+powder+vajan+badhata+hai"
+      },
+      {
+        "value": "protein powder sabse best kaun sa hota hai",
+        "relevance": 554,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=protein+powder+sabse+best+kaun+sa+hota+hai"
+      },
+      {
+        "value": "kaun sa protein powder best hota hai",
+        "relevance": 553,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=kaun+sa+protein+powder+best+hota+hai"
+      },
+      {
+        "value": "kaun sa protein powder sahi hai",
+        "relevance": 552,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=kaun+sa+protein+powder+sahi+hai"
+      },
+      {
+        "value": "प्रेगनेंसी में कौन सा प्रोटीन पाउडर पीना चाहिए",
+        "relevance": 551,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%97%E0%A4%A8%E0%A5%87%E0%A4%82%E0%A4%B8%E0%A5%80+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%AA%E0%A5%80%E0%A4%A8%E0%A4%BE+%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F"
+      },
+      {
+        "value": "aisa kaun sa protein powder hai",
+        "relevance": 550,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=aisa+kaun+sa+protein+powder+hai"
+      }
+    ],
+    "verbatim_relevance": 1300
+  }
+}

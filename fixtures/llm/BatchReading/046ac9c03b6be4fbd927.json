@@ -1,0 +1,210 @@
+{
+  "readings": [
+    {
+      "answer_id": "q1|ai_mode|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) चुनें।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Biozyme चुनें।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS या Nakpro चुनें।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "AS-IT-IS या Nakpro चुनें।"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition 100% Whey / Nakpro / The Whole Truth:"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q1|ai_mode|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "इसे दुनिया भर में (और भारत में भी) सबसे बेहतरीन और लोकप्रिय व्हे प्रोटीन माना जाता है।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "यह भारतीय ब्रांड्स में सबसे आगे है।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "ये ब्रांड्स लैब-टेस्टेड और किफायती होने की वजह से बहुत पसंद किए जाते हैं।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "ये ब्रांड्स लैब-टेस्टेड और किफायती होने की वजह से बहुत पसंद किए जाते हैं।"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "एकदम साफ (Clean-label) और प्राकृतिक विकल्प चाहने वालों के लिए यह शीर्ष पर है।"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS Nutrition Whey Protein",
+          "attribute": "certification",
+          "value": "लैब-टेस्टेड",
+          "quote": "ये ब्रांड्स लैब-टेस्टेड और किफायती होने की वजह से बहुत पसंद किए जाते हैं।"
+        },
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro",
+          "attribute": "certification",
+          "value": "लैब-टेस्टेड",
+          "quote": "ये ब्रांड्स लैब-टेस्टेड और किफायती होने की वजह से बहुत पसंद किए जाते हैं।"
+        }
+      ]
+    },
+    {
+      "answer_id": "q1|ai_mode|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "यह दुनिया भर में और भारत में भी सबसे लोकप्रिय और इंटरनेशनल बेंचमार्क माना जाने वाला प्रीमियम प्रोटीन है।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "यह एक बेहतरीन इंडियन ब्रांड है जिसे खासतौर पर भारतीयों के पाचन तंत्र (Indian stomachs) को ध्यान में रखकर बनाया गया है।"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "तो आइसोप्योर सबसे बेहतरीन प्रीमियम विकल्पों में से एक है।"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "ये ब्रांड्स वैल्यू फॉर मनी और शुद्धता के मामले में शानदार हैं।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "ये ब्रांड्स वैल्यू फॉर मनी और शुद्धता के मामले में शानदार हैं।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "यह बजट-फ्रेंडली (Budget-friendly) ऑप्शन है जो कम कीमत में अच्छी क्वालिटी का प्रोटीन और अच्छा रिजल्ट देता है।"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "The Whole Truth",
+          "product": "The Whole Truth Raw Whey",
+          "attribute": "sugar_g",
+          "value": "बिना किसी आर्टिफिशियल फ्लेवर, शुगर या एडिटिव्स",
+          "quote": "अगर आपको बिना किसी आर्टिफिशियल फ्लेवर, शुगर या एडिटिव्स के एकदम शुद्ध (Clean/Raw) प्रोटीन चाहिए"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS (Unflavoured)",
+          "attribute": "sugar_g",
+          "value": "बिना किसी आर्टिफिशियल फ्लेवर, शुगर या एडिटिव्स",
+          "quote": "अगर आपको बिना किसी आर्टिफिशियल फ्लेवर, शुगर या एडिटिव्स के एकदम शुद्ध (Clean/Raw) प्रोटीन चाहिए"
+        }
+      ]
+    },
+    {
+      "answer_id": "q1|ai_mode|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "ON Gold Standard is widely regarded as the gold standard and the most iconic, best-selling imported whey protein."
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "As the leading home-grown Indian sports nutrition brand, MuscleBlaze consistently ranks as a No."
+        },
+        {
+          "brand": "MyProtein",
+          "stance": "recommended",
+          "quote": "Other top-tier, highly trusted brands frequently competing at the top of Indian market charts include Myprotein"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "Other top-tier, highly trusted brands frequently competing at the top of Indian market charts include Myprotein, Isopure"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "recommended",
+          "quote": "Other top-tier, highly trusted brands frequently competing at the top of Indian market charts include Myprotein, Isopure, Avvatar"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "Other top-tier, highly trusted brands frequently competing at the top of Indian market charts include Myprotein, Isopure, Avvatar (notable for being 100% made in India from fresh cow's milk), and AS-IT-IS Nutrition"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Avvatar",
+          "product": "Avvatar",
+          "attribute": "other",
+          "value": "100% made in India from fresh cow's milk",
+          "quote": "notable for being 100% made in India from fresh cow's milk"
+        }
+      ]
+    },
+    {
+      "answer_id": "q1|ai_mode|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Widely regarded as the global gold standard and the default premium pick for serious lifters and gym-goers in India."
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "As India’s leading homegrown sports nutrition brand, MuscleBlaze frequently ranks as a top domestic best-seller."
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "recommended",
+          "quote": "Another massive homegrown favorite proudly made in India (by Parag Milk Foods), highly rated for being 100% vegetarian"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "The undisputed leader when it comes to the budget and raw whey segment in India"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS Nutrition",
+          "attribute": "certification",
+          "value": "lab-tested",
+          "quote": "looking for lab-tested, unadulterated protein at a lower cost per gram."
+        }
+      ]
+    }
+  ]
+}

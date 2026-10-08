@@ -1,0 +1,254 @@
+{
+  "readings": [
+    {
+      "answer_id": "q3|copilot|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "संक्षिप्त उत्तर: शुरुआती लोग आमतौर पर व्हे कंसन्ट्रेट से शुरुआत करते हैं—यह सस्ता, संतुलित और सामान्य फिटनेस लक्ष्यों के लिए पर्याप्त है NAKPRO NUTRITION"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q3|copilot|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "neutral",
+          "quote": "Optimum Nutrition Gold Standard Whey"
+        },
+        {
+          "brand": "Ultimate Nutrition",
+          "stance": "neutral",
+          "quote": "Ultimate Nutrition Prostar"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "neutral",
+          "quote": "Dymatize Elite Whey"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "neutral",
+          "quote": "Isopure Low Carb Whey"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q3|copilot|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "ON, Prostar, MuscleBlaze जैसे ब्रांड सुरक्षित विकल्प हैं"
+        },
+        {
+          "brand": "Ultimate Nutrition",
+          "stance": "recommended",
+          "quote": "ON, Prostar, MuscleBlaze जैसे ब्रांड सुरक्षित विकल्प हैं"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "ON, Prostar, MuscleBlaze जैसे ब्रांड सुरक्षित विकल्प हैं"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "neutral",
+          "quote": "Dymatize Elite Whey"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "Isopure Low Carb (अगर लैक्टोज समस्या हो)"
+        },
+        {
+          "brand": "MuscleTech",
+          "stance": "recommended",
+          "quote": "Muscletech Nitrotech (मसल गेन के लिए, क्रिएटिन भी शामिल)"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleTech",
+          "product": "Muscletech Nitrotech",
+          "attribute": "other",
+          "value": "क्रिएटिन भी शामिल",
+          "quote": "Muscletech Nitrotech (मसल गेन के लिए, क्रिएटिन भी शामिल)"
+        }
+      ]
+    },
+    {
+      "answer_id": "q3|copilot|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "Choose MuscleBlaze Beginner’s Whey if you want the simplest, gentlest start."
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "recommended",
+          "quote": "Choose Nutrabay Gold Vital Whey if you want better digestion and recovery."
+        },
+        {
+          "brand": "MyFitFuel",
+          "stance": "recommended",
+          "quote": "Choose MyFitFuel Advance Beginner if taste matters to you."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "Asitis Nutrition ATOM Beginners Whey"
+        },
+        {
+          "brand": "PowerLift",
+          "stance": "neutral",
+          "quote": "PowerLift Beginner’s Whey Protein"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Beginner’s Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "12g",
+          "quote": "MuscleBlaze Beginner’s Whey 1 | 12g"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Beginner’s Whey",
+          "attribute": "sugar_g",
+          "value": "no sugar",
+          "quote": "Vitamins, no sugar"
+        },
+        {
+          "brand": "Nutrabay",
+          "product": "Nutrabay Gold Vital Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "High (exact varies)",
+          "quote": "Nutrabay Gold Vital Whey 1 | High (exact varies)"
+        },
+        {
+          "brand": "MyFitFuel",
+          "product": "MyFitFuel Advance Beginner",
+          "attribute": "protein_per_serving_g",
+          "value": "14.2g",
+          "quote": "MyFitFuel Advance Beginner 1 | 14.2g"
+        },
+        {
+          "brand": "MyFitFuel",
+          "product": "MyFitFuel Advance Beginner",
+          "attribute": "sugar_g",
+          "value": "No sugar",
+          "quote": "No sugar, no gluten"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "Asitis ATOM Beginners Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "Asitis ATOM Beginners Whey 1 | 25g"
+        },
+        {
+          "brand": "PowerLift",
+          "product": "PowerLift Beginner’s Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "26g",
+          "quote": "PowerLift Beginner’s Whey 1 | 26g"
+        },
+        {
+          "brand": "PowerLift",
+          "product": "PowerLift Beginner’s Whey",
+          "attribute": "sugar_g",
+          "value": "No sugar",
+          "quote": "PowerLift Beginner’s Whey 1 | 26g | Yes | No sugar"
+        }
+      ]
+    },
+    {
+      "answer_id": "q3|copilot|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "If you want the highest-quality whey overall (even as a beginner): ➡️ MuscleBlaze Biozyme Whey Protein"
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "recommended",
+          "quote": "If you want better digestion and more protein: ➡️ Nutrabay Gold Vital Whey India Deets"
+        },
+        {
+          "brand": "MyFitFuel",
+          "stance": "neutral",
+          "quote": "MyFitFuel Advance Beginner Whey Protein"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "Asitis Nutrition ATOM Beginners Whey"
+        },
+        {
+          "brand": "TrueBasics",
+          "stance": "recommended",
+          "quote": "Choose brands with batch testing (e.g., MuscleBlaze Biozyme, TrueBasics)."
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Beginner’s Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "12g",
+          "quote": "MuscleBlaze Beginner’s Whey | 12g"
+        },
+        {
+          "brand": "Nutrabay",
+          "product": "Nutrabay Gold Vital Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "High (exact varies)",
+          "quote": "Nutrabay Gold Vital Whey | High (exact varies)"
+        },
+        {
+          "brand": "MyFitFuel",
+          "product": "MyFitFuel Beginner Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "14.2g",
+          "quote": "MyFitFuel Beginner Whey | 14.2g"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "Asitis ATOM Beginners Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "Asitis ATOM Beginners Whey | 25g"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Biozyme Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "MuscleBlaze Biozyme Whey | 25g"
+        },
+        {
+          "brand": "TrueBasics",
+          "product": "TrueBasics Clean Whey Protein",
+          "attribute": "certification",
+          "value": "batch testing",
+          "quote": "Choose brands with batch testing (e.g., MuscleBlaze Biozyme, TrueBasics)."
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Biozyme",
+          "attribute": "certification",
+          "value": "batch testing",
+          "quote": "Choose brands with batch testing (e.g., MuscleBlaze Biozyme, TrueBasics)."
+        }
+      ]
+    }
+  ]
+}

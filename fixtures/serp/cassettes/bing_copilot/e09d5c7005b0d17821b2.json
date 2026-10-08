@@ -1,0 +1,312 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "kis company ka whey protein sabse accha hai",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:36:31+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb40bde97951a78c07b0",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/RqEwUFXMqpaKIV_lAhLOU0Luq8_k3W30ivcBWZj74tM/6ac4eb40bde97951a78c07b0.json",
+      "markdown_endpoint": "https://serpapi.com/searches/RqEwUFXMqpaKIV_lAhLOU0Luq8_k3W30ivcBWZj74tM/6ac4eb40bde97951a78c07b0.md",
+      "created_at": "2026-10-06 12:36:16 UTC",
+      "processed_at": "2026-10-06 12:36:16 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=kis+company+ka+whey+protein+sabse+accha+hai&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/RqEwUFXMqpaKIV_lAhLOU0Luq8_k3W30ivcBWZj74tM/6ac4eb40bde97951a78c07b0.html",
+      "total_time_taken": 14.71
+    },
+    "search_parameters": {
+      "q": "kis company ka whey protein sabse accha hai",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "भारत में सबसे अच्छा व्हे प्रोटीन उपयोगकर्ताओं के लिए MuscleBlaze और Protyze जैसे ब्रांड्स माने जाते हैं, जो उच्च प्रोटीन प्रतिशत, अच्छी पाचन क्षमता और मसल रिकवरी के लिए उपयुक्त हैं।",
+    "text_blocks": [
+      {
+        "type": "heading",
+        "snippet": "1. MuscleBlaze",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रमुख उत्पाद: Biozyme Whey Protein, Raw Whey Isolate 90, और Nitra Iso-Isolate",
+            "snippet_highlighted_words": [
+              "प्रमुख उत्पाद"
+            ]
+          },
+          {
+            "snippet": "विशेषताएं: उच्च प्रोटीन (~76–90%) प्रति सर्विंग, एंजाइम आधारित पाचन सहायता, मसल रिकवरी में सहायक, नियमित जिम उपयोग के लिए उपयुक्त 3",
+            "snippet_highlighted_words": [
+              "विशेषताएं"
+            ],
+            "reference_indexes": [
+              0,
+              3,
+              7
+            ]
+          },
+          {
+            "snippet": "सुझाव: लेन मसल गेन और रोज़ाना प्रोटीन सप्लीमेंट के लिए। Lactose संवेदनशीलता वाले उपयोगकर्ताओं के लिए Raw Whey Isolate 90 श्रेष्ठ है।",
+            "snippet_highlighted_words": [
+              "सुझाव"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. Protyze",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रमुख उत्पाद: Nitro Clear Whey, Anytime Clear Whey, Diet Clear Whey, Hydra-X Clear Whey",
+            "snippet_highlighted_words": [
+              "प्रमुख उत्पाद"
+            ]
+          },
+          {
+            "snippet": "विशेषताएं: Clear Whey Protein, 99% lactose-free, fat-free, juice-like texture, पाचन में आसान, रोज़ाना उपयोग के लिए हल्का और हाइड्रेटिंग 1",
+            "snippet_highlighted_words": [
+              "विशेषताएं"
+            ],
+            "reference_indexes": [
+              3
+            ]
+          },
+          {
+            "snippet": "सुझाव: रोज़ाना हल्का प्रोटीन सेवन, वेट मैनेजमेंट, मसल रिकवरी और हाइड्रेशन के लिए।",
+            "snippet_highlighted_words": [
+              "सुझाव"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. Optimum Nutrition (ON)",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रमुख उत्पाद: Gold Standard 100% Whey, Whey Isolate",
+            "snippet_highlighted_words": [
+              "प्रमुख उत्पाद"
+            ]
+          },
+          {
+            "snippet": "विशेषताएं: ग्लोबल रेप्यूटेशन, 24g प्रोटीन प्रति सर्विंग, Blend of Isolate, Concentrate और Hydrolysate, Informed Choice सर्टिफिकेशन 2",
+            "snippet_highlighted_words": [
+              "विशेषताएं"
+            ],
+            "reference_indexes": [
+              0,
+              2
+            ]
+          },
+          {
+            "snippet": "सुझाव: भरोसेमंद इंटर्नेशनल व्हे उपयोगकर्ताओं के लिए, लेकिन भारत में कुछ उपयोगकर्ताओं को भारी महसूस हो सकता है।",
+            "snippet_highlighted_words": [
+              "सुझाव"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "4. TrueBasics और Isopure",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "विशेषताएं: Clean Whey blends, low-carb, low sugar, digestive-friendly, lactose-free विकल्प 2",
+            "snippet_highlighted_words": [
+              "विशेषताएं"
+            ],
+            "reference_indexes": [
+              3,
+              7
+            ]
+          },
+          {
+            "snippet": "सुझाव: सुगमता से पचने वाले व्हे विकल्प चाहते उपयोगकर्ताओं के लिए लाभकारी।",
+            "snippet_highlighted_words": [
+              "सुझाव"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "5. अन्य विश्वसनीय ब्रांड्स",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Dymatize, MyProtein, AS-IT-IS Nutrition, BigMuscles Nutrition, MuscleTech, Avvatar 2",
+            "snippet_highlighted_words": [
+              "Dymatize",
+              "MyProtein",
+              "AS-IT-IS Nutrition",
+              "BigMuscles Nutrition",
+              "MuscleTech",
+              "Avvatar"
+            ],
+            "reference_indexes": [
+              3,
+              7
+            ]
+          },
+          {
+            "snippet": "उच्च गुणवत्ता, अच्छी पाचन क्षमता और अलग-अलग जीवनशैली/उद्देश्य (मसल गेन, वजन नियंत्रण, एथलीट रिकवरी) के लिए उपयुक्त।"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "कैसे चुनें सबसे अच्छा व्हे प्रोटीन?",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "उद्देश्य के अनुसार:",
+            "snippet_highlighted_words": [
+              "उद्देश्य के अनुसार"
+            ],
+            "list": [
+              {
+                "snippet": "मसल गेन: Whey Isolate या Hydrolyzed Whey"
+              },
+              {
+                "snippet": "वजन कम करना: Low-carb Whey या Clear Whey"
+              },
+              {
+                "snippet": "रोज़ाना प्रोटीन: हल्का और पचने वाला Clear Whey"
+              }
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत और पाचन: 80%+ प्रोटीन वाला Isolate या Blend बेहतर। Lactose-sensitive लोगों के लिए Isolate श्रेष्ठ है।",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रतिशत और पाचन"
+            ]
+          },
+          {
+            "snippet": "सप्लायर और ब्रांड विश्वसनीयता: प्रमाणित लैब टेस्ट और Batch report उपलब्ध ब्रांड चुनें 2 .",
+            "snippet_highlighted_words": [
+              "सप्लायर और ब्रांड विश्वसनीयता"
+            ],
+            "reference_indexes": [
+              3,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "निष्कर्ष",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "यदि आप भारत में विश्वसनीय, पचाने में आसान और मसल रिकवरी-फोकस्ड व्हे प्रोटीन चाहते हैं, तो MuscleBlaze Biozyme, Protyze Clear Whey और Optimum Nutrition Gold Standard 100% Whey सबसे उपयुक्त विकल्प हैं। रोज़ाना या वजन प्रबंधन के लिए हल्का Clear Whey प्राथमिकता रख सकते हैं, जबकि गंभीर मसल ट्रेनिंग के लिए Isolate या Hydrolyzed Whey सर्वोत्तम है।",
+        "snippet_highlighted_words": [
+          "विश्वसनीय, पचाने में आसान और मसल रिकवरी-फोकस्ड व्हे प्रोटीन",
+          "MuscleBlaze Biozyme",
+          "Protyze Clear Whey",
+          "Optimum Nutrition Gold Standard 100% Whey"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे ... - MensXP",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "हाई क्वालिटी के 'कंप्‍लीट प्रोटीन' को व्हे प्रोटीन (whey protein) कहते हैं। इसमें काफी सारे अमीनो एसिड्स होते हैं, जैसे - ब्रांच्ड एमीनो एसिड्स (Branched Amino Acids), ग्लूटामिन (Glutamins),...",
+        "source": "MensXP"
+      },
+      {
+        "index": 1,
+        "title": "Top 10 Whey Protein Companies in India - The Industrial Business",
+        "link": "https://theindustrialbusiness.com/whey-protein-companies-in-india/",
+        "snippet": "The top 10 whey protein companies in India 2026 operate inside a market that Mordor Intelligence pegs at roughly $185–192 million this year, small compared to the broader $1.13 billion protein-supplement category but growing fast enough that new entrants show up every quarter. What’s changed since 2020 isn’t the number of brands — it’s the […]",
+        "source": "theindustrialbusiness.com"
+      },
+      {
+        "index": 2,
+        "title": "Best Whey Protein in India 2026 — 12 Brands Tested & Ranked",
+        "link": "https://nutsutra.com/blog/best-whey-protein-in-india-2026-12-brands-tested-ranked",
+        "snippet": "We tested 12 whey protein brands available in India. Here's our honest ranking based on protein-per-rupee, mixability, third-party testing, and taste.",
+        "source": "nutsutra.com"
+      },
+      {
+        "index": 3,
+        "title": "India Whey Protein Companies - Top Players' List",
+        "link": "https://www.mordorintelligence.com/industry-reports/india-whey-protein-market/companies",
+        "snippet": "Explore list of the top India Whey Protein companies based on extensive research conducted by Mordor Intelligence analysts and expert advisors. These brands include leaders and major players in the India Whey Protein sector and they play an actively important part in its development.",
+        "source": "Mordor Intelligence"
+      },
+      {
+        "index": 4,
+        "title": "Top 10 Whey Protein Brands In India, Price, Benefits Vs ... - Dial4Trade",
+        "link": "https://www.dial4trade.com/knowledgebase/top-10-whey-protein-brands-in-india-price-benefits-vs-side-effects-top-health-supplement-manufacturing-companies.htm",
+        "snippet": "The top 10 whey protein brands widely trusted by athletes and gym-goers include Optimum Nutrition (ON) Gold Standard Whey, MuscleBlaze Whey Gold, Dymatize Nutrition Elite Whey, MyProtein Impact Whey, AS-IT-IS Nutrition Whey, BigMuscles Nutrition Raw Whey, GNC Pro Performance Whey, Labrada 100% Whey, Ultimate Nutrition Prostar, and Avvatar Whey ...",
+        "source": "Dial4Trade"
+      },
+      {
+        "index": 5,
+        "title": "Top 20 Whey Protein Brands In India: A Handy Full Guide",
+        "link": "https://foodsure.co.in/blog/whey-protein-brands-in-india/",
+        "snippet": "Get a handy, full guide to the Top 20 Whey Protein Brands in India, covering purity, taste, and pricing to help you choose wisely.",
+        "source": "foodsure.co.in"
+      },
+      {
+        "index": 6,
+        "title": "10 Best Whey Protein Powders in India (2026): MuscleBlaze, TrueBasics ...",
+        "link": "https://www.healthkart.com/connect/10-best-whey-protein-powders-in-india-2026-muscleblaze-truebasics-more-ranked/",
+        "snippet": "Expert-ranked whey protein powders in India compared by purity, form, and price per gram. Top picks across concentrate, isolate, and hydrolysate for every goal.",
+        "source": "HealthKart"
+      },
+      {
+        "index": 7,
+        "title": "Amazon.in सर्वाधिक बिकने वाले: व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "MuscleBlaze बायोजाइम परफॉर्मेंस व्हे प्रोटीन पीआर (चॉकलेट फज, 1 किग्रा/2.2 एलबी) 30 ग्राम प्रोटीन के साथ, 3 ग्राम क्रिएटिन मोनोहाइड्रेट और 50 ...",
+        "source": "www.amazon.in"
+      },
+      {
+        "index": 8,
+        "title": "Whey Protein - Whey Protein for bodybuilding Latest Price ...",
+        "link": "https://dir.indiamart.com/impcat/whey-protein.html",
+        "snippet": "Get contact details & address of companies manufacturing and supplying Whey Protein, Whey Protein for bodybuilding, Hydrolyzed Whey Protein across India.",
+        "source": "IndiaMART"
+      },
+      {
+        "index": 9,
+        "title": "Best Whey Protein in India 2026 | Lab Tested, FSSAI Certified | Aarogya ...",
+        "link": "https://aarogyamatrix.com/blogs/news/whey-protein-india-guide-2026",
+        "snippet": "Read karo 2026 ka complete guide — lab tested whey protein ke baare mein, kaunsa better hai, aur kyun Aarogya Matrix Gold Whey Protein India ka most honest choice hai.",
+        "source": "aarogyamatrix.com"
+      }
+    ]
+  }
+}

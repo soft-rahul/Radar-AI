@@ -1,0 +1,148 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन कौन सा है",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "hi",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:36:25+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb4601289ba211e233ba",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Bc158bqCaOdeuG3AFNXgwITNad2k0osB9Y0m-9_eiWg/6ac4eb4601289ba211e233ba.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Bc158bqCaOdeuG3AFNXgwITNad2k0osB9Y0m-9_eiWg/6ac4eb4601289ba211e233ba.md",
+      "created_at": "2026-10-06 12:36:22 UTC",
+      "processed_at": "2026-10-06 12:36:22 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%86%E0%A4%A4%E0%A5%80+%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88&udm=50&gl=in&hl=hi&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/Bc158bqCaOdeuG3AFNXgwITNad2k0osB9Y0m-9_eiWg/6ac4eb4601289ba211e233ba.html",
+      "prettify_html_file": "https://serpapi.com/searches/Bc158bqCaOdeuG3AFNXgwITNad2k0osB9Y0m-9_eiWg/6ac4eb4601289ba211e233ba.prettify",
+      "total_time_taken": 2.69
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन कौन सा है",
+      "hl": "hi",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन MuscleBlaze Beginner's Whey, Nakpro Platinum Whey और Avvatar Whey Protein माने जाते हैं। ये ब्रांड शुरुआती (beginners) फिटनेस प्रेमियों के लिए पचने में आसान, किफायती और गुणवत्ता के मामले में बेहतरीन हैं।",
+        "snippet_highlighted_words": [
+          "MuscleBlaze Beginner's Whey, Nakpro Platinum Whey और Avvatar Whey Protein"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "शुरुआती लोगों के लिए ये शीर्ष विकल्प इस प्रकार हैं:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "MuscleBlaze Beginner's Whey: यह विशेष रूप से शुरुआती लोगों के लिए डिज़ाइन किया गया है, जिसमें पाचन एंजाइम (Digestive enzymes) होते हैं ताकि पेट की कोई समस्या न हो।",
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "Nakpro Platinum Whey: यह कम कीमत में उच्च गुणवत्ता और शुद्धता प्रदान करता है, जो बजट-अनुकूल है।",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Avvatar Whey Protein: यह ताजे गाय के दूध से सीधे बनाया जाता है और इसकी क्वालिटी अंतरराष्ट्रीय स्तर की होती है।",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Atom Whey Protein: यह उन लोगों के लिए सबसे अच्छा है जो कम कीमत में बेहतरीन परिणाम चाहते हैं।",
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "शुरुआती लोगों को प्रोटीन चुनते समय ध्यान रखना चाहिए कि उसमें प्रति सर्विंग कम से कम 20-24 ग्राम प्रोटीन हो और वह FSSAI द्वारा प्रमाणित हो।",
+        "snippet_links": [
+          {
+            "text": "FSSAI",
+            "link": "https://www.fssai.gov.in/"
+          }
+        ],
+        "reference_indexes": [
+          3,
+          4
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "यदि आप बताना चाहें कि आपका बजट कितना है और आपका मुख्य लक्ष्य वजन घटाना है या मांसपेशियां बढ़ाना, तो मैं आपके लिए सबसे सही विकल्प चुन सकता हूं।"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "भारत में बेस्ट व्हे प्रोटीन 2026: संपूर्ण खरीद गाइड (हर बजट के लिए)",
+        "link": "https://clearcals.com/hi/blogs/best-whey-protein-india/?srsltid=AU7gw4VSQOL4I4DFoOoApcE-jvzkp1ywUqtfjTG-UvxuexsIga0rVvjp",
+        "snippet": "भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन. MuscleBlaze या ATOM शुरुआती लोगों … अच्छा भारतीय व्हे",
+        "source": "Clearcals",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://clearcals.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLHK8KyRqldfkfeOrYisdGpDNjlnVCFHkMlR28jvToEjFEyZOKTN__vkru8kY8gk2Wx0s5QHajXb2lXOmcbByCMApUSxI7UlhvSkzM"
+      },
+      {
+        "index": 1,
+        "title": "शुरुआती लोगों के लिए कौन सा व्हे प्रोटीन पाउडर सबसे अच्छा है?",
+        "link": "https://translate.google.com/translate?u=https://www.quora.com/Which-whey-protein-powder-is-best-for-beginners?no_redirect%3D1&hl=hi&sl=en&tl=hi&client=sge",
+        "snippet": "शुरुआती लोगों के लिए कौन सा प्रोटीन सप्लीमेंट सबसे अच्छा है? पूर्व क्रिकेटर / स्प्रिंटर / मार्शल आर्टिस्ट … व्हे प्रोटीन कॉन्सेंट्रेट है - यह किफायती, आसानी से पचन...",
+        "source": "Quora",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.quora.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 2,
+        "title": "शुरुआती लोगों के लिए व्हे प्रोटीन - MuscleBlaze",
+        "link": "https://translate.google.com/translate?u=https://www.muscleblaze.com/categories/proteins/beginners-whey-proteins?navKey%3DCL-5694&hl=hi&sl=en&tl=hi&client=sge&srsltid=AU7gw4VImN6-Mv4ph21vb5r1wdPZ_UJNYXir2EZqlbXRMPQbRpSu0rhR",
+        "snippet": "क्यों चुनना चाहिए? उत्तर: शुरुआती एथलीटों के लिए व्हे प्रोटीन एक बेहतरीन सप्लीमेंट है। यह ・ के लिए आवश्यक पोषक तत्व ・ यह पोषण संबंधी कमियों",
+        "source": "MuscleBlaze",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.muscleblaze.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSde6z5YJx4pCWM-dK5gahU_0Hul_cg38TKvcdtaQy95_M0qlGwmwjchTi2XtgX5LFldK2n7DHBLvov7fzyG27p_X-gQDOPo880ND5j"
+      },
+      {
+        "index": 3,
+        "title": "भारत में सर्वश्रेष्ठ व्हे प्रोटीन (2026): ईमानदार खरीदार की गाइड",
+        "link": "https://translate.google.com/translate?u=https://denzournutrition.com/blogs/whey-blogs/best-whey-protein-in-india&hl=hi&sl=en&tl=hi&client=sge&srsltid=AU7gw4UZVMR5Dl3QAubjtU41gAAUT8TaKIaA6mfhD_AOapOxaoc_RQc5",
+        "snippet": "ऐसे आइसोलेट चुनें जिनमें प्रति सर्विंग 2 ग्राम से … सबसे अच्छा व्हे प्रोटीन : पारदर्शी लेबलिंग और FSSAI पंजीकरण वाले ब्रांड का व्हे",
+        "source": "Denzour Nutrition",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://denzournutrition.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPesZFDexfXzyqaB78xvO8fSxjna_hs76lnup4tyoyg2JTFU3JN6xSXCLXf4I-PS8pHu4H-05XGGkLoBtfWiLXFaAyyjFZU6xa-1VM"
+      },
+      {
+        "index": 4,
+        "title": "भारत में शुरुआती लोगों के लिए सर्वश्रेष्ठ व्हे प्रोटीन - Born Athlete",
+        "link": "https://translate.google.com/translate?u=https://bornathlete.in/blog/best-whey-protein-for-beginners-in-india-what-trainers-recommend-in-2026&hl=hi&sl=en&tl=hi&client=sge&srsltid=AU7gw4XoVWcymFJlGlKMQhoc1FV-nyDp4EGGW1lTYd7hVwBYjW4ehHIH",
+        "snippet": "शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन कैसे चुनें. सर्विंग प्रोटीन.",
+        "source": "Bornathlete",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bornathlete.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKsxGamAzdIE9ug5ix-FCee-JX02T6BUJoHZ00pNvuhOSS2bnWbFP1wmmzReYc-pflb4-W55b398aU9m6J24XNgY7Xh0gWA_RUv-wu"
+      }
+    ],
+    "reconstructed_markdown": "भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन MuscleBlaze Beginner's Whey, Nakpro Platinum Whey और Avvatar Whey Protein माने जाते हैं। ये ब्रांड शुरुआती \\(beginners\\) फिटनेस प्रेमियों के लिए पचने में आसान, किफायती और गुणवत्ता के मामले में बेहतरीन हैं। [0] [1]\n\nशुरुआती लोगों के लिए ये शीर्ष विकल्प इस प्रकार हैं:\n\n- MuscleBlaze Beginner's Whey: यह विशेष रूप से शुरुआती लोगों के लिए डिज़ाइन किया गया है, जिसमें पाचन एंजाइम \\(Digestive enzymes\\) होते हैं ताकि पेट की कोई समस्या न हो। [2]\n- Nakpro Platinum Whey: यह कम कीमत में उच्च गुणवत्ता और शुद्धता प्रदान करता है, जो बजट\\-अनुकूल है। [0]\n- Avvatar Whey Protein: यह ताजे गाय के दूध से सीधे बनाया जाता है और इसकी क्वालिटी अंतरराष्ट्रीय स्तर की होती है। [0]\n- Atom Whey Protein: यह उन लोगों के लिए सबसे अच्छा है जो कम कीमत में बेहतरीन परिणाम चाहते हैं। [0]\n\nशुरुआती लोगों को प्रोटीन चुनते समय ध्यान रखना चाहिए कि उसमें प्रति सर्विंग कम से कम 20\\-24 ग्राम प्रोटीन हो और वह [FSSAI](https://www.fssai.gov.in/) द्वारा प्रमाणित हो। [3] [4]\n\nयदि आप बताना चाहें कि आपका बजट कितना है और आपका मुख्य लक्ष्य वजन घटाना है या मांसपेशियां बढ़ाना, तो मैं आपके लिए सबसे सही विकल्प चुन सकता हूं।\n\n\n### References\n\n[0] [भारत में बेस्ट व्हे प्रोटीन 2026: संपूर्ण खरीद गाइड \\(हर बजट के लिए\\)](https://www.google.com/goto?url=CAESswEB6zswFbdMd5aFVuOGjIsUySI9uD4JbE72uWCFmYzOFN3YDGDik-EvUI_ZLM0aLf_0JGYyx7D4aVBXdPmHU_EWcJHWeWUjOmMfldNMv_uAPEr4WqwB9VKVgllAnRubtUup7r1J3aXHqTPB9qRpmZS5YJRGAP_YHC7RElI2fp-3MGYBTov8CdWuCkr72zncwJnLMvDKjL77xo2oKezWnkghpVeXRRnemfknU-OlkycB0PeC1Q) — भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन. MuscleBlaze या ATOM शुरुआती लोगों … अच्छा भारतीय व्हे\n\n[1] [शुरुआती लोगों के लिए कौन सा व्हे प्रोटीन पाउडर सबसे अच्छा है?](https://www.google.com/goto?url=CAES1wEB6zswFZw4QLNKg3tLhs0q3ggqGDFPKu2Hin4JCNJ8B8aFhck0m1Axva1EeeHZ3dsK3GoCUHqj1o7argbTeMYAt5-is5Fyhg8AQRGTZzINY-GMN99t9X3uTz-WIB6VkT0dRqWWacl7yJophIzuxh1CPMjZxq390XYGwh_rOz-clZ8LMPjxzPcSnJ2aGl2NYSabnUBqGKuTmLd4FPjSAm-AlsCy_TcS4qBM5m_DjBnaimG85iMffHw_47YCXNvve64QOstZ_ck3Gr2hjXSViJCaV2FGGDfitg) — शुरुआती लोगों के लिए कौन सा प्रोटीन सप्लीमेंट सबसे अच्छा है? पूर्व क्रिकेटर / स्प्रिंटर / मार्शल आर्टिस्ट … व्हे प्रोटीन कॉन्सेंट्रेट है \\- यह किफायती, आसानी से पचन...\n\n[2] [शुरुआती लोगों के लिए व्हे प्रोटीन \\- MuscleBlaze](https://www.google.com/goto?url=CAESmwIB6zswFQq_la7HW-U0KhJp8FeZfd-WEfuzHusBW7D8AquXPJQDs5w31o0WfYhnd_WEBJIqvzkGVx4WuWXXF1mxW-FcCpVi10CiriYhzf8TN1hsoYo0t1qLH9Vi5CREVua4rtLPLcsPvOmQs3cI9CV1-I_WLclvMaisReoX0zhrcCbWD8b2u54SiqAOZg66aHl6XdcZc6_Hr9egChrCclSF_eHLWaueGit89JOEoRC52CLcIYH0GG5qyDAfVPPFIRqpIHwoyRRx5u1E0FUyDcjd8Dz6sr5i1heZ9wg9dpd6-K4vwv6fFUgcLt7k5UEErrGuAfdz6IbLC7OYISG92ZYKLxtFqvN1VNB-OMVzyXpjQBXxnk8RycvFZqGo) — क्यों चुनना चाहिए? उत्तर: शुरुआती एथलीटों के लिए व्हे प्रोटीन एक बेहतरीन सप्लीमेंट है। यह ・ के लिए आवश्यक पोषक तत्व ・ यह पोषण संबंधी कमियों\n\n[3] [भारत में सर्वश्रेष्ठ व्हे प्रोटीन \\(2026\\): ईमानदार खरीदार की गाइड](https://www.google.com/goto?url=CAESiwIB6zswFburPpOmISxD_yG0K5LfFJ2E6mrFB9waxXBRo-zJMxyd4WSKGcVuByWH761EQAf5pJuQ1dd63jM270xKIDVWnjvycmTzv5-0tqIuv6HuHWZ0OLEOJ2EQ0AKZ72HI5tZlCb8sQfCQU1zfalKsVcjZ_HmPSMImS7o7HeMRtXX9smQQ5J_W1K2mhwK4HhbgX9PBeforSvN8jSqfHQKS76GJw859xk9R5Qo2KqXezP3QfFGG-Y7DfayP1I4HmlPiRrewn1o9qSmS_PFsB2Bwwfpwl3u_hsCCzgKAyplt-hY5MGxBHXRkoaQVnX5YDj8pf78cuMswlAE7qdHoB0jKKVa1vgP0oOvyg0Q) — ऐसे आइसोलेट चुनें जिनमें प्रति सर्विंग 2 ग्राम से … सबसे अच्छा व्हे प्रोटीन : पारदर्शी लेबलिंग और FSSAI पंजीकरण वाले ब्रांड का व्हे\n\n[4] [भारत में शुरुआती लोगों के लिए सर्वश्रेष्ठ व्हे प्रोटीन \\- Born Athlete](https://www.google.com/goto?url=CAESpwIB6zswFZr8MNpyp8MXBcUklaz5m_n48EJHQmU2hMjPaKmlE-bJqp6mMQY1eY1aOyTzqWPQQSG9p2XBMNCK437kdywF8UvvY5LOYoujzT6VHtQuQo9WGzi6ppFil6f0ocpUNLh_bJzz5ygFOfbrcqQgsi3jvC7DAgSRa3XjItcFAw3bVKrOB3JqbxcKCjnoomF5Hmq7RCAJx-VKAMd5yLnPDoJWw6IzyauzKlhwA6OwEMORJ8YVjZ-KYhF2NVWEN6jh3UpZwYKWP3rQRDHc83qI1KRl11YNsxnBTKZscJmAb7YB-HxLFRiW0UJ-mRb6xAGxCVxzG5gO9EZ9Dkj4X1cVzL-S82WYeKEmjeIXdt8hzfg4gDX3HQIFnG4A5RuNsg-eTTGNkeDQ) — शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन कैसे चुनें. सर्विंग प्रोटीन.\n"
+  }
+}

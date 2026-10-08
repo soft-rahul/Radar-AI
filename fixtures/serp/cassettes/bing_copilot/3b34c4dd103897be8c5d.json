@@ -1,0 +1,499 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "best whey protein brands in india",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:36:00+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb13fd81c83cb36e5ece",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/HAtwpAUNoy8DsB2mb6u5VV3U-0VEy4TZdddJY9dXw78/6ac4eb13fd81c83cb36e5ece.json",
+      "markdown_endpoint": "https://serpapi.com/searches/HAtwpAUNoy8DsB2mb6u5VV3U-0VEy4TZdddJY9dXw78/6ac4eb13fd81c83cb36e5ece.md",
+      "created_at": "2026-10-06 12:35:31 UTC",
+      "processed_at": "2026-10-06 12:35:31 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=best+whey+protein+brands+in+india&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/HAtwpAUNoy8DsB2mb6u5VV3U-0VEy4TZdddJY9dXw78/6ac4eb13fd81c83cb36e5ece.html",
+      "total_time_taken": 29.19
+    },
+    "search_parameters": {
+      "q": "best whey protein brands in india",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "The top whey protein brands in India in 2026—based on purity, third‑party testing, and label transparency—are TrueBasics Clean Whey, MuscleBlaze Biozyme Iso‑Zero, and The Whole Truth Raw Whey, with TrueBasics ranked the cleanest overall.",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Quick Answer (1–3 sentences): If you want the cleanest and most verified whey, TrueBasics Clean Whey ranks #1 for its deep multi‑layer testing stack HealthKart . For dual‑verified purity and spiking safety, MuscleBlaze Biozyme Iso‑Zero is the strongest pick HealthKart . For a minimal‑ingredient, unflavoured option, The Whole Truth Raw Whey is the cleanest short‑label choice HealthKart .",
+        "snippet_highlighted_words": [
+          "Quick Answer (1–3 sentences):",
+          "cleanest and most verified",
+          "TrueBasics Clean Whey",
+          "dual‑verified purity and spiking safety",
+          "MuscleBlaze Biozyme Iso‑Zero",
+          "minimal‑ingredient, unflavoured option",
+          "The Whole Truth Raw Whey"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ Top Whey Protein Brands in India (Based on 2026 Rankings)",
+        "level": 2
+      },
+      {
+        "type": "heading",
+        "snippet": "1. TrueBasics Clean Whey Protein — Cleanest & Most Tested",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "TrueBasics Clean Whey Protein",
+          "Cleanest & Most Tested"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Rank #1 in India for purity and testing depth 1",
+            "snippet_highlighted_words": [
+              "Rank #1"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "HAP Safe + Trustified batch verification"
+          },
+          {
+            "snippet": "No amino spiking, no melamine spiking"
+          },
+          {
+            "snippet": "Clear label, 25.2g protein per scoop"
+          },
+          {
+            "snippet": "Best for: Users who want maximum testing transparency",
+            "snippet_highlighted_words": [
+              "Users who want maximum testing transparency"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. MuscleBlaze Biozyme Iso‑Zero — Best Dual‑Verified Purity",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "MuscleBlaze Biozyme Iso‑Zero",
+          "Best Dual‑Verified Purity"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Trustified + Labdoor certified (rare dual verification) 1",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "No amino or melamine spiking confirmed"
+          },
+          {
+            "snippet": "High protein accuracy (27g per serving)"
+          },
+          {
+            "snippet": "Best for: Lean muscle, digestion support, and verified purity",
+            "snippet_highlighted_words": [
+              "Lean muscle, digestion support, and verified purity"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. The Whole Truth Raw Whey (Unflavoured) — Cleanest Short Label",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "The Whole Truth Raw Whey (Unflavoured)",
+          "Cleanest Short Label"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Only 3 ingredients; no sweeteners or fillers 1",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Trustified + NABL testing"
+          },
+          {
+            "snippet": "26g protein per scoop"
+          },
+          {
+            "snippet": "Best for: Minimal‑ingredient buyers",
+            "snippet_highlighted_words": [
+              "Minimal‑ingredient buyers"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "4. AS‑IT‑IS ONE Whey Protein Concentrate — Best Verified Value",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "AS‑IT‑IS ONE Whey Protein Concentrate",
+          "Best Verified Value"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Dual Labdoor + Trustified certification 1",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "28g protein per scoop"
+          },
+          {
+            "snippet": "Best for: Budget buyers who still want verified purity",
+            "snippet_highlighted_words": [
+              "Budget buyers who still want verified purity"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "5. MuscleBlaze Biozyme Whey Protein Powder — Best Overall for Most Users",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "MuscleBlaze Biozyme Whey Protein Powder",
+          "Best Overall for Most Users"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Ranked #1 overall in a broader whey comparison 1",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "25g protein per serving"
+          },
+          {
+            "snippet": "Strong digestion support"
+          },
+          {
+            "snippet": "Best for: Daily gym‑goers wanting balanced performance",
+            "snippet_highlighted_words": [
+              "Daily gym‑goers wanting balanced performance"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "6. Optimum Nutrition (ON) Gold Standard Whey — Best International Benchmark",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Optimum Nutrition (ON) Gold Standard Whey",
+          "Best International Benchmark"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Informed Choice certified 1",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "24g protein per serving"
+          },
+          {
+            "snippet": "Best for: Brand trust and consistent taste",
+            "snippet_highlighted_words": [
+              "Brand trust and consistent taste"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "7. MyProtein Impact Whey — Best Flavour Variety",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "MyProtein Impact Whey",
+          "Best Flavour Variety"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Informed Choice + Informed Protein certified 1",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Protein varies by flavour"
+          },
+          {
+            "snippet": "Best for: Users who prioritize taste",
+            "snippet_highlighted_words": [
+              "Users who prioritize taste"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📊 Comparison Table: Best Whey Proteins in India (2026)",
+        "level": 2
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "TrueBasics Clean Whey",
+            "Cleanest, deepest testing",
+            "HAP Safe + Trustified 1",
+            "25.2g",
+            "Purity-first buyers"
+          ],
+          [
+            "MuscleBlaze Biozyme Iso‑Zero",
+            "Dual‑verified purity",
+            "Trustified + Labdoor 1",
+            "27g",
+            "Lean muscle, digestion"
+          ],
+          [
+            "The Whole Truth Raw Whey",
+            "Minimal ingredients",
+            "Trustified + NABL 1",
+            "26g",
+            "Clean-label seekers"
+          ],
+          [
+            "AS‑IT‑IS ONE WPC",
+            "Best value + verified",
+            "Labdoor + Trustified 1",
+            "28g",
+            "Budget + purity"
+          ],
+          [
+            "MuscleBlaze Biozyme Whey",
+            "Best overall usability",
+            "Trustified retest 1",
+            "25g",
+            "Regular gym-goers"
+          ]
+        ],
+        "headers": [
+          "Brand / Product",
+          "Key Strength",
+          "Testing & Verification",
+          "Protein per Serving",
+          "Best For"
+        ],
+        "formatted": [
+          {
+            "brand_product": "TrueBasics Clean Whey",
+            "key_strength": "Cleanest, deepest testing",
+            "testing_verification": "HAP Safe + Trustified 1",
+            "protein_per_serving": "25.2g",
+            "best_for": "Purity-first buyers"
+          },
+          {
+            "brand_product": "MuscleBlaze Biozyme Iso‑Zero",
+            "key_strength": "Dual‑verified purity",
+            "testing_verification": "Trustified + Labdoor 1",
+            "protein_per_serving": "27g",
+            "best_for": "Lean muscle, digestion"
+          },
+          {
+            "brand_product": "The Whole Truth Raw Whey",
+            "key_strength": "Minimal ingredients",
+            "testing_verification": "Trustified + NABL 1",
+            "protein_per_serving": "26g",
+            "best_for": "Clean-label seekers"
+          },
+          {
+            "brand_product": "AS‑IT‑IS ONE WPC",
+            "key_strength": "Best value + verified",
+            "testing_verification": "Labdoor + Trustified 1",
+            "protein_per_serving": "28g",
+            "best_for": "Budget + purity"
+          },
+          {
+            "brand_product": "MuscleBlaze Biozyme Whey",
+            "key_strength": "Best overall usability",
+            "testing_verification": "Trustified retest 1",
+            "protein_per_serving": "25g",
+            "best_for": "Regular gym-goers"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "🧭 How to Choose the Best Whey for You",
+        "level": 2,
+        "snippet_highlighted_words": [
+          "You"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Use this quick guide:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "For purity & testing: TrueBasics Clean Whey",
+            "snippet_highlighted_words": [
+              "For purity & testing:"
+            ]
+          },
+          {
+            "snippet": "For maximum verification: MuscleBlaze Biozyme Iso‑Zero",
+            "snippet_highlighted_words": [
+              "For maximum verification:"
+            ]
+          },
+          {
+            "snippet": "For unflavoured minimalism: The Whole Truth Raw Whey",
+            "snippet_highlighted_words": [
+              "For unflavoured minimalism:"
+            ]
+          },
+          {
+            "snippet": "For budget buyers: AS‑IT‑IS ONE WPC",
+            "snippet_highlighted_words": [
+              "For budget buyers:"
+            ]
+          },
+          {
+            "snippet": "For everyday gym use: MuscleBlaze Biozyme Whey",
+            "snippet_highlighted_words": [
+              "For everyday gym use:"
+            ]
+          },
+          {
+            "snippet": "For international trust: ON Gold Standard",
+            "snippet_highlighted_words": [
+              "For international trust:"
+            ]
+          },
+          {
+            "snippet": "For flavour variety: MyProtein Impact Whey",
+            "snippet_highlighted_words": [
+              "For flavour variety:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ Follow‑up question",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Do you want recommendations based on your goal (muscle gain, fat loss, digestion, budget), or should I help you choose between these top brands?",
+        "snippet_highlighted_words": [
+          "based on your goal"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Top 7 Cleanest Whey Proteins in India (2026): Ranked by Purity, Quality ...",
+        "link": "https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/",
+        "snippet": "Discover India's cleanest whey proteins in 2026. We rank the top 7 brands based on third-party lab testing, amino-spiking risk, and strict label transparency.",
+        "source": "HealthKart"
+      },
+      {
+        "index": 1,
+        "title": "Best Whey Protein in India 2026 — Top 10 Ranked by Value & Quality",
+        "link": "https://proteinpaisa.com/blog/best-whey-protein-india-2026/",
+        "snippet": "Complete ranking of the best whey protein powders in India for 2026. Compare MuscleBlaze, Nakpro, Avvatar, ON, AS-IT-IS, Nutrabay & more by price, purity, and taste.",
+        "source": "proteinpaisa.com"
+      },
+      {
+        "index": 2,
+        "title": "Best Whey Protein Brand in India 2026 - The 5xl Nutrition",
+        "link": "https://the5xlnutrition.com/best-whey-protein-brand-india-definitive-guide-2026/",
+        "snippet": "Which whey protein brand is best in India in 2026? Use this 7-point framework to evaluate any brand and get the definitive honest verdict for Indian buyers.",
+        "source": "the5xlnutrition.com"
+      },
+      {
+        "index": 3,
+        "title": "10 Best Protein Powder Brands In India - LBB",
+        "link": "https://lbb.in/all/best-protein-powder/",
+        "snippet": "Looking for the best protein powder available in India? Here's a list of top protein powder brands that will help you achieve your fitness goals this year.",
+        "source": "LBB"
+      },
+      {
+        "index": 4,
+        "title": "Best Whey Protein in India (2026): Honest Buyer's Guide",
+        "link": "https://denzournutrition.com/blogs/whey-blogs/best-whey-protein-in-india",
+        "snippet": "Looking for the best whey protein powder in India in 2026? Here's an honest, no-sponsored guide to picking the right whey protein for your goal and budget.",
+        "source": "denzournutrition.com"
+      },
+      {
+        "index": 5,
+        "title": "Best Whey Protein Brands in India 2026 About Fitness",
+        "link": "https://aboutfitness.in/top-best-whey-protein-brands-india/",
+        "snippet": "With hundreds of products in the market, finding the best whey protein brands in India can be overwhelming. This guide lists the most reliable and high-quality whey protein powders trusted by athletes, trainers, and fitness experts in 2026.",
+        "source": "aboutfitness.in"
+      },
+      {
+        "index": 6,
+        "title": "Top 10 Whey Protein Brands In India (2026 Latest List)",
+        "link": "https://www.couponmoto.com/article/top-10-whey-protein-brands-in-india",
+        "snippet": "In this article, we will compare the brands based on specific criteria such as product quality, price, Third-party tested certifications, scientific formulations, customer reviews and buyer's guide for your perfect online shopping. So, read this post further, and know which whey protein is best suited for you.",
+        "source": "CouponMoto"
+      },
+      {
+        "index": 7,
+        "title": "Best Whey Protein in India 2026 — 12 Brands Tested & Ranked",
+        "link": "https://nutsutra.com/blog/best-whey-protein-in-india-2026-12-brands-tested-ranked",
+        "snippet": "We tested 12 whey protein brands available in India. Here's our honest ranking based on protein-per-rupee, mixability, third-party testing, and taste.",
+        "source": "nutsutra.com"
+      },
+      {
+        "index": 8,
+        "title": "Top 10 Whey Protein in India 2026: Expert Rankings",
+        "link": "https://reviehub.in/top-10-whey-protein-in-india-2026-expert-rankings/",
+        "snippet": "With clinically tested absorption rates, triple international certifications, and patented enzyme technology, these top 5 performers (and 5 more coming) redefine what clean, effective supplementation means for serious Indian athletes. 1. MuscleBlaze Biozyme Performance Whey.",
+        "source": "reviehub.in"
+      }
+    ]
+  }
+}

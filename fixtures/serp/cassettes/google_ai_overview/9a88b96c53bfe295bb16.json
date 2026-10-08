@@ -1,0 +1,116 @@
+{
+  "request": {
+    "engine": "google_ai_overview",
+    "params": {
+      "page_token": "6tirJHiczZXddqo4FMcfYJ5juLH1A7VI12KdFRAxHrXFj6q9YUFIA4JiiUjt3XmXeaq5nReZgB8HKvZ8XMyaXBghe-_s7Owf_29_-e7a-_uPf5ztdkPvK5U4jsskCIiPyyhYVUy6X6PKS-DTEDlfHF_Ca44GUYiwa0vICYMV5ogvuWsuinwsxSUFQB0qsD_SnqipeXQ8a3rmTOX2O6nOISrVOOxK3WinmoEFgSXMw0h9FBbvAgU6l-4mGZZJ8ZIl87akFaPCfrw_6232UKZlvDY0uTwRZ3zQ2fW2IC7zVb5efqiYK2YD_tNBIFiwqZf8V69ayQAoAKAfRlNZCBkCLeMpp5OS2ZHtIycT1NPnzvVoXuKmqzpJM2DDeFu-t5mbRk423lXv3Ip2CKDDdFaZuwJ_eJp8MrlkP3O-tkZyEdKy55cKhyxnFyFQyAA8QuAUO0Og5rZntWof3iMAW92G3JaB_knu4CsBD89AdQ6-n42prOHz3h3KtlErNmENXK1YIZtqFRc5KP0T0qSvlYlYDdTqUnee8PBxNh4KYn_qIUJ3cHkL1hapIIvZ-YFpY9twjOqX9LnG15pVsS60blKmED1DRbNQaSvLGLWQ2BGCcr8s1044KdkLyR4peTstOqOcdKt6arnLAQtKoyhBLsTRgF3GQAFKtv2ZbaeblK2NjsFY5d4IiPJNcGKRYXLEaQC6R5yO0b4HTXE67TnSz965NKHquOd3cu503YszKgWnJw8HT4W17jEKOeeaOyFQVDlh7JxAnF1MPiYKg1o-wPDagIeDDjKtXFV7F1-jpBQOcz0-Hvk-Xe4iW76kBroLFjpbhrIKxx5Jb1U53KqiHivEcPrIAyxkUWbfDJnI8ceklCLjizH9KSv1xM0HDLL4dPd12Orwot3t4MFr2KL8Nuob7jtAflyMS7Cyfk2E0P-NqZNEJQbqZ0wpP8MUkygiFzGVxjsEPUtU7yhR15nyU6aOEpUEOklU90KiLpnyskxpero8Cq5I1K8yBT9h6hy4kKlOEVPkOlOpRGWZcgZ6TqJgoUR9Z-p3JGr6uxKVIoYPU16voiW5qltae2kNtN3aqbtGVZ-0n0mrM2jMn1wXgx_q1stqe78ybf_GcO17me9t9_aNwV4E99jmXqWtg0ueS0uM1Y253pc8sxQ7eF_ahMEWu-sSNS2KSyZCjllyTJdb-WEgVc2G0ATT4Xg0j_DQXMz7z5udGC3eH-PnQd1eLMfCrdaf98eOz-9G3V5o9u6Gz9vlYic6Y38uvGxH3iAa9ml1LNwN9Taa7BpIEG3H6PbEvXj78jju6JOIf_G_ysOeG6qmt4HEmvu3s2Dv9WJxGo3CuWh2n4RuvTbppVlRabkSwWI-meFag1uFSGIN0iBgqIMZYferMOVQCJiaAZtjoGt3jB2ZZ53DUWQamO6khtXkce0O23UsNpuoxq3Idr-ReJGj61Cq_QvfuWIJ"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:35:56+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb208ffd7bfd720e1425",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/5PdIWnA91tugouhcGtRlXWW0zIhY8NpYV5W9eM0HRDI/6ac4eb208ffd7bfd720e1425.json",
+      "markdown_endpoint": "https://serpapi.com/searches/5PdIWnA91tugouhcGtRlXWW0zIhY8NpYV5W9eM0HRDI/6ac4eb208ffd7bfd720e1425.md",
+      "created_at": "2026-10-06 12:35:44 UTC",
+      "processed_at": "2026-10-06 12:35:44 UTC",
+      "google_ai_overview_url": "https://www.google.com/async/folsrch?hl=en&sourceid=chrome&gl=in&uule=w+CAIQICILRGVsaGksSW5kaWE&yv=3&cs=1&ei=HuvEaobIAb7XruEP7Yz7sAQ&async=_basejs:/xjs/_/js/k%3Dxjs.s.en_GB.T9W2oFvJtAw.2023.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIAYAAAJAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAACAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAABIAGAAAAAAAAAABBAAAAACAAAAAAAAAAgAEABAAgAIQAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAEkCAAAQEQgAABAAAAA_xjzDQAAGgAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAGABAAAAQIABAAAEgAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAAAAAFAAAAAAAAYAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAABBgAAAAAAAAAAAIACgMAPIAhAAAAAAAAAAgAAAAAAAAAAAIAEIAAAAAAAAAAAAQAADAAAAIAcAI8H4BDBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAKgAOZAEhAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUBGeAgAAAAAAAFsDAAE/dg%3D0/br%3D1/ichc%3D1/rs%3DACT90oE0jQhVeNPWSN79LUkcgsvIj-Anbg/cb%3Dloaded_h_0?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.s.Gmb_R8c9F7o.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAACCoAAAAAAAAAAAABQAAAAAAEIAMCACACAAAAAAAAAAAACFHgAAADcAAAAIAADAAxgAuAgAAAAAAAAAAAAEAAAAAAAgAIAGAAAAAMAHAABBAAACAAAAAACAAAAAAAAABAAgABQAAAAAARQAAEAAAAAAQAAAAAAAAAAAAIEhiAAAQAAAAABABAAAAAAAAAAAHAAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAAAAAgOAAAABACAYAQAAAAABgAAAAAEAAACAAAAAAAAAAAAACEBEgAAAQAAAAAAAwAAAAAAAAAAAABAACCEQgBAAFAAAq4IAAAAgAMAAgAAAAAAAA0EJEAAAAAAAAAAAAAAAAgAIAhACCAAAAAAAkAAAAAAIAAAAAAAYgAAAAAAAAAAARQAAQiAYQAIAIBEISkgBACAACAABAAACEAEAAAAAIACBAQAAAAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAABAEgBgBwEAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE/br%3D1/cb%3Dloaded_h_0/rs%3DACT90oHy3I8F29dHFeMqr8s2tuL_izAclw?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.s.en_GB.T9W2oFvJtAw.2023.O/ck%3Dxjs.s.Gmb_R8c9F7o.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAACCoAAAAAgIAYAAAJQAAAEAAEIAMCACACAAAAAAAAAAAACFHgACADcAAAAIAADAAxgAuAgAAAAAAAAAAAAEAAAAEEAgBIAGAAAAAMAHAABBAAACACAAAACAAAAAgAEABAAgAJQAAAAAFRQAAEAAAAAAQAAAAAAAAAAAAIEliAAAQEQgAABABAAA_xjzDQAAHgAAAAAAAAkAAAAAAACABAAAAAAAAAAAAAAAkAgOAAAABACAYGQBAAAARoABAAAEgAACIAAAAAAAAAAAACEBEgAAAQAAAAAAAwAAAAAAAAAAAABAACCEQgBAAFAAAq4IAIAAgAMAAgAAAAAAAA0EJEAAAAAAAIAAAAAAAAgAIAhACCAAAAAAAkAAAAAFIAAAAAAAYgAAAAAAAAAAgRQAAQiAYQAIAIBEISkgBACAACABBgAACEAEAAAAAIAChMQPIAhAAAAAAAAAIgAAAAAAAAAAAIAEIAAAAABAEgBgBwEADAAAAIAcAI8H4BDBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAKgAOZAUhAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUBGeAgAAAAAAAFsDAAE/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/ichc%3D1/rs%3DACT90oGDjbMGvnh3i_0QTDZg8FM4XViieA/cb%3Dloaded_h_0?cb%3D121509378,_fmt:madl,_id:B2Jtyd,_mado:ed&q=the+kis+company+ka+whey+protein+sabse+accha+hai&mlro=0a475AUNSRXueNaYXLZpv9uYzPwZM3dYjS7-GLXLShl2vRHJraJ6NZtjYv9hSlX7ftRkMuNLs0S76NQDcTv4c79dh_HJ9y9-fPSFQTu2flKBNJirEakpIgbXl-WoykJw9UuRrX9aHV7H31TJ&mlros=jm9AYXTWe14&mrc=CAA4gANQAWgAcACYAQCgAUaoAQCwAQG6AQEB2AEA&sca_esv=4b52e16ed3e955c1&mgtyp=29&snr=1",
+      "raw_html_file": "https://serpapi.com/searches/5PdIWnA91tugouhcGtRlXWW0zIhY8NpYV5W9eM0HRDI/6ac4eb208ffd7bfd720e1425.html",
+      "total_time_taken": 11.99
+    },
+    "search_parameters": {
+      "engine": "google_ai_overview",
+      "page_token": "6tirJHiczZXddqo4FMcfYJ5juLH1A7VI12KdFRAxHrXFj6q9YUFIA4JiiUjt3XmXeaq5nReZgB8HKvZ8XMyaXBghe-_s7Owf_29_-e7a-_uPf5ztdkPvK5U4jsskCIiPyyhYVUy6X6PKS-DTEDlfHF_Ca44GUYiwa0vICYMV5ogvuWsuinwsxSUFQB0qsD_SnqipeXQ8a3rmTOX2O6nOISrVOOxK3WinmoEFgSXMw0h9FBbvAgU6l-4mGZZJ8ZIl87akFaPCfrw_6232UKZlvDY0uTwRZ3zQ2fW2IC7zVb5efqiYK2YD_tNBIFiwqZf8V69ayQAoAKAfRlNZCBkCLeMpp5OS2ZHtIycT1NPnzvVoXuKmqzpJM2DDeFu-t5mbRk423lXv3Ip2CKDDdFaZuwJ_eJp8MrlkP3O-tkZyEdKy55cKhyxnFyFQyAA8QuAUO0Og5rZntWof3iMAW92G3JaB_knu4CsBD89AdQ6-n42prOHz3h3KtlErNmENXK1YIZtqFRc5KP0T0qSvlYlYDdTqUnee8PBxNh4KYn_qIUJ3cHkL1hapIIvZ-YFpY9twjOqX9LnG15pVsS60blKmED1DRbNQaSvLGLWQ2BGCcr8s1044KdkLyR4peTstOqOcdKt6arnLAQtKoyhBLsTRgF3GQAFKtv2ZbaeblK2NjsFY5d4IiPJNcGKRYXLEaQC6R5yO0b4HTXE67TnSz965NKHquOd3cu503YszKgWnJw8HT4W17jEKOeeaOyFQVDlh7JxAnF1MPiYKg1o-wPDagIeDDjKtXFV7F1-jpBQOcz0-Hvk-Xe4iW76kBroLFjpbhrIKxx5Jb1U53KqiHivEcPrIAyxkUWbfDJnI8ceklCLjizH9KSv1xM0HDLL4dPd12Orwot3t4MFr2KL8Nuob7jtAflyMS7Cyfk2E0P-NqZNEJQbqZ0wpP8MUkygiFzGVxjsEPUtU7yhR15nyU6aOEpUEOklU90KiLpnyskxpero8Cq5I1K8yBT9h6hy4kKlOEVPkOlOpRGWZcgZ6TqJgoUR9Z-p3JGr6uxKVIoYPU16voiW5qltae2kNtN3aqbtGVZ-0n0mrM2jMn1wXgx_q1stqe78ybf_GcO17me9t9_aNwV4E99jmXqWtg0ueS0uM1Y253pc8sxQ7eF_ahMEWu-sSNS2KSyZCjllyTJdb-WEgVc2G0ATT4Xg0j_DQXMz7z5udGC3eH-PnQd1eLMfCrdaf98eOz-9G3V5o9u6Gz9vlYic6Y38uvGxH3iAa9ml1LNwN9Taa7BpIEG3H6PbEvXj78jju6JOIf_G_ysOeG6qmt4HEmvu3s2Dv9WJxGo3CuWh2n4RuvTbppVlRabkSwWI-meFag1uFSGIN0iBgqIMZYferMOVQCJiaAZtjoGt3jB2ZZ53DUWQamO6khtXkce0O23UsNpuoxq3Idr-ReJGj61Cq_QvfuWIJ"
+    },
+    "ai_overview": {
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "भारत में फिटनेस और जिम प्रेमियों के लिए कुछ सबसे बेहतरीन और भरोसेमंद व्हे प्रोटीन (Whey Protein) ब्रांड इस प्रकार हैं:",
+          "reference_indexes": [
+            0
+          ]
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "MuscleBlaze (मसलब्लेज़): यह भारत का सबसे लोकप्रिय और भरोसेमंद ब्रांड है। खासकर इसका Biozyme Whey Protein पाचन में आसान माना जाता है और भारतीय लोगों के पेट के हिसाब से काफी अच्छा है।",
+              "reference_indexes": [
+                0
+              ]
+            },
+            {
+              "snippet": "Optimum Nutrition (ON - ऑन): इसका 100% Whey Gold Standard दुनिया भर में सबसे ज्यादा पसंद किया जाने वाला प्रीमियम प्रोटीन है। इसमें प्रोटीन की मात्रा बहुत शुद्ध होती है।",
+              "reference_indexes": [
+                1
+              ]
+            },
+            {
+              "snippet": "Avvatar (अव्वतार): यह पूरी तरह से 'मेक इन इंडिया' ब्रांड है जो ताजा दूध से सीधे व्हे प्रोटीन बनाता है। इसका Performance Whey काफी पसंद किया जाता है।",
+              "reference_indexes": [
+                2
+              ]
+            },
+            {
+              "snippet": "Isopure (आइसोप्योर): यदि आपको लैक्टोज (दूध से होने वाली एलर्जी) की समस्या है और आप प्योर आइसोलेट ढूंढ रहे हैं, तो यह एक बेहतरीन विकल्प है।",
+              "reference_indexes": [
+                0,
+                3
+              ]
+            },
+            {
+              "snippet": "As-It-Is Nutrition (ऐस-इट-इज़): यदि आप कम बजट में बिना किसी मिलावट (Raw Whey) का अच्छा प्रोटीन चाहते हैं, तो इनका AS-IT-IS Whey Concentrate बहुत किफायती और लोकप्रिय है।"
+            }
+          ],
+          "reference_indexes": [
+            0
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "क्या आप अपने बजट या गोल (जैसे- वजन घटाना या मसल्स बढ़ाना) के बारे में बता सकते हैं, ताकि मैं आपके लिए सही विकल्प चुन सकूँ?"
+        }
+      ],
+      "references": [
+        {
+          "index": 0,
+          "title": "भारत में 10 सर्वश्रेष्ठ व्हे प्रोटीन पाउडर (2026): मसलब्लेज़ ...",
+          "link": "https://translate.google.com/translate?u=https://www.healthkart.com/connect/10-best-whey-protein-powders-in-india-2026-muscleblaze-truebasics-more-ranked/&hl=hi&sl=en&tl=hi&client=sge&srsltid=AU7gw4VKSbIUqShfyjcsDHjtymto6a7uvA6VhgIFUOzdVD71PcvTwA4H",
+          "snippet": "अधिकांश फिटनेस प्रेमियों के लिए, भारत में सर्वश्रेष्ठ व्हे प्रोटीन पाउडर मसलब्लेज़ बायोज़ाइम व्हे प्रोटीन पाउडर है। इसका फ़ॉर्मूला बेहतरीन है, इसमें प्रोटीन की मात...",
+          "source": "HealthKart",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdwOq88Frm4IV7grC-oSOOpWz2h6YCmxWeV_WAb5sXnSMGoj4VZR_eI78mOIw_MPzICFt_bLD4CtoqcNqQRTANfDCVWvcs-DlfLaBR"
+        },
+        {
+          "index": 1,
+          "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड ...",
+          "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+          "snippet": "1. ऑप्टिमम न्यूट्रिशन (ऑन) 100% व्हे स्टेन्डर्ड (Optimum Nutrition (ON) 100% Whey Gold Standard) भारत में मिलने वाले व्हे प्रोटीन्स पाउडर में 100% व्हे गोल्ड स्टेन...",
+          "source": "MensXP",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mensxp.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaDoapwkJkYod83j8MSenrpNtKl_86QFguC2EIb77d-5bStwnfKo9OHxAnQ8P84_sp8k02YqcnBvm8kdW_lfVXGuP59H9k1dKDT4Rg"
+        },
+        {
+          "index": 2,
+          "title": "व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+          "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+          "snippet": "व्हे प्रोटीन * #15 avvatar PERFORMANCE WHEY PROTEIN | 1Kg | Malai Kulfi Flavour I 27.5g Protein | 29 Servings 645 8 ऑफर ₹3,559.00 से शुरू * #16 Bigmuscles Nutritio...",
+          "source": "Amazon.in",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqDIrt-q9IbDvJK9rlAfDGXh_4vTkf4XuD630fnWiWAXe0jxrvhZxOD0fFgPhxvPZaC9KAAD2RUIdZUeyneOoCmpjnYDyo5S6I5JG"
+        },
+        {
+          "index": 3,
+          "title": "Amazon.in Bestsellers: The most popular items in Whey Proteins",
+          "link": "https://www.amazon.in/gp/bestsellers/hpc/11364606031",
+          "snippet": "Whey Proteins * #10 AS-IT-IS Nutrition ATOM Whey Protein 1kg | 27g protein | Isolate & Concentrate | Double Rich Chocolate | USA Labdoor Certified | With Digestive...",
+          "source": "Amazon.in",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuQU6dS0_yEjwZiEFfgiWgTFbQVOuD11K0YiXN5fPwcMbuv7GwuvmD3GVGDv2s5gL7NXXmKeRXs3jPQ-OJ4et_ZGDG7zEouAZEAIIO"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_note": "Editable. Brand websites come from study brands[].domains. Anything not listed is 'other' (mostly review/affiliate blogs).",
+  "marketplace": ["amazon.in", "amazon.com", "flipkart.com", "healthkart.com", "nykaa.com", "ubuy.co.in", "1mg.com",
+                  "netmeds.com", "pharmeasy.in", "jiomart.com", "bigbasket.com", "blinkit.com", "zeptonow.com",
+                  "healthmug.com", "hyugalife.com", "medstown.com", "zeelabpharmacy.com"],
+  "ugc": ["reddit.com", "youtube.com", "quora.com", "instagram.com", "facebook.com", "x.com", "twitter.com", "medium.com"],
+  "media": ["ndtv.in", "ndtv.com", "indiatimes.com", "hindustantimes.com", "indiatoday.in", "news18.com", "jagran.com",
+            "amarujala.com", "bhaskar.com", "livemint.com", "thehindu.com", "indiatv.in", "mensxp.com", "healthline.com",
+            "verywellfit.com"],
+  "search_engine": ["google.com", "bing.com"],
+  "dual_role": {"healthkart.com": "marketplace owned by the MuscleBlaze parent (Bright Lifecare)",
+                "nutrabay.com": "marketplace that also sells its own brand"}
+}

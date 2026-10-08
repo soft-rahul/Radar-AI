@@ -1,0 +1,372 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:40:13+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ec0fcbcccfac7897c7fb",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/t9gtZeRYvZ0dj34An9ObIdHMGin7oYo-cF5_TPaTjVE/6ac4ec0fcbcccfac7897c7fb.json",
+      "markdown_endpoint": "https://serpapi.com/searches/t9gtZeRYvZ0dj34An9ObIdHMGin7oYo-cF5_TPaTjVE/6ac4ec0fcbcccfac7897c7fb.md",
+      "created_at": "2026-10-06 12:39:43 UTC",
+      "processed_at": "2026-10-06 12:39:43 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/t9gtZeRYvZ0dj34An9ObIdHMGin7oYo-cF5_TPaTjVE/6ac4ec0fcbcccfac7897c7fb.html",
+      "total_time_taken": 29.92
+    },
+    "search_parameters": {
+      "q": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "₹2000 के अंदर AS-IT-IS Whey Protein Concentrate 80% और NAKPRO Whey (Impact/Gold/Perform) सबसे अच्छे बजट व्हे प्रोटीन माने जाते हैं—क्योंकि इनका प्रोटीन प्रतिशत ज़्यादा है और कीमत कम रहती है।",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "संक्षिप्त जवाब: ₹2000 के अंदर आपको क्लीन, हाई-प्रोटीन और वैल्यू-फॉर-मनी विकल्प चाहिए तो AS-IT-IS Whey Concentrate 80% और NAKPRO Whey सबसे भरोसेमंद विकल्प हैं।",
+        "snippet_highlighted_words": [
+          "संक्षिप्त जवाब:",
+          "क्लीन, हाई-प्रोटीन और वैल्यू-फॉर-मनी",
+          "AS-IT-IS Whey Concentrate 80%",
+          "NAKPRO Whey"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ ₹2000 के अंदर सबसे अच्छे विकल्प (वेब रिज़ल्ट्स के आधार पर)",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "नीचे दिए गए प्रोटीन Amazon पर लिस्टेड हैं और बजट कैटेगरी में आते हैं—इनमें से कई 1kg पैक अक्सर ₹1500–₹2000 के बीच मिल जाते हैं:"
+      },
+      {
+        "type": "heading",
+        "snippet": "1) AS-IT-IS Whey Protein Concentrate 80%",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "AS-IT-IS Whey Protein Concentrate 80%"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "80% प्रोटीन प्रति 100g 1",
+            "snippet_highlighted_words": [
+              "80% प्रोटीन"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "अनफ्लेवर्ड, कोई मिलावट नहीं",
+            "snippet_highlighted_words": [
+              "अनफ्लेवर्ड"
+            ]
+          },
+          {
+            "snippet": "बजट में सबसे हाई-प्रोटीन विकल्प",
+            "snippet_highlighted_words": [
+              "बजट में सबसे हाई-प्रोटीन विकल्प"
+            ]
+          },
+          {
+            "snippet": "शुरुआती और इंटरमीडिएट दोनों के लिए अच्छा"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2) NAKPRO Nutrition Whey (Impact / Gold / Perform)",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "NAKPRO Nutrition Whey (Impact / Gold / Perform)"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "24g प्रोटीन प्रति स्कूप (वेरिएंट के अनुसार) 1",
+            "snippet_highlighted_words": [
+              "24g प्रोटीन प्रति स्कूप"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "कई फ्लेवर और अनफ्लेवर्ड विकल्प"
+          },
+          {
+            "snippet": "क्लीन लेबल + किफायती",
+            "snippet_highlighted_words": [
+              "क्लीन लेबल + किफायती"
+            ]
+          },
+          {
+            "snippet": "₹2000 के अंदर 1kg आसानी से मिल जाता है"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3) MuscleBlaze Raw Whey Concentrate / Beginner’s Whey",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "MuscleBlaze Raw Whey Concentrate / Beginner’s Whey"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Raw Whey: 24–27g प्रोटीन प्रति स्कूप 1",
+            "snippet_highlighted_words": [
+              "Raw Whey"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Beginner’s Whey: 12g प्रोटीन प्रति स्कूप (शुरुआती के लिए) 1",
+            "snippet_highlighted_words": [
+              "Beginner’s Whey"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Trusted Indian brand"
+          },
+          {
+            "snippet": "Raw Whey अक्सर ₹1800–₹2000 में मिल जाता है"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "4) The Whole Truth Whey Concentrate (Unflavoured)",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "The Whole Truth Whey Concentrate (Unflavoured)"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "26g प्रोटीन प्रति स्कूप 1",
+            "snippet_highlighted_words": [
+              "26g प्रोटीन प्रति स्कूप"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "कोई मिलावट नहीं, क्लीन लेबल"
+          },
+          {
+            "snippet": "कभी-कभी ₹2000 के आसपास मिल जाता है"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📊 तुलना तालिका (₹2000 के अंदर)",
+        "level": 2
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "AS-IT-IS Whey 80%",
+            "~24–27g",
+            "Concentrate",
+            "सबसे हाई प्रोटीन %, सबसे किफायती"
+          ],
+          [
+            "NAKPRO Impact/Gold",
+            "24g",
+            "Concentrate/Isolate",
+            "क्लीन, सस्ता, भरोसेमंद"
+          ],
+          [
+            "MuscleBlaze Raw Whey",
+            "24–27g",
+            "Concentrate",
+            "Trusted brand, raw & clean"
+          ],
+          [
+            "The Whole Truth Whey",
+            "24–26g",
+            "Concentrate",
+            "No additives, clean label"
+          ]
+        ],
+        "headers": [
+          "ब्रांड",
+          "प्रोटीन प्रति स्कूप",
+          "टाइप",
+          "क्यों अच्छा है"
+        ],
+        "formatted": [
+          {
+            "ब्रांड": "AS-IT-IS Whey 80%",
+            "प्रोटीन_प्रति_स्कूप": "~24–27g",
+            "टाइप": "Concentrate",
+            "क्यों_अच्छा_है": "सबसे हाई प्रोटीन %, सबसे किफायती"
+          },
+          {
+            "ब्रांड": "NAKPRO Impact/Gold",
+            "प्रोटीन_प्रति_स्कूप": "24g",
+            "टाइप": "Concentrate/Isolate",
+            "क्यों_अच्छा_है": "क्लीन, सस्ता, भरोसेमंद"
+          },
+          {
+            "ब्रांड": "MuscleBlaze Raw Whey",
+            "प्रोटीन_प्रति_स्कूप": "24–27g",
+            "टाइप": "Concentrate",
+            "क्यों_अच्छा_है": "Trusted brand, raw & clean"
+          },
+          {
+            "ब्रांड": "The Whole Truth Whey",
+            "प्रोटीन_प्रति_स्कूप": "24–26g",
+            "टाइप": "Concentrate",
+            "क्यों_अच्छा_है": "No additives, clean label"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ आपकी ज़रूरत के हिसाब से बेस्ट विकल्प",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "सबसे सस्ता + हाई प्रोटीन: AS-IT-IS Whey 80%",
+            "snippet_highlighted_words": [
+              "सबसे सस्ता + हाई प्रोटीन:"
+            ]
+          },
+          {
+            "snippet": "फ्लेवर चाहिए + बजट में: NAKPRO Impact / Gold",
+            "snippet_highlighted_words": [
+              "फ्लेवर चाहिए + बजट में:"
+            ]
+          },
+          {
+            "snippet": "शुरुआती के लिए: MuscleBlaze Beginner’s Whey",
+            "snippet_highlighted_words": [
+              "शुरुआती के लिए:"
+            ]
+          },
+          {
+            "snippet": "क्लीन लेबल / बिना मिलावट: The Whole Truth Whey",
+            "snippet_highlighted_words": [
+              "क्लीन लेबल / बिना मिलावट:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "अगला सवाल (आपके लिए उपयोगी)",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "क्या आप फ्लेवर वाला प्रोटीन चाहते हैं या अनफ्लेवर्ड भी चलेगा? इससे मैं आपके लिए और सटीक विकल्प चुन सकता हूँ।",
+        "snippet_highlighted_words": [
+          "फ्लेवर वाला प्रोटीन",
+          "अनफ्लेवर्ड"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Amazon.in सर्वाधिक बिकने वाले: व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "Bigmuscles Nutrition Nitra आइसोलेट [1kg, रिच चॉकलेट] | 32g प्रोटीन | 10g EAA | व्हे प्रोटीन प्रोहाइड्रोलेज़ एंजाइम टेक के साथ. तेजी से अवशोषण के लिए | बेहतर ताकत, तेज़ रिकवरी और मांसपेशियों का निर्माण. The Func.",
+        "source": "www.amazon.in"
+      },
+      {
+        "index": 1,
+        "title": "Best Whey Protein Under ₹2000 in India (2026) - ValueLens",
+        "link": "https://valuelens.in/best-whey-protein-under-2000-india",
+        "snippet": "Compare more than 20 whey proteins under ₹2000 by price, protein content, ingredients and value. See our top picks for different needs and budgets.",
+        "source": "valuelens.in"
+      },
+      {
+        "index": 2,
+        "title": "Best Protein Powder Under ₹2,000 in India (2026) - RichDeals",
+        "link": "https://richdeals.in/blog/best-protein-powder-under-2000-india-2026",
+        "snippet": "A cost-per-scoop comparison of whey versus plant protein, plus authenticity checks and how to spot a real 2026 deal on protein powder under 2,000 rupees.",
+        "source": "richdeals.in"
+      },
+      {
+        "index": 3,
+        "title": "Best Protein Powders Under ₹2,000 in India | Whey2Much",
+        "link": "https://whey2much.in/blog/best-protein-under-2000-india",
+        "snippet": "Quality protein doesn't need to be expensive. Five lab-tested whey picks under ₹2,000, chosen for protein-per-rupee, clean formulation, and verified certifications.",
+        "source": "whey2much.in"
+      },
+      {
+        "index": 4,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे ... - MensXP",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "हाई क्वालिटी के 'कंप्‍लीट प्रोटीन' को व्हे प्रोटीन (whey protein) कहते हैं। इसमें काफी सारे अमीनो एसिड्स होते हैं, जैसे - ब्रांच्ड एमीनो एसिड्स (Branched Amino Acids), ग्लूटामिन (Glutamins),...",
+        "source": "MensXP"
+      },
+      {
+        "index": 5,
+        "title": "10 Best Whey Protein Powders in India (2026): MuscleBlaze, TrueBasics ...",
+        "link": "https://www.healthkart.com/connect/10-best-whey-protein-powders-in-india-2026-muscleblaze-truebasics-more-ranked/",
+        "snippet": "Expert-ranked whey protein powders in India compared by purity, form, and price per gram. Top picks across concentrate, isolate, and hydrolysate for every goal.",
+        "source": "HealthKart"
+      },
+      {
+        "index": 6,
+        "title": "Best Whey Protein Under 2000 India (2026 Lab-Tested Guide)",
+        "link": "https://andwhey.com/best-whey-protein-under-2000-india/",
+        "snippet": "Discover the best whey protein under 2000 India has to offer. Compare clean, genuine raw concentrates and isolates that fit your fitness budget.",
+        "source": "andwhey.com"
+      },
+      {
+        "index": 7,
+        "title": "Best Whey Protein in India 2026 | Lab Tested, FSSAI Certified | Aarogya ...",
+        "link": "https://aarogyamatrix.com/blogs/news/whey-protein-india-guide-2026",
+        "snippet": "Read karo 2026 ka complete guide — lab tested whey protein ke baare mein, kaunsa better hai, aur kyun Aarogya Matrix Gold Whey Protein India ka most honest choice hai.",
+        "source": "aarogyamatrix.com"
+      },
+      {
+        "index": 8,
+        "title": "Best Whey Protein in India 2026 — Top 10 Ranked by Value & Quality",
+        "link": "https://proteinpaisa.com/blog/best-whey-protein-india-2026/",
+        "snippet": "Finding the best whey protein in India in 2026 is harder than ever. There are dozens of brands, hundreds of products, and every brand claims to be the best. Some focus on purity, others on taste, and some just on price.",
+        "source": "proteinpaisa.com"
+      },
+      {
+        "index": 9,
+        "title": "₹2000 Mein Best Whey Protein Kaun? | Nakpro vs Fuel One vs OSOAA ...",
+        "link": "https://www.youtube.com/watch?v=NNTCSSYsxtI",
+        "snippet": "Searching for the best whey protein under ₹2000?In this video, we compare three of the most popular whey proteins in India using only publicly available info...",
+        "source": "YouTube"
+      }
+    ]
+  }
+}

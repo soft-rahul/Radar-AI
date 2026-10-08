@@ -1,0 +1,521 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "best whey protein brands in india",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:36:15+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb27b917c7b403a586ea",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/fO6A1b3MAb8-a-uUmwY4YsPUaDxC7-3KQjsrDqlBqYQ/6ac4eb27b917c7b403a586ea.json",
+      "markdown_endpoint": "https://serpapi.com/searches/fO6A1b3MAb8-a-uUmwY4YsPUaDxC7-3KQjsrDqlBqYQ/6ac4eb27b917c7b403a586ea.md",
+      "created_at": "2026-10-06 12:35:51 UTC",
+      "processed_at": "2026-10-06 12:35:51 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=best+whey+protein+brands+in+india&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/fO6A1b3MAb8-a-uUmwY4YsPUaDxC7-3KQjsrDqlBqYQ/6ac4eb27b917c7b403a586ea.html",
+      "total_time_taken": 23.74
+    },
+    "search_parameters": {
+      "q": "best whey protein brands in india",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "The top whey protein brands in India based on expert rankings, purity, and value are MuscleBlaze, TrueBasics, Optimum Nutrition, MyProtein, AS-IT-IS, Dymatize, Avvatar, and Fast&Up.",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "If you want the single best overall pick, MuscleBlaze Biozyme Whey Protein ranks #1 HealthKart .",
+        "snippet_highlighted_words": [
+          "If you want the single best overall pick, MuscleBlaze Biozyme Whey Protein ranks #1"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ Top Whey Protein Brands in India (Ranked)",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "These rankings come from expert testing of purity, protein %, price per kg, and label accuracy HealthKart .",
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "MuscleBlaze Biozyme Whey Protein — Score: 86/100",
+            "snippet_highlighted_words": [
+              "MuscleBlaze Biozyme Whey Protein",
+              "Score: 86/100"
+            ],
+            "list": [
+              {
+                "snippet": "Best overall for Indian users",
+                "snippet_highlighted_words": [
+                  "Best overall"
+                ]
+              },
+              {
+                "snippet": "25g protein per 33g serving"
+              },
+              {
+                "snippet": "Strong digestion support and verified batch testing 1",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "MuscleBlaze Raw Whey Isolate 90 — Score: 84/100",
+            "snippet_highlighted_words": [
+              "MuscleBlaze Raw Whey Isolate 90",
+              "Score: 84/100"
+            ],
+            "list": [
+              {
+                "snippet": "Best isolate (90% protein per 100g)",
+                "snippet_highlighted_words": [
+                  "Best isolate"
+                ]
+              },
+              {
+                "snippet": "27g protein per 30g serving"
+              },
+              {
+                "snippet": "Great for low‑lactose needs 1",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "TrueBasics Clean Whey Protein — Score: 74/100",
+            "snippet_highlighted_words": [
+              "TrueBasics Clean Whey Protein",
+              "Score: 74/100"
+            ],
+            "list": [
+              {
+                "snippet": "Clean-label blend (isolate + concentrate)"
+              },
+              {
+                "snippet": "25.2g protein per serving"
+              },
+              {
+                "snippet": "Third‑party tested for macro accuracy and contaminants 1",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey — Score: 72/100",
+            "snippet_highlighted_words": [
+              "Optimum Nutrition (ON) Gold Standard 100% Whey",
+              "Score: 72/100"
+            ],
+            "list": [
+              {
+                "snippet": "Most trusted international brand",
+                "snippet_highlighted_words": [
+                  "Most trusted international brand"
+                ]
+              },
+              {
+                "snippet": "24g protein per serving"
+              },
+              {
+                "snippet": "Informed Choice certified 1",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "MyProtein Impact Whey — Score: 68/100",
+            "snippet_highlighted_words": [
+              "MyProtein Impact Whey",
+              "Score: 68/100"
+            ],
+            "list": [
+              {
+                "snippet": "Best flavour variety",
+                "snippet_highlighted_words": [
+                  "flavour variety"
+                ]
+              },
+              {
+                "snippet": "Protein varies by flavour (67–84g per 100g)"
+              },
+              {
+                "snippet": "Informed Choice + Informed Protein certified 1",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "Avvatar Absolute Whey — Score: 66/100",
+            "snippet_highlighted_words": [
+              "Avvatar Absolute Whey",
+              "Score: 66/100"
+            ],
+            "list": [
+              {
+                "snippet": "Strong Indian brand with good value"
+              },
+              {
+                "snippet": "26g protein per 35g serving"
+              },
+              {
+                "snippet": "Eurofins-tested batch for purity 1",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "AS-IT-IS Nutrition Whey Concentrate 80% — Score: 64/100",
+            "snippet_highlighted_words": [
+              "AS-IT-IS Nutrition Whey Concentrate 80%",
+              "Score: 64/100"
+            ],
+            "list": [
+              {
+                "snippet": "Best budget raw whey",
+                "snippet_highlighted_words": [
+                  "Best budget raw whey"
+                ]
+              },
+              {
+                "snippet": "80% protein per 100g"
+              },
+              {
+                "snippet": "No flavours, no additives 1",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "Dymatize ISO100 Hydrolyzed — Score: 62/100",
+            "snippet_highlighted_words": [
+              "Dymatize ISO100 Hydrolyzed",
+              "Score: 62/100"
+            ],
+            "list": [
+              {
+                "snippet": "Premium hydrolyzed isolate"
+              },
+              {
+                "snippet": "Fastest digestion; great for athletes 1",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "Fast&Up Whey Essential — Score: 60/100",
+            "snippet_highlighted_words": [
+              "Fast&Up Whey Essential",
+              "Score: 60/100"
+            ],
+            "list": [
+              {
+                "snippet": "Good everyday whey option 1",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "HK Vitals Whey Protein — Score: 51/100",
+            "snippet_highlighted_words": [
+              "HK Vitals Whey Protein",
+              "Score: 51/100"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Entry-level whey for beginners 1",
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📊 Comparison Table (Top 5)",
+        "level": 3
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "MuscleBlaze Biozyme",
+            "~76g",
+            "Blend",
+            "₹3600–3700",
+            "Overall performance 1"
+          ],
+          [
+            "MB Raw Whey Isolate 90",
+            "90g",
+            "Isolate",
+            "~₹4800",
+            "Lean muscle, low lactose 1"
+          ],
+          [
+            "TrueBasics Clean Whey",
+            "72g",
+            "Blend",
+            "~₹3899",
+            "Clean-label users 1"
+          ],
+          [
+            "ON Gold Standard",
+            "~79g",
+            "Blend",
+            "₹3600–4300",
+            "Global trust 1"
+          ],
+          [
+            "MyProtein Impact Whey",
+            "67–84g",
+            "Concentrate",
+            "₹2800–3300",
+            "Flavour variety 1"
+          ]
+        ],
+        "headers": [
+          "Brand",
+          "Protein per 100g",
+          "Type",
+          "Price per kg",
+          "Best For"
+        ],
+        "formatted": [
+          {
+            "brand": "MuscleBlaze Biozyme",
+            "protein_per_100g": "~76g",
+            "type": "Blend",
+            "price_per_kg": "₹3600–3700",
+            "best_for": "Overall performance 1"
+          },
+          {
+            "brand": "MB Raw Whey Isolate 90",
+            "protein_per_100g": "90g",
+            "type": "Isolate",
+            "price_per_kg": "~₹4800",
+            "best_for": "Lean muscle, low lactose 1"
+          },
+          {
+            "brand": "TrueBasics Clean Whey",
+            "protein_per_100g": "72g",
+            "type": "Blend",
+            "price_per_kg": "~₹3899",
+            "best_for": "Clean-label users 1"
+          },
+          {
+            "brand": "ON Gold Standard",
+            "protein_per_100g": "~79g",
+            "type": "Blend",
+            "price_per_kg": "₹3600–4300",
+            "best_for": "Global trust 1"
+          },
+          {
+            "brand": "MyProtein Impact Whey",
+            "protein_per_100g": "67–84g",
+            "type": "Concentrate",
+            "price_per_kg": "₹2800–3300",
+            "best_for": "Flavour variety 1"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "🧭 Which Brand Should You Choose?",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "You"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Best overall: MuscleBlaze Biozyme Whey Protein 1",
+            "snippet_highlighted_words": [
+              "Best overall:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Best isolate (low lactose): MuscleBlaze Raw Whey Isolate 90 1",
+            "snippet_highlighted_words": [
+              "Best isolate (low lactose):"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Best clean-label: TrueBasics Clean Whey 1",
+            "snippet_highlighted_words": [
+              "Best clean-label:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Best international: ON Gold Standard 1",
+            "snippet_highlighted_words": [
+              "Best international:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Best budget: AS-IT-IS Whey Concentrate 80% 1",
+            "snippet_highlighted_words": [
+              "Best budget:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Best taste options: MyProtein Impact Whey 1",
+            "snippet_highlighted_words": [
+              "Best taste options:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Best for fast digestion: Dymatize ISO100 1",
+            "snippet_highlighted_words": [
+              "Best for fast digestion:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ Follow-up question",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Do you want a recommendation based on your goal (muscle gain, fat loss, budget, or digestion issues)?",
+        "snippet_highlighted_words": [
+          "your goal"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "10 Best Whey Protein Powders in India (2026): MuscleBlaze ...",
+        "link": "https://www.healthkart.com/connect/10-best-whey-protein-powders-in-india-2026-muscleblaze-truebasics-more-ranked/",
+        "snippet": "1 MuscleBlaze Biozyme Whey Protein 1.1 Type: Blend of whey isolate and concentrate 1.2 Protein per serving: ~25g 1.3 Highlights: Includes digestive enzymes (Biozyme) for better absorption, ideal for those with mild lactose intolerance or digestive issues, FSSAI certified, lab-tested for authenticity, good flavor options, made in India, cost-effective for daily use. 2 Optimum Nutrition (ON) Gold Standard 100% Whey 2.1 Type: Whey protein isolate-led blend 2.2 Protein per serving: ~24g 2.3 Highlights: Internationally trusted brand, high-quality amino acid profile, excellent mixability, suitable for serious gym-goers, premium pricing, ideal for rapid post-workout recovery. 3 AS-IT-IS Nutrition Whey Protein Concentrate 80% 3.1 Type: Whey protein concentrate 3.2 Protein per serving: ~20–24g 3.3 Highlights: Budget-friendly, unflavored single-ingredient option, high protein per rupee, minimal additives, suitable for beginners or cost-conscious users. 4 MuscleBlaze Raw Whey Isolate 90 4.1 Type: Whey protein isolate 4.2 Protein per serving: 27g per 30g serving 4.3 Highlights: Low-lactose, highly filtered, ideal for lactose-intolerant users, fast absorption, premium Indian option. 5 Isopure Low Carb 100% Whey Protein Isolate 5.1 Type: Whey isolate 5.2 Protein per serving: ~25g 5.3 Highlights: Low-carb, clean-label, suitable for lean muscle building and calorie-conscious users. 6 Nutrabay Gold Whey Protein Concentrate 6.1 Type: Whey concentrate 6.2 Protein per serving: ~24g 6.3 Highlights: Includes digestive enzymes, good for daily use, affordable, Indian brand with strong consumer trust. 1 Protein Type: Whey isolate is better for low-lactose needs and faster absorption; concentrate is more cost-effective and retains natural nutrients. 2 Digestibility: Look for added enzymes like lactase or Biozyme to reduce bloating, especially for South Asians with reduced lactase activity. 3 Protein per Serving: Aim for 24–30g per scoop for effective muscle recovery. 4 Price and Value: Consider protein per rupee rather than just price per kg. 5 Authenticity and Certification: Choose products with third-party testing (Labdoor, Trustified Gold, Informed Choice) to avoid counterfeit or adulterated supplements. 6 Use Case: Beginners may prefer budget-friendly concentrates, while advanced athletes may benefit from isolate blends for rapid recovery. For Indian consumers in 2026, MuscleBlaze Biozyme is the most versatile and digestion-friendly option, Optimum Nutrition Gold Standard is the premium international benchmark, and AS-IT-IS Nutrition Whey offers the best value for budget-conscious users. Other notable options like MuscleBlaze Raw Whey Isolate and Isopure Low Carb cater to lactose-intolerant or lean muscle-focused users. Always verify authenticity and check lab certifications before purchase to ensure safety and quality.",
+        "source": "HealthKart"
+      },
+      {
+        "index": 1,
+        "title": "Best Whey Protein in India 2026 — Top 10 Ranked by Value & Quality",
+        "link": "https://proteinpaisa.com/blog/best-whey-protein-india-2026/",
+        "snippet": "Complete ranking of the best whey protein powders in India for 2026. Compare MuscleBlaze, Nakpro, Avvatar, ON, AS-IT-IS, Nutrabay & more by price, purity, and taste.",
+        "source": "proteinpaisa.com"
+      },
+      {
+        "index": 2,
+        "title": "Best Whey Protein in India 2026 — 12 Brands Tested & Ranked",
+        "link": "https://nutsutra.com/blog/best-whey-protein-in-india-2026-12-brands-tested-ranked",
+        "snippet": "We tested 12 whey protein brands available in India. Here's our honest ranking based on protein-per-rupee, mixability, third-party testing, and taste.",
+        "source": "nutsutra.com"
+      },
+      {
+        "index": 3,
+        "title": "Comparing 10 Best Whey Protein in India - Nutrabay Magazine",
+        "link": "https://nutrabay.com/magazine/10-best-whey-protein-in-india-comparison",
+        "snippet": "Top 10 Whey Protein Brands in India Based on consumer reviews, nutritional content, and brand reputation, here are the leading whey protein brands & products available in India.",
+        "source": "NUTRABAY™"
+      },
+      {
+        "index": 4,
+        "title": "Best Whey Protein in India 2026 — 18 Products Reviewed, Honest Verdicts",
+        "link": "https://readthisfirst.in/best/best-whey-protein-india/",
+        "snippet": "Best whey protein India 2026: 18 products reviewed with protein-per-rupee data, amino spiking evidence, brand ownership, certifications. MuscleBlaze vs AS-IT-IS vs ON vs The Whole Truth vs avvatar.",
+        "source": "readthisfirst.in"
+      },
+      {
+        "index": 5,
+        "title": "10 Best Whey Proteins in India 2026 — Tested & Ranked",
+        "link": "https://2xnutrition.com/blogs/articles/comparing-10-best-whey-proteins-in-india-2025-edition",
+        "snippet": "We tested 10 top whey proteins in India — comparing price, taste, amino profile & results. See which brand actually delivers. Updated for 2026 with new picks.",
+        "source": "2X Nutrition"
+      },
+      {
+        "index": 6,
+        "title": "7 Best Whey Protein In India 2026 — Tested & Authenticated | Choicely.in",
+        "link": "https://choicely.in/best-whey-protein-in-india-2026/",
+        "snippet": "Looking for the best whey protein in India 2026? We tested top brands for authenticity, mixability, and results. See our top picks and avoid fakes.",
+        "source": "choicely.in"
+      },
+      {
+        "index": 7,
+        "title": "Top 10 Protein Powder Brands in India (2026 Updated List)",
+        "link": "https://getmymettle.com/blogs/health/top-10-protein-powder-brands-in-india",
+        "snippet": "Discover the top 10 protein powder brands in India for 2026. Compare whey, plant, and budget-friendly options for muscle gain, fitness, and daily nutrition.",
+        "source": "GetMyMettle"
+      },
+      {
+        "index": 8,
+        "title": "13 Best Whey Proteins in India 2026: Top Picks and Review",
+        "link": "https://thegrandeur.in/best-whey-protein/",
+        "snippet": "Discover the best whey protein in India for your fitness goals. Find the top brands and products to fuel your workouts.",
+        "source": "thegrandeur.in"
+      },
+      {
+        "index": 9,
+        "title": "Top 20 Whey Protein Brands In India: A Handy Full Guide",
+        "link": "https://foodsure.co.in/blog/whey-protein-brands-in-india/",
+        "snippet": "Get a handy, full guide to the Top 20 Whey Protein Brands in India, covering purity, taste, and pricing to help you choose wisely.",
+        "source": "foodsure.co.in"
+      }
+    ]
+  }
+}

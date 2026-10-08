@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "shelfradar": {
+      "command": "uv",
+      "args": ["run", "shelfradar-mcp"]
+    }
+  }
+}

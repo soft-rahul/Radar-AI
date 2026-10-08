@@ -1,0 +1,134 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "sabse achha whey protein kaun sa hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:34:18+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eac509a51a828f8137ab",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/J1zkmdYODhJV34TRbPEj76NidXz3AT3DzOTBE8ATa6o/6ac4eac509a51a828f8137ab.json",
+      "markdown_endpoint": "https://serpapi.com/searches/J1zkmdYODhJV34TRbPEj76NidXz3AT3DzOTBE8ATa6o/6ac4eac509a51a828f8137ab.md",
+      "created_at": "2026-10-06 12:34:13 UTC",
+      "processed_at": "2026-10-06 12:34:13 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=sabse+achha+whey+protein+kaun+sa+hai&udm=50&gl=in&hl=en&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/J1zkmdYODhJV34TRbPEj76NidXz3AT3DzOTBE8ATa6o/6ac4eac509a51a828f8137ab.html",
+      "prettify_html_file": "https://serpapi.com/searches/J1zkmdYODhJV34TRbPEj76NidXz3AT3DzOTBE8ATa6o/6ac4eac509a51a828f8137ab.prettify",
+      "total_time_taken": 4.97
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "sabse achha whey protein kaun sa hai",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "भारत में सबसे अच्छा व्हे प्रोटीन (Best Whey Protein) इस बात पर निर्भर करता है कि आपका बजट क्या है और आपकी फिटनेस गोल क्या है। बाजार में कुछ सबसे भरोसेमंद और लोकप्रिय विकल्प मौजूद हैं:",
+        "snippet_highlighted_words": [
+          "इस बात पर निर्भर करता है कि आपका बजट क्या है और आपकी फिटनेस गोल क्या है"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey: यह दुनिया भर में और भारत में भी सबसे लोकप्रिय और इंटरनेशनल बेंचमार्क माना जाने वाला प्रीमियम प्रोटीन है। मसल्स रिकवरी और क्वालिटी के लिए इसे बेस्ट माना जाता है।",
+            "reference_indexes": [
+              0,
+              1
+            ]
+          },
+          {
+            "snippet": "MuscleBlaze Biozyme Performance / Iso-Zero: यह एक बेहतरीन इंडियन ब्रांड है जिसे खासतौर पर भारतीयों के पाचन तंत्र (Indian stomachs) को ध्यान में रखकर बनाया गया है। इसकी क्लिनिकल टेस्टिंग और एब्जॉर्प्शन टेक्नोलॉजी काफी अच्छी है।",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Isopure Zero Carb / Low Carb: अगर आप पूरी तरह से लैक्टोज-फ्री, फैट-फ्री और शुद्ध आइसोलेट (Isolate) चाहते हैं, तो आइसोप्योर सबसे बेहतरीन प्रीमियम विकल्पों में से एक है।",
+            "reference_indexes": [
+              0,
+              2
+            ]
+          },
+          {
+            "snippet": "The Whole Truth Raw Whey / AS-IT-IS (Unflavoured): अगर आपको बिना किसी आर्टिफिशियल फ्लेवर, शुगर या एडिटिव्स के एकदम शुद्ध (Clean/Raw) प्रोटीन चाहिए, तो ये ब्रांड्स वैल्यू फॉर मनी और शुद्धता के मामले में शानदार हैं।",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Nakpro Gold / Platinum: यह बजट-फ्रेंडली (Budget-friendly) ऑप्शन है जो कम कीमत में अच्छी क्वालिटी का प्रोटीन और अच्छा रिजल्ट देता है।",
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "सही चुनाव करने के लिए मुझे बताएं:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "आपका बजट कितना है?"
+          },
+          {
+            "snippet": "क्या आपको पेट से जुड़ी कोई दिक्कत (जैसे लैक्टोज इंटॉलरेंस) है?"
+          },
+          {
+            "snippet": "आपका मुख्य लक्ष्य मसल्स बिल्डिंग है या वेट लॉस/कटिंग?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Top 10 Whey Protein Brands In India 2026 - Flavor Catalystz",
+        "link": "https://www.flavorcatalyst.com/insights/top-10-whey-protein-brands-in-india/",
+        "snippet": "Optimum Nutrition Gold Standard 100% Whey is the safest premium pick and MuscleBlaze Biozyme Performance Whey is the best Indian value option.",
+        "source": "Flavor Catalystz",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.flavorcatalyst.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNtEo-4LDsuB-yNRYVG3emW4Cm0_cNeps4CP2C9Pj25PB75gPB0TsuJPsFCg04Rhx0OJeStYp9_j5zkDyq-5M2khr6OkGB9HhPDsq1"
+      },
+      {
+        "index": 1,
+        "title": "Top 7 Cleanest Whey Proteins in India (2026): Ranked by Purity ...",
+        "link": "https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/",
+        "snippet": "NAKPRO Gold Clean Raw Whey Protein Concentrate (Unflavoured) — Budget Trustified Clean Whey | Overall Score: 7.85/10 6.",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkfwm3fkkvJExPFkiO_UYl8lPNWc5sspZ-ZnrG6PYWVWu8z6VOvqDL_vEQFkUJf9TAvwzcnZxjQ_JBDXCm4gIYb7HUB6hQ5ioNL6_I"
+      },
+      {
+        "index": 2,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "100% व्हे स्टेन्डर्ड (Optimum Nutrition (ON) 100% Whey Gold Standard) इसमें लैक्टोज, एस्पार्टेम",
+        "source": "MensXP",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mensxp.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaDoapwkJkYod83j8MSenrpNtKl_86QFguC2EIb77d-5bStwnfKo9OHxAnQ8P84_sp8k02YqcnBvm8kdW_lfVXGuP59H9k1dKDT4Rg"
+      }
+    ],
+    "reconstructed_markdown": "भारत में सबसे अच्छा व्हे प्रोटीन \\(Best Whey Protein\\) इस बात पर निर्भर करता है कि आपका बजट क्या है और आपकी फिटनेस गोल क्या है। बाजार में कुछ सबसे भरोसेमंद और लोकप्रिय विकल्प मौजूद हैं: [0]\n\n- Optimum Nutrition \\(ON\\) Gold Standard 100% Whey: यह दुनिया भर में और भारत में भी सबसे लोकप्रिय और इंटरनेशनल बेंचमार्क माना जाने वाला प्रीमियम प्रोटीन है। मसल्स रिकवरी और क्वालिटी के लिए इसे बेस्ट माना जाता है। [0] [1]\n- MuscleBlaze Biozyme Performance / Iso\\-Zero: यह एक बेहतरीन इंडियन ब्रांड है जिसे खासतौर पर भारतीयों के पाचन तंत्र \\(Indian stomachs\\) को ध्यान में रखकर बनाया गया है। इसकी क्लिनिकल टेस्टिंग और एब्जॉर्प्शन टेक्नोलॉजी काफी अच्छी है। [0]\n- Isopure Zero Carb / Low Carb: अगर आप पूरी तरह से लैक्टोज\\-फ्री, फैट\\-फ्री और शुद्ध आइसोलेट \\(Isolate\\) चाहते हैं, तो आइसोप्योर सबसे बेहतरीन प्रीमियम विकल्पों में से एक है। [0] [2]\n- The Whole Truth Raw Whey / AS\\-IT\\-IS \\(Unflavoured\\): अगर आपको बिना किसी आर्टिफिशियल फ्लेवर, शुगर या एडिटिव्स के एकदम शुद्ध \\(Clean/Raw\\) प्रोटीन चाहिए, तो ये ब्रांड्स वैल्यू फॉर मनी और शुद्धता के मामले में शानदार हैं। [1]\n- Nakpro Gold / Platinum: यह बजट\\-फ्रेंडली \\(Budget\\-friendly\\) ऑप्शन है जो कम कीमत में अच्छी क्वालिटी का प्रोटीन और अच्छा रिजल्ट देता है। [1]\n\nसही चुनाव करने के लिए मुझे बताएं:\n\n- आपका बजट कितना है?\n- क्या आपको पेट से जुड़ी कोई दिक्कत \\(जैसे लैक्टोज इंटॉलरेंस\\) है?\n- आपका मुख्य लक्ष्य मसल्स बिल्डिंग है या वेट लॉस/कटिंग?\n\n\n### References\n\n[0] [Top 10 Whey Protein Brands In India 2026 \\- Flavor Catalystz](https://www.google.com/goto?url=CAEShwEB6zswFTI0WMND-NB8ka_JhwnHu65YfpxP8n6jxKe1u0P59MzMBTWHabClNcePkewMVsYbhcTAgPJGReN8EHHnmsopYvOgx6gT4Ak95RE_ygM-Z7h5alnHyXXRoL6DmcbFiwr4GdHHR3sVLOnauvswCpWCBbuNqIP8eCZy_M5sei9MNqYI1vQ) — Optimum Nutrition Gold Standard 100% Whey is the safest premium pick and MuscleBlaze Biozyme Performance Whey is the best Indian value option.\n\n[1] [Top 7 Cleanest Whey Proteins in India \\(2026\\): Ranked by Purity ...](https://www.google.com/goto?url=CAESswEB6zswFbTvHDDmPjaHbrggAjkd87rAYr4oX1CnwbSYW0kxiblYCrn4gyn9IjJ7k0OJHau5ocU_dGT7Op6DR10JysNJ9BAkPEjljNcBY6CTBUclKgZuFIUKZC8DUJzl97wWtso1AVPrL8yO8SZ3ptI5RtGUfWXQBC1LRovJDPXIlu2BaRZ1T_sHtkvQkj40TPwDb_gG9eox1wslf44DsYSOgiKh36CbVfwr57-hwJJCPb4Omg) — NAKPRO Gold Clean Raw Whey Protein Concentrate \\(Unflavoured\\) — Budget Trustified Clean Whey \\| Overall Score: 7.85/10 6.\n\n[2] [Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए](https://www.google.com/goto?url=CAESsAEB6zswFZN7iuYb7FoR5O_72JCcs4oAzpVVq9_GuqEByd0rWA3TaVRYAnF5Ofmd2hrubdFyX0I-QfI75BWkPZHJdyISG5ihw1CcA-r1sP9_DBjrQg_CC_1xGI07tVj0WQl4cLwpAjcfE8Pv0Ql0_fBpLV1OmzbWW2IkAfuF2jeTeFdpZ_WU3CmYuMs4_W6rVFCQYYYyqjOSoksVmahueoDYACUaKaHnszU1TVV8u23WDg) — 100% व्हे स्टेन्डर्ड \\(Optimum Nutrition \\(ON\\) 100% Whey Gold Standard\\) इसमें लैक्टोज, एस्पार्टेम\n"
+  }
+}

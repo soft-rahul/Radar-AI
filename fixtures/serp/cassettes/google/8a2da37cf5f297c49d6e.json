@@ -1,0 +1,344 @@
+{
+  "request": {
+    "engine": "google",
+    "params": {
+      "q": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:38:46+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebd5f7ae8d0731ecb835",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/ZF4tKy5dikA4BRpLJj8cRhORHTJkfCqXd3VY1QpTZ3I/6ac4ebd5f7ae8d0731ecb835.json",
+      "markdown_endpoint": "https://serpapi.com/searches/ZF4tKy5dikA4BRpLJj8cRhORHTJkfCqXd3VY1QpTZ3I/6ac4ebd5f7ae8d0731ecb835.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/ZF4tKy5dikA4BRpLJj8cRhORHTJkfCqXd3VY1QpTZ3I/6ac4ebd5f7ae8d0731ecb835.json_with_pixel_position",
+      "created_at": "2026-10-06 12:38:45 UTC",
+      "processed_at": "2026-10-06 12:38:45 UTC",
+      "google_url": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&oq=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&uule=w+CAIQICILRGVsaGksSW5kaWE&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/ZF4tKy5dikA4BRpLJj8cRhORHTJkfCqXd3VY1QpTZ3I/6ac4ebd5f7ae8d0731ecb835.html",
+      "total_time_taken": 0.8
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "total_results": 922000000,
+      "time_taken_displayed": 0.54,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "कुकर में छोले कैसे बनाएं?",
+        "type": "ai_overview",
+        "page_token": "qmkWHnicHdFLjtowGABg9TKzHPIgdIKEqmZwQJSYsfFvJ95UjgOYxHkUIhKy61267oF6mla9wSd9P3_Za1P9-fTb9H13X85mwzC8Xtr2Yk-vuq1n6v5s9Ewra3Olq-Xi88L9ctYr1A7v7_chItB1fE2do9uJPcATp9FRsSLCcehK1MUg3qaCRY8D7KwAfJexbDXshsPGdUVajDB99Qm8jVmaeVzsIix4e0KSkYnXe9HOcRmLrHIRWMMAhQEr-RXHmZ84_Y1UhiphA1Uaknl4q6rxG8DYgOA_9Cab8DbOeB1cWT2fS5CQ-tw_oMCV1t6ShgQgdM88PcLa_rPbKefGOVrbi5QneRNZDME-Ke0ir8K1auhBeuMzTymQOjaFF9w1l5Svi0eCxhJzWTNrFDJ6LFIZZyneSoTmJ1aMxRYT6YQfebmjR9peCdBJl7YGh3oJhIohqzJGqRCXSTJjkk2Q4ikeFRQOkJezfqz8l_8Pq-_nul92t_byF8Pjl08",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qmkWHnicHdFLjtowGABg9TKzHPIgdIKEqmZwQJSYsfFvJ95UjgOYxHkUIhKy61267oF6mla9wSd9P3_Za1P9-fTb9H13X85mwzC8Xtr2Yk-vuq1n6v5s9Ewra3Olq-Xi88L9ctYr1A7v7_chItB1fE2do9uJPcATp9FRsSLCcehK1MUg3qaCRY8D7KwAfJexbDXshsPGdUVajDB99Qm8jVmaeVzsIix4e0KSkYnXe9HOcRmLrHIRWMMAhQEr-RXHmZ84_Y1UhiphA1Uaknl4q6rxG8DYgOA_9Cab8DbOeB1cWT2fS5CQ-tw_oMCV1t6ShgQgdM88PcLa_rPbKefGOVrbi5QneRNZDME-Ke0ir8K1auhBeuMzTymQOjaFF9w1l5Svi0eCxhJzWTNrFDJ6LFIZZyneSoTmJ1aMxRYT6YQfebmjR9peCdBJl7YGh3oJhIohqzJGqRCXSTJjkk2Q4ikeFRQOkJezfqz8l_8Pq-_nul92t_byF8Pjl08",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lWWnZlbGxWVTJZNWRFMVZPRzFOWm1WVE0wVlFiRlI0WVVkcWRtUndXbVpoWkMxSmNVZHZZbTVzWlVObGQyMUlkRE5FUTBoNE5sWlJOVkY1U2w5MmQxVTJXV2xmU0ROdlFYWm1hVGhxWjNjNVpsTnhWRGRQZWpJd1FSSVhNWFYyUldGelIyUkJPSGszY1hSelVHZFBUMjR5VVVrYUlrRkVjM0k1WmxSYVZFNXZWVU40V0dSelF6QXlWR1ZqY0hCc1VVazNWRkJpVlhjIiwiZmN2IjoiMyIsImVpIjoiMXV2RWFzR2RBOHk3cXRzUGdPT24yUUkiLCJxYyI6IkNqSXlNREF3SUd0bElHRnVaR0Z5SUhOaFluTmxJR0ZqWTJoaElIZG9aWGtnY0hKdmRHVnBiaUJyWVhWdUlITmhJR2hoYVJBamZXR1NPRC1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpJXgpYHgpJXgpLAg4KSu4KWH4KSCIOCkm+Cli+CksuClhyDgpJXgpYjgpLjgpYcg4KSs4KSo4KS+4KSP4KSCPyIsImxrIjoiYzVOeWY3Qms2b09salNCeXlRYUZCMHZXUFZqYV9tQkpFNUExLThIUzdnZExOZ0g1UU02YUIwdFdQRml5RDBTQy1VQTlEVUJxNjRNbC14OHNXUTRrQVEiLCJicyI6ImMtUHFZLVJ5ZkxCazZvT2xqU0J5eVFhRkIwdldQVmphX21CSkU1QTEtOEhTN2dkTE5nSDVDbUExSFEtVzdJQncxanhZc3VMQmtuMFBsdlFEVmRvYmVVcTVFMmNJWE44S3VLRU5RR3JyZ3lYN0h5eFpEaVM1SmpOeS1UOVlNZ3VpRHF3Q1RNRk1nWXBoYzhwNmlPUWNNR2NKaExNVHFOTGV5RUhLamd3amtZemdBZ2FUQjlpSS1RLVdyQUtSWUhVb1hwc0I4ZmdxQ0lVdnRKeWtIQWlZUlRDWUJCZ0IiLCJpZCI6ImZjXzF1dkVhc0dkQTh5N3F0c1BnT09uMlFJXzQifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lWWnZlbGxWVTJZNWRFMVZPRzFOWm1WVE0wVlFiRlI0WVVkcWRtUndXbVpoWkMxSmNVZHZZbTVzWlVObGQyMUlkRE5FUTBoNE5sWlJOVkY1U2w5MmQxVTJXV2xmU0ROdlFYWm1hVGhxWjNjNVpsTnhWRGRQZWpJd1FSSVhNWFYyUldGelIyUkJPSGszY1hSelVHZFBUMjR5VVVrYUlrRkVjM0k1WmxSYVZFNXZWVU40V0dSelF6QXlWR1ZqY0hCc1VVazNWRkJpVlhjIiwiZmN2IjoiMyIsImVpIjoiMXV2RWFzR2RBOHk3cXRzUGdPT24yUUkiLCJxYyI6IkNqSXlNREF3SUd0bElHRnVaR0Z5SUhOaFluTmxJR0ZqWTJoaElIZG9aWGtnY0hKdmRHVnBiaUJyWVhWdUlITmhJR2hoYVJBamZXR1NPRC1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpJXgpYHgpJXgpLAg4KSu4KWH4KSCIOCkm%2BCli%2BCksuClhyDgpJXgpYjgpLjgpYcg4KSs4KSo4KS%2B4KSP4KSCPyIsImxrIjoiYzVOeWY3Qms2b09salNCeXlRYUZCMHZXUFZqYV9tQkpFNUExLThIUzdnZExOZ0g1UU02YUIwdFdQRml5RDBTQy1VQTlEVUJxNjRNbC14OHNXUTRrQVEiLCJicyI6ImMtUHFZLVJ5ZkxCazZvT2xqU0J5eVFhRkIwdldQVmphX21CSkU1QTEtOEhTN2dkTE5nSDVDbUExSFEtVzdJQncxanhZc3VMQmtuMFBsdlFEVmRvYmVVcTVFMmNJWE44S3VLRU5RR3JyZ3lYN0h5eFpEaVM1SmpOeS1UOVlNZ3VpRHF3Q1RNRk1nWXBoYzhwNmlPUWNNR2NKaExNVHFOTGV5RUhLamd3amtZemdBZ2FUQjlpSS1RLVdyQUtSWUhVb1hwc0I4ZmdxQ0lVdnRKeWtIQWlZUlRDWUJCZ0IiLCJpZCI6ImZjXzF1dkVhc0dkQTh5N3F0c1BnT09uMlFJXzQifQ%3D%3D"
+      },
+      {
+        "question": "चना का छोला कैसे बनाया जाता है?",
+        "type": "ai_overview",
+        "page_token": "IfULnHicHdFBjpswGEBh9TKznIANUzVSVIkEElBxwm9sB28qMElobGMyQ8OEXe_S2_QGPU1HXb7t9379Nj96_ffTn24ch7flYjFN0_PFuYs5PStnF_Xbo1cLVRvT1EovXz6_-F_PahXf0vX6ZxoVbBj4Bjxatnew3bZgI2JJp1U_3I-e8wBHYY0JyQXAvoTDR0vJ0rDZwGG_0Zihamps-Fprcm8QjyruJkjAlbtuqq4dk5bsvonsphL1AN_NlW2nSgDNty0TdjhQHBXExKPYDg9uWaBM-k5FgDjPbrLv0sKPdtwzd-JHLPezvSyTlMbjDJoELGmzvM8mEF3QzkZXPsM5cyi_tuiUpHPdgwQ7MiKkrfXYUyFRyfmaGjMW1pftNVrvxRS21p-Oc0Z5nJ3BfOF8jlwjsljFxEnU6cYnXc0zWkB6zI8cgUhmQBDtdxqrI8xs2x5KFDwY03Wqk1jhNJQmsSAGTJMI19vco372KHFnCGJBYeXhw5KehHo6q_sKP_2ftPp-tuNyeHWXfxe9n0k",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IfULnHicHdFBjpswGEBh9TKznIANUzVSVIkEElBxwm9sB28qMElobGMyQ8OEXe_S2_QGPU1HXb7t9379Nj96_ffTn24ch7flYjFN0_PFuYs5PStnF_Xbo1cLVRvT1EovXz6_-F_PahXf0vX6ZxoVbBj4Bjxatnew3bZgI2JJp1U_3I-e8wBHYY0JyQXAvoTDR0vJ0rDZwGG_0Zihamps-Fprcm8QjyruJkjAlbtuqq4dk5bsvonsphL1AN_NlW2nSgDNty0TdjhQHBXExKPYDg9uWaBM-k5FgDjPbrLv0sKPdtwzd-JHLPezvSyTlMbjDJoELGmzvM8mEF3QzkZXPsM5cyi_tuiUpHPdgwQ7MiKkrfXYUyFRyfmaGjMW1pftNVrvxRS21p-Oc0Z5nJ3BfOF8jlwjsljFxEnU6cYnXc0zWkB6zI8cgUhmQBDtdxqrI8xs2x5KFDwY03Wqk1jhNJQmsSAGTJMI19vco372KHFnCGJBYeXhw5KehHo6q_sKP_2ftPp-tuNyeHWXfxe9n0k",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lWWnZlbGxWVTJZNWRFMVZPRzFOWm1WVE0wVlFiRlI0WVVkcWRtUndXbVpoWkMxSmNVZHZZbTVzWlVObGQyMUlkRE5FUTBoNE5sWlJOVkY1U2w5MmQxVTJXV2xmU0ROdlFYWm1hVGhxWjNjNVpsTnhWRGRQZWpJd1FSSVhNWFYyUldGelIyUkJPSGszY1hSelVHZFBUMjR5VVVrYUlrRkVjM0k1WmxSYVZFNXZWVU40V0dSelF6QXlWR1ZqY0hCc1VVazNWRkJpVlhjIiwiZmN2IjoiMyIsImVpIjoiMXV2RWFzR2RBOHk3cXRzUGdPT24yUUkiLCJxYyI6IkNqSXlNREF3SUd0bElHRnVaR0Z5SUhOaFluTmxJR0ZqWTJoaElIZG9aWGtnY0hKdmRHVnBiaUJyWVhWdUlITmhJR2hoYVJBamZXR1NPRC1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpJrgpKjgpL4g4KSV4KS+IOCkm+Cli+CksuCkviDgpJXgpYjgpLjgpYcg4KSs4KSo4KS+4KSv4KS+IOCknOCkvuCkpOCkviDgpLngpYg/IiwibGsiOiJjNU95ZTdCazFvTWxLeDRzMmFmd1lNbFVDRFg3d2RMdUIwczJ3Y1NXZGp4WXN1UEIwbllnWncxWTZSS0l6RTZnREFBIiwiYnMiOiJjLVBxWS1SeWZMQms2b09salNCeXlRYUZCMHZXUFZqYV9tQkpFNUExLThIUzdnZExOZ0g1Q21BMUhRLVc3SUJ3MWp4WXN1TEJrbjBQbHZRRFZkb2JlVXE1RTJjSVhOOEt1S0VOUUdycmd5WDdIeXhaRGlTNUpqTnktVDlZTWd1aURxd0NUTUZNZ1lwaGM4cDZpT1FjTUdjSmhMTVRxTkxleUVIS2pnd2prWXpnQWdhVEI5aUktUS1XckFLUllIVW9YcHNCOGZncUNJVXZ0SnlrSEFpWVJUQ1lCQmdCIiwiaWQiOiJmY18xdXZFYXNHZEE4eTdxdHNQZ09PbjJRSV80In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lWWnZlbGxWVTJZNWRFMVZPRzFOWm1WVE0wVlFiRlI0WVVkcWRtUndXbVpoWkMxSmNVZHZZbTVzWlVObGQyMUlkRE5FUTBoNE5sWlJOVkY1U2w5MmQxVTJXV2xmU0ROdlFYWm1hVGhxWjNjNVpsTnhWRGRQZWpJd1FSSVhNWFYyUldGelIyUkJPSGszY1hSelVHZFBUMjR5VVVrYUlrRkVjM0k1WmxSYVZFNXZWVU40V0dSelF6QXlWR1ZqY0hCc1VVazNWRkJpVlhjIiwiZmN2IjoiMyIsImVpIjoiMXV2RWFzR2RBOHk3cXRzUGdPT24yUUkiLCJxYyI6IkNqSXlNREF3SUd0bElHRnVaR0Z5SUhOaFluTmxJR0ZqWTJoaElIZG9aWGtnY0hKdmRHVnBiaUJyWVhWdUlITmhJR2hoYVJBamZXR1NPRC1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpJrgpKjgpL4g4KSV4KS%2BIOCkm%2BCli%2BCksuCkviDgpJXgpYjgpLjgpYcg4KSs4KSo4KS%2B4KSv4KS%2BIOCknOCkvuCkpOCkviDgpLngpYg%2FIiwibGsiOiJjNU95ZTdCazFvTWxLeDRzMmFmd1lNbFVDRFg3d2RMdUIwczJ3Y1NXZGp4WXN1UEIwbllnWncxWTZSS0l6RTZnREFBIiwiYnMiOiJjLVBxWS1SeWZMQms2b09salNCeXlRYUZCMHZXUFZqYV9tQkpFNUExLThIUzdnZExOZ0g1Q21BMUhRLVc3SUJ3MWp4WXN1TEJrbjBQbHZRRFZkb2JlVXE1RTJjSVhOOEt1S0VOUUdycmd5WDdIeXhaRGlTNUpqTnktVDlZTWd1aURxd0NUTUZNZ1lwaGM4cDZpT1FjTUdjSmhMTVRxTkxleUVIS2pnd2prWXpnQWdhVEI5aUktUS1XckFLUllIVW9YcHNCOGZncUNJVXZ0SnlrSEFpWVJUQ1lCQmdCIiwiaWQiOiJmY18xdXZFYXNHZEE4eTdxdHNQZ09PbjJRSV80In0%3D"
+      },
+      {
+        "question": "चटपटे छोले घर पर कैसे बनाएं?",
+        "type": "ai_overview",
+        "page_token": "vfR3LnicHdFLjpswAABQ9TKznICZTEWkqFKCgdLEGX8D3lRgAwk2MZPQgWTXu3TdA_U0rXqBt3k_f9nzxfz59Ps0jsNttVhM0_TcOtfa-lm5flHe7he1UKW1VanM6vXzq_-lUWvopu32Nm0wHwYREY9B9VJBYQ5x9oZ6_6R8Aktos9InXeV5IwXW2z8I4lH2zhOSiiQGNG0nxYiHj8sb74o7vhi_irItASggzIwliA1NbV73aBKQpBq4eSeEU1A0e8ZHysiWR7Yr_3m5nw3K2EPVzwU18nyIjId7_8r8DUK5AsQMQnhhQ3nr0Q6D2mZpZeVYCvQuY70rYZgo0d55POzqRBCa6oL0YS6O5KzBHKhgk-yTwepUAAlCwyy5VlwWOnFLGuElYgTWvPDhSc06l3GRo1RC-FIzPesUYemFb1WXEUrcGXPyUJ3t-dE8hA3PVLglEzoq8yHYB18Dfjn9kEB8OyaSYvzUqI918PT_Yf296cfVcHXtXztClSo",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vfR3LnicHdFLjpswAABQ9TKznICZTEWkqFKCgdLEGX8D3lRgAwk2MZPQgWTXu3TdA_U0rXqBt3k_f9nzxfz59Ps0jsNttVhM0_TcOtfa-lm5flHe7he1UKW1VanM6vXzq_-lUWvopu32Nm0wHwYREY9B9VJBYQ5x9oZ6_6R8Aktos9InXeV5IwXW2z8I4lH2zhOSiiQGNG0nxYiHj8sb74o7vhi_irItASggzIwliA1NbV73aBKQpBq4eSeEU1A0e8ZHysiWR7Yr_3m5nw3K2EPVzwU18nyIjId7_8r8DUK5AsQMQnhhQ3nr0Q6D2mZpZeVYCvQuY70rYZgo0d55POzqRBCa6oL0YS6O5KzBHKhgk-yTwepUAAlCwyy5VlwWOnFLGuElYgTWvPDhSc06l3GRo1RC-FIzPesUYemFb1WXEUrcGXPyUJ3t-dE8hA3PVLglEzoq8yHYB18Dfjn9kEB8OyaSYvzUqI918PT_Yf296cfVcHXtXztClSo",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lWWnZlbGxWVTJZNWRFMVZPRzFOWm1WVE0wVlFiRlI0WVVkcWRtUndXbVpoWkMxSmNVZHZZbTVzWlVObGQyMUlkRE5FUTBoNE5sWlJOVkY1U2w5MmQxVTJXV2xmU0ROdlFYWm1hVGhxWjNjNVpsTnhWRGRQZWpJd1FSSVhNWFYyUldGelIyUkJPSGszY1hSelVHZFBUMjR5VVVrYUlrRkVjM0k1WmxSYVZFNXZWVU40V0dSelF6QXlWR1ZqY0hCc1VVazNWRkJpVlhjIiwiZmN2IjoiMyIsImVpIjoiMXV2RWFzR2RBOHk3cXRzUGdPT24yUUkiLCJxYyI6IkNqSXlNREF3SUd0bElHRnVaR0Z5SUhOaFluTmxJR0ZqWTJoaElIZG9aWGtnY0hKdmRHVnBiaUJyWVhWdUlITmhJR2hoYVJBamZXR1NPRC1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpJrgpJ/gpKrgpJ/gpYcg4KSb4KWL4KSy4KWHIOCkmOCksCDgpKrgpLAg4KSV4KWI4KS44KWHIOCkrOCkqOCkvuCkj+Ckgj8iLCJsayI6ImM1TnllTEJrMW9NbDh4OHNXUVVpbDdZclBGZ3ktOEhTN2dkTE5rRTRheDRzV2ZGZ3lUNFFDZVpQZmJDMEFVaHRmYkJrXzRNbHk0RWtBQSIsImJzIjoiYy1QcVktUnlmTEJrNm9PbGpTQnl5UWFGQjB2V1BWamFfbUJKRTVBMS04SFM3Z2RMTmdINUNtQTFIUS1XN0lCdzFqeFlzdUxCa24wUGx2UURWZG9iZVVxNUUyY0lYTjhLdUtFTlFHcnJneVg3SHl4WkRpUzVKak55LVQ5WU1ndWlEcXdDVE1GTWdZcGhjOHA2aU9RY01HY0poTE1UcU5MZXlFSEtqZ3dqa1l6Z0FnYVRCOWlJLVEtV3JBS1JZSFVvWHBzQjhmZ3FDSVV2dEp5a0hBaVlSVENZQkJnQiIsImlkIjoiZmNfMXV2RWFzR2RBOHk3cXRzUGdPT24yUUlfNCJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1lWWnZlbGxWVTJZNWRFMVZPRzFOWm1WVE0wVlFiRlI0WVVkcWRtUndXbVpoWkMxSmNVZHZZbTVzWlVObGQyMUlkRE5FUTBoNE5sWlJOVkY1U2w5MmQxVTJXV2xmU0ROdlFYWm1hVGhxWjNjNVpsTnhWRGRQZWpJd1FSSVhNWFYyUldGelIyUkJPSGszY1hSelVHZFBUMjR5VVVrYUlrRkVjM0k1WmxSYVZFNXZWVU40V0dSelF6QXlWR1ZqY0hCc1VVazNWRkJpVlhjIiwiZmN2IjoiMyIsImVpIjoiMXV2RWFzR2RBOHk3cXRzUGdPT24yUUkiLCJxYyI6IkNqSXlNREF3SUd0bElHRnVaR0Z5SUhOaFluTmxJR0ZqWTJoaElIZG9aWGtnY0hKdmRHVnBiaUJyWVhWdUlITmhJR2hoYVJBamZXR1NPRC1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpJrgpJ%2FgpKrgpJ%2FgpYcg4KSb4KWL4KSy4KWHIOCkmOCksCDgpKrgpLAg4KSV4KWI4KS44KWHIOCkrOCkqOCkvuCkj%2BCkgj8iLCJsayI6ImM1TnllTEJrMW9NbDh4OHNXUVVpbDdZclBGZ3ktOEhTN2dkTE5rRTRheDRzV2ZGZ3lUNFFDZVpQZmJDMEFVaHRmYkJrXzRNbHk0RWtBQSIsImJzIjoiYy1QcVktUnlmTEJrNm9PbGpTQnl5UWFGQjB2V1BWamFfbUJKRTVBMS04SFM3Z2RMTmdINUNtQTFIUS1XN0lCdzFqeFlzdUxCa24wUGx2UURWZG9iZVVxNUUyY0lYTjhLdUtFTlFHcnJneVg3SHl4WkRpUzVKak55LVQ5WU1ndWlEcXdDVE1GTWdZcGhjOHA2aU9RY01HY0poTE1UcU5MZXlFSEtqZ3dqa1l6Z0FnYVRCOWlJLVEtV3JBS1JZSFVvWHBzQjhmZ3FDSVV2dEp5a0hBaVlSVENZQkJnQiIsImlkIjoiZmNfMXV2RWFzR2RBOHk3cXRzUGdPT24yUUlfNCJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "r4jNzniczVZbcrJIFF7ArGN4MRFEjZoq6q9ubBE1UWLUSV4oBGyQm9IYNG__XmZPUzWrmeZiRCMzmTxMTVsCp_v0ufQ5Hx8_f3dt3_nzlz-sKNqQe5aN47iKgwC7ZlUPPFYjB19nV4FLQt36sdu5phBXRCArsiiPnqQ50SSHTBdNR1sgBruC7TOWK5g-c3gT6oxOBI4xbaG2e0MakQzQPrS2EZng8djnFZlJrQvqUiPmmjrfrwmrsvTi_FrvUqFKqqavSrC6l2ZvmnKYbF-5Ks_x9eqY1TyqA_6zAYFMf0ABmP7Fcj1MNb9iLtGanuliJfNTGN1MRDi9DUutyTLKnePkgf4n-_V7VwdAwkedaeluVMxHBFDJI8SpJVGUv5JQ0Vyeh5JP4HLdq2eVTxbSLdYZldqC545EDMRJA-DTlvN1FBQl5cOLjkG7H8AuBLPywOmZYzB8AZwLTomWDAR7Jjg6g6SrAMQamHYvxy5Dequxtm7p6UNIkqYWnztcgKSmv6nPO92IN97VKHB7c231GM-5273C6kuq5waaYRqqpXI_UrnG15pcp95q36SA0skHokgRUaDp39YfnEU45qqjKqwdsUSb4FTpYkrJ7OxajjBpHFRSRbomXzkaUZROQn4oIgISBPDCjrjmEh8fRcNAj0FffDqP4Bii-AlLJxkVlCU7E2ycG81CPQ25iwo9Bgvt1r_MJRnO5QQeH33JchZrngK6cJTkDVGydjyk-MKURPcE1FKPqtgNOTOjnxKDgWxT6aytk0X6ckH52cOzheRawFJyBlbysE5eDgOwHYBpUmwZpFaT4uahidZFJeUyUDt046wUo3870JdenegImgsMnGFnv3te-d4Iztz49clzo31jLPYGHH9ox9exEnjLf0c_-v8JUB_kFGTkVA4o-BVAwcTeZ3I62Uvr2z0CKiOnckCNMkBl5AQL5NS_Rk4XgELAPgFq-JSSE8Ql5PQNQOFyQMGP62dADa8DyikDFA34ElDTM3KSy8gpB9T3yAl-j5xSfJnZ7ZypdmtcyljSFHumK__mTsLWGI2eVWhGPaPDWW0F_CNjrbzo3tMM90a1jXvID6KDcaPSieDeNJitwHMcV3HMiuYbWlgh2pLQZ123tEpsmYfKJgwi0_Yrjrbz6WrF0mzGc8NA4LTG2pxunndgOB1FrUV_ifiJxg29_sPz7btVX42i3e1WXr8YiyDU6Gcuv7KnyOnvFTCfvOiTR_x65yxtxd-_Kw-3C0XeLuBg0hX3M4vrb3tP4au3bsFmd9uvE6622KhNWzq8DhrNR8Pe3xka3nU2nCO2N3onHNa2L404jYsIddebP9qmvXx3GJomMYUa44W6QHukgcGjAhZJZ4ovQKHfMTONAluMgSLdAQVBnjYNQ3RNNcmb0Fg2ebN2Zxp1s9Ns6tQKjg4bocMxxA-F2l8_1l0M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r4jNzniczVZbcrJIFF7ArGN4MRFEjZoq6q9ubBE1UWLUSV4oBGyQm9IYNG__XmZPUzWrmeZiRCMzmTxMTVsCp_v0ufQ5Hx8_f3dt3_nzlz-sKNqQe5aN47iKgwC7ZlUPPFYjB19nV4FLQt36sdu5phBXRCArsiiPnqQ50SSHTBdNR1sgBruC7TOWK5g-c3gT6oxOBI4xbaG2e0MakQzQPrS2EZng8djnFZlJrQvqUiPmmjrfrwmrsvTi_FrvUqFKqqavSrC6l2ZvmnKYbF-5Ks_x9eqY1TyqA_6zAYFMf0ABmP7Fcj1MNb9iLtGanuliJfNTGN1MRDi9DUutyTLKnePkgf4n-_V7VwdAwkedaeluVMxHBFDJI8SpJVGUv5JQ0Vyeh5JP4HLdq2eVTxbSLdYZldqC545EDMRJA-DTlvN1FBQl5cOLjkG7H8AuBLPywOmZYzB8AZwLTomWDAR7Jjg6g6SrAMQamHYvxy5Dequxtm7p6UNIkqYWnztcgKSmv6nPO92IN97VKHB7c231GM-5273C6kuq5waaYRqqpXI_UrnG15pcp95q36SA0skHokgRUaDp39YfnEU45qqjKqwdsUSb4FTpYkrJ7OxajjBpHFRSRbomXzkaUZROQn4oIgISBPDCjrjmEh8fRcNAj0FffDqP4Bii-AlLJxkVlCU7E2ycG81CPQ25iwo9Bgvt1r_MJRnO5QQeH33JchZrngK6cJTkDVGydjyk-MKURPcE1FKPqtgNOTOjnxKDgWxT6aytk0X6ckH52cOzheRawFJyBlbysE5eDgOwHYBpUmwZpFaT4uahidZFJeUyUDt046wUo3870JdenegImgsMnGFnv3te-d4Iztz49clzo31jLPYGHH9ox9exEnjLf0c_-v8JUB_kFGTkVA4o-BVAwcTeZ3I62Uvr2z0CKiOnckCNMkBl5AQL5NS_Rk4XgELAPgFq-JSSE8Ql5PQNQOFyQMGP62dADa8DyikDFA34ElDTM3KSy8gpB9T3yAl-j5xSfJnZ7ZypdmtcyljSFHumK__mTsLWGI2eVWhGPaPDWW0F_CNjrbzo3tMM90a1jXvID6KDcaPSieDeNJitwHMcV3HMiuYbWlgh2pLQZ123tEpsmYfKJgwi0_Yrjrbz6WrF0mzGc8NA4LTG2pxunndgOB1FrUV_ifiJxg29_sPz7btVX42i3e1WXr8YiyDU6Gcuv7KnyOnvFTCfvOiTR_x65yxtxd-_Kw-3C0XeLuBg0hX3M4vrb3tP4au3bsFmd9uvE6622KhNWzq8DhrNR8Pe3xka3nU2nCO2N3onHNa2L404jYsIddebP9qmvXx3GJomMYUa44W6QHukgcGjAhZJZ4ovQKHfMTONAluMgSLdAQVBnjYNQ3RNNcmb0Fg2ebN2Zxp1s9Ns6tQKjg4bocMxxA-F2l8_1l0M"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "दुनिया के सबसे आसान छोले - अब घंटो का काम मिंटो में , मुश्किलें होंगी ...",
+        "link": "https://www.youtube.com/watch?v=1ffFnH8uaTw",
+        "displayed_link": "1.5Cr+ views · 3 years ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4ebd5f7ae8d0731ecb835/images/qMzshF3gTbFjKxn35I1J436YXTMfBS_0lQFRfgIKj3s.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+        "snippet": "INGREDIENTS TO MAKE THE RECIPE : 2 Cups Kabuli Chana (400gms) 2 Onion 2 Tomatoes 3 Green Chillies Water as needed 1/2 tsp Baking Soda ...",
+        "duration": "6:37",
+        "about_this_result": {
+          "source": {
+            "description": "INGREDIENTS TO MAKE THE RECIPE : 2 Cups Kabuli Chana (400gms) 2 Onion 2 Tomatoes 3 Green Chillies Water as needed 1/2 tsp Baking Soda ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjE3eldnckV1Tk9DRHpwVTJ6OWZoYlc2Y0JQREY2Vl8zTm5yYmlRTUp6UUZ1V3hEaWsyX2U3TTBkdU1qYldiM2wxcUxXWmtlTU95SmlIajczYnJleXdtV2hXTlM0cmsyQ0pQczRkM1h5cFpuRS1vMHBaeXhZOG44RHBiYy1NTUFlb3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjE3eldnckV1Tk9DRHpwVTJ6OWZoYlc2Y0JQREY2Vl8zTm5yYmlRTUp6UUZ1V3hEaWsyX2U3TTBkdU1qYldiM2wxcUxXWmtlTU95SmlIajczYnJleXdtV2hXTlM0cmsyQ0pQczRkM1h5cFpuRS1vMHBaeXhZOG44RHBiYy1NTUFlb3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "source": "YouTube · bharatzkitchen HINDI"
+      },
+      {
+        "position": 2,
+        "title": "Sabse Best Phone under 40000 @manojsaru . . . . ...",
+        "link": "https://www.instagram.com/reel/DY93gb0hh9l/?hl=en",
+        "displayed_link": "1.5L+ likes · 4 months ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4ebd5f7ae8d0731ecb835/images/qMzshF3gTbFjKxn35I1J4wMnvwtsjyW4nAKgOtctZMk.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+        "snippet": "Sabse Best Phone under 40,000. My name is monjitmandal. I am a Class 11 student and I watch TechnologyGyan regularly. Best phones under 20 k",
+        "duration": "1:23",
+        "about_this_result": {
+          "source": {
+            "description": "Sabse Best Phone under 40,000. My name is monjitmandal. I am a Class 11 student and I watch TechnologyGyan regularly. Best phones under 20 k",
+            "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVnVvdXVQcXlBN0s2U0pDQ2h5dGlMWnhxZlhlZk1lRkNIY2FxQ1NpTGEwVF94YVFyS1lwYkFFT0Jkb3Jud0Fsd3FuR1dGOUVuWkRrXzFwaWdPSVFDUEQ2UmxtbTA1aXNhSUY5QjFMY2s3VFI4QzlkajIwQ3MydjZGdm9qN1ZTMklFVXVzaWtpeExHQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVnVvdXVQcXlBN0s2U0pDQ2h5dGlMWnhxZlhlZk1lRkNIY2FxQ1NpTGEwVF94YVFyS1lwYkFFT0Jkb3Jud0Fsd3FuR1dGOUVuWkRrXzFwaWdPSVFDUEQ2UmxtbTA1aXNhSUY5QjFMY2s3VFI4QzlkajIwQ3MydjZGdm9qN1ZTMklFVXVzaWtpeExHQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "Instagram · manojsaru"
+      },
+      {
+        "position": 3,
+        "title": "दुनिया का सबसे टेस्टी राजमा का ये तरीका जिदगीभर याद रहेग",
+        "link": "https://www.youtube.com/watch?v=ji58qD9S6uc",
+        "displayed_link": "43.3L+ views · 3 years ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4ebd5f7ae8d0731ecb835/images/qMzshF3gTbFjKxn35I1J49oaRQR2NdtLfztaqAWPo74.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+        "snippet": "दुनिया का सबसे टेस्टी राजमा का ये तरीका जिदगीभर याद रहेग| Perfect Rajma Masala Recipe | Rajma ...",
+        "duration": "13:14",
+        "about_this_result": {
+          "source": {
+            "description": "दुनिया का सबसे टेस्टी राजमा का ये तरीका जिदगीभर याद रहेग| Perfect Rajma Masala Recipe | Rajma ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVldQeXBfaHZiMkFabXZzOTNKWlRtMm9iSS1LRExzT1hPak80Mm0yUkEtLUlkZEpWMEZ1NnV0djlwaTNocVVoX3JnLWNDV1d2empZWEJZYVRkY2x1V1FLRjBwSVZIOHpkSXNlM2ZaeEdRMUlUZmM2UGZmQjJpUkw1QzRIRWUzb2pBSGcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVldQeXBfaHZiMkFabXZzOTNKWlRtMm9iSS1LRExzT1hPak80Mm0yUkEtLUlkZEpWMEZ1NnV0djlwaTNocVVoX3JnLWNDV1d2empZWEJZYVRkY2x1V1FLRjBwSVZIOHpkSXNlM2ZaeEdRMUlUZmM2UGZmQjJpUkw1QzRIRWUzb2pBSGcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "source": "YouTube · CookwithParul"
+      },
+      {
+        "position": 4,
+        "title": "Sabse Badhkar Hum 2",
+        "link": "https://www.primevideo.com/detail/0JGKI7RJPYKBO0TQ2DW2XEYU26",
+        "displayed_link": "https://www.primevideo.com · 5 Dec 2020",
+        "thumbnail": "https://serpapi.com/searches/6ac4ebd5f7ae8d0731ecb835/images/qMzshF3gTbFjKxn35I1J4xGJFR4GC4ASRLOQUhW65ro.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAADwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3oHCDUAXaTvLxKqPGKQr-5vEye31jwBOLfi9QHkCKxgAAAP4NkMt_5V7Uv4hx3Pbno_7DrBcXT29mM8tc5yyD01HwaCYUV6NpIKBYW8cB9_6FCj4aOV4u7__jd4nC0F5VFFwkNE_79USnNi_MH90USL2c_KaErixpc-5HbP0j333AFUSU9A8PJr24QCvafpQJgt8-AULf82F4-7DN_I503wulJ_5a7YxsvEYTyPAmhYvPoBsbUkeW_20OgIy3pjGk3UO5ykhWVDKJ1NLWbYpJkLMSnBTPyY8tbVTjQSQVgFMXZks1mYB5vKHNa0GHn0IIt5yo_Z3yimtbQnKI2EnorADx1-3QAAA.webp",
+        "snippet": "Two brothers face ridicule due to unemployment and their family's poor financial background. Consequently, their bond with each other and their love lives ...",
+        "about_this_result": {
+          "source": {
+            "description": "Two brothers face ridicule due to unemployment and their family's poor financial background. Consequently, their bond with each other and their love lives ...",
+            "icon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAADwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3oHCDUAXaTvLxKqPGKQr-5vEye31jwBOLfi9QHkCKxgAAAP4NkMt_5V7Uv4hx3Pbno_7DrBcXT29mM8tc5yyD01HwaCYUV6NpIKBYW8cB9_6FCj4aOV4u7__jd4nC0F5VFFwkNE_79USnNi_MH90USL2c_KaErixpc-5HbP0j333AFUSU9A8PJr24QCvafpQJgt8-AULf82F4-7DN_I503wulJ_5a7YxsvEYTyPAmhYvPoBsbUkeW_20OgIy3pjGk3UO5ykhWVDKJ1NLWbYpJkLMSnBTPyY8tbVTjQSQVgFMXZks1mYB5vKHNa0GHn0IIt5yo_Z3yimtbQnKI2EnorADx1-3QAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVnI5R1BiVTFaUXpKNndGeVlJY19IUmRLSjFObGNNNGI0ZWVRQTFxNnl2cGo5bGpTdU5aalhNeldaVXdURGdKNnZDTHFGcW5kM2xSQlJqcmRZMWxSRlgzajFES216aTdOUUFpYzhlM201VzNCZFhFR3ktUmF6dDhBQjQ2ckdtYkt4SUpYNk9Pa20yalE5WTA0cHhNdGdwN1hREhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVnI5R1BiVTFaUXpKNndGeVlJY19IUmRLSjFObGNNNGI0ZWVRQTFxNnl2cGo5bGpTdU5aalhNeldaVXdURGdKNnZDTHFGcW5kM2xSQlJqcmRZMWxSRlgzajFES216aTdOUUFpYzhlM201VzNCZFhFR3ktUmF6dDhBQjQ2ckdtYkt4SUpYNk9Pa20yalE5WTA0cHhNdGdwN1hREhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "Prime Video"
+      },
+      {
+        "position": 5,
+        "title": "हिन्दुस्तान के सबसे भ्रष्ट मुख्यमंत्री हैं हिमंता बिस्वा सरमा।",
+        "link": "https://www.facebook.com/rahulgandhi/videos/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8-%E0%A4%95%E0%A5%87-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%AD%E0%A5%8D%E0%A4%B0%E0%A4%B7%E0%A5%8D%E0%A4%9F-%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%B9%E0%A5%88%E0%A4%82-%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A4%BE-%E0%A4%AC%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE-%E0%A4%B8%E0%A4%B0%E0%A4%AE%E0%A4%BE/1652957989226794/",
+        "displayed_link": "3.4L+ reactions · 6 months ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4ebd5f7ae8d0731ecb835/images/qMzshF3gTbFjKxn35I1J414xouXcO2E56wys20My3C4.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "snippet": "हिन्दुस्तान के सबसे भ्रष्ट मुख्यमंत्री हैं हिमंता बिस्वा सरमा।",
+        "duration": "1:51",
+        "about_this_result": {
+          "source": {
+            "description": "हिन्दुस्तान के सबसे भ्रष्ट मुख्यमंत्री हैं हिमंता बिस्वा सरमा।",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CroGL2dvdG8_dXJsPUNBRVMzd1FCNnpzd0ZaT24wQlhPZUZxU25vcl9Jc0phTFNoaHZYeXlJYlM5cUoxNU5YMVA4MXg3c2pmbTU5azJ1WHBoSm5COTdTVW9EdzNYNE5CaHp4QURNNnBlQ3JVOWUtZ3E3eXpnVzVPd2pQT19GeUdJRHNHekM4dGJ2WFllcmJTOTA1RmJNTjhMVEZZckw5bDBiWUtkVHc4LVl6R0RGZ2RNQWdiVTlKRW1YV1pwY0tpaXF6WE0zT0toZWdfeVhvUUpVb212UVlRaGhoeURORHpOaUNDcmYtSTJncDJ5Q0EzeVZuNUpIUDhNM0N5ajBibDhucWRvYktlYU1TNTlnMGJaXzZ0aDV1RHZrMXZ4WkphM0Q4d3RFV3k5M2hzV1JaeXhIbGFEXzNFTHZmdXRWQ010TDM3cDVtay1mSHZWTWNzSHFvUFhwVF94djdDa0lrNkFUYklKTjBRam1Ubk5IWDFYTmh6Q0oxdmh2T3U4ajlWaklEUUlTRV9VcTc3ZU1QOWZSVmN3cUhMMEJpYmRLeGt4OGJGVWR5SHlFVzNGSnFFc3dfSko0cEpIeGlNMzA2WmhMakVzSGJlcDE5dTlDLXlORFlCVjI3Y1YwY3VFOS11MFk4Qll2cG5EejVlMktDV0JEcDdZeko1Z1I4ZkExb0NOTEtBRTFCUFdLZkk0azBNa0RmRXNKN0kwcW0zVnd0VEJKYkFlMzd2NVZnVjNCWDE0cUVZbTNmZ3h1ZE1YbmJ4VTJsUXlva0c2b00xYmZYWFpUT3QzUEQwcFJlb3Q1MFJ5WnhqT1ZzX3IwVVdIcWMwV3BnZ2otOWFqTGJNeFNlb0x5NDllM2ZfRzh5VmlQeXRmRFFRVklJT0d5aC1jZEZ0WVdveHhMbDRDbE9pQ1QzaEJOLTFfZjA5bFdaQzd1RzhjLWxFVFRCYVU5elFvVDE3U2t3eUdhUlo2dDJDNkdTNlNoTHhUcFB1WFEwTkVvdENhLURRR21RSkFZTE9FbGloSGh2TjBiRDJHbWtHQkJhdmZ1Mnh2aVdXS2JQYUNRbE15OXdMSnRWNUMxcVpXRkJnUFRCdEVhcXlubmxoVxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CroGL2dvdG8_dXJsPUNBRVMzd1FCNnpzd0ZaT24wQlhPZUZxU25vcl9Jc0phTFNoaHZYeXlJYlM5cUoxNU5YMVA4MXg3c2pmbTU5azJ1WHBoSm5COTdTVW9EdzNYNE5CaHp4QURNNnBlQ3JVOWUtZ3E3eXpnVzVPd2pQT19GeUdJRHNHekM4dGJ2WFllcmJTOTA1RmJNTjhMVEZZckw5bDBiWUtkVHc4LVl6R0RGZ2RNQWdiVTlKRW1YV1pwY0tpaXF6WE0zT0toZWdfeVhvUUpVb212UVlRaGhoeURORHpOaUNDcmYtSTJncDJ5Q0EzeVZuNUpIUDhNM0N5ajBibDhucWRvYktlYU1TNTlnMGJaXzZ0aDV1RHZrMXZ4WkphM0Q4d3RFV3k5M2hzV1JaeXhIbGFEXzNFTHZmdXRWQ010TDM3cDVtay1mSHZWTWNzSHFvUFhwVF94djdDa0lrNkFUYklKTjBRam1Ubk5IWDFYTmh6Q0oxdmh2T3U4ajlWaklEUUlTRV9VcTc3ZU1QOWZSVmN3cUhMMEJpYmRLeGt4OGJGVWR5SHlFVzNGSnFFc3dfSko0cEpIeGlNMzA2WmhMakVzSGJlcDE5dTlDLXlORFlCVjI3Y1YwY3VFOS11MFk4Qll2cG5EejVlMktDV0JEcDdZeko1Z1I4ZkExb0NOTEtBRTFCUFdLZkk0azBNa0RmRXNKN0kwcW0zVnd0VEJKYkFlMzd2NVZnVjNCWDE0cUVZbTNmZ3h1ZE1YbmJ4VTJsUXlva0c2b00xYmZYWFpUT3QzUEQwcFJlb3Q1MFJ5WnhqT1ZzX3IwVVdIcWMwV3BnZ2otOWFqTGJNeFNlb0x5NDllM2ZfRzh5VmlQeXRmRFFRVklJT0d5aC1jZEZ0WVdveHhMbDRDbE9pQ1QzaEJOLTFfZjA5bFdaQzd1RzhjLWxFVFRCYVU5elFvVDE3U2t3eUdhUlo2dDJDNkdTNlNoTHhUcFB1WFEwTkVvdENhLURRR21RSkFZTE9FbGloSGh2TjBiRDJHbWtHQkJhdmZ1Mnh2aVdXS2JQYUNRbE15OXdMSnRWNUMxcVpXRkJnUFRCdEVhcXlubmxoVxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "Facebook · Rahul Gandhi"
+      },
+      {
+        "position": 6,
+        "title": "Fruzy: Sabse Sasta Grocery App - Google Play पर ऐप्लिकेशन",
+        "link": "https://play.google.com/store/apps/details?id=com.app.fruzy&hl=hi",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.app.fruzy%26hl%3Dhi&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQFnoECDIQAQ",
+        "displayed_link": "https://play.google.com › details",
+        "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp",
+        "snippet": "फ्रूज़ी ऐप केवल 15 मिनट में सबसे सस्ता किराना सामान पहुंचाता है। स्थानीय रूप से हजारों ...",
+        "snippet_highlighted_words": [
+          "सबसे",
+          "से"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "फ्रूज़ी ऐप केवल 15 मिनट में सबसे सस्ता किराना सामान पहुंचाता है। स्थानीय रूप से हजारों ...",
+            "source_info_link": "https://play.google.com/store/apps/details?id=com.app.fruzy&hl=hi",
+            "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CkFodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmFwcC5mcnV6eSZobD1oaRIEGgIIABrhCRIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkC9CQgjEAAYACAAKhkKBDIwMDAVAAAAABoBMhoJaXY7bjsyMDAwKgkKAmtlFQAAAAAqrAEKBWFuZGFyFQAAAAAaBGFuZGEaB2FuZHJvaWQaBWlubmVyGgZpbnNpZGUaCGludGVyaW9yGglpbnRlcmlvcnMaBXVuZGVyGgzgpIXgpILgpKHgpYcaD-CkheCkguCkoeClh-CksBoM4KSF4KSC4KSk4KSwGgzgpIXgpILgpKbgpLAaD-CkheCkqOCljeCkpuCksBoM4KSF4KSC4KSh4KS-GgppdjtwO2FuZGFyKkQKBXNhYnNlFQbk3D8aBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpaCgVhY2NoYRUAAAAAGgVhY2NoaRoEYWNoYRoGYWNoY2hhGgdhY2hjaGhhGgVhY2hoYRoEYmVzdBoEZ29vZBoP4KSF4KSa4KWN4KSb4KS-GgppdjtwO2FjY2hhKlIKBHdoZXkVAAAAABoJ4KS14KS-4KSIGgbgpLXgpYcaDOCkteCljeCkueClhxoLd2hleXByb3RlaW4aDOCkteCljeCkueCkvhoJaXY7cDt3aGV5KmEKB3Byb3RlaW4VAAAAABoIcHJvdGVpbnMaFeCkquCljeCksOCkpeCkv-CkqOClhxoLd2hleXByb3RlaW4aFeCkquCljeCksOCkpeCkv-CkqOCkvhoMaXY7cDtwcm90ZWluKlsKBGthdW4VAAAAABoDa29uGgRrb3VuGgngpJXgpL_gpLgaD-CkleCkv-CkuOCkqOClhxoJ4KSV4KWL4KSjGgngpJXgpYzgpKgaBmthdW5zYRoJaXY7cDtrYXVuKkcKAnNhFQAAAAAaDHNvdXRoIGFmcmljYRoG4KSP4KS4GgngpI_gpLjgpI8aA-CkuBoG4KS44KS-GgbgpLjgpYAaBmthdW5zYSowCgNoYWkVAAAAABoBaBoCaGUaAmhpGgbgpLngpYcaBuCkueCliBoJ4KS54KWI4KSCMkFodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmFwcC5mcnV6eSZobD1oaTpWRnJ1enk6IDxiPlNhYnNlPC9iPiBTYXN0YSBHcm9jZXJ5IEFwcCAtIEdvb2dsZSBQbGF5IOCkquCksCDgpJDgpKrgpY3gpLLgpL_gpJXgpYfgpLbgpKhC9wHgpKvgpY3gpLDgpYLgpJzgpLzgpYAg4KSQ4KSqIOCkleClh-CkteCksiAxNSDgpK7gpL_gpKjgpJ8g4KSu4KWH4KSCIDxiPuCkuOCkrOCkuOClhzwvYj4g4KS44KS44KWN4KSk4KS-IOCkleCkv-CksOCkvuCkqOCkviDgpLjgpL7gpK7gpL7gpKgg4KSq4KS54KWB4KSC4KSa4KS-4KSk4KS-IOCkueCliOClpCDgpLjgpY3gpKXgpL7gpKjgpYDgpK8g4KSw4KWC4KSqIDxiPuCkuOClhzwvYj4g4KS54KSc4KS-4KSw4KWL4KSCJm5ic3A7Li4uSgJrZVIJ4KS54KWI4KSCUgEyUgbgpLngpYgiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CkFodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmFwcC5mcnV6eSZobD1oaRIEGgIIABrhCRIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkC9CQgjEAAYACAAKhkKBDIwMDAVAAAAABoBMhoJaXY7bjsyMDAwKgkKAmtlFQAAAAAqrAEKBWFuZGFyFQAAAAAaBGFuZGEaB2FuZHJvaWQaBWlubmVyGgZpbnNpZGUaCGludGVyaW9yGglpbnRlcmlvcnMaBXVuZGVyGgzgpIXgpILgpKHgpYcaD-CkheCkguCkoeClh-CksBoM4KSF4KSC4KSk4KSwGgzgpIXgpILgpKbgpLAaD-CkheCkqOCljeCkpuCksBoM4KSF4KSC4KSh4KS-GgppdjtwO2FuZGFyKkQKBXNhYnNlFQbk3D8aBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpaCgVhY2NoYRUAAAAAGgVhY2NoaRoEYWNoYRoGYWNoY2hhGgdhY2hjaGhhGgVhY2hoYRoEYmVzdBoEZ29vZBoP4KSF4KSa4KWN4KSb4KS-GgppdjtwO2FjY2hhKlIKBHdoZXkVAAAAABoJ4KS14KS-4KSIGgbgpLXgpYcaDOCkteCljeCkueClhxoLd2hleXByb3RlaW4aDOCkteCljeCkueCkvhoJaXY7cDt3aGV5KmEKB3Byb3RlaW4VAAAAABoIcHJvdGVpbnMaFeCkquCljeCksOCkpeCkv-CkqOClhxoLd2hleXByb3RlaW4aFeCkquCljeCksOCkpeCkv-CkqOCkvhoMaXY7cDtwcm90ZWluKlsKBGthdW4VAAAAABoDa29uGgRrb3VuGgngpJXgpL_gpLgaD-CkleCkv-CkuOCkqOClhxoJ4KSV4KWL4KSjGgngpJXgpYzgpKgaBmthdW5zYRoJaXY7cDtrYXVuKkcKAnNhFQAAAAAaDHNvdXRoIGFmcmljYRoG4KSP4KS4GgngpI_gpLjgpI8aA-CkuBoG4KS44KS-GgbgpLjgpYAaBmthdW5zYSowCgNoYWkVAAAAABoBaBoCaGUaAmhpGgbgpLngpYcaBuCkueCliBoJ4KS54KWI4KSCMkFodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmFwcC5mcnV6eSZobD1oaTpWRnJ1enk6IDxiPlNhYnNlPC9iPiBTYXN0YSBHcm9jZXJ5IEFwcCAtIEdvb2dsZSBQbGF5IOCkquCksCDgpJDgpKrgpY3gpLLgpL_gpJXgpYfgpLbgpKhC9wHgpKvgpY3gpLDgpYLgpJzgpLzgpYAg4KSQ4KSqIOCkleClh-CkteCksiAxNSDgpK7gpL_gpKjgpJ8g4KSu4KWH4KSCIDxiPuCkuOCkrOCkuOClhzwvYj4g4KS44KS44KWN4KSk4KS-IOCkleCkv-CksOCkvuCkqOCkviDgpLjgpL7gpK7gpL7gpKgg4KSq4KS54KWB4KSC4KSa4KS-4KSk4KS-IOCkueCliOClpCDgpLjgpY3gpKXgpL7gpKjgpYDgpK8g4KSw4KWC4KSqIDxiPuCkuOClhzwvYj4g4KS54KSc4KS-4KSw4KWL4KSCJm5ic3A7Li4uSgJrZVIJ4KS54KWI4KSCUgEyUgbgpLngpYgiAhABSABYAGgA",
+        "source": "Google Play",
+        "read_more_link": "https://play.google.com/store/apps/details?id=com.app.fruzy&hl=hi#:~:text=%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%82%E0%A4%9C%E0%A4%BC%E0%A5%80%20%E0%A4%90%E0%A4%AA%20%E0%A4%95%E0%A5%87%E0%A4%B5%E0%A4%B2%2015%20%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A4%9F,%E0%A4%B9%E0%A5%88%E0%A5%A4%20%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A5%80%E0%A4%AF%20%E0%A4%B0%E0%A5%82%E0%A4%AA%20%E0%A4%B8%E0%A5%87%20%E0%A4%B9%E0%A4%9C%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82"
+      },
+      {
+        "position": 7,
+        "title": "Shopsy: Shop Online for Mens & Womens Fashion, Beauty ...",
+        "link": "https://www.shopsy.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAVgO443xNBeBnrBacDGXbcL6jJS4XNn53THhlbRsPQ2u2NuUHv8mlm0DtB8sWPbgs5CgM025In8Ei3P5uxAlcIRxIfazuWA3zhLhe-9w&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQFnoECDMQAQ&uoh=1",
+        "displayed_link": "https://www.shopsy.in",
+        "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASocABwAPtE-tFooIigoFAEAGglsAMxEACbQyIYC_2CaU9a85R2Vad_5zFv73iXMr8AA_vYC9j7kNhcZaXEdrLd-s3lU81SgsSWBuGqbD8laQiCvTeAD1jfrSX3-Xn7hT_9dKCXIzvQ2lDL0W18zYoOS9QeLa7_Xwj5ikn6OjZ8nRyM1eVACulC-qsGjPou_5sIS4yKKcNOUZa5DVPY8wvtCudOYa9UDIkjQo4MXUbLZ_fuY4lU4rRyJJbLg3veUtpWizxshX_0UyuHidgaSuv771h_yMb9xL0CV2-Zu9AlAd8g8yp9M5RjGyAKXTRpgkD16l_rPQJf3w0Y7AAA.webp",
+        "snippet": "Shop Online for Fashion, Beauty, Footwear, Accessories, Home &amp; Kitchen products at the lowest prices. Shopsy is an e-commerce platform in India.",
+        "about_this_result": {
+          "source": {
+            "description": "Shop Online for Fashion, Beauty, Footwear, Accessories, Home &amp; Kitchen products at the lowest prices. Shopsy is an e-commerce platform in India.",
+            "source_info_link": "https://www.shopsy.in/",
+            "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASocABwAPtE-tFooIigoFAEAGglsAMxEACbQyIYC_2CaU9a85R2Vad_5zFv73iXMr8AA_vYC9j7kNhcZaXEdrLd-s3lU81SgsSWBuGqbD8laQiCvTeAD1jfrSX3-Xn7hT_9dKCXIzvQ2lDL0W18zYoOS9QeLa7_Xwj5ikn6OjZ8nRyM1eVACulC-qsGjPou_5sIS4yKKcNOUZa5DVPY8wvtCudOYa9UDIkjQo4MXUbLZ_fuY4lU4rRyJJbLg3veUtpWizxshX_0UyuHidgaSuv771h_yMb9xL0CV2-Zu9AlAd8g8yp9M5RjGyAKXTRpgkD16l_rPQJf3w0Y7AAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWZ080NDN4TkJlQm5yQmFjREdYYmNMNmpKUzRYTm41M1RIaGxiUnNQUTJ1Mk51VUh2OG1sbTBEdEI4c1dQYmdzNUNnTTAyNUluOEVpM1A1dXhBbGNJUnhJZmF6dVdBM3poTGhlLTl3EgQaAggAGqYJEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAgAkIIxAAGAAgACoZCgQyMDAwFQAAAAAaATIaCWl2O247MjAwMCoJCgJrZRUAAAAAKqwBCgVhbmRhchUAAAAAGgRhbmRhGgdhbmRyb2lkGgVpbm5lchoGaW5zaWRlGghpbnRlcmlvchoJaW50ZXJpb3JzGgV1bmRlchoM4KSF4KSC4KSh4KWHGg_gpIXgpILgpKHgpYfgpLAaDOCkheCkguCkpOCksBoM4KSF4KSC4KSm4KSwGg_gpIXgpKjgpY3gpKbgpLAaDOCkheCkguCkoeCkvhoKaXY7cDthbmRhcipECgVzYWJzZRUAAAAAGgZzYWJhc2UaBuCkuOCkrBoM4KS44KSs4KS44KWHGgzgpLjgpKzgpLjgpL4aCml2O3A7c2Fic2UqWgoFYWNjaGEVAAAAABoFYWNjaGkaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoFYWNoaGEaBGJlc3QaBGdvb2QaD-CkheCkmuCljeCkm-CkvhoKaXY7cDthY2NoYSpSCgR3aGV5FQAAAAAaCeCkteCkvuCkiBoG4KS14KWHGgzgpLXgpY3gpLngpYcaC3doZXlwcm90ZWluGgzgpLXgpY3gpLngpL4aCWl2O3A7d2hleSphCgdwcm90ZWluFQAAAAAaCHByb3RlaW5zGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqMAoDaGFpFQAAAAAaAWgaAmhlGgJoaRoG4KS54KWHGgbgpLngpYgaCeCkueCliOCkgjJ8L2dvdG8_dXJsPUNBRVNVUUhyT3pBVmdPNDQzeE5CZUJuckJhY0RHWGJjTDZqSlM0WE5uNTNUSGhsYlJzUFEydTJOdVVIdjhtbG0wRHRCOHNXUGJnczVDZ00wMjVJbjhFaTNQNXV4QWxjSVJ4SWZhenVXQTN6aExoZS05dzo9U2hvcHN5OiBTaG9wIE9ubGluZSBmb3IgTWVucyAmYW1wOyBXb21lbnMgRmFzaGlvbiwgQmVhdXR5IC4uLkKYAVNob3AgT25saW5lIGZvciBGYXNoaW9uLCBCZWF1dHksIEZvb3R3ZWFyLCBBY2Nlc3NvcmllcywgSG9tZSAmYW1wO2FtcDsgS2l0Y2hlbiBwcm9kdWN0cyBhdCB0aGUgbG93ZXN0IHByaWNlcy4gU2hvcHN5IGlzIGFuIGUtY29tbWVyY2UgcGxhdGZvcm0gaW4gSW5kaWEuSgJrZVIG4KS54KWIUgEyUgngpLngpYjgpIIiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWZ080NDN4TkJlQm5yQmFjREdYYmNMNmpKUzRYTm41M1RIaGxiUnNQUTJ1Mk51VUh2OG1sbTBEdEI4c1dQYmdzNUNnTTAyNUluOEVpM1A1dXhBbGNJUnhJZmF6dVdBM3poTGhlLTl3EgQaAggAGqYJEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAgAkIIxAAGAAgACoZCgQyMDAwFQAAAAAaATIaCWl2O247MjAwMCoJCgJrZRUAAAAAKqwBCgVhbmRhchUAAAAAGgRhbmRhGgdhbmRyb2lkGgVpbm5lchoGaW5zaWRlGghpbnRlcmlvchoJaW50ZXJpb3JzGgV1bmRlchoM4KSF4KSC4KSh4KWHGg_gpIXgpILgpKHgpYfgpLAaDOCkheCkguCkpOCksBoM4KSF4KSC4KSm4KSwGg_gpIXgpKjgpY3gpKbgpLAaDOCkheCkguCkoeCkvhoKaXY7cDthbmRhcipECgVzYWJzZRUAAAAAGgZzYWJhc2UaBuCkuOCkrBoM4KS44KSs4KS44KWHGgzgpLjgpKzgpLjgpL4aCml2O3A7c2Fic2UqWgoFYWNjaGEVAAAAABoFYWNjaGkaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoFYWNoaGEaBGJlc3QaBGdvb2QaD-CkheCkmuCljeCkm-CkvhoKaXY7cDthY2NoYSpSCgR3aGV5FQAAAAAaCeCkteCkvuCkiBoG4KS14KWHGgzgpLXgpY3gpLngpYcaC3doZXlwcm90ZWluGgzgpLXgpY3gpLngpL4aCWl2O3A7d2hleSphCgdwcm90ZWluFQAAAAAaCHByb3RlaW5zGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqMAoDaGFpFQAAAAAaAWgaAmhlGgJoaRoG4KS54KWHGgbgpLngpYgaCeCkueCliOCkgjJ8L2dvdG8_dXJsPUNBRVNVUUhyT3pBVmdPNDQzeE5CZUJuckJhY0RHWGJjTDZqSlM0WE5uNTNUSGhsYlJzUFEydTJOdVVIdjhtbG0wRHRCOHNXUGJnczVDZ00wMjVJbjhFaTNQNXV4QWxjSVJ4SWZhenVXQTN6aExoZS05dzo9U2hvcHN5OiBTaG9wIE9ubGluZSBmb3IgTWVucyAmYW1wOyBXb21lbnMgRmFzaGlvbiwgQmVhdXR5IC4uLkKYAVNob3AgT25saW5lIGZvciBGYXNoaW9uLCBCZWF1dHksIEZvb3R3ZWFyLCBBY2Nlc3NvcmllcywgSG9tZSAmYW1wO2FtcDsgS2l0Y2hlbiBwcm9kdWN0cyBhdCB0aGUgbG93ZXN0IHByaWNlcy4gU2hvcHN5IGlzIGFuIGUtY29tbWVyY2UgcGxhdGZvcm0gaW4gSW5kaWEuSgJrZVIG4KS54KWIUgEyUgngpLngpYjgpIIiAhABSABYAGgA",
+        "source": "Shopsy"
+      },
+      {
+        "position": 8,
+        "title": "देखिए, सबसे पहले 'लापता' और 'भाग गए हैं', इस प्रकार की भाषा भारत के ...",
+        "link": "https://www.instagram.com/reel/Db7m3epBR7s/",
+        "displayed_link": "38.8K+ likes · 1 month ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4ebd5f7ae8d0731ecb835/images/qMzshF3gTbFjKxn35I1J47Ip_UqQnZWW5iRi8kWlmZI.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+        "snippet": "आज 3 बजे तक वो स्पीकर साहब को पत्र दें और कल 3 बजे तक हम सभी प्रकार की चर्चा के लिए ...",
+        "duration": "3:09",
+        "about_this_result": {
+          "source": {
+            "description": "आज 3 बजे तक वो स्पीकर साहब को पत्र दें और कल 3 बजे तक हम सभी प्रकार की चर्चा के लिए ...",
+            "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmZXdEl3akxjLUV0bnFsSmc5ZUZIdGxqYWtIb1lQNjVNREhPamRaRGJiMF9ibzAycy1XMlp6dk1hY2llYUpUcFpUQXA0X2luTzdPbE81Y1NNeXZKWHg4LWlnaHBXbjF2bkdCUWxMRDdKZHNOT0Zrb0dTSG5QTlJKR3RCZkctTWQwdHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmZXdEl3akxjLUV0bnFsSmc5ZUZIdGxqYWtIb1lQNjVNREhPamRaRGJiMF9ibzAycy1XMlp6dk1hY2llYUpUcFpUQXA0X2luTzdPbE81Y1NNeXZKWHg4LWlnaHBXbjF2bkdCUWxMRDdKZHNOT0Zrb0dTSG5QTlJKR3RCZkctTWQwdHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "source": "Instagram · sudhanshutrivediofficial"
+      },
+      {
+        "position": 9,
+        "title": "मन सच्चा , कर्म अच्छा , बाक़ी सब मेरे महादेव की इच्छा ✨🙏🏻 जय ...",
+        "link": "https://www.instagram.com/p/DbfzoPrgF3b/?hl=en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVbmP_gVSt2onkiVDVepARcEIiF5Q81ZEfciragxBuR5oN1ztmiWQbVtrc_uJySRu90t9yT--MsbkY8F7fJHpcMDORdU6T7qYt_ZBeLcw6diknHR7mTW5WY6GWj41KPM_FCNAEmA&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQFnoECDUQAQ&uoh=1",
+        "displayed_link": "1.1L+ likes · 2 months ago",
+        "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+        "snippet": "मन सच्चा , कर्म अच्छा , बाक़ी सब मेरे महादेव की इच्छा ✨ जय श्री बाबा महाकाल ·",
+        "snippet_highlighted_words": [
+          "अच्छा"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "मन सच्चा , कर्म अच्छा , बाक़ी सब मेरे महादेव की इच्छा ✨ जय श्री बाबा महाकाल ·",
+            "source_info_link": "https://www.instagram.com/p/DbfzoPrgF3b/?hl=en",
+            "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmJtUF9nVlN0Mm9ua2lWRFZlcEFSY0VJaUY1UTgxWkVmY2lyYWd4QnVSNW9OMXp0bWlXUWJWdHJjX3VKeVNSdTkwdDl5VC0tTXNia1k4RjdmSkhwY01ET1JkVTZUN3FZdF9aQmVMY3c2ZGlrbkhSN21UVzVXWTZHV2o0MUtQTV9GQ05BRW1BEgQaAggAGuYKEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQMIKCCMQABgAIAAqGQoEMjAwMBUAAAAAGgEyGglpdjtuOzIwMDAqCQoCa2UVAAAAACqsAQoFYW5kYXIVAAAAABoEYW5kYRoHYW5kcm9pZBoFaW5uZXIaBmluc2lkZRoIaW50ZXJpb3IaCWludGVyaW9ycxoFdW5kZXIaDOCkheCkguCkoeClhxoP4KSF4KSC4KSh4KWH4KSwGgzgpIXgpILgpKTgpLAaDOCkheCkguCkpuCksBoP4KSF4KSo4KWN4KSm4KSwGgzgpIXgpILgpKHgpL4aCml2O3A7YW5kYXIqRAoFc2Fic2UVAAAAABoGc2FiYXNlGgbgpLjgpKwaDOCkuOCkrOCkuOClhxoM4KS44KSs4KS44KS-GgppdjtwO3NhYnNlKloKBWFjY2hhFQAAAAAaBWFjY2hpGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRUAAAAAGgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqYQoHcHJvdGVpbhUAAAAAGghwcm90ZWlucxoV4KSq4KWN4KSw4KSl4KS_4KSo4KWHGgt3aGV5cHJvdGVpbhoV4KSq4KWN4KSw4KSl4KS_4KSo4KS-GgxpdjtwO3Byb3RlaW4qWwoEa2F1bhUAAAAAGgNrb24aBGtvdW4aCeCkleCkv-CkuBoP4KSV4KS_4KS44KSo4KWHGgngpJXgpYvgpKMaCeCkleCljOCkqBoGa2F1bnNhGglpdjtwO2thdW4qRwoCc2EVAAAAABoMc291dGggYWZyaWNhGgbgpI_gpLgaCeCkj-CkuOCkjxoD4KS4GgbgpLjgpL4aBuCkuOClgBoGa2F1bnNhKjAKA2hhaRUAAAAAGgFoGgJoZRoCaGkaBuCkueClhxoG4KS54KWIGgngpLngpYjgpIIynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWYm1QX2dWU3Qyb25raVZEVmVwQVJjRUlpRjVRODFaRWZjaXJhZ3hCdVI1b04xenRtaVdRYlZ0cmNfdUp5U1J1OTB0OXlULS1Nc2JrWThGN2ZKSHBjTURPUmRVNlQ3cVl0X1pCZUxjdzZkaWtuSFI3bVRXNVdZNkdXajQxS1BNX0ZDTkFFbUE6pAHgpK7gpKgg4KS44KSa4KWN4KSa4KS-ICwg4KSV4KSw4KWN4KSuIDxiPuCkheCkmuCljeCkm-CkvjwvYj4gLCDgpKzgpL7gpJXgpLzgpYAg4KS44KSsIOCkruClh-CksOClhyDgpK7gpLngpL7gpKbgpYfgpLUg4KSV4KWAIOCkh-CkmuCljeCkm-CkviDgpJzgpK8g4KS24KWN4KSw4KWAIC4uLkLRAeCkruCkqCDgpLjgpJrgpY3gpJrgpL4gLCDgpJXgpLDgpY3gpK4gPGI-4KSF4KSa4KWN4KSb4KS-PC9iPiAsIOCkrOCkvuCkleCkvOClgCDgpLjgpKwg4KSu4KWH4KSw4KWHIOCkruCkueCkvuCkpuClh-CktSDgpJXgpYAg4KSH4KSa4KWN4KSb4KS-IOKcqCAgICAg4KSc4KSvIOCktuCljeCksOClgCDgpKzgpL7gpKzgpL4g4KSu4KS54KS-4KSV4KS-4KSyICZtaWRkb3Q7SgJrZVIG4KS54KWIUgEyUgngpLngpYjgpIIiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmJtUF9nVlN0Mm9ua2lWRFZlcEFSY0VJaUY1UTgxWkVmY2lyYWd4QnVSNW9OMXp0bWlXUWJWdHJjX3VKeVNSdTkwdDl5VC0tTXNia1k4RjdmSkhwY01ET1JkVTZUN3FZdF9aQmVMY3c2ZGlrbkhSN21UVzVXWTZHV2o0MUtQTV9GQ05BRW1BEgQaAggAGuYKEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQMIKCCMQABgAIAAqGQoEMjAwMBUAAAAAGgEyGglpdjtuOzIwMDAqCQoCa2UVAAAAACqsAQoFYW5kYXIVAAAAABoEYW5kYRoHYW5kcm9pZBoFaW5uZXIaBmluc2lkZRoIaW50ZXJpb3IaCWludGVyaW9ycxoFdW5kZXIaDOCkheCkguCkoeClhxoP4KSF4KSC4KSh4KWH4KSwGgzgpIXgpILgpKTgpLAaDOCkheCkguCkpuCksBoP4KSF4KSo4KWN4KSm4KSwGgzgpIXgpILgpKHgpL4aCml2O3A7YW5kYXIqRAoFc2Fic2UVAAAAABoGc2FiYXNlGgbgpLjgpKwaDOCkuOCkrOCkuOClhxoM4KS44KSs4KS44KS-GgppdjtwO3NhYnNlKloKBWFjY2hhFQAAAAAaBWFjY2hpGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRUAAAAAGgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqYQoHcHJvdGVpbhUAAAAAGghwcm90ZWlucxoV4KSq4KWN4KSw4KSl4KS_4KSo4KWHGgt3aGV5cHJvdGVpbhoV4KSq4KWN4KSw4KSl4KS_4KSo4KS-GgxpdjtwO3Byb3RlaW4qWwoEa2F1bhUAAAAAGgNrb24aBGtvdW4aCeCkleCkv-CkuBoP4KSV4KS_4KS44KSo4KWHGgngpJXgpYvgpKMaCeCkleCljOCkqBoGa2F1bnNhGglpdjtwO2thdW4qRwoCc2EVAAAAABoMc291dGggYWZyaWNhGgbgpI_gpLgaCeCkj-CkuOCkjxoD4KS4GgbgpLjgpL4aBuCkuOClgBoGa2F1bnNhKjAKA2hhaRUAAAAAGgFoGgJoZRoCaGkaBuCkueClhxoG4KS54KWIGgngpLngpYjgpIIynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWYm1QX2dWU3Qyb25raVZEVmVwQVJjRUlpRjVRODFaRWZjaXJhZ3hCdVI1b04xenRtaVdRYlZ0cmNfdUp5U1J1OTB0OXlULS1Nc2JrWThGN2ZKSHBjTURPUmRVNlQ3cVl0X1pCZUxjdzZkaWtuSFI3bVRXNVdZNkdXajQxS1BNX0ZDTkFFbUE6pAHgpK7gpKgg4KS44KSa4KWN4KSa4KS-ICwg4KSV4KSw4KWN4KSuIDxiPuCkheCkmuCljeCkm-CkvjwvYj4gLCDgpKzgpL7gpJXgpLzgpYAg4KS44KSsIOCkruClh-CksOClhyDgpK7gpLngpL7gpKbgpYfgpLUg4KSV4KWAIOCkh-CkmuCljeCkm-CkviDgpJzgpK8g4KS24KWN4KSw4KWAIC4uLkLRAeCkruCkqCDgpLjgpJrgpY3gpJrgpL4gLCDgpJXgpLDgpY3gpK4gPGI-4KSF4KSa4KWN4KSb4KS-PC9iPiAsIOCkrOCkvuCkleCkvOClgCDgpLjgpKwg4KSu4KWH4KSw4KWHIOCkruCkueCkvuCkpuClh-CktSDgpJXgpYAg4KSH4KSa4KWN4KSb4KS-IOKcqCAgICAg4KSc4KSvIOCktuCljeCksOClgCDgpKzgpL7gpKzgpL4g4KSu4KS54KS-4KSV4KS-4KSyICZtaWRkb3Q7SgJrZVIG4KS54KWIUgEyUgngpLngpYjgpIIiAhABSABYAGgA",
+        "source": "Instagram · thekinjaldave",
+        "read_more_link": "https://www.instagram.com/p/DbfzoPrgF3b/?hl=en#:~:text=%E0%A4%AE%E0%A4%A8%20%E0%A4%B8%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE%20%2C%20%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%20%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE,%E0%A4%9C%E0%A4%AF%20%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A4%BE%20%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A4%B2&text=%F0%9F%94%A5%20%E0%A4%A8%E0%A4%BE%20%E0%A4%A6%E0%A5%8C%E0%A4%B2%E0%A4%A4%20%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F%2C%20%E0%A4%A8%E0%A4%BE,%E0%A4%B6%E0%A5%8B%E0%A4%B9%E0%A4%B0%E0%A4%A4%20%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F%E2%80%A6"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Best mobile under 40000 to 50000",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&q=Best+mobile+under+40000+to+50000&sa=X&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ1QJ6BAgqEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Best+mobile+under+40000+to+50000"
+      },
+      {
+        "block_position": 1,
+        "query": "Top 10 Mobile under 40000",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&q=Top+10+Mobile+under+40000&sa=X&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ1QJ6BAgxEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Top+10+Mobile+under+40000"
+      },
+      {
+        "block_position": 1,
+        "query": "Matar ka chhola kaise banaya jata hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&q=Matar+ka+chhola+kaise+banaya+jata+hai&sa=X&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ1QJ6BAgwEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Matar+ka+chhola+kaise+banaya+jata+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "Best phone under 40000 flagship",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&q=Best+phone+under+40000+flagship&sa=X&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ1QJ6BAgvEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Best+phone+under+40000+flagship"
+      },
+      {
+        "block_position": 1,
+        "query": "Best camera phone under 40000 to 50000",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&q=Best+camera+phone+under+40000+to+50000&sa=X&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ1QJ6BAguEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Best+camera+phone+under+40000+to+50000"
+      },
+      {
+        "block_position": 1,
+        "query": "Rajma kaise hota hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&q=Rajma+kaise+hota+hai&sa=X&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ1QJ6BAgsEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Rajma+kaise+hota+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "Best phone under 40000 with best camera and Processor",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&q=Best+phone+under+40000+with+best+camera+and+Processor&sa=X&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ1QJ6BAgtEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Best+phone+under+40000+with+best+camera+and+Processor"
+      },
+      {
+        "block_position": 1,
+        "query": "Rajma banane ki vidhi bataiye",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&q=Rajma+banane+ki+vidhi+bataiye&sa=X&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ1QJ6BAgrEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Rajma+banane+ki+vidhi+bataiye"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&ei=1uvEasGdA8y7qtsPgOOn2QI&start=10&sa=N&sstk=AS6-VmKrB_Od_ZLu-jAwUZ2zWsW2HiMBC5cPKwa5uipNS2jKsDVP20LXNkNiMy7H2DNpFKYTnuxxIfj9mIftgv9ZpnnhrWuZrJ6yNA&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ8NMDegQIJxAM",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&ei=1uvEasGdA8y7qtsPgOOn2QI&start=10&sa=N&sstk=AS6-VmKrB_Od_ZLu-jAwUZ2zWsW2HiMBC5cPKwa5uipNS2jKsDVP20LXNkNiMy7H2DNpFKYTnuxxIfj9mIftgv9ZpnnhrWuZrJ6yNA&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ8tMDegQIJxAE",
+        "3": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&ei=1uvEasGdA8y7qtsPgOOn2QI&start=20&sa=N&sstk=AS6-VmKrB_Od_ZLu-jAwUZ2zWsW2HiMBC5cPKwa5uipNS2jKsDVP20LXNkNiMy7H2DNpFKYTnuxxIfj9mIftgv9ZpnnhrWuZrJ6yNA&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ8tMDegQIJxAG",
+        "4": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&ei=1uvEasGdA8y7qtsPgOOn2QI&start=30&sa=N&sstk=AS6-VmKrB_Od_ZLu-jAwUZ2zWsW2HiMBC5cPKwa5uipNS2jKsDVP20LXNkNiMy7H2DNpFKYTnuxxIfj9mIftgv9ZpnnhrWuZrJ6yNA&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ8tMDegQIJxAI",
+        "5": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQnuyFmHOfl-gnsoWlYoQhb1H7xZiqQ:1791290326059&ei=1uvEasGdA8y7qtsPgOOn2QI&start=40&sa=N&sstk=AS6-VmKrB_Od_ZLu-jAwUZ2zWsW2HiMBC5cPKwa5uipNS2jKsDVP20LXNkNiMy7H2DNpFKYTnuxxIfj9mIftgv9ZpnnhrWuZrJ6yNA&ved=2ahUKEwjB4Mu8tKWXAxXMnWoFHYDxKSsQ8tMDegQIJxAK"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=40"
+      }
+    }
+  }
+}

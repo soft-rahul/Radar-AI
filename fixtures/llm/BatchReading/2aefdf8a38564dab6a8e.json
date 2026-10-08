@@ -1,0 +1,233 @@
+{
+  "readings": [
+    {
+      "answer_id": "q5|ai_mode|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Nakpro",
+          "stance": "neutral",
+          "quote": "Nakpro Gold / Concentrate Whey Protein"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate (80%)"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "MuscleBlaze Fuel One Whey Max"
+        },
+        {
+          "brand": "FuelOne",
+          "stance": "neutral",
+          "quote": "MuscleBlaze Fuel One Whey Max"
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "neutral",
+          "quote": "Nutrabay Vital Whey Protein"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q5|ai_mode|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "FuelOne",
+          "stance": "recommended",
+          "quote": "FUELONE Impact Whey Protein Blend aur Atoms/As-It-Is ke budget variants sabse behtareen maane jaate hain."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "FUELONE Impact Whey Protein Blend aur Atoms/As-It-Is ke budget variants sabse behtareen maane jaate hain."
+        }
+      ],
+      "claims": [
+        {
+          "brand": "FuelOne",
+          "product": "FUELONE Impact Whey Protein Blend (1kg)",
+          "attribute": "price_inr",
+          "value": "₹1,400 se ₹1,600",
+          "quote": "Iski keemat lagbhag ₹1,400 se ₹1,600 ke beech hoti hai."
+        },
+        {
+          "brand": "FuelOne",
+          "product": "FuelOne Impact Blend",
+          "attribute": "price_inr",
+          "value": "₹1,400 - ₹1,600",
+          "quote": "FuelOne Impact Blend | ₹1,400 - ₹1,600 | 23 grams"
+        },
+        {
+          "brand": "FuelOne",
+          "product": "FuelOne Impact Blend",
+          "attribute": "protein_per_serving_g",
+          "value": "23 grams",
+          "quote": "FuelOne Impact Blend | ₹1,400 - ₹1,600 | 23 grams"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "Atom Power Protein / Beginners Whey",
+          "attribute": "price_inr",
+          "value": "₹1,600 se ₹1,800",
+          "quote": "Ye bhi ₹1,600 se ₹1,800 ki range me mil jata hai"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "Atom Power Whey",
+          "attribute": "price_inr",
+          "value": "₹1,600 - ₹1,800",
+          "quote": "Atom Power Whey | ₹1,600 - ₹1,800 | 20-22 grams"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "Atom Power Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "20-22 grams",
+          "quote": "Atom Power Whey | ₹1,600 - ₹1,800 | 20-22 grams"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "As-It-Is Nutrition Whey Protein Concentrate",
+          "attribute": "certification",
+          "value": "lab-tested",
+          "quote": "jo ki lab-tested aur pure hota hai."
+        }
+      ]
+    },
+    {
+      "answer_id": "q5|ai_mode|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate 80%: Widely considered one of the most value-driven and transparent unflavoured wheys in India."
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Nakpro Nutrition Gold / Platinum Whey Concentrate: Known for offering heavily pocket-friendly flavored and unflavored whey protein concentrates."
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "MuscleBlaze Raw Whey Concentrate: Often discounted or available in smaller sizes/starter variants within a sub-₹2,000 budget."
+        },
+        {
+          "brand": "FuelOne",
+          "stance": "recommended",
+          "quote": "FuelOne Whey Max: A solid budget blend combining concentrate and isolate sources"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Raw Whey Concentrate",
+          "attribute": "price_inr",
+          "value": "sub-₹2,000",
+          "quote": "within a sub-₹2,000 budget."
+        },
+        {
+          "brand": "FuelOne",
+          "product": "FuelOne Whey Max",
+          "attribute": "price_inr",
+          "value": "₹1,600–₹1,900",
+          "quote": "frequently trades near the ₹1,600–₹1,900 mark during sales"
+        },
+        {
+          "brand": "FuelOne",
+          "product": "FuelOne Whey Max",
+          "attribute": "protein_per_serving_g",
+          "value": "27g",
+          "quote": "offering around 27g of protein per scoop"
+        }
+      ]
+    },
+    {
+      "answer_id": "q5|ai_mode|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate 80%"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Why it wins: Nakpro is heavily trusted for offering clean, certified budget protein"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "MuscleBlaze Raw Whey Concentrate 80%"
+        },
+        {
+          "brand": "FuelOne",
+          "stance": "neutral",
+          "quote": "FuelOne Whey Max"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro Nutrition Gold / Platinum Whey Concentrate",
+          "attribute": "certification",
+          "value": "certified",
+          "quote": "offering clean, certified budget protein"
+        }
+      ]
+    },
+    {
+      "answer_id": "q5|ai_overview|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "2000 रुपये के अंदर सबसे अच्छे बजट व्हे प्रोटीन विकल्पों में Nakpro Impact Whey, Fuel One, और AS-IT-IS Atom शामिल हैं"
+        },
+        {
+          "brand": "FuelOne",
+          "stance": "recommended",
+          "quote": "2000 रुपये के अंदर सबसे अच्छे बजट व्हे प्रोटीन विकल्पों में Nakpro Impact Whey, Fuel One, और AS-IT-IS Atom शामिल हैं"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "2000 रुपये के अंदर सबसे अच्छे बजट व्हे प्रोटीन विकल्पों में Nakpro Impact Whey, Fuel One, और AS-IT-IS Atom शामिल हैं"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro Impact Whey",
+          "attribute": "certification",
+          "value": "Trustified",
+          "quote": "यह [Trustified] से प्रमाणित है"
+        },
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro Impact Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24 ग्राम",
+          "quote": "हर एक स्कूप में लगभग 24 ग्राम प्रोटीन देता है"
+        },
+        {
+          "brand": "FuelOne",
+          "product": "Fuel One Whey Protein",
+          "attribute": "protein_per_serving_g",
+          "value": "22 से 24 ग्राम",
+          "quote": "प्रति स्कूप लगभग 22 से 24 ग्राम प्रोटीन"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS Atom Whey Protein",
+          "attribute": "protein_per_serving_g",
+          "value": "27 ग्राम",
+          "quote": "करीब 27 ग्राम प्रोटीन तक मिल जाता है"
+        }
+      ]
+    }
+  ]
+}

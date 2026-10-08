@@ -1,0 +1,299 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "beginners ke liye sabse accha whey protein kaun sa hai",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:37:14+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb556e22371b4074870b",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/MKAXrYKKzeior7i61a2PZfZjrigsI_cSOnKUR9R3eec/6ac4eb556e22371b4074870b.json",
+      "markdown_endpoint": "https://serpapi.com/searches/MKAXrYKKzeior7i61a2PZfZjrigsI_cSOnKUR9R3eec/6ac4eb556e22371b4074870b.md",
+      "created_at": "2026-10-06 12:36:37 UTC",
+      "processed_at": "2026-10-06 12:36:37 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/MKAXrYKKzeior7i61a2PZfZjrigsI_cSOnKUR9R3eec/6ac4eb556e22371b4074870b.html",
+      "total_time_taken": 36.61
+    },
+    "search_parameters": {
+      "q": "beginners ke liye sabse accha whey protein kaun sa hai",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "शुरुआती लोगों के लिए व्हे प्रोटीन आइसोलेट या कंसंट्रेट सबसे उपयुक्त हैं, क्योंकि ये आसानी से पचते हैं, सही मात्रा में प्रोटीन प्रदान करते हैं और मांसपेशियों की ग्रोथ में मदद करते हैं।",
+    "text_blocks": [
+      {
+        "type": "heading",
+        "snippet": "व्हे प्रोटीन क्या है?",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "व्हे प्रोटीन दूध से प्राप्त होता है और यह कंप्लीट प्रोटीन माना जाता है क्योंकि इसमें सभी 9 आवश्यक अमीनो एसिड्स होते हैं, जिनमें ल्यूसीन, आइसोल्यूसीन और वैलीन शामिल हैं। ये BCAA मांसपेशियों की मरम्मत और ग्रोथ के लिए महत्वपूर्ण हैं ।",
+        "snippet_highlighted_words": [
+          "कंप्लीट प्रोटीन"
+        ],
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "व्हे प्रोटीन के प्रकार",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "व्हे प्रोटीन कंसंट्रेट (WPC): 70–80% प्रोटीन, थोड़ी मात्रा में कार्ब और फैट शामिल। शुरुआती और बजट-conscious लोग इसे चुन सकते हैं। 1",
+            "snippet_highlighted_words": [
+              "व्हे प्रोटीन कंसंट्रेट (WPC)"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "व्हे प्रोटीन आइसोलेट (WPI): प्रोसेसिंग के बाद 90%+ प्रोटीन, कम फैट और लैक्टोज। लीन मसल्स और लैक्टोज संवेदनशील लोगों के लिए आदर्श। यह तेजी से पचता है और पोस्ट-वर्कआउट लेने के लिए सबसे उपयुक्त है। 1",
+            "snippet_highlighted_words": [
+              "व्हे प्रोटीन आइसोलेट (WPI)"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "व्हे प्रोटीन हाइड्रोलाइज़ेट (WPH): प्री-डाइजेस्टेड, सबसे तेज़ अवशोषण, अधिक महंगा। विशेष रूप से एलीट एथलीट्स या पोस्ट-सर्जरी रिकवरी के लिए। 1",
+            "snippet_highlighted_words": [
+              "व्हे प्रोटीन हाइड्रोलाइज़ेट (WPH)"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "शुरुआती लोगों के लिए विकल्प",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "कंसंट्रेट: रियाज़निक जिम जाने वाले यानी सप्ताह में 3–4 दिन वर्कआउट करने वाले शुरुआती लोग।",
+            "snippet_highlighted_words": [
+              "कंसंट्रेट"
+            ]
+          },
+          {
+            "snippet": "आइसोलेट: लीन मसल मास, लैक्टोज इनटॉलेरेंस या हल्की पेट की समस्या वाले शुरुआती।",
+            "snippet_highlighted_words": [
+              "आइसोलेट"
+            ]
+          },
+          {
+            "snippet": "ब्रांड सुझाव (भारत में): Optimum Nutrition Gold Standard Whey, Ultimate Nutrition Prostar, Dymatize Elite Whey, Isopure Low Carb Whey। ये सभी उच्च क्वालिटी और BCAA सपोर्ट के साथ उपलब्ध हैं 1 ।",
+            "snippet_highlighted_words": [
+              "ब्रांड सुझाव (भारत में)"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "डोज और सेवन का समय",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "सिंगल सर्विंग: 25–30 ग्राम (एक स्कूप), लगभग 20–27 ग्राम प्रोटीन।",
+            "snippet_highlighted_words": [
+              "सिंगल सर्विंग"
+            ]
+          },
+          {
+            "snippet": "दैनिक उपयोग:",
+            "snippet_highlighted_words": [
+              "दैनिक उपयोग"
+            ],
+            "list": [
+              {
+                "snippet": "सप्ताह में 3–4 दिन वर्कआउट: 1 स्कूप।"
+              },
+              {
+                "snippet": "सप्ताह में 5+ दिन या इंटेंस ट्रेनिंग: 1–2 स्कूप।"
+              }
+            ]
+          },
+          {
+            "snippet": "अवसर: पोस्ट-वर्कआउट सबसे प्रभावी, सुबह या खाने के बीच भी लिया जा सकता है।",
+            "snippet_highlighted_words": [
+              "अवसर"
+            ]
+          },
+          {
+            "snippet": "मिक्सिंग टिप्स: 200–250ml पानी या दूध में शेक करें, तुरंत पियें। 1",
+            "snippet_highlighted_words": [
+              "मिक्सिंग टिप्स"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "फायदे",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "मांसपेशियों की तेजी से रिकवरी और ग्रोथ।"
+          },
+          {
+            "snippet": "डेली प्रोटीन लक्ष्य आसानी से पूरा करना।"
+          },
+          {
+            "snippet": "फैट लॉस के दौरान मसल्स बचाना।"
+          },
+          {
+            "snippet": "ब्लड शुगर लेवल बैलेंस करना और इम्यूनिटी को सपोर्ट करना। 2",
+            "reference_indexes": [
+              0,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "सावधानियां",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "lactose संवेदनशील लोग आइसोलेट चुनें।"
+          },
+          {
+            "snippet": "किसी भी किडनी या स्वास्थ्य समस्या में डॉक्टर की सलाह लें।"
+          },
+          {
+            "snippet": "2–3 स्कूप से अधिक बिना मार्गदर्शन के न लें। 1",
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "निष्कर्ष",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "शुरुआती लोगों के लिए व्हे प्रोटीन आइसोलेट या कंसंट्रेट सबसे उपयुक्त विकल्प हैं। यदि आप बजट-conscious हैं और सामान्य जिम करते हैं तो कंसंट्रेट शुरू करें, और यदि आप लीन मसल मास या लैक्टोज संवेदनशील हैं तो आइसोलेट बेहतर है। हमेशा प्रमाणित और भरोसेमंद ब्रांडों से ही खरीदें और सर्विंग्स का पालन करें।",
+        "snippet_highlighted_words": [
+          "व्हे प्रोटीन आइसोलेट या कंसंट्रेट"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Best Whey Protein for Beginners in India (2026) – Top 7 Tested Options",
+        "link": "http://www.gymbar.in/2026/06/best-whey-protein-for-beginners-in.html",
+        "snippet": "Har brand apne product ko best batata hai, lekin beginners ke liye sahi protein choose karna confusing ho sakta hai. Is guide me hum India ke popular whey proteins ko compare karenge aur batayenge ki beginners ke liye kaunsa option sabse suitable hai. 1. MuscleBlaze Biozyme Whey Protein.",
+        "source": "www.gymbar.in"
+      },
+      {
+        "index": 1,
+        "title": "Whey Protein Kya Hota Hai? फायदे, Types, कैसे बनता है और कितना लेना चाहिए",
+        "link": "https://akhilfit.com/whey-protein-kya-hota-hai/",
+        "snippet": "“Whey Protein कोई magic powder नहीं है। यह दूध से प्राप्त एक high-quality protein source है, जो आपकी daily protein requirement पूरी करने में मदद कर सकता है। अगर भोजन से पर्याप्त protein नहीं मिल पा रहा है, तो whey एक convenient और practical option हो सकता है।” इस guide में आप जानेंगे:",
+        "source": "akhilfit.com"
+      },
+      {
+        "index": 2,
+        "title": "Whey Protein Powder kya hai? Complete Guide (2026)",
+        "link": "https://hitubhafitness.in/whey-protein-powder-kya-hai/",
+        "snippet": "Natural foods jaise eggs, chicken, dal, paneer excellent protein sources hain. Lekin jab diet se protein complete na ho paye tab whey ek convenient supplement ban jata hai.",
+        "source": "hitubhafitness.in"
+      },
+      {
+        "index": 3,
+        "title": "वजन बढ़ाने के लिए बेस्ट प्रोटीन पाउडर – Best Protein Powder For Weight ...",
+        "link": "https://www.healthunbox.com/best-protein-powder-for-weight-gain-in-hindi/",
+        "snippet": "वैसे तो आजकल बाजार में बहुत से प्रोटीन पाउडर उपलब्ध है परन्तु क्या आप जानते है की आपका वजन बढ़ाने के लिए सबसे बेस्ट प्रोटीन सप्लीमेंट कौन सा है। अगर आप नहीं जानते तो आपको चिंता करने की जरुरत नहीं है आज हम आपको इंडिया में मिलने वाले बेस्ट प्रोटीन पाउडर के बारे में बतायेंगे और साथ में जानेंगे उनकी प्राइस भी ताकि आप अपने बजट के अनुसार प्रोटीन सप्लीम...",
+        "source": "Healthunbox"
+      },
+      {
+        "index": 4,
+        "title": "Whey Protein for Beginners in India (2026 Guide)",
+        "link": "https://peacefulhealth.in/whey-protein-for-beginners-in-india/",
+        "snippet": "Yes, whey protein is generally safe for healthy beginners when taken in recommended amounts (20–30g per serving). Choose a trusted brand, check for FSSAI compliance, and match your intake to your daily protein needs.",
+        "source": "peacefulhealth.in"
+      },
+      {
+        "index": 5,
+        "title": "Whey Protein Kya Hai? Beginner Complete Guide",
+        "link": "https://karanfitnessclub.in/whey-protein-kya-hai-beginner-complete-guide/",
+        "snippet": "Whey Protein दरअसल दूध से निकलने वाला एक हाई-क्वालिटी प्रोटीन है। जब दूध से पनीर (Cheese) बनाया जाता है, तो एक पतला तरल बचता है—इसी को Whey कहते हैं ...",
+        "source": "karanfitnessclub.in"
+      },
+      {
+        "index": 6,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे ... - MensXP",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "हाई क्वालिटी के 'कंप्‍लीट प्रोटीन' को व्हे प्रोटीन (whey protein) कहते हैं। इसमें काफी सारे अमीनो एसिड्स होते हैं, जैसे - ब्रांच्ड एमीनो एसिड्स (Branched Amino Acids), ग्लूटामिन (Glutamins),...",
+        "source": "MensXP"
+      },
+      {
+        "index": 7,
+        "title": "Best Whey Protein in India 2026: Ranked | WellFitLife",
+        "link": "https://wellfitlife.in/blog/best-whey-protein-brand-india-2026",
+        "snippet": "Best whey protein brand in India 2026 — AS-IT-IS ATOM vs ON Gold Standard vs MuscleBlaze Biozyme, ranked on protein per scoop and price per serving.",
+        "source": "wellfitlife.in"
+      },
+      {
+        "index": 8,
+        "title": "Beginner's Guide to Whey Protein | Benefits, Types & How to Use ...",
+        "link": "https://purobiennutrition.com/blogs/news/beginners-guide-to-whey-protein",
+        "snippet": "New to whey protein? This complete beginner's guide covers what whey protein is, its types, benefits, how to use it, and how to choose the best whey protein in India.",
+        "source": "purobiennutrition.com"
+      },
+      {
+        "index": 9,
+        "title": "Best Whey Protein in India 2026 — Top 10 Ranked by Value & Quality",
+        "link": "https://proteinpaisa.com/blog/best-whey-protein-india-2026/",
+        "snippet": "Complete ranking of the best whey protein powders in India for 2026. Compare MuscleBlaze, Nakpro, Avvatar, ON, AS-IT-IS, Nutrabay & more by price, purity, and taste.",
+        "source": "proteinpaisa.com"
+      },
+      {
+        "index": 10,
+        "title": "व्हे प्रोटीन क्या है? फायदे, साइड एफ़ेक्ट, खुराक, कीमत | Whey Protein in ...",
+        "link": "https://healthygk.com/%e0%a4%b5%e0%a5%8d%e0%a4%b9%e0%a5%87-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%8b%e0%a4%9f%e0%a5%80%e0%a4%a8-%e0%a4%95%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%b9%e0%a5%88-%e0%a4%ab%e0%a4%be%e0%a4%af%e0%a4%a6/",
+        "snippet": "Whey Protein की खुराक और सेवन का तरीका बेहद आसान है। 1 स्कूप (औसतन 30 से 33 ग्राम) Whey Protein को 200ml पानी या दूध के साथ मिलाये व अच्छे से मिक्स करें और फिर उसे पी सकते है। याद रखें, शुरुवात में आधे स्कूप Whey Protein से भी शुरू कर सकते है और टोंड दूध (Toned Milk) का उपयोग कर सकते है।.",
+        "source": "HGK - Your GK Dose"
+      }
+    ]
+  }
+}

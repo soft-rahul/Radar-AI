@@ -1,0 +1,203 @@
+{
+  "request": {
+    "engine": "google_ai_overview",
+    "params": {
+      "page_token": "khxNhXiczZXddqo4FMcfYJ5juLGKgp9di3VWgoBYbcWW1vaGhUADIgYJSu3dvMs80VzO00xAsdCq03MuZk0uCJDsnZ2d_cv_jz-X3sr_-7e_3DgOyTXLJklSQxijpVOzcMCaZLey2Fe8JJHl_kBLwVsx7lJwVsxms3SEpCICVVNFdTRVHomp-OT-qeWbTxKz2wo8YxGhzjie4N5tJZO8J5LKea1bPOFuVxbWnpnMu2DMTeIs6OJvC8IaLH34v_N9-lEjNWdlKLD20HvisLwdxiCpcXWOr92xZkDngP-0IRU8026YvktnZ0EAxO94k6gLqBYdQZh1BWtEh2HaqVr2LV_wlplJGsoioM14W7z3qZmC8jn-WevSiLJ3oKlZL1FzUf3OhgrBlIK9ZHxuDJU8ZGkvD51sEBYHVSCiMZiowD1tTHNfWp7mqr__bwG1O2hCeh7ahdjBDQJ3L0By97aXmg4V57i2TOgyEmsjWsB1dh7RrsF6lmtlLxFJ61p86NWx3IxG_M1sGa1b7d3bYNKdbQMlfA00Zayx1pzOW2LTdmzDNeo_su8G12jVe3yne5UxZZEjVKQIlRLMjWnX6skdXBvVYCPHSSweSHFL6V_91B5hWq1SXnKfm5gafjETRVxycZhAD2MsArEMjygP0rQdQacvbwhsykWQI4TAV5zEPJKPiOm8fM2pdrQuhalK0DsawdLuBid2WRg_BIbu9pYiLd2950NpSuDz9SBKMGXsGEBSHEwvE5FCDfcwrJvqfpHxRylLdWn45TZKU-FS08Pnge_8cJ-L6UtzQG8NGucQqFBS72V6LYn56jS8Q4YoTp95UE-ymGaY7lY7f0Veavq3Zkk5N58wKOIzuA9Gw5FjTbHLh2HSUAAhdcORgD1OTuOCg_nPiZD1f2Mql6h0gnSJKfE7TFGJQick6uBv7_QoUcODRJ1nSs6YOkhU6iiXqMEXifrKlF9kStGy4Sk-I1E_y5R6gamj45NMyaeYQueZyiSqyJQ71koSpZ6UqA-mfkWi9F-VqAwxZ9-V9WqzQGd1S1lPeN-E_KA9oZplN6Zhz-_Ud_GQ18G_6tZrEF8Hpr28Mjz7GnLDeGdfGfQHvnZsZi345mZVIWYljHDseKtKiBPbiSpzh8QVF8dmxTU9JlhGWKibnRc4nOqzcH1TbY_CUJ7xj7rerkqW10tm9zN95j3N-KpU5RbIM_p6NLh5XruJogWv63AH4vnjy26bTFQteewv9I3RWD4A-LY1pn7ktv3Zbd8BcdiylM3rqoMnI5ysb-JOdY3fu7Lct_uT8TRpvXiD1ryL9AnsAi2LiwgGTIyqqcxjs8nQjRFHaDBBZAm0PpoI3GrgCdHjFWnxiAjoJqZ9AjSlTU8fcrRwGGKZhkO2QnPe4pxG27F5p9dqWdQLinehwPUYsoqExj9fIlos"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:37:30+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb85827031a117ce39da",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/mlZUiTyaRnWn9PvWqhirxryS1d48q4hh89sTUiX1Pl8/6ac4eb85827031a117ce39da.json",
+      "markdown_endpoint": "https://serpapi.com/searches/mlZUiTyaRnWn9PvWqhirxryS1d48q4hh89sTUiX1Pl8/6ac4eb85827031a117ce39da.md",
+      "created_at": "2026-10-06 12:37:25 UTC",
+      "processed_at": "2026-10-06 12:37:25 UTC",
+      "google_ai_overview_url": "https://www.google.com/async/folsrch?gl=in&hl=en&uule=w+CAIQICILRGVsaGksSW5kaWE&yv=3&cs=0&ei=hOvEaszwEI2i5NoP2NncoQY&async=_basejs:/xjs/_/js/k%3Dxjs.s.en_GB.T9W2oFvJtAw.2023.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIAYAAAJAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAABIAEAAAAAAAAAABBAAAAACAAAAAAAAAAgAEABAAgAIQAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAEECAAAAEQgAABAAAAA_xjzDQAAGgAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAGABAAAAQIABAAAEgAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAAAAAFAAAAAAAAYAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAABBgAAAAAAAAAAAIACgMAPIAhAAAAAAAAAAgAAAAAAAAAAAIAEIAAAAAAAAAAAAQAADAAAAIAcAI8H4BBBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAKgAOZAEhAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUBGeAgAAAAAAAFsDAAE/dg%3D0/br%3D1/ichc%3D1/rs%3DACT90oF4rL3KXlrq56yxHP8XvmGpfmQGMQ/cb%3Dloaded_h_0?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.s.Gmb_R8c9F7o.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAACAIAAQAAAAAAAAAAAAAAAACCoAAAAAAAAAAAABQAAAAAAEIAMCACACAAAAAAAAAAAACFHgAAADAAAAAAAADAAxgAuAgAAAAAAAAAAAAEAAAAAAAgAIAEAAAAAAAAAABBAAACAAAAAACAAAAAAAAABAAgABQAAAAAARQAAEAAAAAAQAAAAAAAAAAAAIEBiAACAAAAAABABAAAAAAAAAAAHAAAAAAAAAAAAAAAAACABAAAAAAAAAAgAAAAAAgOAAAABACAYAQAAAAABgAAAAAEAAACAAAAAAAAAAAAACEBEgAAAQAAAAAAAwAAAAAAAAAAAABAACCEQgBAAFAAAq4IAAAAgAMAAgAAAAAAAE0EJEAAAAAAAAAAAAAAAAgAIAhACCAAAAAAAkAAAAAAIAAAAAAAYgAAAAAAAAAAARQAAQgAYAQJAIBEISFABICAAAAABAAACEAEAAAAAIACBAQAAAAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAABAAgBgAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE/br%3D1/cb%3Dloaded_h_0/rs%3DACT90oHSmLJLecRoh3ppw1GAss0_eEAdMw?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.s.en_GB.T9W2oFvJtAw.2023.O/ck%3Dxjs.s.Gmb_R8c9F7o.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAACAIAAQAAAAAAAAAAAAAAAACCoAAAAAgIAYAAAJQAAAEAAEIAMCACACAAAAAAAAAAAACFHgACADAAAAAAAADAAxgAuAgAAAAAAAAAAAAEAAAAEEAgBIAEAAAAAAAAAABBAAACACAAAACAAAAAgAEABAAgAJQAAAAAFRQAAEAAAAAAQAAAAAAAAAAAAIEFiAACAEQgAABABAAA_xjzDQAAHgAAAAAAAAkAAAAAAACABAAAAAAAAAAgAAAAkAgOAAAABACAYGQBAAAARoABAAAEgAACIAAAAAAAAAAAACEBEgAAAQAAAAAAAwAAAAAAAAAAAABAACCEQgBAAFAAAq4IAIAAgAMAAgAAAAAAAE0EJEAAAAAAAIAAAAAAAAgAIAhACCAAAAAAAkAAAAAFIAAAAAAAYgAAAAAAAAAAgRQAAQgAYAQJAIBEISFABICAAAABBgAACEAEAAAAAIAChMQPIAhAAAAAAAAAIgAAAAAAAAAAAIAEIAAAAABAAgBgAQEADAAAAIAcAI8H4BBBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAKgAOZAUhAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUBGeAgAAAAAAAFsDAAE/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/ichc%3D1/rs%3DACT90oGqP3kaB3H6PP8Xd1Rp9k70ytJ3UA/cb%3Dloaded_h_0?cb%3D121509378,_fmt:madl,_id:B2Jtyd,_mado:ed&q=kaun+sa+protein+powder+best+hota+hai&mlro=0a7ZBJRUXpqK-6LppFX3VUU6-Eci9wXSXUXiWX3-E-2jgi_DUrHKYqhwGQmfqpyAtbVZyvwPIQwVDjUu_1lTABxv_Rkrh6kXNDeAtp5cGufn7oPLowqKt7-qoz8FFDdDPMRw5ZiH5b8gUPB8AQ&mlros=_Bw_-aGbta4&madse=1&mrc=CAA4gANQAWgAcACYAQCgAUaoAQCwAQG6AQEB2AEA&sca_esv=4b52e16ed3e955c1&mgtyp=29&snr=1",
+      "raw_html_file": "https://serpapi.com/searches/mlZUiTyaRnWn9PvWqhirxryS1d48q4hh89sTUiX1Pl8/6ac4eb85827031a117ce39da.html",
+      "total_time_taken": 4.61
+    },
+    "search_parameters": {
+      "engine": "google_ai_overview",
+      "page_token": "khxNhXiczZXddqo4FMcfYJ5juLGKgp9di3VWgoBYbcWW1vaGhUADIgYJSu3dvMs80VzO00xAsdCq03MuZk0uCJDsnZ2d_cv_jz-X3sr_-7e_3DgOyTXLJklSQxijpVOzcMCaZLey2Fe8JJHl_kBLwVsx7lJwVsxms3SEpCICVVNFdTRVHomp-OT-qeWbTxKz2wo8YxGhzjie4N5tJZO8J5LKea1bPOFuVxbWnpnMu2DMTeIs6OJvC8IaLH34v_N9-lEjNWdlKLD20HvisLwdxiCpcXWOr92xZkDngP-0IRU8026YvktnZ0EAxO94k6gLqBYdQZh1BWtEh2HaqVr2LV_wlplJGsoioM14W7z3qZmC8jn-WevSiLJ3oKlZL1FzUf3OhgrBlIK9ZHxuDJU8ZGkvD51sEBYHVSCiMZiowD1tTHNfWp7mqr__bwG1O2hCeh7ahdjBDQJ3L0By97aXmg4V57i2TOgyEmsjWsB1dh7RrsF6lmtlLxFJ61p86NWx3IxG_M1sGa1b7d3bYNKdbQMlfA00Zayx1pzOW2LTdmzDNeo_su8G12jVe3yne5UxZZEjVKQIlRLMjWnX6skdXBvVYCPHSSweSHFL6V_91B5hWq1SXnKfm5gafjETRVxycZhAD2MsArEMjygP0rQdQacvbwhsykWQI4TAV5zEPJKPiOm8fM2pdrQuhalK0DsawdLuBid2WRg_BIbu9pYiLd2950NpSuDz9SBKMGXsGEBSHEwvE5FCDfcwrJvqfpHxRylLdWn45TZKU-FS08Pnge_8cJ-L6UtzQG8NGucQqFBS72V6LYn56jS8Q4YoTp95UE-ymGaY7lY7f0Veavq3Zkk5N58wKOIzuA9Gw5FjTbHLh2HSUAAhdcORgD1OTuOCg_nPiZD1f2Mql6h0gnSJKfE7TFGJQick6uBv7_QoUcODRJ1nSs6YOkhU6iiXqMEXifrKlF9kStGy4Sk-I1E_y5R6gamj45NMyaeYQueZyiSqyJQ71koSpZ6UqA-mfkWi9F-VqAwxZ9-V9WqzQGd1S1lPeN-E_KA9oZplN6Zhz-_Ud_GQ18G_6tZrEF8Hpr28Mjz7GnLDeGdfGfQHvnZsZi345mZVIWYljHDseKtKiBPbiSpzh8QVF8dmxTU9JlhGWKibnRc4nOqzcH1TbY_CUJ7xj7rerkqW10tm9zN95j3N-KpU5RbIM_p6NLh5XruJogWv63AH4vnjy26bTFQteewv9I3RWD4A-LY1pn7ktv3Zbd8BcdiylM3rqoMnI5ysb-JOdY3fu7Lct_uT8TRpvXiD1ryL9AnsAi2LiwgGTIyqqcxjs8nQjRFHaDBBZAm0PpoI3GrgCdHjFWnxiAjoJqZ9AjSlTU8fcrRwGGKZhkO2QnPe4pxG27F5p9dqWdQLinehwPUYsoqExj9fIlos"
+    },
+    "ai_overview": {
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "सबसे अच्छा प्रोटीन पाउडर आपकी फिटनेस जरूरतों, बजट और शरीर की पाचन क्षमता पर निर्भर करता है, लेकिन समग्र गुणवत्ता और फिटनेस एक्सपर्ट्स की राय में व्हे प्रोटीन (Whey Protein) को सबसे अच्छा माना जाता है।",
+          "snippet_highlighted_words": [
+            "बजट और शरीर की पाचन क्षमता पर निर्भर करता है"
+          ],
+          "reference_indexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "लोकप्रिय और बेहतरीन प्रोटीन पाउडर के प्रकार व ब्रांड्स"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey: यह भारत और दुनिया भर में सबसे भरोसेमंद और लोकप्रिय ब्रांडों में से एक है, जो प्रति स्कूप लगभग 24 ग्राम उच्च गुणवत्ता वाला प्रोटीन देता है ।",
+              "reference_indexes": [
+                1,
+                3
+              ]
+            },
+            {
+              "snippet": "Isopure Whey Protein Isolate: लैक्टोज-असहिष्णु (lactose intolerant) और पेट के लिए हल्का प्रोटीन चाहने वालों के लिए यह एक बेहतरीन और शुद्ध आइसोलेट विकल्प है।",
+              "reference_indexes": [
+                4
+              ]
+            },
+            {
+              "snippet": "AS-IT-IS Nutrition / Nakpro: यदि आप कम बजट में किफायती और लैब-टेस्टेड (Labdoor certified) विकल्प ढूंढ रहे हैं, तो ये ब्रांड्स बिना किसी अतिरिक्त चीनी के बढ़िया परिणाम देते हैं।",
+              "reference_indexes": [
+                3
+              ]
+            },
+            {
+              "snippet": "Fast&Up Plant Protein या TrueBasics Plant Protein: जो लोग शाकाहारी (Vegan) हैं और दूध से बनी चीजें नहीं पचा पाते, उनके लिए मटर और ब्राउन राइस ब्लेंड वाले प्लांट प्रोटीन अच्छे विकल्प हैं।"
+            }
+          ],
+          "reference_indexes": [
+            5,
+            6
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "सही प्रोटीन कैसे चुनें?"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "व्हे प्रोटीन कॉन्सेंट्रेट (Whey Concentrate): बजट में किफायती और मांसपेशियों की वृद्धि के लिए अच्छा होता है।",
+              "reference_indexes": [
+                3
+              ]
+            },
+            {
+              "snippet": "व्हे प्रोटीन आइसोलेट (Whey Isolate): इसमें फैट और कार्ब्स न के बराबर होते हैं, और यह तेजी से पचता है।",
+              "reference_indexes": [
+                0,
+                7
+              ]
+            },
+            {
+              "snippet": "प्लांट-बेस्ड प्रोटीन (Plant Protein): वीगन और पेट की संवेदनशील समस्याओं वाले लोगों के लिए बेस्ट है।"
+            }
+          ],
+          "reference_indexes": [
+            5,
+            6
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "अगर आप चाहें, तो मुझे बताएं:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "आपका मुख्य उद्देश्य क्या है (वजन घटाना, मांसपेशियां बढ़ाना या फिटनेस बनाए रखना)?"
+            },
+            {
+              "snippet": "क्या आपको लैक्टोज या दूध से एलर्जी है?"
+            },
+            {
+              "snippet": "आपका बजट कितना है?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "मैं आपकी ज़रूरत के मुताबिक सबसे सही ब्रांड और प्रकार सुझा सकता हूँ।"
+        }
+      ],
+      "references": [
+        {
+          "index": 0,
+          "title": "Buy Premium Protein Powder Online",
+          "link": "https://www.optimumnutrition.co.in/collections/protein-powder",
+          "snippet": "What Is Protein Powder and Why Does It Matter? Protein powder is a convenient protein supplement that helps you meet your daily protein requirements, especially if...",
+          "source": "Optimum Nutrition India",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.optimumnutrition.co.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgPLyTNev2uzLDl_aALYWEIyXV6DijYntS_dZ2QP5ZobLay0e1AOPQwbtVrKTG1hb4QrEqBvmXqwnf_mMb54ZPyj2WEARMypbbtkDt"
+        },
+        {
+          "index": 1,
+          "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड ...",
+          "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+          "snippet": "1. ऑप्टिमम न्यूट्रिशन (ऑन) 100% व्हे स्टेन्डर्ड (Optimum Nutrition (ON) 100% Whey Gold Standard) भारत में मिलने वाले व्हे प्रोटीन्स पाउडर में 100% व्हे गोल्ड स्टेन...",
+          "source": "MensXP",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mensxp.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaDoapwkJkYod83j8MSenrpNtKl_86QFguC2EIb77d-5bStwnfKo9OHxAnQ8P84_sp8k02YqcnBvm8kdW_lfVXGuP59H9k1dKDT4Rg"
+        },
+        {
+          "index": 2,
+          "title": "प्रोटीन पाउडर के फायदे, लेने का समय, खुराक और बेस्ट ...",
+          "link": "https://www.myupchar.com/fitness/protein-powder",
+          "snippet": "प्रोटीन पाउडर कब लेना चाहिए - When should you take protein powder in Hindi फिटनेस के लिए सबसे बेस्ट प्रोटीन पाउडर - Best protein powder for fitness in Hindi प्योर ...",
+          "source": "myUpchar",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.myupchar.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwZZo7F2twhNX5jotflHBrhXYlsOzUYHqtGcSVg_ipPWImWkUYODTgQgs1rRAw-wDOaQV7mB9jw4X0BuP9xSs4wQJHxA8SaS3vktFh"
+        },
+        {
+          "index": 3,
+          "title": "Amazon.in Bestsellers: The most popular items in Whey Proteins",
+          "link": "https://www.amazon.in/gp/bestsellers/hpc/11364606031",
+          "snippet": "Whey Proteins * #7 Bigmuscles Nutrition Premium Gold Whey [1Kg] | Informed Choice UK Certified | Isolate Whey Protein Blend | 25g Protein | 11g EAA | ProHydrolase ...",
+          "source": "Amazon.in",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuQU6dS0_yEjwZiEFfgiWgTFbQVOuD11K0YiXN5fPwcMbuv7GwuvmD3GVGDv2s5gL7NXXmKeRXs3jPQ-OJ4et_ZGDG7zEouAZEAIIO"
+        },
+        {
+          "index": 4,
+          "title": "व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+          "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+          "snippet": "व्हे प्रोटीन * #11 Isopure व्हे प्रोटीन आइसोलेट पाउडर विटामिन के साथ इम्यून सपोर्ट और बायोटीन के लिए- 2.20 lbs, 1 kg (डच चोक), लैक्टोज-फ्री, ग्लूटेन-फ्री, वेज प्रो...",
+          "source": "Amazon.in",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqDIrt-q9IbDvJK9rlAfDGXh_4vTkf4XuD630fnWiWAXe0jxrvhZxOD0fFgPhxvPZaC9KAAD2RUIdZUeyneOoCmpjnYDyo5S6I5JG"
+        },
+        {
+          "index": 5,
+          "title": "प्रोटीन न्यूट्रिशन ब्लेंड में सबसे लोकप्रिय आइटम",
+          "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364600031",
+          "snippet": "प्रोटीन ब्लेंड * #9 Trunativ Cookable मिल्क व्हे प्रोटीन आइसोलेट | प्रति सर्विंग 85% प्रोटीन | मांसपेशियों की वृद्धि और प्रतिरक्षा बूस्टर | प्राकृतिक प्रोटीन पाउडर...",
+          "source": "Amazon.in",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3cwyR3srbaSSGFMmXfdRoYCO8roru2hRGA-lZD6Jkf1-ykssIwKFZIDcV4n65dogTgAbQa8GLBpEt5sRrv4x21M09UUEGQJ8pF1i0"
+        },
+        {
+          "index": 6,
+          "title": "प्रोटीन सप्लिमेंट्स में सबसे लोकप्रिय आइटम",
+          "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364592031",
+          "snippet": "प्रोटीन सप्लिमेंट्स * #26 TrueBasics स्वच्छ संयंत्र प्रोटीन पाउडर, चॉकलेट, 1kg | ब्राउन राइस + मटर प्रोटीन | स्कूप प्रति 24g प्रोटीन 241 2 ऑफर ₹2,099.00 से शुरू * ...",
+          "source": "Amazon.in",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtbvo7e8t7jE97m3e77W42y2P_Qso7RlGwN1IV2B3triVx4QwOdZMOFAMcdEgIPI9LiiUVuxfDX4-9Xaqd-TrJ58H_K2nmfaJVhb8w"
+        },
+        {
+          "index": 7,
+          "title": "भारत का नंबर 1 व्हे प्रोटीन पाउडर खरीदें - हेल्थफार्म से ऑनलाइन खरीदें",
+          "link": "https://translate.google.com/translate?u=https://healthfarmnutrition.com/pages/whey-protein&hl=hi&sl=en&tl=hi&client=sge",
+          "snippet": "ISOPRO ZERO आपके शरीर को 25 ग्राम प्रोटीन, 5.75 ग्राम BCAAs और 12.15 ग्राम EAAs प्रदान करता है। यह 100 प्रतिशत व्हे प्रोटीन आइसोलेट है और शीर्ष एथलीटों की पहली पसं...",
+          "source": "Healthfarm Nutrition",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://healthfarmnutrition.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGZrtSwNn-gsXU3lvcdgyY5Tk4tKpSubKC6GPOYj6dgLHeNa-6aRkpBmw96u_Dx5lSei4R4ayTD9hmnTgz-Y0GtwlMfyan6CDJxKCj"
+        }
+      ]
+    }
+  }
+}

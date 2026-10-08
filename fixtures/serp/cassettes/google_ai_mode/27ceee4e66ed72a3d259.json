@@ -1,0 +1,142 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "कौन सी कंपनी का व्हे प्रोटीन सबसे अच्छा है?",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "hi",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:35:29+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb0b1c38820072ddf9ab",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/QI5lBv77L1IDEH_zyU69nDPqFSY83EPxxZKzsBIkejM/6ac4eb0b1c38820072ddf9ab.json",
+      "markdown_endpoint": "https://serpapi.com/searches/QI5lBv77L1IDEH_zyU69nDPqFSY83EPxxZKzsBIkejM/6ac4eb0b1c38820072ddf9ab.md",
+      "created_at": "2026-10-06 12:35:23 UTC",
+      "processed_at": "2026-10-06 12:35:23 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A5%80+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%95%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88%3F&udm=50&gl=in&hl=hi&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/QI5lBv77L1IDEH_zyU69nDPqFSY83EPxxZKzsBIkejM/6ac4eb0b1c38820072ddf9ab.html",
+      "prettify_html_file": "https://serpapi.com/searches/QI5lBv77L1IDEH_zyU69nDPqFSY83EPxxZKzsBIkejM/6ac4eb0b1c38820072ddf9ab.prettify",
+      "total_time_taken": 6.27
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "कौन सी कंपनी का व्हे प्रोटीन सबसे अच्छा है?",
+      "hl": "hi",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "भारत में फिटनेस और जिम प्रेमियों के बीच कई ब्रांड्स के व्हे प्रोटीन (Whey Protein) को उनकी शुद्धता, गुणवत्ता और परिणामों के आधार पर सबसे अच्छा माना जाता है। सबसे अच्छे ब्रांड्स की सूची उनकी खासियत के साथ नीचे दी गई है:",
+        "snippet_highlighted_words": [
+          "भारत में फिटनेस और जिम प्रेमियों के बीच कई ब्रांड्स के व्हे प्रोटीन (Whey Protein) को उनकी शुद्धता, गुणवत्ता और परिणामों के आधार पर सबसे अच्छा माना जाता है"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "1. प्रीमियम और अंतरराष्ट्रीय ब्रांड (Best Global Brands)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey: इसे दुनिया भर में और भारत में भी \"गोल्ड स्टैंडर्ड\" माना जाता है। इसमें प्रति सर्विंग लगभग 24g प्रोटीन और उच्च गुणवत्ता वाले BCAAs मिलते हैं। इसका स्वाद और घुलनशीलता (Mixability) बेहतरीन है।"
+          },
+          {
+            "snippet": "Dymatize ISO 100: यह एक हाइड्रोलाइज्ड व्हे प्रोटीन आइसोलेट (Hydrolyzed Isolate) है, जो पेट के लिए बहुत हल्का होता है, जल्दी पचता है [दैनिक उपयोग के लिए और इसमें लैक्टोज (Lactose) न के बराबर होता है। लीन मास और कटिंग के लिए यह शानदार है।",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Isopure Zero Carb: यह उन लोगों के लिए सबसे अच्छा है जो बिना किसी अतिरिक्त फैट या कार्ब्स के शत-प्रतिशत आइसोलेट (100% Isolate) चाहते हैं।"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. भारतीय और वैल्यू-फॉर-मनी ब्रांड (Best Indian Brands)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "MuscleBlaze (Biozyme Performance Whey / Whey Gold): यह भारत का एक अग्रणी ब्रांड है जिसे खासतौर पर भारतीयों के पाचन तंत्र को ध्यान में रखकर बनाया गया है (इसमें पेट की समस्याओं से बचने के लिए खास एन्जाइम्स होते हैं)। यह लैब-टेस्टेड और किफायती दामों पर बेहतरीन परिणाम देता है।",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "AS-IT-IS Nutrition / Nakpro / Nutrabay: यदि आप बजट में बिना किसी मिलावट के \"रॉ (Raw) या अनफ्लेवर्ड\" व्हे प्रोटीन चाहते हैं, तो ये ब्रांड्स सबसे सस्ते और भरोसेमंद माने जाते हैं।",
+            "reference_indexes": [
+              0,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "आपके लिए कौन सा सही रहेगा?"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "अगर बजट की कोई समस्या नहीं है और बेस्ट क्वालिटी चाहिए: Optimum Nutrition (ON) चुनें।"
+          },
+          {
+            "snippet": "अगर आप भारतीय ब्रांड में सबसे अच्छा और पचने में आसान चाहते हैं: MuscleBlaze Biozyme चुनें।"
+          },
+          {
+            "snippet": "अगर पाचन की दिक्कत (Lactose Intolerance) है: Dymatize ISO100 या Isopure Isolate चुनें।"
+          },
+          {
+            "snippet": "कम बजट के लिए: AS-IT-IS या Nakpro का रॉ व्हे प्रोटीन ट्राई करें।",
+            "reference_indexes": [
+              0,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "यदि आप मुझे अपने फिटनेस गोल्स (जैसे वजन घटाना, मांसपेशियां बढ़ाना), बजट या किसी पाचन संबंधी समस्या के बारे में बताएं, तो मैं आपके लिए बिल्कुल सटीक प्रोटीन सुझाव दे सकता हूँ।"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Top 10 Whey Protein Brands In India 2026 - Flavor Catalystz",
+        "link": "https://www.flavorcatalyst.com/insights/top-10-whey-protein-brands-in-india/",
+        "snippet": "Which is the best whey protein in India in 2026? For most Indian gym-goers, Optimum Nutrition Gold Standard 100% Whey is the safest premium pick and MuscleBlaze Bi...",
+        "source": "Flavor Catalystz",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.flavorcatalyst.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNtEo-4LDsuB-yNRYVG3emW4Cm0_cNeps4CP2C9Pj25PB75gPB0TsuJPsFCg04Rhx0OJeStYp9_j5zkDyq-5M2khr6OkGB9HhPDsq1"
+      },
+      {
+        "index": 1,
+        "title": "Top 7 Cleanest Whey Proteins in India (2026) - HealthKart",
+        "link": "https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/?srsltid=AU7gw4XQ1L0_-eF-coBHvT2rmVxskmjmsAosZkbXbWpMC7CiwVrFWsnq",
+        "snippet": "AS-IT-IS ONE Whey Protein Concentrate (Unflavoured) NAKPRO Gold Clean Raw Whey Protein Concentrate. Overall Score: 7.85/10. Nutrabay Pure 100% Whey Protein Isolate...",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkfwm3fkkvJExPFkiO_UYl8lPNWc5sspZ-ZnrG6PYWVWu8z6VOvqDL_vEQFkUJf9TAvwzcnZxjQ_JBDXCm4gIYb7HUB6hQ5ioNL6_I"
+      }
+    ],
+    "reconstructed_markdown": "भारत में फिटनेस और जिम प्रेमियों के बीच कई ब्रांड्स के व्हे प्रोटीन \\(Whey Protein\\) को उनकी शुद्धता, गुणवत्ता और परिणामों के आधार पर सबसे अच्छा माना जाता है। सबसे अच्छे ब्रांड्स की सूची उनकी खासियत के साथ नीचे दी गई है: [0]\n\n### 1. प्रीमियम और अंतरराष्ट्रीय ब्रांड \\(Best Global Brands\\)\n\n- Optimum Nutrition \\(ON\\) Gold Standard 100% Whey: इसे दुनिया भर में और भारत में भी \"गोल्ड स्टैंडर्ड\" माना जाता है। इसमें प्रति सर्विंग लगभग 24g प्रोटीन और उच्च गुणवत्ता वाले BCAAs मिलते हैं। इसका स्वाद और घुलनशीलता \\(Mixability\\) बेहतरीन है।\n- Dymatize ISO 100: यह एक हाइड्रोलाइज्ड व्हे प्रोटीन आइसोलेट \\(Hydrolyzed Isolate\\) है, जो पेट के लिए बहुत हल्का होता है, जल्दी पचता है \\[दैनिक उपयोग के लिए और इसमें लैक्टोज \\(Lactose\\) न के बराबर होता है। लीन मास और कटिंग के लिए यह शानदार है। [0]\n- Isopure Zero Carb: यह उन लोगों के लिए सबसे अच्छा है जो बिना किसी अतिरिक्त फैट या कार्ब्स के शत\\-प्रतिशत आइसोलेट \\(100% Isolate\\) चाहते हैं।\n\n### 2. भारतीय और वैल्यू\\-फॉर\\-मनी ब्रांड \\(Best Indian Brands\\)\n\n- MuscleBlaze \\(Biozyme Performance Whey / Whey Gold\\): यह भारत का एक अग्रणी ब्रांड है जिसे खासतौर पर भारतीयों के पाचन तंत्र को ध्यान में रखकर बनाया गया है \\(इसमें पेट की समस्याओं से बचने के लिए खास एन्जाइम्स होते हैं\\)। यह लैब\\-टेस्टेड और किफायती दामों पर बेहतरीन परिणाम देता है। [0]\n- AS\\-IT\\-IS Nutrition / Nakpro / Nutrabay: यदि आप बजट में बिना किसी मिलावट के \"रॉ \\(Raw\\) या अनफ्लेवर्ड\" व्हे प्रोटीन चाहते हैं, तो ये ब्रांड्स सबसे सस्ते और भरोसेमंद माने जाते हैं। [0] [1]\n\n### आपके लिए कौन सा सही रहेगा?\n\n- अगर बजट की कोई समस्या नहीं है और बेस्ट क्वालिटी चाहिए: Optimum Nutrition \\(ON\\) चुनें।\n- अगर आप भारतीय ब्रांड में सबसे अच्छा और पचने में आसान चाहते हैं: MuscleBlaze Biozyme चुनें।\n- अगर पाचन की दिक्कत \\(Lactose Intolerance\\) है: Dymatize ISO100 या Isopure Isolate चुनें।\n- कम बजट के लिए: AS\\-IT\\-IS या Nakpro का रॉ व्हे प्रोटीन ट्राई करें। [0] [1]\n\nयदि आप मुझे अपने फिटनेस गोल्स \\(जैसे वजन घटाना, मांसपेशियां बढ़ाना\\), बजट या किसी पाचन संबंधी समस्या के बारे में बताएं, तो मैं आपके लिए बिल्कुल सटीक प्रोटीन सुझाव दे सकता हूँ।\n\n\n### References\n\n[0] [Top 10 Whey Protein Brands In India 2026 \\- Flavor Catalystz](https://www.google.com/goto?url=CAEShwEB6zswFXRbtJDCoHhqAcRBBx40_Bg3HyryJA9gHlG7AXQu6XHFDGUM4X0hbmB-zLulzYAvSlzud23kac6_qAOaaLRG8Dpn3ABikL1Kd4rnPtvSNFuSupv-jAVmvSAtvV4y9-yHEC3n9VV3iFU4IoS9k59tHqF8kKWY9d4dcPD1B3QSfg5G6RE) — Which is the best whey protein in India in 2026? For most Indian gym\\-goers, Optimum Nutrition Gold Standard 100% Whey is the safest premium pick and MuscleBlaze Bi...\n\n[1] [Top 7 Cleanest Whey Proteins in India \\(2026\\) \\- HealthKart](https://www.google.com/goto?url=CAES9QEB6zswFTGSN_0dmeC-RNkTU9xION94wLZeawN3QAeqe2yP9DygL2_bNMbqqgZ1gXOubu5aTvUsw1YjhObazdZ4kTO5SyYkGimehPNPePs8tgh4mOEBKpULpoHLrlWDDNfPfq5WJtZy5CmGx78DA2m4Ln-1UZ05IxMyr4m87pgGRCu9xgERfhxpayUKTuaZOGFRk54AIaoJgRxD0wS2UY5BtVTMRvQk5ATWd24LqN1Cjsza-KAn4ITmdylI0OSTAkmh30LS1kAsNwXft8KkP_K3jgGFwCpGADUHvNQBJBWeUdcFknu_g2IpYBD7EVwBeLqIDd-sHA) — AS\\-IT\\-IS ONE Whey Protein Concentrate \\(Unflavoured\\) NAKPRO Gold Clean Raw Whey Protein Concentrate. Overall Score: 7.85/10. Nutrabay Pure 100% Whey Protein Isolate...\n"
+  }
+}

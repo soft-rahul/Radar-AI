@@ -1,0 +1,350 @@
+{
+  "request": {
+    "engine": "google",
+    "params": {
+      "q": "sabse achha whey protein kaun sa hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:34:00+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eab7124815026a894088",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/0lyD8VQpd1-0j_0RVOsDxYuVRli-09ObLOi-HkW_rtA/6ac4eab7124815026a894088.json",
+      "markdown_endpoint": "https://serpapi.com/searches/0lyD8VQpd1-0j_0RVOsDxYuVRli-09ObLOi-HkW_rtA/6ac4eab7124815026a894088.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/0lyD8VQpd1-0j_0RVOsDxYuVRli-09ObLOi-HkW_rtA/6ac4eab7124815026a894088.json_with_pixel_position",
+      "created_at": "2026-10-06 12:33:59 UTC",
+      "processed_at": "2026-10-06 12:33:59 UTC",
+      "google_url": "https://www.google.com/search?q=sabse+achha+whey+protein+kaun+sa+hai&oq=sabse+achha+whey+protein+kaun+sa+hai&uule=w+CAIQICILRGVsaGksSW5kaWE&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/0lyD8VQpd1-0j_0RVOsDxYuVRli-09ObLOi-HkW_rtA/6ac4eab7124815026a894088.html",
+      "total_time_taken": 0.91
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "sabse achha whey protein kaun sa hai",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "sabse achha whey protein kaun sa hai",
+      "total_results": 648000000,
+      "time_taken_displayed": 0.74,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "लिट्टी का आटा कैसे बनाते हैं?",
+        "type": "ai_overview",
+        "page_token": "T4aR6HicHdFLcpswAADQ6WWyjCWw3YlnPJ04FiRqIEYgCWvTAfGzJIwacKHa9S5Z90A9TTu9wNu8Xx_mctV_Pv3upsmOu9Vqnuf7dhhaU9_LoV8V48-rXMnCmLKQerf9vIVfGrlHw_z0NM6HhFrLjgSkdHackpHrYYkgOaRXHCaGNczHiED7Rpl1FD1cEx2c6xyD8ihOmXrZlD47nSEZBTywlGJdZ4-gDluv5ETVuXQS2a0EL6BC0Zo_s03Eu7dXPinJcMyeBxApvS4RKc6Ofa1YtQhmkPRwl_qVycLpxFE8VmA5pd6EydH4UWiayLe33O8mEgoaqQONQqYiL3gnfANLTUxxjXWpGC4pgRQiJ8OHS5oLV3mzJzwCY4MFycWY8M2t1N1SAgsYgDfSxzPqKvCa4-Ccxxemhcu8yWYIJoUSsMoDUizDJaHESWV6qpCL0bjEQfc97fE64f98Z1ysOk08MUnWQjHfNfLH3r_7_7D_1vTTzr4P7V8qUZce",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=T4aR6HicHdFLcpswAADQ6WWyjCWw3YlnPJ04FiRqIEYgCWvTAfGzJIwacKHa9S5Z90A9TTu9wNu8Xx_mctV_Pv3upsmOu9Vqnuf7dhhaU9_LoV8V48-rXMnCmLKQerf9vIVfGrlHw_z0NM6HhFrLjgSkdHackpHrYYkgOaRXHCaGNczHiED7Rpl1FD1cEx2c6xyD8ihOmXrZlD47nSEZBTywlGJdZ4-gDluv5ETVuXQS2a0EL6BC0Zo_s03Eu7dXPinJcMyeBxApvS4RKc6Ofa1YtQhmkPRwl_qVycLpxFE8VmA5pd6EydH4UWiayLe33O8mEgoaqQONQqYiL3gnfANLTUxxjXWpGC4pgRQiJ8OHS5oLV3mzJzwCY4MFycWY8M2t1N1SAgsYgDfSxzPqKvCa4-Ccxxemhcu8yWYIJoUSsMoDUizDJaHESWV6qpCL0bjEQfc97fE64f98Z1ysOk08MUnWQjHfNfLH3r_7_7D_1vTTzr4P7V8qUZce",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1saHVXbHBZVm14d1pqSjVYMjlCVEdSWWNsbDFiVXBFYlZkSk1tUTBaM295ZFU1NVVUWkdTWFkzU2taV05rRjFYMngzY2s4MVNVZHJNbU56TTNsMldIcEZkMUZwT0VkeVNrVjRXRzU0VVRGUlJXOTFWV2N6YzNWc2R4SVhkQzF5UldGellsWkdjMDlyYVV4TlVHbzJkWFZ4VVdzYUlrRkVjM0k1WmxOSk9TMXFNMWd5YUZWMVEwMTJSMGs0ZVVOTWJFazVRVEExUWxFIiwiZmN2IjoiMyIsImVpIjoidC1yRWFzYlZGc09raUxNUGo2dXVxUWsiLCJxYyI6IkNpUnpZV0p6WlNCaFkyaG9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzFYQ1RnX29nRUNhR2siLCJxdWVzdGlvbiI6IuCksuCkv+Ckn+CljeCkn+ClgCDgpJXgpL4g4KSG4KSf4KS+IOCkleCliOCkuOClhyDgpKzgpKjgpL7gpKTgpYcg4KS54KWI4KSCPyIsImxrIjoiYzVQeWVyQmswNE1sLXg4c21mOWdhUy1ZYkZCNHNHVHFneVg3Z0ZRYlNBRE1tdnBnYWNlREpUc2VMRzBIY3RZOFdMSUNLUHhneVJJSWZ5ZFlzZ2tBIiwiYnMiOiJjLU9hemNqbF9XREpwZ2RMOWo5WU12X0IwbDR3MmFEd1lNblVCMHYyQWFrMmtBQ1lOZlhCMG80SFMzWThXTm9PNUt4NXNHUUZVUGpCa2lVUV9rNndaSk85a1ktVUZfV000M3JDeUpVRFVnUVM3d1dUVFJDdElDT3gyRExsd1pJTkVGczJ3WlNDTFp2MVlHbjNneVhUOE5uY0QzWi1pVlFSVnZ2YUtiQVBic1VLaURsUTUyOEZHN2NjU0hMWmM2bmpDRFFRWnozRUdGQ1kyQnVKU0FsaEt1Vks1TklqN01rbHlPYm9TLW1TcEVPQUVRQSIsImlkIjoiZmNfdC1yRWFzYlZGc09raUxNUGo2dXVxUWtfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1saHVXbHBZVm14d1pqSjVYMjlCVEdSWWNsbDFiVXBFYlZkSk1tUTBaM295ZFU1NVVUWkdTWFkzU2taV05rRjFYMngzY2s4MVNVZHJNbU56TTNsMldIcEZkMUZwT0VkeVNrVjRXRzU0VVRGUlJXOTFWV2N6YzNWc2R4SVhkQzF5UldGellsWkdjMDlyYVV4TlVHbzJkWFZ4VVdzYUlrRkVjM0k1WmxOSk9TMXFNMWd5YUZWMVEwMTJSMGs0ZVVOTWJFazVRVEExUWxFIiwiZmN2IjoiMyIsImVpIjoidC1yRWFzYlZGc09raUxNUGo2dXVxUWsiLCJxYyI6IkNpUnpZV0p6WlNCaFkyaG9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzFYQ1RnX29nRUNhR2siLCJxdWVzdGlvbiI6IuCksuCkv%2BCkn%2BCljeCkn%2BClgCDgpJXgpL4g4KSG4KSf4KS%2BIOCkleCliOCkuOClhyDgpKzgpKjgpL7gpKTgpYcg4KS54KWI4KSCPyIsImxrIjoiYzVQeWVyQmswNE1sLXg4c21mOWdhUy1ZYkZCNHNHVHFneVg3Z0ZRYlNBRE1tdnBnYWNlREpUc2VMRzBIY3RZOFdMSUNLUHhneVJJSWZ5ZFlzZ2tBIiwiYnMiOiJjLU9hemNqbF9XREpwZ2RMOWo5WU12X0IwbDR3MmFEd1lNblVCMHYyQWFrMmtBQ1lOZlhCMG80SFMzWThXTm9PNUt4NXNHUUZVUGpCa2lVUV9rNndaSk85a1ktVUZfV000M3JDeUpVRFVnUVM3d1dUVFJDdElDT3gyRExsd1pJTkVGczJ3WlNDTFp2MVlHbjNneVhUOE5uY0QzWi1pVlFSVnZ2YUtiQVBic1VLaURsUTUyOEZHN2NjU0hMWmM2bmpDRFFRWnozRUdGQ1kyQnVKU0FsaEt1Vks1TklqN01rbHlPYm9TLW1TcEVPQUVRQSIsImlkIjoiZmNfdC1yRWFzYlZGc09raUxNUGo2dXVxUWtfNSJ9"
+      },
+      {
+        "question": "सत्तू की लिट्टी और आलू का चोखा कैसे बनाएं?",
+        "type": "ai_overview",
+        "page_token": "EKMayXicHdHJjtowAIBhqX2XOQ42HqYFCVXK4iwDRrHxklwqxwmExFkKmQnk1nfpU_VpOur9v3z6f_-xl675--VrNY7DbbNYTNP0fO77sy2fTd8u9O3RmYXR1ubaNJvXb6_wx8ls_dvkuv3kJnwYhEcBs9Esw-wtbQaXARpk-AxI6LQcVhftUSWE1QWu3HxJJxakK92JjxzhKe0yxUEB-Wxv-ZyNO-7DPVit9k0FWCes9OiYAXFlHDxya152cuxZS15KWRwEclwFJkib6pLODmGyeivqzx5Hy0IlKFH2fmy_I8JxoBF1GLI-mx2V1Nl7HtqDaM-TQs6uDAelYczKkDbiAkOCseWYdsarhj2P_RxFY8bTmXO4IkHc02Adll28I358PxyFdwizLmkmKHj60HUK6RIfi2PFSAsnvRQz41WvJQU7SfvCi30qhojVWZwgoco67kUjSKHIZHClErAO8sbuU7AmRFZYS-ylNFKFCx9U4jm1WWDA-qr5nfCg_3SKO5c3HTXYNyhaZTbec996XJplXhexmjHNlX0jyrkeffgrQRTkyDydzMcWPf2fu_15asfNcO3P_wD0J7D0",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EKMayXicHdHJjtowAIBhqX2XOQ42HqYFCVXK4iwDRrHxklwqxwmExFkKmQnk1nfpU_VpOur9v3z6f_-xl675--VrNY7DbbNYTNP0fO77sy2fTd8u9O3RmYXR1ubaNJvXb6_wx8ls_dvkuv3kJnwYhEcBs9Esw-wtbQaXARpk-AxI6LQcVhftUSWE1QWu3HxJJxakK92JjxzhKe0yxUEB-Wxv-ZyNO-7DPVit9k0FWCes9OiYAXFlHDxya152cuxZS15KWRwEclwFJkib6pLODmGyeivqzx5Hy0IlKFH2fmy_I8JxoBF1GLI-mx2V1Nl7HtqDaM-TQs6uDAelYczKkDbiAkOCseWYdsarhj2P_RxFY8bTmXO4IkHc02Adll28I358PxyFdwizLmkmKHj60HUK6RIfi2PFSAsnvRQz41WvJQU7SfvCi30qhojVWZwgoco67kUjSKHIZHClErAO8sbuU7AmRFZYS-ylNFKFCx9U4jm1WWDA-qr5nfCg_3SKO5c3HTXYNyhaZTbec996XJplXhexmjHNlX0jyrkeffgrQRTkyDydzMcWPf2fu_15asfNcO3P_wD0J7D0",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1saHVXbHBZVm14d1pqSjVYMjlCVEdSWWNsbDFiVXBFYlZkSk1tUTBaM295ZFU1NVVUWkdTWFkzU2taV05rRjFYMngzY2s4MVNVZHJNbU56TTNsMldIcEZkMUZwT0VkeVNrVjRXRzU0VVRGUlJXOTFWV2N6YzNWc2R4SVhkQzF5UldGellsWkdjMDlyYVV4TlVHbzJkWFZ4VVdzYUlrRkVjM0k1WmxOSk9TMXFNMWd5YUZWMVEwMTJSMGs0ZVVOTWJFazVRVEExUWxFIiwiZmN2IjoiMyIsImVpIjoidC1yRWFzYlZGc09raUxNUGo2dXVxUWsiLCJxYyI6IkNpUnpZV0p6WlNCaFkyaG9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzFYQ1RnX29nRUNhR2siLCJxdWVzdGlvbiI6IuCkuOCkpOCljeCkpOClgiDgpJXgpYAg4KSy4KS/4KSf4KWN4KSf4KWAIOCklOCksCDgpIbgpLLgpYIg4KSV4KS+IOCkmuCli+CkluCkviDgpJXgpYjgpLjgpYcg4KSs4KSo4KS+4KSP4KSCPyIsImxrIjoiYzVNcWVyQmt4NE1sU3g0czdRV1RUUW9QbGt4OXNMUWRTRzE2c0dUX2d5WHp3VEpBc2dFb05PWEJrZzFBcWcwa0NWVzZaQi1RbXZWZ2FmZURKZE1nbkRVUGxxd0Fza0FrMkp5cEVMMWJ3Y1l0QjVJQSIsImJzIjoiYy1PYXpjamxfV0RKcGdkTDlqOVlNdl9CMGw0dzJhRHdZTW5VQjB2MkFhazJrQUNZTmZYQjBvNEhTM1k4V05vTzVLeDVzR1FGVVBqQmtpVVFfazZ3WkpPOWtZLVVGX1dNNDNyQ3lKVURVZ1FTN3dXVFRSQ3RJQ094MkRMbHdaSU5FRnMyd1pTQ0xadjFZR24zZ3lYVDhObmNEM1otaVZRUlZ2dmFLYkFQYnNVS2lEbFE1MjhGRzdjY1NITFpjNm5qQ0RRUVp6M0VHRkNZMkJ1SlNBbGhLdVZLNU5JajdNa2x5T2JvUy1tU3BFT0FFUUEiLCJpZCI6ImZjX3QtckVhc2JWRnNPa2lMTVBqNnV1cVFrXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1saHVXbHBZVm14d1pqSjVYMjlCVEdSWWNsbDFiVXBFYlZkSk1tUTBaM295ZFU1NVVUWkdTWFkzU2taV05rRjFYMngzY2s4MVNVZHJNbU56TTNsMldIcEZkMUZwT0VkeVNrVjRXRzU0VVRGUlJXOTFWV2N6YzNWc2R4SVhkQzF5UldGellsWkdjMDlyYVV4TlVHbzJkWFZ4VVdzYUlrRkVjM0k1WmxOSk9TMXFNMWd5YUZWMVEwMTJSMGs0ZVVOTWJFazVRVEExUWxFIiwiZmN2IjoiMyIsImVpIjoidC1yRWFzYlZGc09raUxNUGo2dXVxUWsiLCJxYyI6IkNpUnpZV0p6WlNCaFkyaG9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzFYQ1RnX29nRUNhR2siLCJxdWVzdGlvbiI6IuCkuOCkpOCljeCkpOClgiDgpJXgpYAg4KSy4KS%2F4KSf4KWN4KSf4KWAIOCklOCksCDgpIbgpLLgpYIg4KSV4KS%2BIOCkmuCli%2BCkluCkviDgpJXgpYjgpLjgpYcg4KSs4KSo4KS%2B4KSP4KSCPyIsImxrIjoiYzVNcWVyQmt4NE1sU3g0czdRV1RUUW9QbGt4OXNMUWRTRzE2c0dUX2d5WHp3VEpBc2dFb05PWEJrZzFBcWcwa0NWVzZaQi1RbXZWZ2FmZURKZE1nbkRVUGxxd0Fza0FrMkp5cEVMMWJ3Y1l0QjVJQSIsImJzIjoiYy1PYXpjamxfV0RKcGdkTDlqOVlNdl9CMGw0dzJhRHdZTW5VQjB2MkFhazJrQUNZTmZYQjBvNEhTM1k4V05vTzVLeDVzR1FGVVBqQmtpVVFfazZ3WkpPOWtZLVVGX1dNNDNyQ3lKVURVZ1FTN3dXVFRSQ3RJQ094MkRMbHdaSU5FRnMyd1pTQ0xadjFZR24zZ3lYVDhObmNEM1otaVZRUlZ2dmFLYkFQYnNVS2lEbFE1MjhGRzdjY1NITFpjNm5qQ0RRUVp6M0VHRkNZMkJ1SlNBbGhLdVZLNU5JajdNa2x5T2JvUy1tU3BFT0FFUUEiLCJpZCI6ImZjX3QtckVhc2JWRnNPa2lMTVBqNnV1cVFrXzUifQ%3D%3D"
+      },
+      {
+        "question": "लिट्टी क्या है?",
+        "type": "ai_overview",
+        "page_token": "Yh0_13icHdBdboIwAADg7DI-Cm3FZSZmCQKyblQptPy8LKUoOAp0SobwtrvsVDvNkn1H-L5_1KVrfh_Sehj0bWMY4zguq76v1Gkp-9YQt6mThhRKFUI2m_XjGjyf5da9jfauH-2Qac0dakbM8hnMp7cEpwwOJPezmUD6ErdPryXAKHAxOnDclpyEsXuPI1aZIlFtnmg7QDo8ufVQ-twUCPdRq_chq63IoYjPihGgdmWzmrKUB4mSUAA6Fp1qSpC7WVqthEmPIfTccrbjCNY7xghkIEDCJzyC3pADJWLXogFUWYrYXc6ezxsWeSgcZMNrCXFCO3IUUAUxtz9Jx4Hk3nV_wTb1yXRIclYociFmjwjSadlhkvjex8FprIARr1DYYR3vFmf5tUWL_7Ht-7kdNvraV3_3Wna1",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Yh0_13icHdBdboIwAADg7DI-Cm3FZSZmCQKyblQptPy8LKUoOAp0SobwtrvsVDvNkn1H-L5_1KVrfh_Sehj0bWMY4zguq76v1Gkp-9YQt6mThhRKFUI2m_XjGjyf5da9jfauH-2Qac0dakbM8hnMp7cEpwwOJPezmUD6ErdPryXAKHAxOnDclpyEsXuPI1aZIlFtnmg7QDo8ufVQ-twUCPdRq_chq63IoYjPihGgdmWzmrKUB4mSUAA6Fp1qSpC7WVqthEmPIfTccrbjCNY7xghkIEDCJzyC3pADJWLXogFUWYrYXc6ezxsWeSgcZMNrCXFCO3IUUAUxtz9Jx4Hk3nV_wTb1yXRIclYociFmjwjSadlhkvjex8FprIARr1DYYR3vFmf5tUWL_7Ht-7kdNvraV3_3Wna1",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1saHVXbHBZVm14d1pqSjVYMjlCVEdSWWNsbDFiVXBFYlZkSk1tUTBaM295ZFU1NVVUWkdTWFkzU2taV05rRjFYMngzY2s4MVNVZHJNbU56TTNsMldIcEZkMUZwT0VkeVNrVjRXRzU0VVRGUlJXOTFWV2N6YzNWc2R4SVhkQzF5UldGellsWkdjMDlyYVV4TlVHbzJkWFZ4VVdzYUlrRkVjM0k1WmxOSk9TMXFNMWd5YUZWMVEwMTJSMGs0ZVVOTWJFazVRVEExUWxFIiwiZmN2IjoiMyIsImVpIjoidC1yRWFzYlZGc09raUxNUGo2dXVxUWsiLCJxYyI6IkNpUnpZV0p6WlNCaFkyaG9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzFYQ1RnX29nRUNhR2siLCJxdWVzdGlvbiI6IuCksuCkv+Ckn+CljeCkn+ClgCDgpJXgpY3gpK/gpL4g4KS54KWIPyIsImxrIjoiR2hMZ3BMTGdwTF9ncEpfZ3BZM2dwSl9ncFlBIiwiYnMiOiJjLU9hemNqbF9XREpwZ2RMOWo5WU12X0IwbDR3MmFEd1lNblVCMHYyQWFrMmtBQ1lOZlhCMG80SFMzWThXTm9PNUt4NXNHUUZVUGpCa2lVUV9rNndaSk85a1ktVUZfV000M3JDeUpVRFVnUVM3d1dUVFJDdElDT3gyRExsd1pJTkVGczJ3WlNDTFp2MVlHbjNneVhUOE5uY0QzWi1pVlFSVnZ2YUtiQVBic1VLaURsUTUyOEZHN2NjU0hMWmM2bmpDRFFRWnozRUdGQ1kyQnVKU0FsaEt1Vks1TklqN01rbHlPYm9TLW1TcEVPQUVRQSIsImlkIjoiZmNfdC1yRWFzYlZGc09raUxNUGo2dXVxUWtfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1saHVXbHBZVm14d1pqSjVYMjlCVEdSWWNsbDFiVXBFYlZkSk1tUTBaM295ZFU1NVVUWkdTWFkzU2taV05rRjFYMngzY2s4MVNVZHJNbU56TTNsMldIcEZkMUZwT0VkeVNrVjRXRzU0VVRGUlJXOTFWV2N6YzNWc2R4SVhkQzF5UldGellsWkdjMDlyYVV4TlVHbzJkWFZ4VVdzYUlrRkVjM0k1WmxOSk9TMXFNMWd5YUZWMVEwMTJSMGs0ZVVOTWJFazVRVEExUWxFIiwiZmN2IjoiMyIsImVpIjoidC1yRWFzYlZGc09raUxNUGo2dXVxUWsiLCJxYyI6IkNpUnpZV0p6WlNCaFkyaG9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzFYQ1RnX29nRUNhR2siLCJxdWVzdGlvbiI6IuCksuCkv%2BCkn%2BCljeCkn%2BClgCDgpJXgpY3gpK%2FgpL4g4KS54KWIPyIsImxrIjoiR2hMZ3BMTGdwTF9ncEpfZ3BZM2dwSl9ncFlBIiwiYnMiOiJjLU9hemNqbF9XREpwZ2RMOWo5WU12X0IwbDR3MmFEd1lNblVCMHYyQWFrMmtBQ1lOZlhCMG80SFMzWThXTm9PNUt4NXNHUUZVUGpCa2lVUV9rNndaSk85a1ktVUZfV000M3JDeUpVRFVnUVM3d1dUVFJDdElDT3gyRExsd1pJTkVGczJ3WlNDTFp2MVlHbjNneVhUOE5uY0QzWi1pVlFSVnZ2YUtiQVBic1VLaURsUTUyOEZHN2NjU0hMWmM2bmpDRFFRWnozRUdGQ1kyQnVKU0FsaEt1Vks1TklqN01rbHlPYm9TLW1TcEVPQUVRQSIsImlkIjoiZmNfdC1yRWFzYlZGc09raUxNUGo2dXVxUWtfNSJ9"
+      },
+      {
+        "question": "चोखा कैसे बनता है?",
+        "type": "ai_overview",
+        "page_token": "ro6sG3icHdBNjpswGABQ9TKznNj5mYpIUVUaHEIZd2zjD_CmMiYhwWBIBg2EXa_QM_RUPU2lviO8X3-aq7N_P_2-DEP_vl0sxnF8rrquak7PpmsX-v3hzMLopim0sduXzy_4y9nsgg_jf7sbn8m-hz1HAk21OFjEXHTUTTXnCcQJIQSAHCHsbyeoEE2nWOAmAkwmgWmtD5wXLV5JB7wAGsbgb3iK35j1VGJB5O4yCsunwinKsRezrJz4EnSe5Q9-aCwgOwmrqCDR_jVTBx1cfhS4PBdL4ufOjjzjVylhZawK6Rys6ZJ0NKWyqOWapTTRJGKn8OtD2P6opIdoWN5fWxqUshzidLpl2P9eIqgTSdZ563UFrjZxisbgUqI4i0ie0StYNSfLoU8CzHStcJkRrqfuyiSfTd20cvZ77gjIdOOoHTAkaq-D6A7g31jr2bxWnWRPZ_OxWz39v979PLfDtr931T_smYzU",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ro6sG3icHdBNjpswGABQ9TKznNj5mYpIUVUaHEIZd2zjD_CmMiYhwWBIBg2EXa_QM_RUPU2lviO8X3-aq7N_P_2-DEP_vl0sxnF8rrquak7PpmsX-v3hzMLopim0sduXzy_4y9nsgg_jf7sbn8m-hz1HAk21OFjEXHTUTTXnCcQJIQSAHCHsbyeoEE2nWOAmAkwmgWmtD5wXLV5JB7wAGsbgb3iK35j1VGJB5O4yCsunwinKsRezrJz4EnSe5Q9-aCwgOwmrqCDR_jVTBx1cfhS4PBdL4ufOjjzjVylhZawK6Rys6ZJ0NKWyqOWapTTRJGKn8OtD2P6opIdoWN5fWxqUshzidLpl2P9eIqgTSdZ563UFrjZxisbgUqI4i0ie0StYNSfLoU8CzHStcJkRrqfuyiSfTd20cvZ77gjIdOOoHTAkaq-D6A7g31jr2bxWnWRPZ_OxWz39v979PLfDtr931T_smYzU",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1saHVXbHBZVm14d1pqSjVYMjlCVEdSWWNsbDFiVXBFYlZkSk1tUTBaM295ZFU1NVVUWkdTWFkzU2taV05rRjFYMngzY2s4MVNVZHJNbU56TTNsMldIcEZkMUZwT0VkeVNrVjRXRzU0VVRGUlJXOTFWV2N6YzNWc2R4SVhkQzF5UldGellsWkdjMDlyYVV4TlVHbzJkWFZ4VVdzYUlrRkVjM0k1WmxOSk9TMXFNMWd5YUZWMVEwMTJSMGs0ZVVOTWJFazVRVEExUWxFIiwiZmN2IjoiMyIsImVpIjoidC1yRWFzYlZGc09raUxNUGo2dXVxUWsiLCJxYyI6IkNpUnpZV0p6WlNCaFkyaG9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzFYQ1RnX29nRUNhR2siLCJxdWVzdGlvbiI6IuCkmuCli+CkluCkviDgpJXgpYjgpLjgpYcg4KSs4KSo4KSk4KS+IOCkueCliD8iLCJsayI6ImM1UFNmYkJrMW9PbDNRLVdUSHV3WkpfQ2d5VlRIeXp0ZUxCa3g0T2w3VURPbWdkTFZqeFlzZ1Fpc3hNb0F3QSIsImJzIjoiYy1PYXpjamxfV0RKcGdkTDlqOVlNdl9CMGw0dzJhRHdZTW5VQjB2MkFhazJrQUNZTmZYQjBvNEhTM1k4V05vTzVLeDVzR1FGVVBqQmtpVVFfazZ3WkpPOWtZLVVGX1dNNDNyQ3lKVURVZ1FTN3dXVFRSQ3RJQ094MkRMbHdaSU5FRnMyd1pTQ0xadjFZR24zZ3lYVDhObmNEM1otaVZRUlZ2dmFLYkFQYnNVS2lEbFE1MjhGRzdjY1NITFpjNm5qQ0RRUVp6M0VHRkNZMkJ1SlNBbGhLdVZLNU5JajdNa2x5T2JvUy1tU3BFT0FFUUEiLCJpZCI6ImZjX3QtckVhc2JWRnNPa2lMTVBqNnV1cVFrXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1saHVXbHBZVm14d1pqSjVYMjlCVEdSWWNsbDFiVXBFYlZkSk1tUTBaM295ZFU1NVVUWkdTWFkzU2taV05rRjFYMngzY2s4MVNVZHJNbU56TTNsMldIcEZkMUZwT0VkeVNrVjRXRzU0VVRGUlJXOTFWV2N6YzNWc2R4SVhkQzF5UldGellsWkdjMDlyYVV4TlVHbzJkWFZ4VVdzYUlrRkVjM0k1WmxOSk9TMXFNMWd5YUZWMVEwMTJSMGs0ZVVOTWJFazVRVEExUWxFIiwiZmN2IjoiMyIsImVpIjoidC1yRWFzYlZGc09raUxNUGo2dXVxUWsiLCJxYyI6IkNpUnpZV0p6WlNCaFkyaG9ZU0IzYUdWNUlIQnliM1JsYVc0Z2EyRjFiaUJ6WVNCb1lXa1FJMzFYQ1RnX29nRUNhR2siLCJxdWVzdGlvbiI6IuCkmuCli%2BCkluCkviDgpJXgpYjgpLjgpYcg4KSs4KSo4KSk4KS%2BIOCkueCliD8iLCJsayI6ImM1UFNmYkJrMW9PbDNRLVdUSHV3WkpfQ2d5VlRIeXp0ZUxCa3g0T2w3VURPbWdkTFZqeFlzZ1Fpc3hNb0F3QSIsImJzIjoiYy1PYXpjamxfV0RKcGdkTDlqOVlNdl9CMGw0dzJhRHdZTW5VQjB2MkFhazJrQUNZTmZYQjBvNEhTM1k4V05vTzVLeDVzR1FGVVBqQmtpVVFfazZ3WkpPOWtZLVVGX1dNNDNyQ3lKVURVZ1FTN3dXVFRSQ3RJQ094MkRMbHdaSU5FRnMyd1pTQ0xadjFZR24zZ3lYVDhObmNEM1otaVZRUlZ2dmFLYkFQYnNVS2lEbFE1MjhGRzdjY1NITFpjNm5qQ0RRUVp6M0VHRkNZMkJ1SlNBbGhLdVZLNU5JajdNa2x5T2JvUy1tU3BFT0FFUUEiLCJpZCI6ImZjX3QtckVhc2JWRnNPa2lMTVBqNnV1cVFrXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "9IierXiczZbJkqM4EIYfYJ5juLjKgLcyFUF0iNXyjqdcXi4ExjJgwNgIvNSt32Weaq7zIiPw0lBeproPE6ODBUiZSqXy0-_vf3rOyv3rt7_tKFrjV5re7XZFKwgsDxXNwKcNfFiZ9CLwcGja32yPRyvK8nhnReEgDk3kzHnTDgMfUXHsIX5XEAHUoAjbA_UdG6qL_xhVXWMkU4ctX6ZMzDMUcvjoOZQNPHtXcM912p3-shbHG82l0tV4fWZgtCTB7JeY1mny4_5elshLERfRSleF4hs3KgXKthmBXbHElMrFHm34ZA74T5sFwYR0zeRZvjtLAED8ijeZuBBg1pEgpF3G2iLDQtJBLX1XHnhLzWTNSiMgTd8vPyRiplrnOe5d69yIenSgwbSXibkIv7KhTDC5YB8Z3xuzch7StOeHbjZByA5CIFod0IfAvm1Mcp9bnuRKOn43Aaw3KgI5D-1B7KBlgd4UyPbR9lEbCiq6rK1gsoxMzy1SwAw9C0nH0o5pm-lDiJO6Ft84JlAqYbvcGnvhplo77Bv9-njrq-uFr6kdjTZnZJ4XGHM0122d-Za-syW2ynDll_pTypSJL1DhLFSqP9MHdZNTXoJiuyiwZ5zE7IFkt5R8Hd7ao5BUq3wuuesGb6RGFIOci9MEchgdEYh5eESlkaTtAjp52FsgzhfBGSELXON08vbDaYrTec2BdrHOhQllwclYZHfX-Lwd4vt691bvaCmS0j16PpWmDD5fD6IsJIxdAthlB5PLRCRQC0cYNhV43GgnU8qM3Ly6jZJU2MT09Hri-3y4k2z6khyQW4PE2QRQkOGbQq4l8bw6Ce-UIYLTZx7gTRaTDJPdavevyEdt-KVZ8pmbTxhk8Wm09gOxuxnvTZeD7LRbb6lNE1aVoD8Ft3EJ_NnPiZD5f2PqLFHJBPkRU-JXmCISZd2QqJO_o9OLRDVPEnWfKSVl6iRRiaOzRDWuJOqaKTfLlKqlw4PgjkT9LFPwAVMXxzeZUm4xZd1nKpWoLFN2R8tJFLwpUT-Y-hWJGv6qRKWIoWOX16t4ad3VrYa-b0qu11f6SImYuvg81btsRWrF7wj8q24t_OjVN-bek-7MX4VSMzrMn3TyIXhFc2rDY2OGUcEwbdso7Gx0KKzDIELOquAa8aqAjYJtOJTvhQHPGC_s-mW7HH8ww75axjW5rcDRYgAcaI8dpbqEbJ8z1sKK0yXI7Z65eN_9EFvlxlS3NiEwysaq3htPN8-zyWRSb87j8djvj7aB7re7kXdov6GS5_ustJpUZ0tpEW1rS2Fb90I_Jn-CgfuhqgN1s5bkCHQnXgVVwWCSBoZ5qTE2nxcTRdIDiuwMI56l_NDkSYFULNDVwMgSTCCS6hEtMDQC0u-AptbI8QslUjkUNg0d4S1fmVVLiK2heRlx1apJvFjRYc1zDIVXIc_-AxoaX-I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9IierXiczZbJkqM4EIYfYJ5juLjKgLcyFUF0iNXyjqdcXi4ExjJgwNgIvNSt32Weaq7zIiPw0lBeproPE6ODBUiZSqXy0-_vf3rOyv3rt7_tKFrjV5re7XZFKwgsDxXNwKcNfFiZ9CLwcGja32yPRyvK8nhnReEgDk3kzHnTDgMfUXHsIX5XEAHUoAjbA_UdG6qL_xhVXWMkU4ctX6ZMzDMUcvjoOZQNPHtXcM912p3-shbHG82l0tV4fWZgtCTB7JeY1mny4_5elshLERfRSleF4hs3KgXKthmBXbHElMrFHm34ZA74T5sFwYR0zeRZvjtLAED8ijeZuBBg1pEgpF3G2iLDQtJBLX1XHnhLzWTNSiMgTd8vPyRiplrnOe5d69yIenSgwbSXibkIv7KhTDC5YB8Z3xuzch7StOeHbjZByA5CIFod0IfAvm1Mcp9bnuRKOn43Aaw3KgI5D-1B7KBlgd4UyPbR9lEbCiq6rK1gsoxMzy1SwAw9C0nH0o5pm-lDiJO6Ft84JlAqYbvcGnvhplo77Bv9-njrq-uFr6kdjTZnZJ4XGHM0122d-Za-syW2ynDll_pTypSJL1DhLFSqP9MHdZNTXoJiuyiwZ5zE7IFkt5R8Hd7ao5BUq3wuuesGb6RGFIOci9MEchgdEYh5eESlkaTtAjp52FsgzhfBGSELXON08vbDaYrTec2BdrHOhQllwclYZHfX-Lwd4vt691bvaCmS0j16PpWmDD5fD6IsJIxdAthlB5PLRCRQC0cYNhV43GgnU8qM3Ly6jZJU2MT09Hri-3y4k2z6khyQW4PE2QRQkOGbQq4l8bw6Ce-UIYLTZx7gTRaTDJPdavevyEdt-KVZ8pmbTxhk8Wm09gOxuxnvTZeD7LRbb6lNE1aVoD8Ft3EJ_NnPiZD5f2PqLFHJBPkRU-JXmCISZd2QqJO_o9OLRDVPEnWfKSVl6iRRiaOzRDWuJOqaKTfLlKqlw4PgjkT9LFPwAVMXxzeZUm4xZd1nKpWoLFN2R8tJFLwpUT-Y-hWJGv6qRKWIoWOX16t4ad3VrYa-b0qu11f6SImYuvg81btsRWrF7wj8q24t_OjVN-bek-7MX4VSMzrMn3TyIXhFc2rDY2OGUcEwbdso7Gx0KKzDIELOquAa8aqAjYJtOJTvhQHPGC_s-mW7HH8ww75axjW5rcDRYgAcaI8dpbqEbJ8z1sKK0yXI7Z65eN_9EFvlxlS3NiEwysaq3htPN8-zyWRSb87j8djvj7aB7re7kXdov6GS5_ustJpUZ0tpEW1rS2Fb90I_Jn-CgfuhqgN1s5bkCHQnXgVVwWCSBoZ5qTE2nxcTRdIDiuwMI56l_NDkSYFULNDVwMgSTCCS6hEtMDQC0u-AptbI8QslUjkUNg0d4S1fmVVLiK2heRlx1apJvFjRYc1zDIVXIc_-AxoaX-I"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "बिहार के सबसे मशहूर व्यंजन का असली राज – लिट्टी चोखा! LITTI ...",
+        "link": "https://www.youtube.com/watch?v=kGC_CMJL5TU",
+        "displayed_link": "22.9L+ views · 10 months ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4eab7124815026a894088/images/RDu70InKTwQIEnnyR2EDF5U65EopGV91kA7LlMb7VRI.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+        "snippet": "बिहार के सबसे मशहूर व्यंजन का असली राज – लिट्टी चोखा! LITTI CHOKHA .BIHAR FAMOUS FOOD ...",
+        "duration": "9:19",
+        "about_this_result": {
+          "source": {
+            "description": "बिहार के सबसे मशहूर व्यंजन का असली राज – लिट्टी चोखा! LITTI CHOKHA .BIHAR FAMOUS FOOD ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmw4RHhIR1NxM2ZEckNJbFVfLWl4U1NIMVVFUXZsRW5iUThWdDFVcnJvZHBVbEU2eTFWa0ZrcXg4aUhHanVEWHduRjFjUTQ0TUdTZFE3bndnUG4tWko2TlJhUXBCYXh2bkhRTVJyaXpaOWRpeHc2VThFMlR3SEVIWEwtVWk3UTB4T3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmw4RHhIR1NxM2ZEckNJbFVfLWl4U1NIMVVFUXZsRW5iUThWdDFVcnJvZHBVbEU2eTFWa0ZrcXg4aUhHanVEWHduRjFjUTQ0TUdTZFE3bndnUG4tWko2TlJhUXBCYXh2bkhRTVJyaXpaOWRpeHc2VThFMlR3SEVIWEwtVWk3UTB4T3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQMCThPYCpgc6PGCtEa9PwHJHuNqx-wZfLP2A",
+        "source": "YouTube · Chef Bhupi's kitchen"
+      },
+      {
+        "position": 2,
+        "title": "ये सरकार नहीं अहंकार है। डेमोक्रेसी में यही सबसे अच्छा है कि हम लोगों ...",
+        "link": "https://www.facebook.com/samajwadiparty/videos/%E0%A4%AF%E0%A5%87-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82-%E0%A4%85%E0%A4%B9%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%B9%E0%A5%88-%E0%A4%A1%E0%A5%87%E0%A4%AE%E0%A5%8B%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AF%E0%A4%B9%E0%A5%80-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE-%E0%A4%B9%E0%A5%88-%E0%A4%95%E0%A4%BF-%E0%A4%B9%E0%A4%AE-%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%AC%E0%A4%BE%E0%A4%A4-%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A5%87/1580095250501660/",
+        "displayed_link": "2.4K+ reactions · 2 months ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4eab7124815026a894088/images/RDu70InKTwQIEnnyR2EDF9kECNaQ8glBvmhL-4NBuX8.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "snippet": "डेमोक्रेसी में यही सबसे अच्छा है कि हम लोगों की बात जाने, कम से कम बातचीत तो करे।",
+        "duration": "0:46",
+        "about_this_result": {
+          "source": {
+            "description": "डेमोक्रेसी में यही सबसे अच्छा है कि हम लोगों की बात जाने, कम से कम बातचीत तो करे।",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0HL2dvdG8_dXJsPUNBRVN6UVVCNnpzd0ZaU2l5ck54OGhCSjNXb2V2OG5fenVTejNQbWM4TDhaLUV5Y3NVeEFMWjhobEtPLThpVUhDMFBLTUZ5UnRHZTNwMFZPdTR1YTdWSnU5TUNmbDVJb01EQy1nVXlUYVM4R1pkSnFSSjFNcEhMclVkUkZkY3RxRXBQbnY5SC1VT3RwTFFnWXhfTjFyaEtWalZkOEF1aXR1ZjFtTkxLZzlLM2FDclhiWFdZckU1cnZnMEdQc0VOdVZ0RmxQUF8ta0YtQTRUcF8yMFRmelhhMTZIYmppcTlCN3Z0N1BldDhzZWtwaUlYcUpnZFJDbkgxNGpNOG1NNFhiSFROb2NTS2t5RmFzYUlELWRycnRETW5iQll6Z1JSSVVScHlnT2RDYlA3SDl5bkt4U2NibVNKWDR4dnJJc0pXT21WaFU4Ymx5TVpuN1hQSjctZWxUb1JqTmM4THJiMkFkczFrR1hYYVRTVU1Ga195U3liXzloV1Z0RzBUNzNMaHFmeU1oVUUwcXpJd1pvWHhnOV9XSFpTcmdjX2hhUFIwTFBjWkdwSGRmOGNQR3BOYjlkZHBBSGE2emhVRExFbV9kcEJlVWJkSkxaMFBXT3o2Q3FkdnQ5aWpvTGJIVHktRXNEWWc2TEROeEpFdFVrQUtFeDhZV3dsT3VkWXh5Mk1EaGxzdHhwa2YtUmUtQUIxVXA4ZWQzcTN4MnUzUl9rRjhlNWZ0NndDeG5fekFBWkJvdmtIR0JuSTJ3SXJjLU9MSlRuWXN6SXI2YXJhUVk1dnJZQ1hCbGpwdFRSemc2SmlvZjg2WWlhaks4Ry10QU14WGh6NkM4amdHbHViNkU3TWNobkhhZmVzalNEcmlPbUpDRE1nNG5yM2V6QVpyN1NFN1EzbmdHdmRZNzUyMnBELVdhYmVoMVR3c3lKYTBRdXR6eEZQbDB4aTR0aDRJdG1LTVdMOEo5dUxYNUVpYkllS3VlSE5KZHJWN29RTkZSNzdxeGZRaFJzQjBFd1JKMkttblBUcVFTZ0VmZ1VlaXRVNVZobjdQbjlROG53X3NnWHh0NVByZGZPVHhFSUdYaUJ1dW4xOGVabHQ4TjliWm9OcHNoX1AtVDZXSkFlNzhrSzJON3h6dllid1pvVG1WYUtWOWNCMlpUMEExWl9lYjNfa1JvQWZaU25uelFXR2RwN1BabmpJNDVyaW9yQlR6UV9iVnlmOWNmbmdPZGZFeUdkVWF1eDY3ZkpmdzlERVV2Z3FuNG5YNHhXb0hzTlZVS0dYNS1pTRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0HL2dvdG8_dXJsPUNBRVN6UVVCNnpzd0ZaU2l5ck54OGhCSjNXb2V2OG5fenVTejNQbWM4TDhaLUV5Y3NVeEFMWjhobEtPLThpVUhDMFBLTUZ5UnRHZTNwMFZPdTR1YTdWSnU5TUNmbDVJb01EQy1nVXlUYVM4R1pkSnFSSjFNcEhMclVkUkZkY3RxRXBQbnY5SC1VT3RwTFFnWXhfTjFyaEtWalZkOEF1aXR1ZjFtTkxLZzlLM2FDclhiWFdZckU1cnZnMEdQc0VOdVZ0RmxQUF8ta0YtQTRUcF8yMFRmelhhMTZIYmppcTlCN3Z0N1BldDhzZWtwaUlYcUpnZFJDbkgxNGpNOG1NNFhiSFROb2NTS2t5RmFzYUlELWRycnRETW5iQll6Z1JSSVVScHlnT2RDYlA3SDl5bkt4U2NibVNKWDR4dnJJc0pXT21WaFU4Ymx5TVpuN1hQSjctZWxUb1JqTmM4THJiMkFkczFrR1hYYVRTVU1Ga195U3liXzloV1Z0RzBUNzNMaHFmeU1oVUUwcXpJd1pvWHhnOV9XSFpTcmdjX2hhUFIwTFBjWkdwSGRmOGNQR3BOYjlkZHBBSGE2emhVRExFbV9kcEJlVWJkSkxaMFBXT3o2Q3FkdnQ5aWpvTGJIVHktRXNEWWc2TEROeEpFdFVrQUtFeDhZV3dsT3VkWXh5Mk1EaGxzdHhwa2YtUmUtQUIxVXA4ZWQzcTN4MnUzUl9rRjhlNWZ0NndDeG5fekFBWkJvdmtIR0JuSTJ3SXJjLU9MSlRuWXN6SXI2YXJhUVk1dnJZQ1hCbGpwdFRSemc2SmlvZjg2WWlhaks4Ry10QU14WGh6NkM4amdHbHViNkU3TWNobkhhZmVzalNEcmlPbUpDRE1nNG5yM2V6QVpyN1NFN1EzbmdHdmRZNzUyMnBELVdhYmVoMVR3c3lKYTBRdXR6eEZQbDB4aTR0aDRJdG1LTVdMOEo5dUxYNUVpYkllS3VlSE5KZHJWN29RTkZSNzdxeGZRaFJzQjBFd1JKMkttblBUcVFTZ0VmZ1VlaXRVNVZobjdQbjlROG53X3NnWHh0NVByZGZPVHhFSUdYaUJ1dW4xOGVabHQ4TjliWm9OcHNoX1AtVDZXSkFlNzhrSzJON3h6dllid1pvVG1WYUtWOWNCMlpUMEExWl9lYjNfa1JvQWZaU25uelFXR2RwN1BabmpJNDVyaW9yQlR6UV9iVnlmOWNmbmdPZGZFeUdkVWF1eDY3ZkpmdzlERVV2Z3FuNG5YNHhXb0hzTlZVS0dYNS1pTRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRVvf8ahNOLlkhWzvQ80ICJNdxlSKzVzcsS-A",
+        "source": "Facebook · Samajwadi Party"
+      },
+      {
+        "position": 3,
+        "title": "Mera Booth Sabse Majboot: PM Modi interacts with ...",
+        "link": "https://www.bjp.org/hi/mera-booth-sabse-majboot-pm-modi-interacts-bjp-karyakartas-across-india-bhopal",
+        "displayed_link": "https://www.bjp.org · 18 Jul 2023",
+        "thumbnail": "https://serpapi.com/searches/6ac4eab7124815026a894088/images/RDu70InKTwQIEnnyR2EDFwDVtmTLfMwUFMXmSZWy0PY.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAAAwCACdASogACAAPtEutFooIagoGAEAGglsAJ0dgIMthf-6uY7NduCQFAqGW-Pr6cGYm-GZF0t3oIfXwVILo6dEfKy7wstlzvsggAD-4n27O1JhyhHvzlWcakLVVrLgc6YlGFbDs4Bs3KXRM90IXxEToHOvMpF0d2zRfRwOcZXNF-LGRi0cqJu39M62MeEoFrgAJrZNVwzOwkxlBMOFry2XoZZwHKTJg3mvK8X7AWk8C0nEk6QBSevNTEgGl6IjYxLRZqGCnhvkv7s9TeRgDGDGIvJMOiEyw3TnEbfANsgLyHchlUyPWN2yRbEEHkwQsDJQ6Py81xjAwuiGqceKK6MIZoT78aZQbCoCgGfMm7vb0p2ZL9ogv0kDIvWb3yFGKyvcLCNRfFaryYJfNySdG1tmSo_SHQ-clq83CjXpF_gxdvdJkucpfbe91DcE-pKi05vyUtPRUiQ7fI7Qc35v1UT7KKBPYNAnwwpHpMoOIZAk78Fc9HvF17btCHT8U970PvO-GIjAbuAuk-Yu-6WpPU0rzExIgPqYZismkXPq30AJI9fJHhvLxx0j8nXr2Q8_5FsciDft_zwBHp0wAAA.webp",
+        "snippet": "Mera Booth Sabse Majboot: PM Modi interacts with BJP Karyakartas across India in Bhopal. ... बीजेपी से जुड़ें: Footer menu. गोपनीयता ...",
+        "duration": "3:15:45",
+        "about_this_result": {
+          "source": {
+            "description": "Mera Booth Sabse Majboot: PM Modi interacts with BJP Karyakartas across India in Bhopal. ... बीजेपी से जुड़ें: Footer menu. गोपनीयता ...",
+            "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAAAwCACdASogACAAPtEutFooIagoGAEAGglsAJ0dgIMthf-6uY7NduCQFAqGW-Pr6cGYm-GZF0t3oIfXwVILo6dEfKy7wstlzvsggAD-4n27O1JhyhHvzlWcakLVVrLgc6YlGFbDs4Bs3KXRM90IXxEToHOvMpF0d2zRfRwOcZXNF-LGRi0cqJu39M62MeEoFrgAJrZNVwzOwkxlBMOFry2XoZZwHKTJg3mvK8X7AWk8C0nEk6QBSevNTEgGl6IjYxLRZqGCnhvkv7s9TeRgDGDGIvJMOiEyw3TnEbfANsgLyHchlUyPWN2yRbEEHkwQsDJQ6Py81xjAwuiGqceKK6MIZoT78aZQbCoCgGfMm7vb0p2ZL9ogv0kDIvWb3yFGKyvcLCNRfFaryYJfNySdG1tmSo_SHQ-clq83CjXpF_gxdvdJkucpfbe91DcE-pKi05vyUtPRUiQ7fI7Qc35v1UT7KKBPYNAnwwpHpMoOIZAk78Fc9HvF17btCHT8U970PvO-GIjAbuAuk-Yu-6WpPU0rzExIgPqYZismkXPq30AJI9fJHhvLxx0j8nXr2Q8_5FsciDft_zwBHp0wAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZjX3RaZjZrRVlLeTRhaTBIaVF6RDlEWW1xZUVMV1JCa296c1VtbDh4N1ozakR2ZWxxemNjcGpDaG5Od2d5SWZ4MmxmRURzNzRXc3RaZG54OVFPNVNreHJ3N2FnVHktNVJYXzEyMldnXzhRSUVUdDNicW04dnpobmROUG8xcXJJNWM0ZlJOQmhtYmZtelQwWjFBdW1ValRGTDZ2OFBjR3E4b1pjYzNFekhhbExNa0FvUUNSOFo0UGpjU2h5NWhxRTVQWEhBTkl5MFloT1NwRFUSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZjX3RaZjZrRVlLeTRhaTBIaVF6RDlEWW1xZUVMV1JCa296c1VtbDh4N1ozakR2ZWxxemNjcGpDaG5Od2d5SWZ4MmxmRURzNzRXc3RaZG54OVFPNVNreHJ3N2FnVHktNVJYXzEyMldnXzhRSUVUdDNicW04dnpobmROUG8xcXJJNWM0ZlJOQmhtYmZtelQwWjFBdW1ValRGTDZ2OFBjR3E4b1pjYzNFekhhbExNa0FvUUNSOFo0UGpjU2h5NWhxRTVQWEhBTkl5MFloT1NwRFUSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRatPAr_vNbCNQJ39bcIru4X6x0Npbsum7qWA",
+        "source": "Bharatiya Janata Party · Bharatiya Janata Party"
+      },
+      {
+        "position": 4,
+        "title": "सरदर्द कमर घुटने का दर्द दूर भगाये सबसे सेहतमंद लड्डू बिना चीनी ...",
+        "link": "https://www.youtube.com/watch?v=6ohYN_Cfx9U",
+        "displayed_link": "29.9L+ views · 2 years ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4eab7124815026a894088/images/RDu70InKTwQIEnnyR2EDF85YWfaQUJWZJbI0bT8quN0.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+        "snippet": "Clarified Butter (घी) - 1 tbsp · Cashew nut काजू - 1 bowl · Almonds बादाम - 1 bowl · मगज के बिज - 1 bowl · Pumpkin Seeds ...",
+        "duration": "8:51",
+        "about_this_result": {
+          "source": {
+            "description": "Clarified Butter (घी) - 1 tbsp · Cashew nut काजू - 1 bowl · Almonds बादाम - 1 bowl · मगज के बिज - 1 bowl · Pumpkin Seeds ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjd1SG45TTZQNmpHY3R6LTJUTHBORWNXMk1SaV83N1NLWVBnRl9HdFR2TDJIZkNINU1kUzM4akRHczl0YXlDWTRHRVJwN3B0X3EtZncxUFYxWTNuRDZZZEhnc3ZGMjNwNGRxYldwZXdSbHpRXzdQdXdHXzlEU0lzOTVWZWVFd1p0UlESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjd1SG45TTZQNmpHY3R6LTJUTHBORWNXMk1SaV83N1NLWVBnRl9HdFR2TDJIZkNINU1kUzM4akRHczl0YXlDWTRHRVJwN3B0X3EtZncxUFYxWTNuRDZZZEhnc3ZGMjNwNGRxYldwZXdSbHpRXzdQdXdHXzlEU0lzOTVWZWVFd1p0UlESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "source": "YouTube · CookwithParul"
+      },
+      {
+        "position": 5,
+        "title": "Sabse Best Phone under 40000 @manojsaru . . . . ...",
+        "link": "https://www.instagram.com/reel/DY93gb0hh9l/?hl=en",
+        "displayed_link": "1.5L+ likes · 4 months ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4eab7124815026a894088/images/RDu70InKTwQIEnnyR2EDF2gCLpwPOeTjOuQIKJ0ztKY.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+        "snippet": "My name is monjitmandal. I am a Class 11 student and I watch TechnologyGyan regularly. Best phones under 20 k",
+        "duration": "1:23",
+        "about_this_result": {
+          "source": {
+            "description": "My name is monjitmandal. I am a Class 11 student and I watch TechnologyGyan regularly. Best phones under 20 k",
+            "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmRNZXkzSERsc2x1OF8tZ2xzazVLb0dkUVQ1SURqY2VDTHJtR2VNOFFUbDFhNmZkdDVSR09yUG1VcUMtbnZBd3JuQ3o5bWpLSk01aUlINURJTXhFcVYwT1BKM1UzaU05QXJnaHJoMW50cEtrZzVoSXE4OGE3aTV2anpxaWNHVWdrcGwyZ2NoT2FXdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmRNZXkzSERsc2x1OF8tZ2xzazVLb0dkUVQ1SURqY2VDTHJtR2VNOFFUbDFhNmZkdDVSR09yUG1VcUMtbnZBd3JuQ3o5bWpLSk01aUlINURJTXhFcVYwT1BKM1UzaU05QXJnaHJoMW50cEtrZzVoSXE4OGE3aTV2anpxaWNHVWdrcGwyZ2NoT2FXdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "Instagram · manojsaru"
+      },
+      {
+        "position": 6,
+        "title": "ApniBus Sabse Sasti Bus Ticket - Apps on Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.app.apnibus&hl=en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.app.apnibus%26hl%3Den&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQFnoECDgQAQ",
+        "displayed_link": "https://play.google.com › store › apps › details",
+        "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp",
+        "date": "21 Mar 2026",
+        "snippet": "Sabse Sasti Bus Ticket. Rajasthan's #1 Bus Booking App! Live Bus Tracking with Real-Time Updates. Flexible Ticket Booking, Free Cancellations",
+        "snippet_highlighted_words": [
+          "Sabse"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Sabse Sasti Bus Ticket. Rajasthan's #1 Bus Booking App! Live Bus Tracking with Real-Time Updates. Flexible Ticket Booking, Free Cancellations",
+            "source_info_link": "https://play.google.com/store/apps/details?id=com.app.apnibus&hl=en",
+            "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CkNodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmFwcC5hcG5pYnVzJmhsPWVuEgQaAggAGukGEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAwwYIIxAAGAAgACo8CgVzYWJzZRWLltI_GgZzYWJhc2UaDOCkuOCkrOCkuOClhxoM4KS44KSs4KS44KS-GgppdjtwO3NhYnNlKkYKBWFjaGhhFQAAAAAaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoEYmVzdBoP4KSF4KSa4KWN4KSb4KS-GgppdjtwO2FjaGhhKmAKBHdoZXkVAAAAABoJ4KS14KS-4KSIGgbgpLXgpYcaDOCkteCljeCkueClhxoLd2hleXByb3RlaW4aDOCkpuCkueCkqOCkvhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqeAoHcHJvdGVpbhUAAAAAGghwcm90ZWlucxoV4KSq4KWN4KSw4KSl4KS_4KSo4KWHGhXgpKrgpY3gpLDgpYvgpJ_gpYDgpKgaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbio_CgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KWL4KSjGgngpJXgpYzgpKgaBmthdW5zYRoJaXY7cDtrYXVuKj8KAnNhFQAAAAAaDHNvdXRoIGFmcmljYRoG4KSP4KS4GgngpI_gpLjgpI8aA-CkuBoG4KS44KS-GgZrYXVuc2EqMAoDaGFpFQAAAAAaAWgaBGhhaW4aAmhlGgJoaRoD4KS5GgbgpLngpYcaBuCkueCliDJDaHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5hcHAuYXBuaWJ1cyZobD1lbjo7QXBuaUJ1cyA8Yj5TYWJzZTwvYj4gU2FzdGkgQnVzIFRpY2tldCAtIEFwcHMgb24gR29vZ2xlIFBsYXlCmAE8Yj5TYWJzZTwvYj4gU2FzdGkgQnVzIFRpY2tldC4gUmFqYXN0aGFuJiMzOTtzICMxIEJ1cyBCb29raW5nIEFwcCEgTGl2ZSBCdXMgVHJhY2tpbmcgd2l0aCBSZWFsLVRpbWUgVXBkYXRlcy4gRmxleGlibGUgVGlja2V0IEJvb2tpbmcsIEZyZWUgQ2FuY2VsbGF0aW9uc1IG4KS54KWIIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CkNodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmFwcC5hcG5pYnVzJmhsPWVuEgQaAggAGukGEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAwwYIIxAAGAAgACo8CgVzYWJzZRWLltI_GgZzYWJhc2UaDOCkuOCkrOCkuOClhxoM4KS44KSs4KS44KS-GgppdjtwO3NhYnNlKkYKBWFjaGhhFQAAAAAaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoEYmVzdBoP4KSF4KSa4KWN4KSb4KS-GgppdjtwO2FjaGhhKmAKBHdoZXkVAAAAABoJ4KS14KS-4KSIGgbgpLXgpYcaDOCkteCljeCkueClhxoLd2hleXByb3RlaW4aDOCkpuCkueCkqOCkvhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqeAoHcHJvdGVpbhUAAAAAGghwcm90ZWlucxoV4KSq4KWN4KSw4KSl4KS_4KSo4KWHGhXgpKrgpY3gpLDgpYvgpJ_gpYDgpKgaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbio_CgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KWL4KSjGgngpJXgpYzgpKgaBmthdW5zYRoJaXY7cDtrYXVuKj8KAnNhFQAAAAAaDHNvdXRoIGFmcmljYRoG4KSP4KS4GgngpI_gpLjgpI8aA-CkuBoG4KS44KS-GgZrYXVuc2EqMAoDaGFpFQAAAAAaAWgaBGhhaW4aAmhlGgJoaRoD4KS5GgbgpLngpYcaBuCkueCliDJDaHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5hcHAuYXBuaWJ1cyZobD1lbjo7QXBuaUJ1cyA8Yj5TYWJzZTwvYj4gU2FzdGkgQnVzIFRpY2tldCAtIEFwcHMgb24gR29vZ2xlIFBsYXlCmAE8Yj5TYWJzZTwvYj4gU2FzdGkgQnVzIFRpY2tldC4gUmFqYXN0aGFuJiMzOTtzICMxIEJ1cyBCb29raW5nIEFwcCEgTGl2ZSBCdXMgVHJhY2tpbmcgd2l0aCBSZWFsLVRpbWUgVXBkYXRlcy4gRmxleGlibGUgVGlja2V0IEJvb2tpbmcsIEZyZWUgQ2FuY2VsbGF0aW9uc1IG4KS54KWIIgIQAUgAWABoAA",
+        "source": "Google Play"
+      },
+      {
+        "position": 7,
+        "title": "हिन्दुस्तान के सबसे भ्रष्ट मुख्यमंत्री हैं हिमंता बिस्वा सरमा।",
+        "link": "https://www.facebook.com/rahulgandhi/videos/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8-%E0%A4%95%E0%A5%87-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%AD%E0%A5%8D%E0%A4%B0%E0%A4%B7%E0%A5%8D%E0%A4%9F-%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%B9%E0%A5%88%E0%A4%82-%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A4%BE-%E0%A4%AC%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE-%E0%A4%B8%E0%A4%B0%E0%A4%AE%E0%A4%BE/1652957989226794/",
+        "displayed_link": "3.4L+ reactions · 6 months ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4eab7124815026a894088/images/RDu70InKTwQIEnnyR2EDF6eYzRq_UWHlvBDE6ybuA40.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "snippet": "हिन्दुस्तान के सबसे भ्रष्ट मुख्यमंत्री हैं हिमंता बिस्वा सरमा।",
+        "duration": "1:51",
+        "about_this_result": {
+          "source": {
+            "description": "हिन्दुस्तान के सबसे भ्रष्ट मुख्यमंत्री हैं हिमंता बिस्वा सरमा।",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CroGL2dvdG8_dXJsPUNBRVMzd1FCNnpzd0ZYVWpNc3gxbG1SNy1VdklhU3NzWEFDSDJVLWZVRDN1eXVtT2Q5QzFiVkV0bi1RSEpxWHZkcHM0U1ZSVGJ6RjBzNGhsMG5IdHVLWnlrdVhHd3R0dTVYMXNjeWpab1dUeF9GWjBubll3RVIzeEpOUzdZQWFJaFhSZ242UFlaQkNUdDhUOWtRT0I1VVlUb3JSZ1hxV2NpZ3RsOTFHOWtUbDMyZDBvSG5jVV9VbldlNXh0blp6OW1Jd1NtLXFEeWE1UTFMOU9WVDU4MkFhc3FRNWpMdExaVENDXzdVdkhOdklEalVFdmhSQlJCVXNnaFJmS2g5b00xUmItTVctYUNhb0s5aWRVLW9aOEIycmVjRFdTTF94YU8zRV8xdG1mYXNTVzdLOTc4NnZnUHdDZVpKZi1tamU0R2NneFNqZDdCdXF5akk1cENsNVBLZ0FIOVhLbWZkbGVQQ1NBTTg5MzhRM2ZRX3c4MEpXb0dZWTJIam1yMDlSOTkwOE51MU55emxPb2JvYlBuVDFlYmFGTEtsMEd6Ti1DclZESnpPeTIzSExWdHdqbTVmbHhfSmNUdVNyeXR2cG9uWFd2STFMRXVOOXpQZG9nMVZBU0xlbGNybmkxeTRhTXRTemw0eTJWREJxYWNWOG9fOFA4dXRGcWFxQU1hb1VVaTBOclRKelhyUHgtTkN0dTBoUnhWWnp4REdLdDhYcnV4N056Ujh0emlvZG1GZTdlamtYZ2VQZjJCNDlraTFybFBJOWJhQURsalFWX1B3d1prcDNBLVZGdU80TTNpdWlyWnBwenhaV1NJUG11VlRTRWJQcEVTRjdzaG5JUkI3NjBkdlFHWDdJQ2VMb1oyamZoN0MtREx4MGhiMi1EMUFjeWhFU3VvRm9lbi11aEV0NnNTaGVHM0hROFY3ek14emFZbG1yU0xMQ2lXUDQ2MC1Ceml0T1AyQ1FGYTdqY1l1cmw0WmdXQTdtcjFoRzNuZVBmQ2VuWkdhYjIyV0hxUmRKZmp1bEdvODVyeklxOHdES1RSMkRYSGdXSUtBYUlXN00tR2tvTmIwZUx1NllEZFFMbhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CroGL2dvdG8_dXJsPUNBRVMzd1FCNnpzd0ZYVWpNc3gxbG1SNy1VdklhU3NzWEFDSDJVLWZVRDN1eXVtT2Q5QzFiVkV0bi1RSEpxWHZkcHM0U1ZSVGJ6RjBzNGhsMG5IdHVLWnlrdVhHd3R0dTVYMXNjeWpab1dUeF9GWjBubll3RVIzeEpOUzdZQWFJaFhSZ242UFlaQkNUdDhUOWtRT0I1VVlUb3JSZ1hxV2NpZ3RsOTFHOWtUbDMyZDBvSG5jVV9VbldlNXh0blp6OW1Jd1NtLXFEeWE1UTFMOU9WVDU4MkFhc3FRNWpMdExaVENDXzdVdkhOdklEalVFdmhSQlJCVXNnaFJmS2g5b00xUmItTVctYUNhb0s5aWRVLW9aOEIycmVjRFdTTF94YU8zRV8xdG1mYXNTVzdLOTc4NnZnUHdDZVpKZi1tamU0R2NneFNqZDdCdXF5akk1cENsNVBLZ0FIOVhLbWZkbGVQQ1NBTTg5MzhRM2ZRX3c4MEpXb0dZWTJIam1yMDlSOTkwOE51MU55emxPb2JvYlBuVDFlYmFGTEtsMEd6Ti1DclZESnpPeTIzSExWdHdqbTVmbHhfSmNUdVNyeXR2cG9uWFd2STFMRXVOOXpQZG9nMVZBU0xlbGNybmkxeTRhTXRTemw0eTJWREJxYWNWOG9fOFA4dXRGcWFxQU1hb1VVaTBOclRKelhyUHgtTkN0dTBoUnhWWnp4REdLdDhYcnV4N056Ujh0emlvZG1GZTdlamtYZ2VQZjJCNDlraTFybFBJOWJhQURsalFWX1B3d1prcDNBLVZGdU80TTNpdWlyWnBwenhaV1NJUG11VlRTRWJQcEVTRjdzaG5JUkI3NjBkdlFHWDdJQ2VMb1oyamZoN0MtREx4MGhiMi1EMUFjeWhFU3VvRm9lbi11aEV0NnNTaGVHM0hROFY3ek14emFZbG1yU0xMQ2lXUDQ2MC1Ceml0T1AyQ1FGYTdqY1l1cmw0WmdXQTdtcjFoRzNuZVBmQ2VuWkdhYjIyV0hxUmRKZmp1bEdvODVyeklxOHdES1RSMkRYSGdXSUtBYUlXN00tR2tvTmIwZUx1NllEZFFMbhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "Facebook · Rahul Gandhi"
+      },
+      {
+        "position": 8,
+        "title": "दुनिया का सबसे टेस्टी राजमा का ये तरीका जिदगीभर याद रहेग",
+        "link": "https://www.youtube.com/watch?v=ji58qD9S6uc",
+        "displayed_link": "43.3L+ views · 3 years ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4eab7124815026a894088/images/RDu70InKTwQIEnnyR2EDFyE7k6ik43ej0JoSfptJ66E.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+        "snippet": "दुनिया का सबसे टेस्टी राजमा का ये तरीका जिदगीभर याद रहेग| Perfect Rajma Masala Recipe | Rajma ...",
+        "duration": "13:14",
+        "about_this_result": {
+          "source": {
+            "description": "दुनिया का सबसे टेस्टी राजमा का ये तरीका जिदगीभर याद रहेग| Perfect Rajma Masala Recipe | Rajma ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlpWSG5Qd3ZsZ0ZsNWNzNGZiNlh5ejNVNWZ0djVZTUNmeXhSOWUtM283YXpnRUQ3RGdTNVEtRUtxTjg4Ry1iMUFmTldkY21faDJrcy1oNl92YmV0OVozNGFQaDIzalVxRDdLUHNHZm9XclB0bmRzdkJxMERUTWw3NkVKRm1jODRTRVESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlpWSG5Qd3ZsZ0ZsNWNzNGZiNlh5ejNVNWZ0djVZTUNmeXhSOWUtM283YXpnRUQ3RGdTNVEtRUtxTjg4Ry1iMUFmTldkY21faDJrcy1oNl92YmV0OVozNGFQaDIzalVxRDdLUHNHZm9XclB0bmRzdkJxMERUTWw3NkVKRm1jODRTRVESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "source": "YouTube · CookwithParul"
+      },
+      {
+        "position": 9,
+        "title": "Jan Bhagidari -Sabse Door, Sabse Pehle, IEC Campaign ...",
+        "link": "https://ddinajpur.nic.in/notice/jan-bhagidari-sabse-door-sabse-pehle-iec-campaign-plan/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFdZIZzHpfmFyxrdRjfNLTZIgEfaWEinMFZo7OUIy5o72uBNEHNP6iluvd94a4WW5x3Fau8z2w_pRyNCr9OrV1MXC-VLk6mGMNq7E7T78E8sFRJLUWwTuRrz4vEBLr9idlJOC-faV9eaEtEI_7_XZthmLC3lXwApUlgRdLN4GocKRTkYDqQEBBwklLNvVCQ&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQFnoECDUQAQ&uoh=1",
+        "displayed_link": "https://ddinajpur.nic.in › notice › jan-bhagidari-sabse-do...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png",
+        "snippet": "Jan Bhagidari -Sabse Door, Sabse Pehle, IEC Campaign Plan. Download the attachment for detailed information. 18/05/2026 ...",
+        "snippet_highlighted_words": [
+          "Sabse",
+          "Sabse"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Jan Bhagidari -Sabse Door, Sabse Pehle, IEC Campaign Plan. Download the attachment for detailed information. 18/05/2026 ...",
+            "source_info_link": "https://ddinajpur.nic.in/notice/jan-bhagidari-sabse-door-sabse-pehle-iec-campaign-plan/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZkWklaekhwZm1GeXhyZFJqZk5MVFpJZ0VmYVdFaW5NRlpvN09VSXk1bzcydUJORUhOUDZpbHV2ZDk0YTRXVzV4M0ZhdTh6MndfcFJ5TkNyOU9yVjFNWEMtVkxrNm1HTU5xN0U3VDc4RThzRlJKTFVXd1R1UnJ6NHZFQkxyOWlkbEpPQy1mYVY5ZWFFdEVJXzdfWFp0aG1MQzNsWHdBcFVsZ1JkTE40R29jS1JUa1lEcVFFQkJ3a2xMTnZWQ1ESBBoCCAAa-wcSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA1wcIIxAAGAAgACo8CgVzYWJzZRWkfEtAGgZzYWJhc2UaDOCkuOCkrOCkuOClhxoM4KS44KSs4KS44KS-GgppdjtwO3NhYnNlKkYKBWFjaGhhFQAAAAAaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoEYmVzdBoP4KSF4KSa4KWN4KSb4KS-GgppdjtwO2FjaGhhKmAKBHdoZXkVAAAAABoJ4KS14KS-4KSIGgbgpLXgpYcaDOCkteCljeCkueClhxoLd2hleXByb3RlaW4aDOCkpuCkueCkqOCkvhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqeAoHcHJvdGVpbhUAAAAAGghwcm90ZWlucxoV4KSq4KWN4KSw4KSl4KS_4KSo4KWHGhXgpKrgpY3gpLDgpYvgpJ_gpYDgpKgaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbio_CgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KWL4KSjGgngpJXgpYzgpKgaBmthdW5zYRoJaXY7cDtrYXVuKj8KAnNhFQAAAAAaDHNvdXRoIGFmcmljYRoG4KSP4KS4GgngpI_gpLjgpI8aA-CkuBoG4KS44KS-GgZrYXVuc2EqMAoDaGFpFQAAAAAaAWgaBGhhaW4aAmhlGgJoaRoD4KS5GgbgpLngpYcaBuCkueCliDLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGZFpJWnpIcGZtRnl4cmRSamZOTFRaSWdFZmFXRWluTUZabzdPVUl5NW83MnVCTkVITlA2aWx1dmQ5NGE0V1c1eDNGYXU4ejJ3X3BSeU5DcjlPclYxTVhDLVZMazZtR01OcTdFN1Q3OEU4c0ZSSkxVV3dUdVJyejR2RUJMcjlpZGxKT0MtZmFWOWVhRXRFSV83X1hadGhtTEMzbFh3QXBVbGdSZExONEdvY0tSVGtZRHFRRUJCd2tsTE52VkNROkdKYW4gQmhhZ2lkYXJpIC08Yj5TYWJzZTwvYj4gRG9vciwgPGI-U2Fic2U8L2I-IFBlaGxlLCBJRUMgQ2FtcGFpZ24gUGxhbkKOAUphbiBCaGFnaWRhcmkgLTxiPlNhYnNlPC9iPiBEb29yLCA8Yj5TYWJzZTwvYj4gUGVobGUsIElFQyBDYW1wYWlnbiBQbGFuLiBEb3dubG9hZCB0aGUgYXR0YWNobWVudCBmb3IgZGV0YWlsZWQgaW5mb3JtYXRpb24uIDE4LzA1LzIwMjYmbmJzcDsuLi5SBuCkueCliCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZkWklaekhwZm1GeXhyZFJqZk5MVFpJZ0VmYVdFaW5NRlpvN09VSXk1bzcydUJORUhOUDZpbHV2ZDk0YTRXVzV4M0ZhdTh6MndfcFJ5TkNyOU9yVjFNWEMtVkxrNm1HTU5xN0U3VDc4RThzRlJKTFVXd1R1UnJ6NHZFQkxyOWlkbEpPQy1mYVY5ZWFFdEVJXzdfWFp0aG1MQzNsWHdBcFVsZ1JkTE40R29jS1JUa1lEcVFFQkJ3a2xMTnZWQ1ESBBoCCAAa-wcSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA1wcIIxAAGAAgACo8CgVzYWJzZRWkfEtAGgZzYWJhc2UaDOCkuOCkrOCkuOClhxoM4KS44KSs4KS44KS-GgppdjtwO3NhYnNlKkYKBWFjaGhhFQAAAAAaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoEYmVzdBoP4KSF4KSa4KWN4KSb4KS-GgppdjtwO2FjaGhhKmAKBHdoZXkVAAAAABoJ4KS14KS-4KSIGgbgpLXgpYcaDOCkteCljeCkueClhxoLd2hleXByb3RlaW4aDOCkpuCkueCkqOCkvhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqeAoHcHJvdGVpbhUAAAAAGghwcm90ZWlucxoV4KSq4KWN4KSw4KSl4KS_4KSo4KWHGhXgpKrgpY3gpLDgpYvgpJ_gpYDgpKgaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbio_CgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KWL4KSjGgngpJXgpYzgpKgaBmthdW5zYRoJaXY7cDtrYXVuKj8KAnNhFQAAAAAaDHNvdXRoIGFmcmljYRoG4KSP4KS4GgngpI_gpLjgpI8aA-CkuBoG4KS44KS-GgZrYXVuc2EqMAoDaGFpFQAAAAAaAWgaBGhhaW4aAmhlGgJoaRoD4KS5GgbgpLngpYcaBuCkueCliDLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGZFpJWnpIcGZtRnl4cmRSamZOTFRaSWdFZmFXRWluTUZabzdPVUl5NW83MnVCTkVITlA2aWx1dmQ5NGE0V1c1eDNGYXU4ejJ3X3BSeU5DcjlPclYxTVhDLVZMazZtR01OcTdFN1Q3OEU4c0ZSSkxVV3dUdVJyejR2RUJMcjlpZGxKT0MtZmFWOWVhRXRFSV83X1hadGhtTEMzbFh3QXBVbGdSZExONEdvY0tSVGtZRHFRRUJCd2tsTE52VkNROkdKYW4gQmhhZ2lkYXJpIC08Yj5TYWJzZTwvYj4gRG9vciwgPGI-U2Fic2U8L2I-IFBlaGxlLCBJRUMgQ2FtcGFpZ24gUGxhbkKOAUphbiBCaGFnaWRhcmkgLTxiPlNhYnNlPC9iPiBEb29yLCA8Yj5TYWJzZTwvYj4gUGVobGUsIElFQyBDYW1wYWlnbiBQbGFuLiBEb3dubG9hZCB0aGUgYXR0YWNobWVudCBmb3IgZGV0YWlsZWQgaW5mb3JtYXRpb24uIDE4LzA1LzIwMjYmbmJzcDsuLi5SBuCkueCliCICEAFIAFgAaAA",
+        "source": "Dakshin Dinajpur",
+        "read_more_link": "https://ddinajpur.nic.in/notice/jan-bhagidari-sabse-door-sabse-pehle-iec-campaign-plan/#:~:text=Jan%20Bhagidari%20%2DSabse%20Door%2C%20Sabse,18%2F05%2F2026"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Litti kaise banta hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&q=Litti+kaise+banta+hai&sa=X&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ1QJ6BAgrEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Litti+kaise+banta+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "Rajma kaise ugate hain",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&q=Rajma+kaise+ugate+hain&sa=X&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ1QJ6BAgzEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Rajma+kaise+ugate+hain"
+      },
+      {
+        "block_position": 1,
+        "query": "सत्तू की लिट्टी कैसे बनती है",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&q=%E0%A4%B8%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%82+%E0%A4%95%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A5%80+%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87+%E0%A4%AC%E0%A4%A8%E0%A4%A4%E0%A5%80+%E0%A4%B9%E0%A5%88&sa=X&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ1QJ6BAgyEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=%E0%A4%B8%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A5%82+%E0%A4%95%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A5%80+%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87+%E0%A4%AC%E0%A4%A8%E0%A4%A4%E0%A5%80+%E0%A4%B9%E0%A5%88"
+      },
+      {
+        "block_position": 1,
+        "query": "Rajma kaise hota hai",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&q=Rajma+kaise+hota+hai&sa=X&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ1QJ6BAgxEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Rajma+kaise+hota+hai"
+      },
+      {
+        "block_position": 1,
+        "query": "Litti chokha in Hindi",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&q=Litti+chokha+in+Hindi&sa=X&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ1QJ6BAgwEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Litti+chokha+in+Hindi"
+      },
+      {
+        "block_position": 1,
+        "query": "राजमा की सब्जी कैसे बनती है",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&q=%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%80+%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80+%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87+%E0%A4%AC%E0%A4%A8%E0%A4%A4%E0%A5%80+%E0%A4%B9%E0%A5%88&sa=X&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ1QJ6BAgvEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%80+%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80+%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87+%E0%A4%AC%E0%A4%A8%E0%A4%A4%E0%A5%80+%E0%A4%B9%E0%A5%88"
+      },
+      {
+        "block_position": 1,
+        "query": "होटल जैसा राजमा बनाने की विधि",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&q=%E0%A4%B9%E0%A5%8B%E0%A4%9F%E0%A4%B2+%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A4%BE+%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AE%E0%A4%BE+%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%87+%E0%A4%95%E0%A5%80+%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF&sa=X&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ1QJ6BAguEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=%E0%A4%B9%E0%A5%8B%E0%A4%9F%E0%A4%B2+%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A4%BE+%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AE%E0%A4%BE+%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%87+%E0%A4%95%E0%A5%80+%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF"
+      },
+      {
+        "block_position": 1,
+        "query": "लाल राजमा की सब्जी",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&q=%E0%A4%B2%E0%A4%BE%E0%A4%B2+%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%80+%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80&sa=X&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ1QJ6BAgsEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=%E0%A4%B2%E0%A4%BE%E0%A4%B2+%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%80+%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=sabse+achha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&ei=t-rEasbVFsOkiLMPj6uuqQk&start=10&sa=N&sstk=AS6-VmJfVLysyv9sHa72BDkKXHuKaz7uF-ZIOiL2hCMnyj38TUTV_ehutKwBD-_1bIzQX2_ekiJhnILCdN4WzXoUio6vCl0MR67twA&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ8NMDegQIKBAM",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=sabse+achha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&ei=t-rEasbVFsOkiLMPj6uuqQk&start=10&sa=N&sstk=AS6-VmJfVLysyv9sHa72BDkKXHuKaz7uF-ZIOiL2hCMnyj38TUTV_ehutKwBD-_1bIzQX2_ekiJhnILCdN4WzXoUio6vCl0MR67twA&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ8tMDegQIKBAE",
+        "3": "https://www.google.com/search?q=sabse+achha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&ei=t-rEasbVFsOkiLMPj6uuqQk&start=20&sa=N&sstk=AS6-VmJfVLysyv9sHa72BDkKXHuKaz7uF-ZIOiL2hCMnyj38TUTV_ehutKwBD-_1bIzQX2_ekiJhnILCdN4WzXoUio6vCl0MR67twA&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ8tMDegQIKBAG",
+        "4": "https://www.google.com/search?q=sabse+achha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&ei=t-rEasbVFsOkiLMPj6uuqQk&start=30&sa=N&sstk=AS6-VmJfVLysyv9sHa72BDkKXHuKaz7uF-ZIOiL2hCMnyj38TUTV_ehutKwBD-_1bIzQX2_ekiJhnILCdN4WzXoUio6vCl0MR67twA&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ8tMDegQIKBAI",
+        "5": "https://www.google.com/search?q=sabse+achha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntYM9oYjmbnv6TSzNaRT35Ggr5R6w:1791290039383&ei=t-rEasbVFsOkiLMPj6uuqQk&start=40&sa=N&sstk=AS6-VmJfVLysyv9sHa72BDkKXHuKaz7uF-ZIOiL2hCMnyj38TUTV_ehutKwBD-_1bIzQX2_ekiJhnILCdN4WzXoUio6vCl0MR67twA&ved=2ahUKEwiGjfKzs6WXAxVDEmIAHY-VK5UQ8tMDegQIKBAK"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=sabse+achha+whey+protein+kaun+sa+hai&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=sabse+achha+whey+protein+kaun+sa+hai&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=sabse+achha+whey+protein+kaun+sa+hai&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=sabse+achha+whey+protein+kaun+sa+hai&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=sabse+achha+whey+protein+kaun+sa+hai&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=sabse+achha+whey+protein+kaun+sa+hai&start=40"
+      }
+    }
+  }
+}

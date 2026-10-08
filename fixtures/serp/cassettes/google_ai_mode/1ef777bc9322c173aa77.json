@@ -1,0 +1,166 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "which protein powder is best for muscle gain in india",
+      "location": "Mumbai, Maharashtra, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:37:34+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb86bdfe49c8b95669a6",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/RYDzEFE5xBb30ZIy1-kbuyUkZhqcOILGnB9LeTd-NjE/6ac4eb86bdfe49c8b95669a6.json",
+      "markdown_endpoint": "https://serpapi.com/searches/RYDzEFE5xBb30ZIy1-kbuyUkZhqcOILGnB9LeTd-NjE/6ac4eb86bdfe49c8b95669a6.md",
+      "created_at": "2026-10-06 12:37:26 UTC",
+      "processed_at": "2026-10-06 12:37:26 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=which+protein+powder+is+best+for+muscle+gain+in+india&udm=50&gl=in&hl=en&uule=w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh",
+      "raw_html_file": "https://serpapi.com/searches/RYDzEFE5xBb30ZIy1-kbuyUkZhqcOILGnB9LeTd-NjE/6ac4eb86bdfe49c8b95669a6.html",
+      "prettify_html_file": "https://serpapi.com/searches/RYDzEFE5xBb30ZIy1-kbuyUkZhqcOILGnB9LeTd-NjE/6ac4eb86bdfe49c8b95669a6.prettify",
+      "total_time_taken": 7.48
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "which protein powder is best for muscle gain in india",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Mumbai, Maharashtra, India",
+      "location_used": "Mumbai,Maharashtra,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Choosing the best protein powder for muscle gain in India depends on your digestion, budget, and dietary preferences. Most fitness experts and market consensus point to top-tier brands that offer lab-tested purity, clear label claims, and high bioavailability.",
+        "snippet_highlighted_words": [
+          "top-tier brands that offer lab-tested purity, clear label claims, and high bioavailability"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "The leading options available in India are organized below by category:"
+      },
+      {
+        "type": "heading",
+        "snippet": "1. Best for Digestion & Absorption (Engineered for Indian Diets)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "MuscleBlaze Biozyme Performance Whey: Widely regarded as a top choice for the Indian market. It features a clinically tested Enhanced Absorption Formula (EAF®) designed to prevent post-workout bloating and increase protein/BCAA uptake.",
+            "list": [
+              {
+                "snippet": "Key Active Ingredients: Whey protein concentrate/isolate blend, MB EnzymePro (digestive enzymes), 25g protein, and ~ 5.5g BCAAs per scoop."
+              },
+              {
+                "snippet": "Usage: Mix 1 scoop (33g - 35g) with 200ml of cold water or milk, consumed within 30 minutes post-workout."
+              }
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. Best Global Gold Standard (Tried & Tested Worldwide)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey: A globally recognized best-seller with a long-standing reputation for mixability and amino acid profile.",
+            "list": [
+              {
+                "snippet": "Key Active Ingredients: Whey protein isolate as the primary ingredient, 24g protein, 5.5g BCAAs, and 4g of glutamine per serving."
+              },
+              {
+                "snippet": "Usage: Take 1 scoop in 180 - 240ml of water, milk, or your favorite beverage first thing in the morning or immediately post-training."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. Best Pure Isolate for Lean Muscle (Low Carb/Lactose Sensitive)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Nutrabay Gold 100% Whey Protein Isolate or Isopure Zero/Low Carb: Ideal if you want maximum protein per gram with minimal fats, carbs, or lactose.",
+            "list": [
+              {
+                "snippet": "Key Active Ingredients: Cross-flow micro-filtered whey protein isolate, providing 25g - 26g of protein per serving with added digestive enzyme blends."
+              },
+              {
+                "snippet": "Usage: Blend 1 scoop with water or skimmed milk post-workout or during the day to bridge daily macro gaps."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "4. Best Budget-Friendly & Clean Option"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "AS-IT-IS Nutrition Whey Protein Concentrate 80%: Excellent for strict budgets where you only want raw, unflavoured, filler-free protein without paying for fancy flavorings.",
+            "list": [
+              {
+                "snippet": "Key Active Ingredients: 100% raw whey concentrate delivering ~ 24g - 27g of protein per serving (often variants include added digestive enzymes)."
+              },
+              {
+                "snippet": "Usage: Mix 1 scoop into smoothies, oats, or water; can be sweetened naturally at home."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "To help narrow down the ideal choice for you, tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "What is your budget per kg?"
+          },
+          {
+            "snippet": "Do you have any lactose intolerance or digestive issues (bloating/gas) with dairy?"
+          },
+          {
+            "snippet": "Are you looking for flavoured or unflavoured powder?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "10 Best Whey Protein Powders in India (2026) - HealthKart",
+        "link": "https://www.healthkart.com/connect/10-best-whey-protein-powders-in-india-2026-muscleblaze-truebasics-more-ranked/?srsltid=AU7gw4Uojd-dqV5c6bEruqa4-6oJvdbfhTRt1VmLZMuggO4K7ppMkEwq",
+        "snippet": "MuscleBlaze Biozyme Whey Protein Powder ranks at the top because it is engineered for the Indian fitness market. It provides 25g of protein per 33g serving.",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdwOq88Frm4IV7grC-oSOOpWz2h6YCmxWeV_WAb5sXnSMGoj4VZR_eI78mOIw_MPzICFt_bLD4CtoqcNqQRTANfDCVWvcs-DlfLaBR"
+      }
+    ],
+    "reconstructed_markdown": "Choosing the best protein powder for muscle gain in India depends on your digestion, budget, and dietary preferences. Most fitness experts and market consensus point to top\\-tier brands that offer lab\\-tested purity, clear label claims, and high bioavailability. [0]\n\nThe leading options available in India are organized below by category:\n\n### 1. Best for Digestion & Absorption \\(Engineered for Indian Diets\\)\n\n- MuscleBlaze Biozyme Performance Whey: Widely regarded as a top choice for the Indian market. It features a clinically tested Enhanced Absorption Formula \\(EAF®\\) designed to prevent post\\-workout bloating and increase protein/BCAA uptake. [0]\n  - Key Active Ingredients: Whey protein concentrate/isolate blend, MB EnzymePro \\(digestive enzymes\\), 25g protein, and \\~ 5.5g BCAAs per scoop.\n  - Usage: Mix 1 scoop \\(33g \\- 35g\\) with 200ml of cold water or milk, consumed within 30 minutes post\\-workout.\n\n### 2. Best Global Gold Standard \\(Tried & Tested Worldwide\\)\n\n- Optimum Nutrition \\(ON\\) Gold Standard 100% Whey: A globally recognized best\\-seller with a long\\-standing reputation for mixability and amino acid profile.\n  - Key Active Ingredients: Whey protein isolate as the primary ingredient, 24g protein, 5.5g BCAAs, and 4g of glutamine per serving.\n  - Usage: Take 1 scoop in 180 \\- 240ml of water, milk, or your favorite beverage first thing in the morning or immediately post\\-training.\n\n### 3. Best Pure Isolate for Lean Muscle \\(Low Carb/Lactose Sensitive\\)\n\n- Nutrabay Gold 100% Whey Protein Isolate or Isopure Zero/Low Carb: Ideal if you want maximum protein per gram with minimal fats, carbs, or lactose.\n  - Key Active Ingredients: Cross\\-flow micro\\-filtered whey protein isolate, providing 25g \\- 26g of protein per serving with added digestive enzyme blends.\n  - Usage: Blend 1 scoop with water or skimmed milk post\\-workout or during the day to bridge daily macro gaps.\n\n### 4. Best Budget\\-Friendly & Clean Option\n\n- AS\\-IT\\-IS Nutrition Whey Protein Concentrate 80%: Excellent for strict budgets where you only want raw, unflavoured, filler\\-free protein without paying for fancy flavorings.\n  - Key Active Ingredients: 100% raw whey concentrate delivering \\~ 24g \\- 27g of protein per serving \\(often variants include added digestive enzymes\\).\n  - Usage: Mix 1 scoop into smoothies, oats, or water; can be sweetened naturally at home.\n\nTo help narrow down the ideal choice for you, tell me:\n\n- What is your budget per kg?\n- Do you have any lactose intolerance or digestive issues \\(bloating/gas\\) with dairy?\n- Are you looking for flavoured or unflavoured powder?\n\n\n### References\n\n[0] [10 Best Whey Protein Powders in India \\(2026\\) \\- HealthKart](https://www.google.com/goto?url=CAES7gEB6zswFT4dbAPGDoi9ft7-aasATEp_8Ib2to3m8pBstSksOP8KE7y8tEaI1xcIaQjT97pu4kb1NYXYwNINXMTfPJRh8j028vInVpdpnVfU5WliSsNuSQmvCo1wNuZSX0VcKsUEkA04R2h0SiWkt4Bb-Z5ELXQ3DTkym9b8N5IiD3wEWloSLt1CdwZamdahTfKqZL72pDMhThqNVieIXSlAa82NVFZLpwLjvLYfrK9p9zlIbU3XpCNgllb5neiAqv_eoJmgTXVFOJHdRqgH0ZLm8885BiVAF7GNUcpXurHIrvuXArepA1tkliFXjL5d) — MuscleBlaze Biozyme Whey Protein Powder ranks at the top because it is engineered for the Indian fitness market. It provides 25g of protein per 33g serving.\n"
+  }
+}

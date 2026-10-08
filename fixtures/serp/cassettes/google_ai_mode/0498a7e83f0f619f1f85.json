@@ -1,0 +1,272 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "kis company ka whey protein sabse accha hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:35:41+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb159a1f2c13486d957e",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/ZiZgeu9E7wUppYlfTEMXTXeuYZrzVC_gVAD-98f6xAI/6ac4eb159a1f2c13486d957e.json",
+      "markdown_endpoint": "https://serpapi.com/searches/ZiZgeu9E7wUppYlfTEMXTXeuYZrzVC_gVAD-98f6xAI/6ac4eb159a1f2c13486d957e.md",
+      "created_at": "2026-10-06 12:35:33 UTC",
+      "processed_at": "2026-10-06 12:35:33 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=kis+company+ka+whey+protein+sabse+accha+hai&udm=50&gl=in&hl=en&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/ZiZgeu9E7wUppYlfTEMXTXeuYZrzVC_gVAD-98f6xAI/6ac4eb159a1f2c13486d957e.html",
+      "prettify_html_file": "https://serpapi.com/searches/ZiZgeu9E7wUppYlfTEMXTXeuYZrzVC_gVAD-98f6xAI/6ac4eb159a1f2c13486d957e.prettify",
+      "total_time_taken": 6.93
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "kis company ka whey protein sabse accha hai",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Optimum Nutrition (ON) Gold Standard और MuscleBlaze को भारत में सबसे अच्छे और भरोसेमंद व्हे प्रोटीन ब्रांड्स माना जाता है, जो बेहतरीन क्वालिटी और शुद्धता प्रदान करते हैं।",
+        "snippet_highlighted_words": [
+          "Optimum Nutrition (ON) Gold Standard और MuscleBlaze"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "शीर्ष व्हे प्रोटीन ब्रांड्स की तुलना"
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "ब्रांड और उत्पाद (Brand & Product)",
+            "प्रति स्कूप प्रोटीन (Protein per Scoop)",
+            "अनुमानित कीमत (1kg)",
+            "किसके लिए सबसे अच्छा है (Best For)"
+          ],
+          [
+            "Optimum Nutrition (ON) Gold Standard",
+            "24g",
+            "₹2,300 (1 lb) / ₹7,000+ (2kg)",
+            "प्रीमियम क्वालिटी और तेज रिकवरी"
+          ],
+          [
+            "MuscleBlaze Biozyme / Performance",
+            "25g - 27g",
+            "₹2,500 - ₹5,900",
+            "भारतीय शरीर के पाचन के अनुकूल"
+          ],
+          [
+            "Avvatar Performance Whey",
+            "27.5g",
+            "₹3,500 से शुरू",
+            "100% फ्रेश घास खाने वाली गायों का दूध"
+          ],
+          [
+            "AS-IT-IS Atom Whey",
+            "27g",
+            "₹3,200 के आसपास",
+            "कम बजट में उच्च प्रोटीन"
+          ]
+        ],
+        "detailed": [
+          [
+            {
+              "snippet": "ब्रांड और उत्पाद (Brand & Product)"
+            },
+            {
+              "snippet": "प्रति स्कूप प्रोटीन (Protein per Scoop)"
+            },
+            {
+              "snippet": "अनुमानित कीमत (1kg)"
+            },
+            {
+              "snippet": "किसके लिए सबसे अच्छा है (Best For)"
+            }
+          ],
+          [
+            {
+              "snippet": "Optimum Nutrition (ON) Gold Standard"
+            },
+            {
+              "snippet": "24g"
+            },
+            {
+              "snippet": "₹2,300 (1 lb) / ₹7,000+ (2kg)"
+            },
+            {
+              "snippet": "प्रीमियम क्वालिटी और तेज रिकवरी"
+            }
+          ],
+          [
+            {
+              "snippet": "MuscleBlaze Biozyme / Performance"
+            },
+            {
+              "snippet": "25g - 27g"
+            },
+            {
+              "snippet": "₹2,500 - ₹5,900"
+            },
+            {
+              "snippet": "भारतीय शरीर के पाचन के अनुकूल"
+            }
+          ],
+          [
+            {
+              "snippet": "Avvatar Performance Whey"
+            },
+            {
+              "snippet": "27.5g"
+            },
+            {
+              "snippet": "₹3,500 से शुरू"
+            },
+            {
+              "snippet": "100% फ्रेश घास खाने वाली गायों का दूध"
+            }
+          ],
+          [
+            {
+              "snippet": "AS-IT-IS Atom Whey"
+            },
+            {
+              "snippet": "27g"
+            },
+            {
+              "snippet": "₹3,200 के आसपास"
+            },
+            {
+              "snippet": "कम बजट में उच्च प्रोटीन"
+            }
+          ]
+        ],
+        "formatted": [
+          {
+            "ब्रांड_और_उत्पाद_brand_product": "Optimum Nutrition (ON) Gold Standard",
+            "प्रति_स्कूप_प्रोटीन_protein_per_scoop": "24g",
+            "अनुमानित_कीमत_1kg": "₹2,300 (1 lb) / ₹7,000+ (2kg)",
+            "किसके_लिए_सबसे_अच्छा_है_best_for": "प्रीमियम क्वालिटी और तेज रिकवरी"
+          },
+          {
+            "ब्रांड_और_उत्पाद_brand_product": "MuscleBlaze Biozyme / Performance",
+            "प्रति_स्कूप_प्रोटीन_protein_per_scoop": "25g - 27g",
+            "अनुमानित_कीमत_1kg": "₹2,500 - ₹5,900",
+            "किसके_लिए_सबसे_अच्छा_है_best_for": "भारतीय शरीर के पाचन के अनुकूल"
+          },
+          {
+            "ब्रांड_और_उत्पाद_brand_product": "Avvatar Performance Whey",
+            "प्रति_स्कूप_प्रोटीन_protein_per_scoop": "27.5g",
+            "अनुमानित_कीमत_1kg": "₹3,500 से शुरू",
+            "किसके_लिए_सबसे_अच्छा_है_best_for": "100% फ्रेश घास खाने वाली गायों का दूध"
+          },
+          {
+            "ब्रांड_और_उत्पाद_brand_product": "AS-IT-IS Atom Whey",
+            "प्रति_स्कूप_प्रोटीन_protein_per_scoop": "27g",
+            "अनुमानित_कीमत_1kg": "₹3,200 के आसपास",
+            "किसके_लिए_सबसे_अच्छा_है_best_for": "कम बजट में उच्च प्रोटीन"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "प्रमुख ब्रांड्स की विशेषताएं"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON): इसे दुनिया भर में फिटनेस प्रेमी पसंद करते हैं। इसमें उच्च गुणवत्ता वाले बीसीएए (BCAA) और ग्लูटामाइन होते हैं, जो मांसपेशियों की रिकवरी में मदद करते हैं।"
+          },
+          {
+            "snippet": "MuscleBlaze: यह एक भारतीय ब्रांड है जिसे विशेष रूप से भारतीयों के पाचन तंत्र को ध्यान में रखकर बनाया गया है। इसका बायोझाइम फॉर्मूला पेट की समस्याओं से बचाता है।"
+          },
+          {
+            "snippet": "Avvatar: यह पूरी तरह से 'मेक इन इंडिया' प्रोडक्ट है जो सीधे गाय के ताजे दूध से बनता है। इसकी शुद्धता और स्वाद काफी लोकप्रिय हैं।",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "AS-IT-IS Nutrition: यह बजट-फ्रेंडली और अनफ्लेवर्ड/फ्लेवर्ड दोनों रूपों में उपलब्ध शुद्ध प्रोटीन है, जिसमें किसी भी तरह के कृत्रिम एडिटिव्स नहीं होते।"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "सही प्रोटीन चुनने के टिप्स"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "अपना बजट तय करें: यदि बजट अधिक है, तो आप Optimum Nutrition या Isopure चुन सकते हैं। कम बजट के लिए AS-IT-IS या Nakpro बेहतरीन विकल्प हैं।",
+            "snippet_links": [
+              {
+                "text": "Optimum Nutrition",
+                "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031"
+              }
+            ]
+          },
+          {
+            "snippet": "लक्ष्य पहचानें: वजन घटाने और लीन मसल्स के लिए 'व्हे प्रोटीन आइसोलेट' लें। यदि वजन बढ़ाना या सामान्य जिम करना है, तो 'व्हे प्रोटीन कंसेंट्रेट' या ब्लेंड ठीक रहता है।"
+          },
+          {
+            "snippet": "लैब टेस्टेड देखें: हमेशा वही प्रोटीन खरीदें जो NABL-प्रमाणित या लैम्ब्ड-टेस्टेड हो ताकि शुद्धता की गारंटी रहे।",
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "आप Amazon व्हे प्रोटीन बेस्टसेलर्स पर जाकर अन्य ग्राहकों के रिव्यू भी देख सकते हैं।"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "यदि आप बताना चाहें:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "आपका बजट कितना है?"
+          },
+          {
+            "snippet": "आपका मुख्य लक्ष्य क्या है (मसल्स बढ़ाना या वजन घटाना)?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "मैं आपके लिए एकदम सही प्रोटीन सुझाव दे सकता हूँ।"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "व्हे प्रोटीन * #18 avvatar PERFORMANCE WHEY PROTEIN | 1Kg | Malai Kulfi Flavour I 27.5g Protein | 29 Servings 646 8 ऑफर ₹3,559.00 से शुरू * #19 Muscleblaze Iso-zer...",
+        "source": "Amazon.in",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqDIrt-q9IbDvJK9rlAfDGXh_4vTkf4XuD630fnWiWAXe0jxrvhZxOD0fFgPhxvPZaC9KAAD2RUIdZUeyneOoCmpjnYDyo5S6I5JG"
+      }
+    ],
+    "reconstructed_markdown": "Optimum Nutrition \\(ON\\) Gold Standard और MuscleBlaze को भारत में सबसे अच्छे और भरोसेमंद व्हे प्रोटीन ब्रांड्स माना जाता है, जो बेहतरीन क्वालिटी और शुद्धता प्रदान करते हैं। [0]\n\n### शीर्ष व्हे प्रोटीन ब्रांड्स की तुलना\n\n| ब्रांड और उत्पाद \\(Brand & Product\\) | प्रति स्कूप प्रोटीन \\(Protein per Scoop\\) | अनुमानित कीमत \\(1kg\\) | किसके लिए सबसे अच्छा है \\(Best For\\) |\n| --- | --- | --- | --- |\n| Optimum Nutrition \\(ON\\) Gold Standard | 24g | ₹2,300 \\(1 lb\\) / ₹7,000\\+ \\(2kg\\) | प्रीमियम क्वालिटी और तेज रिकवरी |\n| MuscleBlaze Biozyme / Performance | 25g \\- 27g | ₹2,500 \\- ₹5,900 | भारतीय शरीर के पाचन के अनुकूल |\n| Avvatar Performance Whey | 27.5g | ₹3,500 से शुरू | 100% फ्रेश घास खाने वाली गायों का दूध |\n| AS\\-IT\\-IS Atom Whey | 27g | ₹3,200 के आसपास | कम बजट में उच्च प्रोटीन |\n\n### प्रमुख ब्रांड्स की विशेषताएं\n\n- Optimum Nutrition \\(ON\\): इसे दुनिया भर में फिटनेस प्रेमी पसंद करते हैं। इसमें उच्च गुणवत्ता वाले बीसीएए \\(BCAA\\) और ग्लูटामाइन होते हैं, जो मांसपेशियों की रिकवरी में मदद करते हैं।\n- MuscleBlaze: यह एक भारतीय ब्रांड है जिसे विशेष रूप से भारतीयों के पाचन तंत्र को ध्यान में रखकर बनाया गया है। इसका बायोझाइम फॉर्मूला पेट की समस्याओं से बचाता है।\n- Avvatar: यह पूरी तरह से 'मेक इन इंडिया' प्रोडक्ट है जो सीधे गाय के ताजे दूध से बनता है। इसकी शुद्धता और स्वाद काफी लोकप्रिय हैं। [0]\n- AS\\-IT\\-IS Nutrition: यह बजट\\-फ्रेंडली और अनफ्लेवर्ड/फ्लेवर्ड दोनों रूपों में उपलब्ध शुद्ध प्रोटीन है, जिसमें किसी भी तरह के कृत्रिम एडिटिव्स नहीं होते।\n\n### सही प्रोटीन चुनने के टिप्स\n\n- अपना बजट तय करें: यदि बजट अधिक है, तो आप [Optimum Nutrition](https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031) या Isopure चुन सकते हैं। कम बजट के लिए AS\\-IT\\-IS या Nakpro बेहतरीन विकल्प हैं।\n- लक्ष्य पहचानें: वजन घटाने और लीन मसल्स के लिए 'व्हे प्रोटीन आइसोलेट' लें। यदि वजन बढ़ाना या सामान्य जिम करना है, तो 'व्हे प्रोटीन कंसेंट्रेट' या ब्लेंड ठीक रहता है।\n- लैब टेस्टेड देखें: हमेशा वही प्रोटीन खरीदें जो NABL\\-प्रमाणित या लैम्ब्ड\\-टेस्टेड हो ताकि शुद्धता की गारंटी रहे। [0]\n\nआप Amazon व्हे प्रोटीन बेस्टसेलर्स पर जाकर अन्य ग्राहकों के रिव्यू भी देख सकते हैं।\n\nयदि आप बताना चाहें:\n\n- आपका बजट कितना है?\n- आपका मुख्य लक्ष्य क्या है \\(मसल्स बढ़ाना या वजन घटाना\\)?\n\nमैं आपके लिए एकदम सही प्रोटीन सुझाव दे सकता हूँ।\n\n\n### References\n\n[0] [व्हे प्रोटीन में सबसे लोकप्रिय आइटम](https://www.google.com/goto?url=CAESdAHrOzAVkd2da4rLi9RqPhrGJUPQUib1jaFUSjT9Ao_knaxzl4IJPLGFRA6qBUQrqFHciaULf9E4QFyCuoL2zvHZALvc1B4L6ZIhKii7LA5Kl_20-oSCV4qvy-yBHULCdycQk6TQ4xf8dUzOpc57Rhd9IY_F) — व्हे प्रोटीन \\* \\#18 avvatar PERFORMANCE WHEY PROTEIN \\| 1Kg \\| Malai Kulfi Flavour I 27.5g Protein \\| 29 Servings 646 8 ऑफर ₹3,559.00 से शुरू \\* \\#19 Muscleblaze Iso\\-zer...\n"
+  }
+}

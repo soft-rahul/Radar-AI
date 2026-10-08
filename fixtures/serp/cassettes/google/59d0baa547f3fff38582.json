@@ -1,0 +1,771 @@
+{
+  "request": {
+    "engine": "google",
+    "params": {
+      "q": "Which is no 1 whey protein in India?",
+      "location": "Mumbai, Maharashtra, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:34:11+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eabde9639b6ff8ae89b1",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/ied-Tb0nrsr33SIcMylg6h6DticZ_UQB3iMZkCVruYA/6ac4eabde9639b6ff8ae89b1.json",
+      "markdown_endpoint": "https://serpapi.com/searches/ied-Tb0nrsr33SIcMylg6h6DticZ_UQB3iMZkCVruYA/6ac4eabde9639b6ff8ae89b1.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/ied-Tb0nrsr33SIcMylg6h6DticZ_UQB3iMZkCVruYA/6ac4eabde9639b6ff8ae89b1.json_with_pixel_position",
+      "created_at": "2026-10-06 12:34:05 UTC",
+      "processed_at": "2026-10-06 12:34:05 UTC",
+      "google_url": "https://www.google.com/search?q=Which+is+no+1+whey+protein+in+India%3F&oq=Which+is+no+1+whey+protein+in+India%3F&uule=w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/ied-Tb0nrsr33SIcMylg6h6DticZ_UQB3iMZkCVruYA/6ac4eabde9639b6ff8ae89b1.html",
+      "total_time_taken": 6.02
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Which is no 1 whey protein in India?",
+      "location_requested": "Mumbai, Maharashtra, India",
+      "location_used": "Mumbai,Maharashtra,India",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Which is no 1 whey protein in India?",
+      "total_results": 155000,
+      "time_taken_displayed": 0.41,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "immersive_products": [
+      {
+        "category": "In shops nearby",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTrcjxjJFfSMnFUfRuJFQo8CM9mgAGcOebgIB5EdCkJNEH22_WFR9o91j048Aq-wo8AoQ94ahYqoSjkBkI21JM5UviIk53T0yU66or4QAbgFiHTNnj7WBdcuHg",
+        "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQXQAG0XXhOZ3RbJhk23OvK9Rcq6jCnuVvVNR5RLva_VVyfgz6YfVnBNLI5YiduhPEjckuPvQfZ4xYNF1r1Cm4KDWh0ot2jpxj2",
+        "source": "Decathlon Sports India",
+        "title": "Whey Protein Concentrate French Vanilla Flavored 27.39 g",
+        "price": "₹249",
+        "extracted_price": 249,
+        "location": "Nearby, 14 km",
+        "immersive_product_page_token": "5G8Vr3icHVJLjqtGAFQOkyxiRepuuvlkN2B-zhiP-TSmd5jGBtMGjLENXCJXiDzvRXpZvkTKWSanCZpSbUolVdWifn_m5b-PW2emzbTW9xeBuubtcrXpZZt8a7uG37K-5H9jQDAEQFJVAGWIoaQp37K0T0VznF2iyBIASFOhjDGRCQLke5GnXJR1vjkc8m7ZZCX_B2JJg0gDc5CKEVEJVtS_ynN6zD_973OIps5AUCEKITJS3jt-_ePr5ZZ348dPcVFmxaK8LupmARePIh8X88A-L-vFTLfmZfqjZH09tp9dClKwoskaVpEiy6omq-T9PJfMW7GMVAxVAjUCsATe23v_LI5fbjeRf_z8WBgv7tY13CTc0T45W-2rCYvUtsZk5zXcWRWvprgxWxTPo3iW9bMQz7z-s0nb-yH774d3s8sM457p26ht6dIHAfKMuCIr32R-JjyY2m0b2Hj0QRF4tor3EbnlZ2gxSg97wePIsnRatbYndBDHw7ixtNcIWDZD_LwJ_TJwioRXK4uJdpvFfRAtebM222Y9MbaDvN8E0NtXcAoluotO-sFD_OTFsGdO9aDnlccdv9_HhYhMFlDIH3ntO6nZn4OIDUnFQFZv--gMKzZRJ5iYk59EyGsO0xiMm6Wn722IOfQTP4YOQ3AdoNUtq3rBJe9AJ-833ynQZiloFrO3oCKXyC7GTMw6IoYX0pFHHl3veMwqzYktPaTVMOXhGieSeE2qoYvM1Xa_o24AvIpGdPB0d8clOvqxdc8raCS1dV3Xq3vkWJMP2RDRKnUry8wklzDhGz6ibmiaj2zSO372Sh8VYwg0d3taMS6aKbXML8O1O3yAF4v0wQYTcj214JfmrdcHI5kuQpnUtTo4DXj5FSqfhwUEzLf5H18xEq0",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5G8Vr3icHVJLjqtGAFQOkyxiRepuuvlkN2B-zhiP-TSmd5jGBtMGjLENXCJXiDzvRXpZvkTKWSanCZpSbUolVdWifn_m5b-PW2emzbTW9xeBuubtcrXpZZt8a7uG37K-5H9jQDAEQFJVAGWIoaQp37K0T0VznF2iyBIASFOhjDGRCQLke5GnXJR1vjkc8m7ZZCX_B2JJg0gDc5CKEVEJVtS_ynN6zD_973OIps5AUCEKITJS3jt-_ePr5ZZ348dPcVFmxaK8LupmARePIh8X88A-L-vFTLfmZfqjZH09tp9dClKwoskaVpEiy6omq-T9PJfMW7GMVAxVAjUCsATe23v_LI5fbjeRf_z8WBgv7tY13CTc0T45W-2rCYvUtsZk5zXcWRWvprgxWxTPo3iW9bMQz7z-s0nb-yH774d3s8sM457p26ht6dIHAfKMuCIr32R-JjyY2m0b2Hj0QRF4tor3EbnlZ2gxSg97wePIsnRatbYndBDHw7ixtNcIWDZD_LwJ_TJwioRXK4uJdpvFfRAtebM222Y9MbaDvN8E0NtXcAoluotO-sFD_OTFsGdO9aDnlccdv9_HhYhMFlDIH3ntO6nZn4OIDUnFQFZv--gMKzZRJ5iYk59EyGsO0xiMm6Wn722IOfQTP4YOQ3AdoNUtq3rBJe9AJ-833ynQZiloFrO3oCKXyC7GTMw6IoYX0pFHHl3veMwqzYktPaTVMOXhGieSeE2qoYvM1Xa_o24AvIpGdPB0d8clOvqxdc8raCS1dV3Xq3vkWJMP2RDRKnUry8wklzDhGz6ibmiaj2zSO372Sh8VYwg0d3taMS6aKbXML8O1O3yAF4v0wQYTcj214JfmrdcHI5kuQpnUtTo4DXj5FSqfhwUEzLf5H18xEq0",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=5G8Vr3icHVJLjqtGAFQOkyxiRepuuvlkN2B-zhiP-TSmd5jGBtMGjLENXCJXiDzvRXpZvkTKWSanCZpSbUolVdWifn_m5b-PW2emzbTW9xeBuubtcrXpZZt8a7uG37K-5H9jQDAEQFJVAGWIoaQp37K0T0VznF2iyBIASFOhjDGRCQLke5GnXJR1vjkc8m7ZZCX_B2JJg0gDc5CKEVEJVtS_ynN6zD_973OIps5AUCEKITJS3jt-_ePr5ZZ348dPcVFmxaK8LupmARePIh8X88A-L-vFTLfmZfqjZH09tp9dClKwoskaVpEiy6omq-T9PJfMW7GMVAxVAjUCsATe23v_LI5fbjeRf_z8WBgv7tY13CTc0T45W-2rCYvUtsZk5zXcWRWvprgxWxTPo3iW9bMQz7z-s0nb-yH774d3s8sM457p26ht6dIHAfKMuCIr32R-JjyY2m0b2Hj0QRF4tor3EbnlZ2gxSg97wePIsnRatbYndBDHw7ixtNcIWDZD_LwJ_TJwioRXK4uJdpvFfRAtebM222Y9MbaDvN8E0NtXcAoluotO-sFD_OTFsGdO9aDnlccdv9_HhYhMFlDIH3ntO6nZn4OIDUnFQFZv--gMKzZRJ5iYk59EyGsO0xiMm6Wn722IOfQTP4YOQ3AdoNUtq3rBJe9AJ-833ynQZiloFrO3oCKXyC7GTMw6IoYX0pFHHl3veMwqzYktPaTVMOXhGieSeE2qoYvM1Xa_o24AvIpGdPB0d8clOvqxdc8raCS1dV3Xq3vkWJMP2RDRKnUry8wklzDhGz6ibmiaj2zSO372Sh8VYwg0d3taMS6aKbXML8O1O3yAF4v0wQYTcj214JfmrdcHI5kuQpnUtTo4DXj5FSqfhwUEzLf5H18xEq0"
+      },
+      {
+        "category": "In shops nearby",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTlnAlgV7ErXWi_1kUXKQTcV2EyTtoCeEUZEoyFaOrleAGMU9J-ozNFNYr3QstV_irLi17hP7eG3AlW220vvKND6oDRTb2nhUAqg2Bvsta8gE-q7FjTeQzl",
+        "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSyAZQjOm-i5DxVHINdODLodYdj10fs29wD2euDxnQuS-jhjHIyCLeC3hfR4KPhvl8xKeruqrmgojVC3pgjMV8mzCwzW-lPkw",
+        "source": "Total Sport & Fitness",
+        "title": "MuscleBlaze Biozyme Performance Whey Protein Powder",
+        "price": "₹2,512",
+        "extracted_price": 2512,
+        "location": "Nearby, 16 km",
+        "immersive_product_page_token": "g-zvuXicHZLNjptIFIWVh5ksYo1URfFXs2swhY1s3Aaq-NnRFDaYMmDANvgl8gojdxIpWSaR5ll6nmbcI53dPfrutzif73n5z_XcWWlzWxsvJyF1zfOpt9lpG39vu4afs6Hkv6EqQQVrqqorAAINazLWvmfpkIpmX_JfWFI0rMtAxjLWdSTLmvqzyFMuyjrf7HZ5N2-yd4qGJaQ-eljRJawpGCP0ozym-_z_-y8JI-mdJKkqfDyDMlJfO97__fV0zrvp7WNYlFkxK_tZ3czg7Frk0-yhOORlPXtkWfMy_QORr_v2HYY1oGoYg4crRECCUJVfjyX_qWiqrEoYSgjrGlKhrr-2l-Fe7L-czyJ_-3SdmU_L7dJcxkHEhvhI2pUFi9QmUxy5DV84xcoS58QWxX0v7mV9L8Q9r781aXvZZf9-eLW6zDQvmbGlbcvmHvAlr_agO48hi5g0du6Rh17FgU-VJQ3WIw8sZR2KTUid1p27Nq2YkVHc-bRFLyLZhiacaOgcMuQmqSDDGgnkVe1qKxLHBeOYWmLFhcs4aL2XyLFZ6PVe5VxT2xX5wUC0Jl1IR2stnAsPi9S13V0AWyU4iBW98XIViGMovEVW4SiVYMGEp7q2pbg2Jwxwg9_208YGo1-BKVskqn9IGhbiPmT7KTuOjFlD4SMexxU7bBiZZyQpfMBNOheruGpNP3LcVURONBRSAMjkzYkawzbOWDsmjPubeTKwW2F5NukDwaXEdk4bWik0cpMgevgay4gjNnkhueQVNOOa9OvaudAFuXkwGSmr0mVFrAwtlUQQmR8rwA8Gy2vvymrDXgt2eTkYEWVGFVIYJIvsy9h3uzfwRJTB38iK0h9a8GfzPBijGd9OQrvpa31cNODpr8dioYQBUMBjNv8BI9wTYg",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=g-zvuXicHZLNjptIFIWVh5ksYo1URfFXs2swhY1s3Aaq-NnRFDaYMmDANvgl8gojdxIpWSaR5ll6nmbcI53dPfrutzif73n5z_XcWWlzWxsvJyF1zfOpt9lpG39vu4afs6Hkv6EqQQVrqqorAAINazLWvmfpkIpmX_JfWFI0rMtAxjLWdSTLmvqzyFMuyjrf7HZ5N2-yd4qGJaQ-eljRJawpGCP0ozym-_z_-y8JI-mdJKkqfDyDMlJfO97__fV0zrvp7WNYlFkxK_tZ3czg7Frk0-yhOORlPXtkWfMy_QORr_v2HYY1oGoYg4crRECCUJVfjyX_qWiqrEoYSgjrGlKhrr-2l-Fe7L-czyJ_-3SdmU_L7dJcxkHEhvhI2pUFi9QmUxy5DV84xcoS58QWxX0v7mV9L8Q9r781aXvZZf9-eLW6zDQvmbGlbcvmHvAlr_agO48hi5g0du6Rh17FgU-VJQ3WIw8sZR2KTUid1p27Nq2YkVHc-bRFLyLZhiacaOgcMuQmqSDDGgnkVe1qKxLHBeOYWmLFhcs4aL2XyLFZ6PVe5VxT2xX5wUC0Jl1IR2stnAsPi9S13V0AWyU4iBW98XIViGMovEVW4SiVYMGEp7q2pbg2Jwxwg9_208YGo1-BKVskqn9IGhbiPmT7KTuOjFlD4SMexxU7bBiZZyQpfMBNOheruGpNP3LcVURONBRSAMjkzYkawzbOWDsmjPubeTKwW2F5NukDwaXEdk4bWik0cpMgevgay4gjNnkhueQVNOOa9OvaudAFuXkwGSmr0mVFrAwtlUQQmR8rwA8Gy2vvymrDXgt2eTkYEWVGFVIYJIvsy9h3uzfwRJTB38iK0h9a8GfzPBijGd9OQrvpa31cNODpr8dioYQBUMBjNv8BI9wTYg",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=g-zvuXicHZLNjptIFIWVh5ksYo1URfFXs2swhY1s3Aaq-NnRFDaYMmDANvgl8gojdxIpWSaR5ll6nmbcI53dPfrutzif73n5z_XcWWlzWxsvJyF1zfOpt9lpG39vu4afs6Hkv6EqQQVrqqorAAINazLWvmfpkIpmX_JfWFI0rMtAxjLWdSTLmvqzyFMuyjrf7HZ5N2-yd4qGJaQ-eljRJawpGCP0ozym-_z_-y8JI-mdJKkqfDyDMlJfO97__fV0zrvp7WNYlFkxK_tZ3czg7Frk0-yhOORlPXtkWfMy_QORr_v2HYY1oGoYg4crRECCUJVfjyX_qWiqrEoYSgjrGlKhrr-2l-Fe7L-czyJ_-3SdmU_L7dJcxkHEhvhI2pUFi9QmUxy5DV84xcoS58QWxX0v7mV9L8Q9r781aXvZZf9-eLW6zDQvmbGlbcvmHvAlr_agO48hi5g0du6Rh17FgU-VJQ3WIw8sZR2KTUid1p27Nq2YkVHc-bRFLyLZhiacaOgcMuQmqSDDGgnkVe1qKxLHBeOYWmLFhcs4aL2XyLFZ6PVe5VxT2xX5wUC0Jl1IR2stnAsPi9S13V0AWyU4iBW98XIViGMovEVW4SiVYMGEp7q2pbg2Jwxwg9_208YGo1-BKVskqn9IGhbiPmT7KTuOjFlD4SMexxU7bBiZZyQpfMBNOheruGpNP3LcVURONBRSAMjkzYkawzbOWDsmjPubeTKwW2F5NukDwaXEdk4bWik0cpMgevgay4gjNnkhueQVNOOa9OvaudAFuXkwGSmr0mVFrAwtlUQQmR8rwA8Gy2vvymrDXgt2eTkYEWVGFVIYJIvsy9h3uzfwRJTB38iK0h9a8GfzPBijGd9OQrvpa31cNODpr8dioYQBUMBjNv8BI9wTYg"
+      },
+      {
+        "category": "In shops nearby",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRr1bjE_ES1BRM9nw6EhD6Zuka1JAsvnXNr9aqohRDZTtHLRI6_HA-76Nprhwb7k5PnRjL1u5U5Yz5rbzU_bL7VcdXNJgVyhRFuuNWS2_Q",
+        "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+        "source": "Supplement Station",
+        "title": "One Science Premium Whey Protein",
+        "rating": 4.1,
+        "reviews": 37,
+        "price": "₹4,199",
+        "extracted_price": 4199,
+        "location": "Nearby, 14 km",
+        "immersive_product_page_token": "TpQkuHicdVPLrqNGEFU-JlnEitQNNI_sjDHY3AuYdtMYNiOgsRu7edjG1zaaf8g_-M5EmiyTSNnmN26-JMthRprlSKWSqo7q6JxS1W-PsvrnejnNs3bwzPwopFO7Op4degyTT92pZZeir9jfECky0GVdAQoYk6YaEvhUZH0m2l3F_tINA46tMWkASApCsvInLzMmqqYMttvyZLXFFxYI9ZEHqUBGioo0BSrKH1Wd7cpvuIaAbsgjpusqkAwNKa8ndn5TVrN3UFGhbGiyrEJF03WADAO9X-HAevcd8OPxUp7ubz_FvCr4pDpPmnYCJ1de3iejsb6smskYy4ZV2Y-y_XHXfZWgAAOA0e3Ioo50qiqB17pi_752L_2D7z5cLqJ8-_k6mU2X4XK2TMiG9kltd89zyDPHvicbv2ULlz_PxSV1BH_sxKNqHlw8yub3NutetsV_P_w_fylms1MxC6OuoxYGa2KKMsZy2ZgKcdIr23QOg52c3GGGZbFKBrH2a9yFgxtgB9wLIhYeNGZxPM7uWerZeMsONM72dM0ctkjEtPcde1XWkPgC8yACfXyA2yLmW1-wJyohgi3TD-aKQhfza06NY0LTOiB4WVqMBxYjtKauB1m1XnQwjTqrGMw0l9N9tKGYScxidd_m8bmn8e2JSeIlJyLxF_TsCwE8O-pjMpcywa08Nm4kAjAi_vPo75JQ5kWD6_oA8QQKh9jULPb-uEm8xiSlqeU-ZYQvCdgpZIGbUc8Qwd3dFzyLYt7FZIq8hmJSIy_d4zCPWBwNeDvqPeSE9wSal4C2IB_SxHPEzKs76jvM9mQ_XIuDnG6oXe7t0D-4rWd3N2yP-FiH9IAip9-EzQGVkV3Ftb62ZQaLA-W53Plh7d5yy73n0LwVgMUFtVOnck288O9BnBIS4QveF9eksYds494w6OF6Q1FsuT2LejOY-_KH2_m0fQNTG_XrYPyT874Dv7Sr3rzNkuEotEH39NuiBdNfoWZA6cspAqSpnwG37Tk2",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TpQkuHicdVPLrqNGEFU-JlnEitQNNI_sjDHY3AuYdtMYNiOgsRu7edjG1zaaf8g_-M5EmiyTSNnmN26-JMthRprlSKWSqo7q6JxS1W-PsvrnejnNs3bwzPwopFO7Op4degyTT92pZZeir9jfECky0GVdAQoYk6YaEvhUZH0m2l3F_tINA46tMWkASApCsvInLzMmqqYMttvyZLXFFxYI9ZEHqUBGioo0BSrKH1Wd7cpvuIaAbsgjpusqkAwNKa8ndn5TVrN3UFGhbGiyrEJF03WADAO9X-HAevcd8OPxUp7ubz_FvCr4pDpPmnYCJ1de3iejsb6smskYy4ZV2Y-y_XHXfZWgAAOA0e3Ioo50qiqB17pi_752L_2D7z5cLqJ8-_k6mU2X4XK2TMiG9kltd89zyDPHvicbv2ULlz_PxSV1BH_sxKNqHlw8yub3NutetsV_P_w_fylms1MxC6OuoxYGa2KKMsZy2ZgKcdIr23QOg52c3GGGZbFKBrH2a9yFgxtgB9wLIhYeNGZxPM7uWerZeMsONM72dM0ctkjEtPcde1XWkPgC8yACfXyA2yLmW1-wJyohgi3TD-aKQhfza06NY0LTOiB4WVqMBxYjtKauB1m1XnQwjTqrGMw0l9N9tKGYScxidd_m8bmn8e2JSeIlJyLxF_TsCwE8O-pjMpcywa08Nm4kAjAi_vPo75JQ5kWD6_oA8QQKh9jULPb-uEm8xiSlqeU-ZYQvCdgpZIGbUc8Qwd3dFzyLYt7FZIq8hmJSIy_d4zCPWBwNeDvqPeSE9wSal4C2IB_SxHPEzKs76jvM9mQ_XIuDnG6oXe7t0D-4rWd3N2yP-FiH9IAip9-EzQGVkV3Ftb62ZQaLA-W53Plh7d5yy73n0LwVgMUFtVOnck288O9BnBIS4QveF9eksYds494w6OF6Q1FsuT2LejOY-_KH2_m0fQNTG_XrYPyT874Dv7Sr3rzNkuEotEH39NuiBdNfoWZA6cspAqSpnwG37Tk2",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=TpQkuHicdVPLrqNGEFU-JlnEitQNNI_sjDHY3AuYdtMYNiOgsRu7edjG1zaaf8g_-M5EmiyTSNnmN26-JMthRprlSKWSqo7q6JxS1W-PsvrnejnNs3bwzPwopFO7Op4degyTT92pZZeir9jfECky0GVdAQoYk6YaEvhUZH0m2l3F_tINA46tMWkASApCsvInLzMmqqYMttvyZLXFFxYI9ZEHqUBGioo0BSrKH1Wd7cpvuIaAbsgjpusqkAwNKa8ndn5TVrN3UFGhbGiyrEJF03WADAO9X-HAevcd8OPxUp7ubz_FvCr4pDpPmnYCJ1de3iejsb6smskYy4ZV2Y-y_XHXfZWgAAOA0e3Ioo50qiqB17pi_752L_2D7z5cLqJ8-_k6mU2X4XK2TMiG9kltd89zyDPHvicbv2ULlz_PxSV1BH_sxKNqHlw8yub3NutetsV_P_w_fylms1MxC6OuoxYGa2KKMsZy2ZgKcdIr23QOg52c3GGGZbFKBrH2a9yFgxtgB9wLIhYeNGZxPM7uWerZeMsONM72dM0ctkjEtPcde1XWkPgC8yACfXyA2yLmW1-wJyohgi3TD-aKQhfza06NY0LTOiB4WVqMBxYjtKauB1m1XnQwjTqrGMw0l9N9tKGYScxidd_m8bmn8e2JSeIlJyLxF_TsCwE8O-pjMpcywa08Nm4kAjAi_vPo75JQ5kWD6_oA8QQKh9jULPb-uEm8xiSlqeU-ZYQvCdgpZIGbUc8Qwd3dFzyLYt7FZIq8hmJSIy_d4zCPWBwNeDvqPeSE9wSal4C2IB_SxHPEzKs76jvM9mQ_XIuDnG6oXe7t0D-4rWd3N2yP-FiH9IAip9-EzQGVkV3Ftb62ZQaLA-W53Plh7d5yy73n0LwVgMUFtVOnck288O9BnBIS4QveF9eksYds494w6OF6Q1FsuT2LejOY-_KH2_m0fQNTG_XrYPyT874Dv7Sr3rzNkuEotEH39NuiBdNfoWZA6cspAqSpnwG37Tk2"
+      },
+      {
+        "category": "In shops nearby",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLt0GbgpHj4Pk2JfewQO8skhjZlR6hraGr_IAAC9zA94f-sxSneg1SIDw0L0pgtAx5CytXg20koHiBIKUcMhEFDZO7eZmOb4Am9i57W3PydJ7um92_pWmH",
+        "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSg5KLKJwlTNbN9q_RqO8nuqYsJQHKDMxWXANSD5IFy4KT4oRhQIZ5XGVbkvHBBt-hzg4ZxxFkOgMgM4tKdCATr-l3105YegT8PqAk",
+        "source": "Muscle Gears Sports Nutrition",
+        "title": "Muscle Gears MG Superior Whey Protein Powder High Protein Blend for Muscle Growth",
+        "price": "₹5,999.25",
+        "extracted_price": 5999.25,
+        "location": "Nearby, 22 km",
+        "immersive_product_page_token": "NfCjl3icHZLbjqNGFEWVj0keYkWqC8Ulb75wVYPbZSig3jCFDU1xsQ029k_kFyL3TKTJ42SkfEvna-KZo_22tZfOOdp_PIrq3-t4MrPu7i92R4lO3evxbLPjJv3Snzox5kMlvkENGs_RMMFA16ECNKR8ybMhk93huw11RYc6NhBUNaxBVTfQ17LIhKzaYr3fF6dVl1fiH4QgUBT4DBvQ0CDWEPi7arJD8cP-BglRIYYIa0AjACOgGeT9JM5_fj6Oxen28UtcVnk5q86ztpvB2bUsbrPnjkNRtbOn3FZU2c_Y-nzof9Cw8kRhHQEEFV1VVayC96YSX4mmKioyANA1XYEKNvT3_jI8ysOncZTFx6_X2XLubtylm4YJG9LG6l9MWGa2dUuToBOOV76YcuS2LB8H-ajaRykfRftXl_WXff7fT-_mKV8uL_liE_U9W1GwbYbXKB6UFHdTCIiTxdM6fFusc8YjyuaDH3rO5o0GIXOJkCmKk74UNbEK-3pLcXBNkWVvI7rJIT3ugD5EWJR-NNUpMsZC-iAyrSivjUVge6vCZkvmsH0WBWEhxcBrg-_qHCVAJpTxUDh8Fdc1Yo43ZDH0KCi3KeNmhIxmg3qPS2Ptw5wwXNovrGTMpus8mU87RILAFhsKA-qvSjurrSB9W5wF8rq47ZMwEpe4OZCd48VB4gXBDQai5nva6DiVxsiagW6jFPFI3FJYT0xaKDd5nAI-FVYwsZhV2crE4u652fPjsXm4xRYNmTktY-omArMbja1LUcNl2lpnv_UukWPdKeRTxOrMrS0zxy7hksJQ9qHfQMDDxYJbwUtmyfp5z7izhzBHPuaR-Wk6n_YfYG6RYbtWCDm_9eC37nVYTMv0fpTaXff1yenA_HeoGfB7Vwh41uZ_MugQ2Q",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NfCjl3icHZLbjqNGFEWVj0keYkWqC8Ulb75wVYPbZSig3jCFDU1xsQ029k_kFyL3TKTJ42SkfEvna-KZo_22tZfOOdp_PIrq3-t4MrPu7i92R4lO3evxbLPjJv3Snzox5kMlvkENGs_RMMFA16ECNKR8ybMhk93huw11RYc6NhBUNaxBVTfQ17LIhKzaYr3fF6dVl1fiH4QgUBT4DBvQ0CDWEPi7arJD8cP-BglRIYYIa0AjACOgGeT9JM5_fj6Oxen28UtcVnk5q86ztpvB2bUsbrPnjkNRtbOn3FZU2c_Y-nzof9Cw8kRhHQEEFV1VVayC96YSX4mmKioyANA1XYEKNvT3_jI8ysOncZTFx6_X2XLubtylm4YJG9LG6l9MWGa2dUuToBOOV76YcuS2LB8H-ajaRykfRftXl_WXff7fT-_mKV8uL_liE_U9W1GwbYbXKB6UFHdTCIiTxdM6fFusc8YjyuaDH3rO5o0GIXOJkCmKk74UNbEK-3pLcXBNkWVvI7rJIT3ugD5EWJR-NNUpMsZC-iAyrSivjUVge6vCZkvmsH0WBWEhxcBrg-_qHCVAJpTxUDh8Fdc1Yo43ZDH0KCi3KeNmhIxmg3qPS2Ptw5wwXNovrGTMpus8mU87RILAFhsKA-qvSjurrSB9W5wF8rq47ZMwEpe4OZCd48VB4gXBDQai5nva6DiVxsiagW6jFPFI3FJYT0xaKDd5nAI-FVYwsZhV2crE4u652fPjsXm4xRYNmTktY-omArMbja1LUcNl2lpnv_UukWPdKeRTxOrMrS0zxy7hksJQ9qHfQMDDxYJbwUtmyfp5z7izhzBHPuaR-Wk6n_YfYG6RYbtWCDm_9eC37nVYTMv0fpTaXff1yenA_HeoGfB7Vwh41uZ_MugQ2Q",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=NfCjl3icHZLbjqNGFEWVj0keYkWqC8Ulb75wVYPbZSig3jCFDU1xsQ029k_kFyL3TKTJ42SkfEvna-KZo_22tZfOOdp_PIrq3-t4MrPu7i92R4lO3evxbLPjJv3Snzox5kMlvkENGs_RMMFA16ECNKR8ybMhk93huw11RYc6NhBUNaxBVTfQ17LIhKzaYr3fF6dVl1fiH4QgUBT4DBvQ0CDWEPi7arJD8cP-BglRIYYIa0AjACOgGeT9JM5_fj6Oxen28UtcVnk5q86ztpvB2bUsbrPnjkNRtbOn3FZU2c_Y-nzof9Cw8kRhHQEEFV1VVayC96YSX4mmKioyANA1XYEKNvT3_jI8ysOncZTFx6_X2XLubtylm4YJG9LG6l9MWGa2dUuToBOOV76YcuS2LB8H-ajaRykfRftXl_WXff7fT-_mKV8uL_liE_U9W1GwbYbXKB6UFHdTCIiTxdM6fFusc8YjyuaDH3rO5o0GIXOJkCmKk74UNbEK-3pLcXBNkWVvI7rJIT3ugD5EWJR-NNUpMsZC-iAyrSivjUVge6vCZkvmsH0WBWEhxcBrg-_qHCVAJpTxUDh8Fdc1Yo43ZDH0KCi3KeNmhIxmg3qPS2Ptw5wwXNovrGTMpus8mU87RILAFhsKA-qvSjurrSB9W5wF8rq47ZMwEpe4OZCd48VB4gXBDQai5nva6DiVxsiagW6jFPFI3FJYT0xaKDd5nAI-FVYwsZhV2crE4u652fPjsXm4xRYNmTktY-omArMbja1LUcNl2lpnv_UukWPdKeRTxOrMrS0zxy7hksJQ9qHfQMDDxYJbwUtmyfp5z7izhzBHPuaR-Wk6n_YfYG6RYbtWCDm_9eC37nVYTMv0fpTaXff1yenA_HeoGfB7Vwh41uZ_MugQ2Q"
+      },
+      {
+        "category": "In shops nearby",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmS2qp09y3JASWuUwF8GgtnThy8cjrT9eGAqpj1U81h3iPKoRlDJ0KcdI8aruowdoYNxEeuttvhxcihJA5n3QF0tWLmXDUvhiF49z9fojEtg97kNV_SogG",
+        "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSyAZQjOm-i5DxVHINdODLodYdj10fs29wD2euDxnQuS-jhjHIyCLeC3hfR4KPhvl8xKeruqrmgojVC3pgjMV8mzCwzW-lPkw",
+        "source": "Total Sport & Fitness",
+        "title": "Isopure Whey Protein Isolate Powder",
+        "rating": 4.6,
+        "reviews": 48,
+        "price": "₹4,878",
+        "extracted_price": 4878,
+        "location": "Nearby, 16 km",
+        "immersive_product_page_token": "f4uDfHicbZPNjqNGFIWlPENeIVnEilQ_FFDZtQ1FGzXldhkKw2bEnw2m-LGN2zbKO-QdPDORJsvJSHmWztOEZB3pru6R7v2OdM5vj6L663o52Uk3evP0qNCpez2eHXlcR1_6U5dfsqHKv0EDaNDUKIGmrgGCdajBL1kyJKrbV_lXkxJTh8Q0sAk0amIdfC2LJFdVW6x2u-JkdVmV_4l0wySmiSkAlFKiGxj-UTXJvvhP_gaxiU2CEMAUQQ0YOiD04yk_v6PXxQedmsTQTYwQMQjSsU7pr69iZX34f-3z8VKc7u8_hmWVlbPqPGu7GZxdy-I-m0wNRdXOplm2eZX8gNnnff8vn0F1jCChmgYRQEg3DfKxmdxNxzUdUUgAgmB6M637t-FR7j9dLqp4_-k6Wzwt18vFMvK3coga1r_YsEwcdo-2vMuf3fLFVpfYUeVjrx5V-yjVo2h_75L-bZf9_d33dne1FufrYh30vbQE2KjY9RQdo9bdRbWIojHXvTZDfMs0DsVBKqYJdB1Xz2XIMb8ljDpewJZbxHf-IXaDURDPytt1u4cRoG6h4jg8SC9tJipVLrdQnaNW1H7QDZ4jUcDmklsxkE1cx75oVgFMeCtCD0mR1sN9HfZ1dIdHHtDBt3s7teNL6j9BKYPrxr5Bj5lkxTqcO_wS1K4tQrHJ0fIuAlVljDHfnycbpJhshlPGYpxC97hGpPLtuPFsxiI1PxZBCXjI6vU253IUDW_7ljvy7CMa-UpFXKl7qvohD927p9xjsO1XkS9CjqSTAPoi1Dzmdt8LVgOO3fnaV8cN0FCE3e3GcnEYSsnl8pZiexS1hPmhbPOt0HOb4sKJnU0rRBTGOJBLvGLyxi3VyJBdBJQwtiYS5I65742JVd-8unwN_bKJMQti0L_l1nrDcA6zWpYp7vm6cW-p5d5TOL9lIA8zyWKncufimd9XYexHIK58R03lYSwI-xcZEJQE8LBppRvb6iU5iPmn2_m0ewdPjAyblUbI-dCDn7vXYX5bRONRGaPpmbfnDjz9Ag0K0VQpAqac_gNYg0J4",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=f4uDfHicbZPNjqNGFIWlPENeIVnEilQ_FFDZtQ1FGzXldhkKw2bEnw2m-LGN2zbKO-QdPDORJsvJSHmWztOEZB3pru6R7v2OdM5vj6L663o52Uk3evP0qNCpez2eHXlcR1_6U5dfsqHKv0EDaNDUKIGmrgGCdajBL1kyJKrbV_lXkxJTh8Q0sAk0amIdfC2LJFdVW6x2u-JkdVmV_4l0wySmiSkAlFKiGxj-UTXJvvhP_gaxiU2CEMAUQQ0YOiD04yk_v6PXxQedmsTQTYwQMQjSsU7pr69iZX34f-3z8VKc7u8_hmWVlbPqPGu7GZxdy-I-m0wNRdXOplm2eZX8gNnnff8vn0F1jCChmgYRQEg3DfKxmdxNxzUdUUgAgmB6M637t-FR7j9dLqp4_-k6Wzwt18vFMvK3coga1r_YsEwcdo-2vMuf3fLFVpfYUeVjrx5V-yjVo2h_75L-bZf9_d33dne1FufrYh30vbQE2KjY9RQdo9bdRbWIojHXvTZDfMs0DsVBKqYJdB1Xz2XIMb8ljDpewJZbxHf-IXaDURDPytt1u4cRoG6h4jg8SC9tJipVLrdQnaNW1H7QDZ4jUcDmklsxkE1cx75oVgFMeCtCD0mR1sN9HfZ1dIdHHtDBt3s7teNL6j9BKYPrxr5Bj5lkxTqcO_wS1K4tQrHJ0fIuAlVljDHfnycbpJhshlPGYpxC97hGpPLtuPFsxiI1PxZBCXjI6vU253IUDW_7ljvy7CMa-UpFXKl7qvohD927p9xjsO1XkS9CjqSTAPoi1Dzmdt8LVgOO3fnaV8cN0FCE3e3GcnEYSsnl8pZiexS1hPmhbPOt0HOb4sKJnU0rRBTGOJBLvGLyxi3VyJBdBJQwtiYS5I65742JVd-8unwN_bKJMQti0L_l1nrDcA6zWpYp7vm6cW-p5d5TOL9lIA8zyWKncufimd9XYexHIK58R03lYSwI-xcZEJQE8LBppRvb6iU5iPmn2_m0ewdPjAyblUbI-dCDn7vXYX5bRONRGaPpmbfnDjz9Ag0K0VQpAqac_gNYg0J4",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=f4uDfHicbZPNjqNGFIWlPENeIVnEilQ_FFDZtQ1FGzXldhkKw2bEnw2m-LGN2zbKO-QdPDORJsvJSHmWztOEZB3pru6R7v2OdM5vj6L663o52Uk3evP0qNCpez2eHXlcR1_6U5dfsqHKv0EDaNDUKIGmrgGCdajBL1kyJKrbV_lXkxJTh8Q0sAk0amIdfC2LJFdVW6x2u-JkdVmV_4l0wySmiSkAlFKiGxj-UTXJvvhP_gaxiU2CEMAUQQ0YOiD04yk_v6PXxQedmsTQTYwQMQjSsU7pr69iZX34f-3z8VKc7u8_hmWVlbPqPGu7GZxdy-I-m0wNRdXOplm2eZX8gNnnff8vn0F1jCChmgYRQEg3DfKxmdxNxzUdUUgAgmB6M637t-FR7j9dLqp4_-k6Wzwt18vFMvK3coga1r_YsEwcdo-2vMuf3fLFVpfYUeVjrx5V-yjVo2h_75L-bZf9_d33dne1FufrYh30vbQE2KjY9RQdo9bdRbWIojHXvTZDfMs0DsVBKqYJdB1Xz2XIMb8ljDpewJZbxHf-IXaDURDPytt1u4cRoG6h4jg8SC9tJipVLrdQnaNW1H7QDZ4jUcDmklsxkE1cx75oVgFMeCtCD0mR1sN9HfZ1dIdHHtDBt3s7teNL6j9BKYPrxr5Bj5lkxTqcO_wS1K4tQrHJ0fIuAlVljDHfnycbpJhshlPGYpxC97hGpPLtuPFsxiI1PxZBCXjI6vU253IUDW_7ljvy7CMa-UpFXKl7qvohD927p9xjsO1XkS9CjqSTAPoi1Dzmdt8LVgOO3fnaV8cN0FCE3e3GcnEYSsnl8pZiexS1hPmhbPOt0HOb4sKJnU0rRBTGOJBLvGLyxi3VyJBdBJQwtiYS5I65742JVd-8unwN_bKJMQti0L_l1nrDcA6zWpYp7vm6cW-p5d5TOL9lIA8zyWKncufimd9XYexHIK58R03lYSwI-xcZEJQE8LBppRvb6iU5iPmn2_m0ewdPjAyblUbI-dCDn7vXYX5bRONRGaPpmbfnDjz9Ag0K0VQpAqac_gNYg0J4"
+      },
+      {
+        "category": "In shops nearby",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT47SubInLmlKJvBWW3B72dnGkqy0ktog-lsU6jgz7PeBqjlwKjhdHRpcQNIUdxbJ-GzC--GRM5r-POyu1AA4zy_tdg-KAr5n-1xkdB3jg",
+        "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+        "source": "The Flexcity Nutrition",
+        "title": "MuscleBlaze Biozyme Performance Whey Protein PR",
+        "rating": 4.5,
+        "reviews": 431,
+        "price": "₹5,999",
+        "extracted_price": 5999,
+        "location": "Nearby, 15 km",
+        "immersive_product_page_token": "gcUY03icbZJJjuNGEEUBn8FXsBcWDOTA0TtRnKQSqeKQSTI3DU4SKSYHSVSJKvQdfAdVt4H2st2Az1I-jWmvGwgggP8DDz8C8fujrP--Xc9G2r86Wnbi6Nw_ny4WPXnJl-HcF9d8rIu_VAEiBUiyDIGCAAJz-5KnY8r7Q118gzLCiiAJsoRVoEgqxoL0tSrTgtddudvvy7Pe5zMFI1Gcx1RFUWQZyAJC6M-6TQ_l__Y3iGVFwYosAhmrUBAVQQBv5-Lyjp5XHxCUVCDOsiyLEpQwFMDHZ3-nf_i-9_l0Lc_395-jqs6rRX1ZdP0CLm5VeV_MW41l3S3mWndFnf6Ezc-H4b983-G8tXXxVZQlQUKKOiuqKkFFxG_Dy_ioDp-uV16-_3JbrJZrb71aJ2FMx6Q1h60Bq9Qy70ns9oW9qbYGvzKLV48Df9Tdo-KPsvujT4eXff7PDz8a_U1fXW4rjwwD1X0QEE8kLexd3oys8z0KzJbFLoqRKRDKnwihyLcKLTiyiumb1CHmsxduTiEZUmYzvzA9gdl05UaUJMAAJCom1-JtGQ_bIDIEak1SSDXXbYY-gCb1X5md25unMPJT0rrHnbEBZdcICV6KyVG7Osi5J01zI2jTxkBkpGMxNaaUUePmQbULWpME2BwCVPiUVhoxfI_h5d2PexQ1VZ0iAp2wesqQWrHIpVHMLEIb5Oj0lMdan0Wj6XXaQA3RzxHsaQs9p-W3EHI6X_Tk6ywOrPXIQI4K2wOkITiM3Kt3rAwacRA0UxDyORDlKxcNSYjXaEvUV_dI7RQPvDy6TmgPMDj6DdXXYq5zi9jsNbPnNwfiLtM3ODLEY8KrS9jSyYOVUcZ0nUU8zIm7CXVmu9SsMprAABdRSdcCJVXvYEcgre_F2AhMXMC8oVWGB9drN9PMvGdQm3JQRDk1mVVvNN9277uIBQ4szi7gaBuZxKHaVHbc8ggzi-YwZqifGFX9T9PlvH8HS1Mcg50svpDi8Kt-twoWc-HY3oO9yKInD7bL36CsQqQCIAJJAv8CMThAoA",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gcUY03icbZJJjuNGEEUBn8FXsBcWDOTA0TtRnKQSqeKQSTI3DU4SKSYHSVSJKvQdfAdVt4H2st2Az1I-jWmvGwgggP8DDz8C8fujrP--Xc9G2r86Wnbi6Nw_ny4WPXnJl-HcF9d8rIu_VAEiBUiyDIGCAAJz-5KnY8r7Q118gzLCiiAJsoRVoEgqxoL0tSrTgtddudvvy7Pe5zMFI1Gcx1RFUWQZyAJC6M-6TQ_l__Y3iGVFwYosAhmrUBAVQQBv5-Lyjp5XHxCUVCDOsiyLEpQwFMDHZ3-nf_i-9_l0Lc_395-jqs6rRX1ZdP0CLm5VeV_MW41l3S3mWndFnf6Ezc-H4b983-G8tXXxVZQlQUKKOiuqKkFFxG_Dy_ioDp-uV16-_3JbrJZrb71aJ2FMx6Q1h60Bq9Qy70ns9oW9qbYGvzKLV48Df9Tdo-KPsvujT4eXff7PDz8a_U1fXW4rjwwD1X0QEE8kLexd3oys8z0KzJbFLoqRKRDKnwihyLcKLTiyiumb1CHmsxduTiEZUmYzvzA9gdl05UaUJMAAJCom1-JtGQ_bIDIEak1SSDXXbYY-gCb1X5md25unMPJT0rrHnbEBZdcICV6KyVG7Osi5J01zI2jTxkBkpGMxNaaUUePmQbULWpME2BwCVPiUVhoxfI_h5d2PexQ1VZ0iAp2wesqQWrHIpVHMLEIb5Oj0lMdan0Wj6XXaQA3RzxHsaQs9p-W3EHI6X_Tk6ywOrPXIQI4K2wOkITiM3Kt3rAwacRA0UxDyORDlKxcNSYjXaEvUV_dI7RQPvDy6TmgPMDj6DdXXYq5zi9jsNbPnNwfiLtM3ODLEY8KrS9jSyYOVUcZ0nUU8zIm7CXVmu9SsMprAABdRSdcCJVXvYEcgre_F2AhMXMC8oVWGB9drN9PMvGdQm3JQRDk1mVVvNN9277uIBQ4szi7gaBuZxKHaVHbc8ggzi-YwZqifGFX9T9PlvH8HS1Mcg50svpDi8Kt-twoWc-HY3oO9yKInD7bL36CsQqQCIAJJAv8CMThAoA",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=gcUY03icbZJJjuNGEEUBn8FXsBcWDOTA0TtRnKQSqeKQSTI3DU4SKSYHSVSJKvQdfAdVt4H2st2Az1I-jWmvGwgggP8DDz8C8fujrP--Xc9G2r86Wnbi6Nw_ny4WPXnJl-HcF9d8rIu_VAEiBUiyDIGCAAJz-5KnY8r7Q118gzLCiiAJsoRVoEgqxoL0tSrTgtddudvvy7Pe5zMFI1Gcx1RFUWQZyAJC6M-6TQ_l__Y3iGVFwYosAhmrUBAVQQBv5-Lyjp5XHxCUVCDOsiyLEpQwFMDHZ3-nf_i-9_l0Lc_395-jqs6rRX1ZdP0CLm5VeV_MW41l3S3mWndFnf6Ezc-H4b983-G8tXXxVZQlQUKKOiuqKkFFxG_Dy_ioDp-uV16-_3JbrJZrb71aJ2FMx6Q1h60Bq9Qy70ns9oW9qbYGvzKLV48Df9Tdo-KPsvujT4eXff7PDz8a_U1fXW4rjwwD1X0QEE8kLexd3oys8z0KzJbFLoqRKRDKnwihyLcKLTiyiumb1CHmsxduTiEZUmYzvzA9gdl05UaUJMAAJCom1-JtGQ_bIDIEak1SSDXXbYY-gCb1X5md25unMPJT0rrHnbEBZdcICV6KyVG7Osi5J01zI2jTxkBkpGMxNaaUUePmQbULWpME2BwCVPiUVhoxfI_h5d2PexQ1VZ0iAp2wesqQWrHIpVHMLEIb5Oj0lMdan0Wj6XXaQA3RzxHsaQs9p-W3EHI6X_Tk6ywOrPXIQI4K2wOkITiM3Kt3rAwacRA0UxDyORDlKxcNSYjXaEvUV_dI7RQPvDy6TmgPMDj6DdXXYq5zi9jsNbPnNwfiLtM3ODLEY8KrS9jSyYOVUcZ0nUU8zIm7CXVmu9SsMprAABdRSdcCJVXvYEcgre_F2AhMXMC8oVWGB9drN9PMvGdQm3JQRDk1mVVvNN9277uIBQ4szi7gaBuZxKHaVHbc8ggzi-YwZqifGFX9T9PlvH8HS1Mcg50svpDi8Kt-twoWc-HY3oO9yKInD7bL36CsQqQCIAJJAv8CMThAoA"
+      },
+      {
+        "category": "In shops nearby",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6kzAGen3V0gs777INqcHUCSVC_Oo0V68aIDIjeJ7KIN-z0j1YGuX02Fk_MjvmDweLeiF0hCBdmAfnILvRmXPzDoY3cvz-w5_pJAb4Lms4D50-o5NBvOM7",
+        "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+        "source": "Global Protein Solutions",
+        "title": "MuscleBlaze Whey Gold 100% Whey Isolate Protein",
+        "rating": 4.5,
+        "reviews": 1700,
+        "price": "₹6,842.82",
+        "extracted_price": 6842.82,
+        "location": "Nearby, 20 km",
+        "immersive_product_page_token": "0mg1tnicbZBLjttGGISBnCFXSBYRAnSz2XxkN3yLFslhi918bAyKTYkcNSmORElDIXfIHTR2AGdpG_BZJqcJnbWBf1eF-r-qv-51--16Ptrl4RYYm2chHQ-PzyeXPcf5p-F44OdqbPlXiBQZqIqia0jGigo0KEufqnIsxWHX8i9QRwhAXdElFany7IL656YuuWj7Otpu66N1qL7bFAgkpKkAyXOGqmEN_9N25a7-X_4KVQDnJzKGUMcYAEWW1NcjP71Jj-Z7PBNIQJUBQlBSgAyh-ucjiaz3P9Y-Pp_r4_T2a9q0VbNoT4v-sICLa1NPi7nVWLf9Yr5lz9vyF-R83A3f-X6Q89q1_DOeoRRJw5IGgKxipMPX4TLem92H81nUb79dF-bDMl6ayzzJ2Jh3zrCyYVO6zpRn4YF7frOyxblwRXPfiXvb3xtxr_u_D-Vw2Vb__vSzfbha5ulqxnQYmEXAmjb7OvFl8mTIxPERc0OztjWJdo5f98PEoSZTZuCq89scDpcK-S0HJCpokZSoQNUeio3XnBjkpLIhpFKICWuylIVZnTEjRoyG0D_EbPBIKkjVFXmaYhS4LCY964MOHpPu5RoxJ6722GLesC88P2I9vXLAltxqWJ5xb3MjJLK1W2Sza2STfQ6GW-kSkyG2WvfMWiNjHUuhuXHDuLLEidlDubnxqRSGX1JtzNPGS4TI1k-szKCPE2sHAq_ow8yGXAi8ZoVFHZZtoHEOUp0kDgFMEi0X-6mkpynsm77OHBqDPVylPKU2CXMxBDEVfixxJwO-w1yyjDwRz72Xq8y4cSakEoTxvK_Jb-EldRy56IkVAyiTblQSyDJGdTewZRQgvio6GWcTfFeJodjY-TVINTBP9hhLJErYYNK-SCqwWzuIw2rPmg0awrjzXzaWP83cLxXgacWcwm19g3jhFKUFpeAFF4nvpszZrrOmCynP4nTIKb3ioBu9AIzGh5fTcfsGHhw8riMVXyjf_W5NLi8yIT9103qLi_RdDLuHP6CqQ0kHAANFAf8B0oY_wA",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0mg1tnicbZBLjttGGISBnCFXSBYRAnSz2XxkN3yLFslhi918bAyKTYkcNSmORElDIXfIHTR2AGdpG_BZJqcJnbWBf1eF-r-qv-51--16Ptrl4RYYm2chHQ-PzyeXPcf5p-F44OdqbPlXiBQZqIqia0jGigo0KEufqnIsxWHX8i9QRwhAXdElFany7IL656YuuWj7Otpu66N1qL7bFAgkpKkAyXOGqmEN_9N25a7-X_4KVQDnJzKGUMcYAEWW1NcjP71Jj-Z7PBNIQJUBQlBSgAyh-ucjiaz3P9Y-Pp_r4_T2a9q0VbNoT4v-sICLa1NPi7nVWLf9Yr5lz9vyF-R83A3f-X6Q89q1_DOeoRRJw5IGgKxipMPX4TLem92H81nUb79dF-bDMl6ayzzJ2Jh3zrCyYVO6zpRn4YF7frOyxblwRXPfiXvb3xtxr_u_D-Vw2Vb__vSzfbha5ulqxnQYmEXAmjb7OvFl8mTIxPERc0OztjWJdo5f98PEoSZTZuCq89scDpcK-S0HJCpokZSoQNUeio3XnBjkpLIhpFKICWuylIVZnTEjRoyG0D_EbPBIKkjVFXmaYhS4LCY964MOHpPu5RoxJ6722GLesC88P2I9vXLAltxqWJ5xb3MjJLK1W2Sza2STfQ6GW-kSkyG2WvfMWiNjHUuhuXHDuLLEidlDubnxqRSGX1JtzNPGS4TI1k-szKCPE2sHAq_ow8yGXAi8ZoVFHZZtoHEOUp0kDgFMEi0X-6mkpynsm77OHBqDPVylPKU2CXMxBDEVfixxJwO-w1yyjDwRz72Xq8y4cSakEoTxvK_Jb-EldRy56IkVAyiTblQSyDJGdTewZRQgvio6GWcTfFeJodjY-TVINTBP9hhLJErYYNK-SCqwWzuIw2rPmg0awrjzXzaWP83cLxXgacWcwm19g3jhFKUFpeAFF4nvpszZrrOmCynP4nTIKb3ioBu9AIzGh5fTcfsGHhw8riMVXyjf_W5NLi8yIT9103qLi_RdDLuHP6CqQ0kHAANFAf8B0oY_wA",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=0mg1tnicbZBLjttGGISBnCFXSBYRAnSz2XxkN3yLFslhi918bAyKTYkcNSmORElDIXfIHTR2AGdpG_BZJqcJnbWBf1eF-r-qv-51--16Ptrl4RYYm2chHQ-PzyeXPcf5p-F44OdqbPlXiBQZqIqia0jGigo0KEufqnIsxWHX8i9QRwhAXdElFany7IL656YuuWj7Otpu66N1qL7bFAgkpKkAyXOGqmEN_9N25a7-X_4KVQDnJzKGUMcYAEWW1NcjP71Jj-Z7PBNIQJUBQlBSgAyh-ucjiaz3P9Y-Pp_r4_T2a9q0VbNoT4v-sICLa1NPi7nVWLf9Yr5lz9vyF-R83A3f-X6Q89q1_DOeoRRJw5IGgKxipMPX4TLem92H81nUb79dF-bDMl6ayzzJ2Jh3zrCyYVO6zpRn4YF7frOyxblwRXPfiXvb3xtxr_u_D-Vw2Vb__vSzfbha5ulqxnQYmEXAmjb7OvFl8mTIxPERc0OztjWJdo5f98PEoSZTZuCq89scDpcK-S0HJCpokZSoQNUeio3XnBjkpLIhpFKICWuylIVZnTEjRoyG0D_EbPBIKkjVFXmaYhS4LCY964MOHpPu5RoxJ6722GLesC88P2I9vXLAltxqWJ5xb3MjJLK1W2Sza2STfQ6GW-kSkyG2WvfMWiNjHUuhuXHDuLLEidlDubnxqRSGX1JtzNPGS4TI1k-szKCPE2sHAq_ow8yGXAi8ZoVFHZZtoHEOUp0kDgFMEi0X-6mkpynsm77OHBqDPVylPKU2CXMxBDEVfixxJwO-w1yyjDwRz72Xq8y4cSakEoTxvK_Jb-EldRy56IkVAyiTblQSyDJGdTewZRQgvio6GWcTfFeJodjY-TVINTBP9hhLJErYYNK-SCqwWzuIw2rPmg0awrjzXzaWP83cLxXgacWcwm19g3jhFKUFpeAFF4nvpszZrrOmCynP4nTIKb3ioBu9AIzGh5fTcfsGHhw8riMVXyjf_W5NLi8yIT9103qLi_RdDLuHP6CqQ0kHAANFAf8B0oY_wA"
+      },
+      {
+        "category": "In shops nearby",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZftFLOEtnJ5WBr-s1E1opQ6xpe1BpxnPHxrhgikSeT-lQWn4s-8p7gkIyrwLOohDZKtSPVQyQRxuWCAFP-y91_7LfEnFr0qry9-OBYWqCtmQ8roBe-n6r",
+        "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+        "source": "Nutra Pro Hub",
+        "title": "Whey Performance - Nutrela 100% Whey Performance Protein P",
+        "price": "₹2,100",
+        "extracted_price": 2100,
+        "location": "Nearby, 26 km",
+        "immersive_product_page_token": "Xd6oG3icdZJLjptAAESVwySLWJGa5uOQnW1oBmIz4ddA7xgau4HmY4yN4RK5wsgzE2myTCJlm2tMThMn-0hVq9Ir1aI-X7L853Ds9KSZNsu7PYdd82l_MPDeiZ_brqHHtM_pD0GGcxEoiiLM5xL8a0F-TpM-4c0up_ffWJZQntfZ7XabdVqT_gf5mlfJLvuXf5eV98ocCooqQiBJMpRF5aGjh_un_THrxpc3IctTNssPs7qZCbOBZePsuqfP8np2lVnTPHktoqddey27f6hy-uuhPfUXtns8Hnn28naYrRamY67M2I9wH1eoXesCSww0xpHd0BuLrXV-JAZnlx2_5PWF8UtWf2mS9rRNf78q9GZYrQ7D0gnaFmsu8KYFiMPdgDEJPWj1vhGPMRjOpJT7TYkIFVxxE5kC9t3YriRpo2NIfcskvOxdgD_6mg5JvTxnBSmcAp_9Uj1tENJxgU9Xfh3XDBDESVa7y3XI9BiirQPic4AsPRGZ61ey5Am0syt7GUCpp4YV08l26ChsMMa14xPPjRzJg62XQtTHHBuJSPRAo_sNpIRgtUgga5MKkQBb7l1FlllhrSNQyqQ0xUzjpVdzzytB7-moJZUbUh6ApKTgNlRle6IOgehGZ1SkkYXiUFX8wMrTcBjTSnXSyL7BNXJDt8mdwJ3SglfYGKZQK2EWnIdUJMiul22iWV5omEMysSH1OSHD4_nQbV_AAsm9dzuXTwHdvdNGg5KIS0U1eluZhB8doVp8EOaqAFUA5OuvwB90jPOM",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Xd6oG3icdZJLjptAAESVwySLWJGa5uOQnW1oBmIz4ddA7xgau4HmY4yN4RK5wsgzE2myTCJlm2tMThMn-0hVq9Ir1aI-X7L853Ds9KSZNsu7PYdd82l_MPDeiZ_brqHHtM_pD0GGcxEoiiLM5xL8a0F-TpM-4c0up_ffWJZQntfZ7XabdVqT_gf5mlfJLvuXf5eV98ocCooqQiBJMpRF5aGjh_un_THrxpc3IctTNssPs7qZCbOBZePsuqfP8np2lVnTPHktoqddey27f6hy-uuhPfUXtns8Hnn28naYrRamY67M2I9wH1eoXesCSww0xpHd0BuLrXV-JAZnlx2_5PWF8UtWf2mS9rRNf78q9GZYrQ7D0gnaFmsu8KYFiMPdgDEJPWj1vhGPMRjOpJT7TYkIFVxxE5kC9t3YriRpo2NIfcskvOxdgD_6mg5JvTxnBSmcAp_9Uj1tENJxgU9Xfh3XDBDESVa7y3XI9BiirQPic4AsPRGZ61ey5Am0syt7GUCpp4YV08l26ChsMMa14xPPjRzJg62XQtTHHBuJSPRAo_sNpIRgtUgga5MKkQBb7l1FlllhrSNQyqQ0xUzjpVdzzytB7-moJZUbUh6ApKTgNlRle6IOgehGZ1SkkYXiUFX8wMrTcBjTSnXSyL7BNXJDt8mdwJ3SglfYGKZQK2EWnIdUJMiul22iWV5omEMysSH1OSHD4_nQbV_AAsm9dzuXTwHdvdNGg5KIS0U1eluZhB8doVp8EOaqAFUA5OuvwB90jPOM",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=Xd6oG3icdZJLjptAAESVwySLWJGa5uOQnW1oBmIz4ddA7xgau4HmY4yN4RK5wsgzE2myTCJlm2tMThMn-0hVq9Ir1aI-X7L853Ds9KSZNsu7PYdd82l_MPDeiZ_brqHHtM_pD0GGcxEoiiLM5xL8a0F-TpM-4c0up_ffWJZQntfZ7XabdVqT_gf5mlfJLvuXf5eV98ocCooqQiBJMpRF5aGjh_un_THrxpc3IctTNssPs7qZCbOBZePsuqfP8np2lVnTPHktoqddey27f6hy-uuhPfUXtns8Hnn28naYrRamY67M2I9wH1eoXesCSww0xpHd0BuLrXV-JAZnlx2_5PWF8UtWf2mS9rRNf78q9GZYrQ7D0gnaFmsu8KYFiMPdgDEJPWj1vhGPMRjOpJT7TYkIFVxxE5kC9t3YriRpo2NIfcskvOxdgD_6mg5JvTxnBSmcAp_9Uj1tENJxgU9Xfh3XDBDESVa7y3XI9BiirQPic4AsPRGZ61ey5Am0syt7GUCpp4YV08l26ChsMMa14xPPjRzJg62XQtTHHBuJSPRAo_sNpIRgtUgga5MKkQBb7l1FlllhrSNQyqQ0xUzjpVdzzytB7-moJZUbUh6ApKTgNlRle6IOgehGZ1SkkYXiUFX8wMrTcBjTSnXSyL7BNXJDt8mdwJ3SglfYGKZQK2EWnIdUJMiul22iWV5omEMysSH1OSHD4_nQbV_AAsm9dzuXTwHdvdNGg5KIS0U1eluZhB8doVp8EOaqAFUA5OuvwB90jPOM"
+      },
+      {
+        "category": "In shops nearby",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZftFLOEtnJ5WBr-s1E1opQ6xpe1BpxnPHxrhgikSeT-lQWn4s-8p7gkIyrwLOohDZKtSPVQyQRxuWCAFP-y91_7LfEnFr0qry9-OBYWqCtmQ8roBe-n6r",
+        "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+        "source": "Nutra Pro Hub",
+        "title": "Whey Performance - Nutrela 100% Whey Performance Protein P",
+        "price": "₹2,100",
+        "extracted_price": 2100,
+        "location": "Nearby, 26 km",
+        "immersive_product_page_token": "AKvjTnicbY5NbptAAIXVw7SLWpWGwWDTXbABm9o4_M3A7DADHszwYwwmcIleIXKSSumyXXTba6SnqaVuK73de9_T9_WaZL_6rtGiatyq-xOHTXV_OhvoZIevdVPRLm4z-nOqzGfyHE4VEUxlSVbmwuw1jtqIV4eMPv5gSUR5Via7NE2aZRX_n_ieFdEh-VdL8lyeQUFWRAimUwlKovzU0PPjy6lLmuHtA2ZZzCbZeVJWE2HSs2SY3GzaJCsnt6xLmkXvRf3lUN_OHp-KjP5-qi_tlR2eu44nbx_7yeJuba8X69ALUBsWer3RBBYZ-hAGVkVXJttovCMGZ9cDv2bllfFrUn6rovqSxn_eHbWqXyzOvWr7dY2WDnBHdt4X5hjhdmEt0egENnQNy7BHc7CAkDpHMyCwxdhoe7-sIXaFjuS66numH2nMsEHVIkjc2_aCuLnxRHpyjfphC0hFRHa0BaWJseVaIlcdrnROTu4pYCWFRHVyae0u1ZCAee-WzLBWiEfQdEnOdxt_C3GhiI7W5vsAkXCkK7yyxPioh14uhNTnKUU5dHRf2kJy2iBu0FVdbDx12CN_TDDZ7jDiVl47Eaym4TGU4tIWrSVd2Zg3Sa5rROshDcglHhHUGBVpYOohVmTPN7MY90NcKHYc3KxK3cFOldm-M8ZHXvjYKr2lJcS6eYn4GiT5XNwjy_T8OSCGktoFwrR_fjg36Ru406XW3c2ki08Pn5aDQUnAp8dicFOJ4C-2UNx9FmaKABUAJCDL4C-KdvMl",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=AKvjTnicbY5NbptAAIXVw7SLWpWGwWDTXbABm9o4_M3A7DADHszwYwwmcIleIXKSSumyXXTba6SnqaVuK73de9_T9_WaZL_6rtGiatyq-xOHTXV_OhvoZIevdVPRLm4z-nOqzGfyHE4VEUxlSVbmwuw1jtqIV4eMPv5gSUR5Via7NE2aZRX_n_ieFdEh-VdL8lyeQUFWRAimUwlKovzU0PPjy6lLmuHtA2ZZzCbZeVJWE2HSs2SY3GzaJCsnt6xLmkXvRf3lUN_OHp-KjP5-qi_tlR2eu44nbx_7yeJuba8X69ALUBsWer3RBBYZ-hAGVkVXJttovCMGZ9cDv2bllfFrUn6rovqSxn_eHbWqXyzOvWr7dY2WDnBHdt4X5hjhdmEt0egENnQNy7BHc7CAkDpHMyCwxdhoe7-sIXaFjuS66numH2nMsEHVIkjc2_aCuLnxRHpyjfphC0hFRHa0BaWJseVaIlcdrnROTu4pYCWFRHVyae0u1ZCAee-WzLBWiEfQdEnOdxt_C3GhiI7W5vsAkXCkK7yyxPioh14uhNTnKUU5dHRf2kJy2iBu0FVdbDx12CN_TDDZ7jDiVl47Eaym4TGU4tIWrSVd2Zg3Sa5rROshDcglHhHUGBVpYOohVmTPN7MY90NcKHYc3KxK3cFOldm-M8ZHXvjYKr2lJcS6eYn4GiT5XNwjy_T8OSCGktoFwrR_fjg36Ru406XW3c2ki08Pn5aDQUnAp8dicFOJ4C-2UNx9FmaKABUAJCDL4C-KdvMl",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=AKvjTnicbY5NbptAAIXVw7SLWpWGwWDTXbABm9o4_M3A7DADHszwYwwmcIleIXKSSumyXXTba6SnqaVuK73de9_T9_WaZL_6rtGiatyq-xOHTXV_OhvoZIevdVPRLm4z-nOqzGfyHE4VEUxlSVbmwuw1jtqIV4eMPv5gSUR5Via7NE2aZRX_n_ieFdEh-VdL8lyeQUFWRAimUwlKovzU0PPjy6lLmuHtA2ZZzCbZeVJWE2HSs2SY3GzaJCsnt6xLmkXvRf3lUN_OHp-KjP5-qi_tlR2eu44nbx_7yeJuba8X69ALUBsWer3RBBYZ-hAGVkVXJttovCMGZ9cDv2bllfFrUn6rovqSxn_eHbWqXyzOvWr7dY2WDnBHdt4X5hjhdmEt0egENnQNy7BHc7CAkDpHMyCwxdhoe7-sIXaFjuS66numH2nMsEHVIkjc2_aCuLnxRHpyjfphC0hFRHa0BaWJseVaIlcdrnROTu4pYCWFRHVyae0u1ZCAee-WzLBWiEfQdEnOdxt_C3GhiI7W5vsAkXCkK7yyxPioh14uhNTnKUU5dHRf2kJy2iBu0FVdbDx12CN_TDDZ7jDiVl47Eaym4TGU4tIWrSVd2Zg3Sa5rROshDcglHhHUGBVpYOohVmTPN7MY90NcKHYc3KxK3cFOldm-M8ZHXvjYKr2lJcS6eYn4GiT5XNwjy_T8OSCGktoFwrR_fjg36Ru406XW3c2ki08Pn5aDQUnAp8dicFOJ4C-2UNx9FmaKABUAJCDL4C-KdvMl"
+      },
+      {
+        "category": "In shops nearby",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQiE-GC7ozEdtQETu52c5-9vRmbXNjZcYZ8LL3Ue0TdHasR3_njq6WJkD0wjUP-ScMjLwAeHuBqDmfEdQ6JFMof5hZW7ULsnwTWP8tcgriS",
+        "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+        "source": "The Flexcity Nutrition",
+        "title": "Kevin Levrone Anabolic Whey Protein",
+        "rating": 1.0,
+        "reviews": 2,
+        "price": "₹10,200",
+        "extracted_price": 10200,
+        "location": "Nearby, 15 km",
+        "immersive_product_page_token": "inX_AXicbU9JrqNGAJVyhlwhWcSKRFUxZmcmY_6nbKYqYNPCFDaYYrCNB6zcIXfw747UWXa3lLP8nCaOsm3prd7Tm_54lPXf1_PRyvu7p28OHB779eG0IAc__Twce3Yuxpp9lUVN1QAQgKioGgSyBuHnIh9z3u9q9g2ISFAhhDLSNFkWkYqA9KUqc8brrlxtt-XR7ItniqqIiiQhVRI0DahIVIH2V93mu_J_GYqiKIgakoEKZQGJUFXfjuz0DtfGB0WWVVlTVRVBSVVkRQHw93WwMj98X_t0OJfH6f1nWtVFNatPs66fgdm1KqfZ89RY1t3siWXH6vwnZH_aDf_1fyfnra3ZF0mRRRk-x2oKlICAkPQ2XMZHtft4PvPy_ZfrzJgv_aWxTKOEjGlrD68WqPKFPaUJ7pnjVq8WP2cLXj12_FF3j4o_yu7PPh8u2-KfH360-qtpnK6GHw8DMQMhpDcjiLUDpeBGubuKbe1SRpmTCkDaJLr8SohBWy0PLWFMkN5Ejj0m8IbiTrdTWjVlO-LIJEnZVGdqxhLd8za3PBFHKUo7e4kBJ5t7IcaQHzdAEzKePr3zySe2S7hrxFYzbe58TylZRndGEoTXuWlNWPDEMmE0gtJURFgvu-BQdqShRK8DW-tTMpcY2d1jk4PgnlmZxaLcsqMIYKOI3G2cZPcILFFmgY5Q4EWmjvI9jwqQ1dEEXjw6AtwwGAoYEXMOPcfNaSuOfpOdA2cuhXf9NYT-PeO2i7l7Kxz3Qp0U-aCS2JN9TZhB4uElJhkllDSEZ3FuDdeoc_2s1c44xrAgBNCFu6SmrQcU6LRzgWeNFrOqmLRj4C0CPUfuMRFwS60b9igJSjPQS5utVg4DjOJ-4wSrDeCDtw-crGVRGVmhjRgoGlJt0ID91r1tTHfaAP1WCIwWxM4WtasHDp5WNAuxXSCvxXLYVWvm4FXK7WsIWEMaqQtbqfE7O_h4Ox2378LclsZwpUiXmO1-NacFyxIu7tsp3EoZffFBO_8NKBqAmiBIgiwL_wIZ_UEa",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=inX_AXicbU9JrqNGAJVyhlwhWcSKRFUxZmcmY_6nbKYqYNPCFDaYYrCNB6zcIXfw747UWXa3lLP8nCaOsm3prd7Tm_54lPXf1_PRyvu7p28OHB779eG0IAc__Twce3Yuxpp9lUVN1QAQgKioGgSyBuHnIh9z3u9q9g2ISFAhhDLSNFkWkYqA9KUqc8brrlxtt-XR7ItniqqIiiQhVRI0DahIVIH2V93mu_J_GYqiKIgakoEKZQGJUFXfjuz0DtfGB0WWVVlTVRVBSVVkRQHw93WwMj98X_t0OJfH6f1nWtVFNatPs66fgdm1KqfZ89RY1t3siWXH6vwnZH_aDf_1fyfnra3ZF0mRRRk-x2oKlICAkPQ2XMZHtft4PvPy_ZfrzJgv_aWxTKOEjGlrD68WqPKFPaUJ7pnjVq8WP2cLXj12_FF3j4o_yu7PPh8u2-KfH360-qtpnK6GHw8DMQMhpDcjiLUDpeBGubuKbe1SRpmTCkDaJLr8SohBWy0PLWFMkN5Ejj0m8IbiTrdTWjVlO-LIJEnZVGdqxhLd8za3PBFHKUo7e4kBJ5t7IcaQHzdAEzKePr3zySe2S7hrxFYzbe58TylZRndGEoTXuWlNWPDEMmE0gtJURFgvu-BQdqShRK8DW-tTMpcY2d1jk4PgnlmZxaLcsqMIYKOI3G2cZPcILFFmgY5Q4EWmjvI9jwqQ1dEEXjw6AtwwGAoYEXMOPcfNaSuOfpOdA2cuhXf9NYT-PeO2i7l7Kxz3Qp0U-aCS2JN9TZhB4uElJhkllDSEZ3FuDdeoc_2s1c44xrAgBNCFu6SmrQcU6LRzgWeNFrOqmLRj4C0CPUfuMRFwS60b9igJSjPQS5utVg4DjOJ-4wSrDeCDtw-crGVRGVmhjRgoGlJt0ID91r1tTHfaAP1WCIwWxM4WtasHDp5WNAuxXSCvxXLYVWvm4FXK7WsIWEMaqQtbqfE7O_h4Ox2378LclsZwpUiXmO1-NacFyxIu7tsp3EoZffFBO_8NKBqAmiBIgiwL_wIZ_UEa",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=inX_AXicbU9JrqNGAJVyhlwhWcSKRFUxZmcmY_6nbKYqYNPCFDaYYrCNB6zcIXfw747UWXa3lLP8nCaOsm3prd7Tm_54lPXf1_PRyvu7p28OHB779eG0IAc__Twce3Yuxpp9lUVN1QAQgKioGgSyBuHnIh9z3u9q9g2ISFAhhDLSNFkWkYqA9KUqc8brrlxtt-XR7ItniqqIiiQhVRI0DahIVIH2V93mu_J_GYqiKIgakoEKZQGJUFXfjuz0DtfGB0WWVVlTVRVBSVVkRQHw93WwMj98X_t0OJfH6f1nWtVFNatPs66fgdm1KqfZ89RY1t3siWXH6vwnZH_aDf_1fyfnra3ZF0mRRRk-x2oKlICAkPQ2XMZHtft4PvPy_ZfrzJgv_aWxTKOEjGlrD68WqPKFPaUJ7pnjVq8WP2cLXj12_FF3j4o_yu7PPh8u2-KfH360-qtpnK6GHw8DMQMhpDcjiLUDpeBGubuKbe1SRpmTCkDaJLr8SohBWy0PLWFMkN5Ejj0m8IbiTrdTWjVlO-LIJEnZVGdqxhLd8za3PBFHKUo7e4kBJ5t7IcaQHzdAEzKePr3zySe2S7hrxFYzbe58TylZRndGEoTXuWlNWPDEMmE0gtJURFgvu-BQdqShRK8DW-tTMpcY2d1jk4PgnlmZxaLcsqMIYKOI3G2cZPcILFFmgY5Q4EWmjvI9jwqQ1dEEXjw6AtwwGAoYEXMOPcfNaSuOfpOdA2cuhXf9NYT-PeO2i7l7Kxz3Qp0U-aCS2JN9TZhB4uElJhkllDSEZ3FuDdeoc_2s1c44xrAgBNCFu6SmrQcU6LRzgWeNFrOqmLRj4C0CPUfuMRFwS60b9igJSjPQS5utVg4DjOJ-4wSrDeCDtw-crGVRGVmhjRgoGlJt0ID91r1tTHfaAP1WCIwWxM4WtasHDp5WNAuxXSCvxXLYVWvm4FXK7WsIWEMaqQtbqfE7O_h4Ox2378LclsZwpUiXmO1-NacFyxIu7tsp3EoZffFBO_8NKBqAmiBIgiwL_wIZ_UEa"
+      },
+      {
+        "category": "In shops nearby",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRL2xlXH_JEml5pcFoX1rfeA4TOHY6ZHaR0B728QAuBnlqA5fsUVeiqRWctAEJVUZyKKAS42JmV2JBsSKBmChaqy8u--BGHxRas5wSAxFE",
+        "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+        "source": "The Flexcity Nutrition",
+        "title": "Healthfarm Iso 7 Premium Protein Matrix 4.4 lbs",
+        "price": "₹7,499",
+        "extracted_price": 7499,
+        "location": "Nearby, 15 km",
+        "immersive_product_page_token": "97yccXicLZJJjtNAFIbFYWBBhFSDp2LXSVwZIE57qLLjneNyYsflIY4zOJfgCijdjdQsGyTO0pwGt8TT2_3S-74n_d9uSfbnfGzMqLouhuu9RE11vz9M-N5ePddNJY5xm4lfGoZQA1AxDKQrUDOISp7jqI1kte1TBRs6wKqiEoR0DWkIo5c0iYTMymS52STNuIoz8RsiVdUNpAJNQwRhFSu6_jMrom3yP9cBUTRgqNgw9H56InpoxOH70_6YNN3rBz_N4nSQHQZlNYCDc5p0g16xTbJy0O-sFFn0HtOnbR2_KauIgP6UBnqeilAv91Bk4kXVNUVDhmGQ_gmAes5DfWpv6fbxeJTJ68fzYHQ3s2ej2coLeLsqaP3VhGk0od0qsCoxnadfTXkMJzK9beUtK2-pvCXljyqqT5v477sHs4lHo1M8tFld87ED3IJC-8pPy8mhFeM7zCcp8Bg8LanUVoHUrCBtorHZuWyB7Z0cOyaxvQmANgqHgtEqpOwsaLpy0cVfTGkbM6t2c-4L377aCGJOxSXKwMWVUnqQa-uxsLx8LtcdOIe8Uvwp9SwmQwbqqT9Np960wnwsDjZzRnZeN8yEoQ3JPjLpzkV8tOY58mjqrylBVkE6T65QwogTTsi9SyXwS35eY1pwaaXMk9TfzbFPSWDReskQDZziUjiFFYbX4Zz5teVSWsQyvnLzMrRzKW3OLyFq524hhkueOm5hZQt_rgjOFwGsmUvJLMS1FfEtEDt5toazQGDeOT49JTkcrUp6WJTzE5vSqwPDC-N5NMupGeOZGkoTeIjAhOYwKtmVF6GZuACsveE9hwvIvW3HgPl4OTSbV3BH1dZd6uqJie2ncTcRYSCVXdG5GzX0v9iwuPsMdQL7GoG3zoJ_HqoQRw",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=97yccXicLZJJjtNAFIbFYWBBhFSDp2LXSVwZIE57qLLjneNyYsflIY4zOJfgCijdjdQsGyTO0pwGt8TT2_3S-74n_d9uSfbnfGzMqLouhuu9RE11vz9M-N5ePddNJY5xm4lfGoZQA1AxDKQrUDOISp7jqI1kte1TBRs6wKqiEoR0DWkIo5c0iYTMymS52STNuIoz8RsiVdUNpAJNQwRhFSu6_jMrom3yP9cBUTRgqNgw9H56InpoxOH70_6YNN3rBz_N4nSQHQZlNYCDc5p0g16xTbJy0O-sFFn0HtOnbR2_KauIgP6UBnqeilAv91Bk4kXVNUVDhmGQ_gmAes5DfWpv6fbxeJTJ68fzYHQ3s2ej2coLeLsqaP3VhGk0od0qsCoxnadfTXkMJzK9beUtK2-pvCXljyqqT5v477sHs4lHo1M8tFld87ED3IJC-8pPy8mhFeM7zCcp8Bg8LanUVoHUrCBtorHZuWyB7Z0cOyaxvQmANgqHgtEqpOwsaLpy0cVfTGkbM6t2c-4L377aCGJOxSXKwMWVUnqQa-uxsLx8LtcdOIe8Uvwp9SwmQwbqqT9Np960wnwsDjZzRnZeN8yEoQ3JPjLpzkV8tOY58mjqrylBVkE6T65QwogTTsi9SyXwS35eY1pwaaXMk9TfzbFPSWDReskQDZziUjiFFYbX4Zz5teVSWsQyvnLzMrRzKW3OLyFq524hhkueOm5hZQt_rgjOFwGsmUvJLMS1FfEtEDt5toazQGDeOT49JTkcrUp6WJTzE5vSqwPDC-N5NMupGeOZGkoTeIjAhOYwKtmVF6GZuACsveE9hwvIvW3HgPl4OTSbV3BH1dZd6uqJie2ncTcRYSCVXdG5GzX0v9iwuPsMdQL7GoG3zoJ_HqoQRw",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=97yccXicLZJJjtNAFIbFYWBBhFSDp2LXSVwZIE57qLLjneNyYsflIY4zOJfgCijdjdQsGyTO0pwGt8TT2_3S-74n_d9uSfbnfGzMqLouhuu9RE11vz9M-N5ePddNJY5xm4lfGoZQA1AxDKQrUDOISp7jqI1kte1TBRs6wKqiEoR0DWkIo5c0iYTMymS52STNuIoz8RsiVdUNpAJNQwRhFSu6_jMrom3yP9cBUTRgqNgw9H56InpoxOH70_6YNN3rBz_N4nSQHQZlNYCDc5p0g16xTbJy0O-sFFn0HtOnbR2_KauIgP6UBnqeilAv91Bk4kXVNUVDhmGQ_gmAes5DfWpv6fbxeJTJ68fzYHQ3s2ej2coLeLsqaP3VhGk0od0qsCoxnadfTXkMJzK9beUtK2-pvCXljyqqT5v477sHs4lHo1M8tFld87ED3IJC-8pPy8mhFeM7zCcp8Bg8LanUVoHUrCBtorHZuWyB7Z0cOyaxvQmANgqHgtEqpOwsaLpy0cVfTGkbM6t2c-4L377aCGJOxSXKwMWVUnqQa-uxsLx8LtcdOIe8Uvwp9SwmQwbqqT9Np960wnwsDjZzRnZeN8yEoQ3JPjLpzkV8tOY58mjqrylBVkE6T65QwogTTsi9SyXwS35eY1pwaaXMk9TfzbFPSWDReskQDZziUjiFFYbX4Zz5teVSWsQyvnLzMrRzKW3OLyFq524hhkueOm5hZQt_rgjOFwGsmUvJLMS1FfEtEDt5toazQGDeOT49JTkcrUp6WJTzE5vSqwPDC-N5NMupGeOZGkoTeIjAhOYwKtmVF6GZuACsveE9hwvIvW3HgPl4OTSbV3BH1dZd6uqJie2ncTcRYSCVXdG5GzX0v9iwuPsMdQL7GoG3zoJ_HqoQRw"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "Which Indian brand is best for whey protein?",
+        "type": "ai_overview",
+        "page_token": "qcDJfnicHdBfbtowHABg9TJ9LA4hmYKEKgXyp6ykssnPBr9MxiaExk5c4hKSt91lp9ppJu07wvf7j762zd-ne-2c7Zez2TAML5euu-jzi-zMTPRjK2dSaH0SslmGP0LvtZKr5PstXn-9xRispRuC9pNan-YaROMCbgjgiQ_UcDhngyvMdioTLs6mDktv5yQgD891zzKyFizt92m95598IxheHCdanajOaWMt5LY_-joWJkH4QO5yKu58AwvlFV2JvPGArPvIots76C-VKADkgn2rw4I9fvJ5kCsU1RJ56xLSG8voeJyrnjWBAfPIKGz9EqKJADjuFRpQ0SizG89N0O9aHie18tVhmx5ZFJawvUo2jNJEWB6KnLYpYaS7YiCT_NSGJnVYZFrQljy4jiviw4MbZaSWA2Y0Z41dAH6u5H3lP___XP2qjFvaW3f5B47IhUk",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qcDJfnicHdBfbtowHABg9TJ9LA4hmYKEKgXyp6ykssnPBr9MxiaExk5c4hKSt91lp9ppJu07wvf7j762zd-ne-2c7Zez2TAML5euu-jzi-zMTPRjK2dSaH0SslmGP0LvtZKr5PstXn-9xRispRuC9pNan-YaROMCbgjgiQ_UcDhngyvMdioTLs6mDktv5yQgD891zzKyFizt92m95598IxheHCdanajOaWMt5LY_-joWJkH4QO5yKu58AwvlFV2JvPGArPvIots76C-VKADkgn2rw4I9fvJ5kCsU1RJ56xLSG8voeJyrnjWBAfPIKGz9EqKJADjuFRpQ0SizG89N0O9aHie18tVhmx5ZFJawvUo2jNJEWB6KnLYpYaS7YiCT_NSGJnVYZFrQljy4jiviw4MbZaSWA2Y0Z41dAH6u5H3lP___XP2qjFvaW3f5B47IhUk",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFeGxVRTVLWjJSRGRtY3hkMUY0ZEU1UFJWTlVWV05oYTJsMU5ITXlkek4wV1dWclkxVlpjbUYwWnpaaFJVeHpaemRKTUZCVVQyaDRibWxDU1hkQmMzY3lTMUJpY25aRVlYaElXRGhET0Zad1pVaHFUMlE1YUZCTmR4SVhkM1Z5UldGdmVrMUNZbkZzTW5KdlVIRnpSMVp4VVZrYUlrRkVjM0k1WmxGeFYwdzVkSEYyYWs1MFpWWXhaemgzU1hRdFVFWmxYMUJEVkdjIiwiZmN2IjoiMyIsImVpIjoid3VyRWFvek1CYnFsMnJvUHFzR1ZxUVkiLCJxYyI6ImMtTlNMc19JVE01UXlDeFd5TXRYTUZRb3owaXRWQ2dveWk5SnpjeFRBS09VekVRQmh0cVloNGZzQUEiLCJxdWVzdGlvbiI6IldoaWNoIEluZGlhbiBicmFuZCBpcyBiZXN0IGZvciB3aGV5IHByb3RlaW4/IiwibGsiOiJHaXQzYUdsamFDQnBibVJwWVc0Z1luSmhibVFnYVhNZ1ltVnpkQ0JtYjNJZ2QyaGxlU0J3Y205MFpXbHUiLCJicyI6ImM0Mk9NUXZDTUJCR2NiM0oxZFRoTmhHdGFNREpJWXVMT0xoWkVCeFNFMGxvU1VvU0RQNTcwM1FxS0FoMzAzdjMzUWQzV0ZkS1B4U2VqTkRjWU8yNEVhZzkxdElIZkZxSFVjazNkczRHcVEyakpWbkY3T3RfZkxqQXRsSThJSGNTZzBwck85eVBsQ0hCcDd5aEFxTUZtZjNVNEFibDBEZTk3QU9OM2VCdWJLYnBTYlN1Rll3dXlTS09ENzc0MllVREZFY3JQVjYxUzVYUFZyVWFBMjlrMWhtZEV5SjZfTXE0R2VQcDVBTSIsImlkIjoiZmNfd3VyRWFvek1CYnFsMnJvUHFzR1ZxUVlfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFeGxVRTVLWjJSRGRtY3hkMUY0ZEU1UFJWTlVWV05oYTJsMU5ITXlkek4wV1dWclkxVlpjbUYwWnpaaFJVeHpaemRKTUZCVVQyaDRibWxDU1hkQmMzY3lTMUJpY25aRVlYaElXRGhET0Zad1pVaHFUMlE1YUZCTmR4SVhkM1Z5UldGdmVrMUNZbkZzTW5KdlVIRnpSMVp4VVZrYUlrRkVjM0k1WmxGeFYwdzVkSEYyYWs1MFpWWXhaemgzU1hRdFVFWmxYMUJEVkdjIiwiZmN2IjoiMyIsImVpIjoid3VyRWFvek1CYnFsMnJvUHFzR1ZxUVkiLCJxYyI6ImMtTlNMc19JVE01UXlDeFd5TXRYTUZRb3owaXRWQ2dveWk5SnpjeFRBS09VekVRQmh0cVloNGZzQUEiLCJxdWVzdGlvbiI6IldoaWNoIEluZGlhbiBicmFuZCBpcyBiZXN0IGZvciB3aGV5IHByb3RlaW4%2FIiwibGsiOiJHaXQzYUdsamFDQnBibVJwWVc0Z1luSmhibVFnYVhNZ1ltVnpkQ0JtYjNJZ2QyaGxlU0J3Y205MFpXbHUiLCJicyI6ImM0Mk9NUXZDTUJCR2NiM0oxZFRoTmhHdGFNREpJWXVMT0xoWkVCeFNFMGxvU1VvU0RQNTcwM1FxS0FoMzAzdjMzUWQzV0ZkS1B4U2VqTkRjWU8yNEVhZzkxdElIZkZxSFVjazNkczRHcVEyakpWbkY3T3RfZkxqQXRsSThJSGNTZzBwck85eVBsQ0hCcDd5aEFxTUZtZjNVNEFibDBEZTk3QU9OM2VCdWJLYnBTYlN1Rll3dXlTS09ENzc0MllVREZFY3JQVjYxUzVYUFZyVWFBMjlrMWhtZEV5SjZfTXE0R2VQcDVBTSIsImlkIjoiZmNfd3VyRWFvek1CYnFsMnJvUHFzR1ZxUVlfNSJ9"
+      },
+      {
+        "question": "What are the top 5 whey protein brands in India?",
+        "type": "ai_overview",
+        "page_token": "WyiTrXicHdBtbpswGABg9TL92dikyZRI0TTK17xhhvFrCH8mYoeYYoObonzwr1foGXaqnWbSniM8H39MN_R_Hz71NLn37WJxvV6fTuN4MscnOdpF834f5EI2xhwa2W_XX9b4ayt34UX6L2fp5-CcCBgqbPicxu7XwboVq8iwx-ylDkQg-jpX8dTV2CVZHHrMIysFOqmQapvKN1yQ4FCmnhzEUECUpINu-fztJnoCWWI8ZXPEUb6C0EUi3kSc-620OE4LXB_tfs6531UIeRS7MbcS075uFRo9KtwNuHoD7OCwZLwJV-e0NwLAjRBrTJMTAtCF5EbToHYKq-_8VVMKLoMlCY898Y-hvlGufjYB41kZ3WtEUcaZCLVaqopE-3Kz5kA6WV7v0m5yWdFEDBEr2djlwGb5aqxI9AUQ-VFU_pSi28z69Lmajc87NMHAXNlHJeSPrbzslo__r3e_Wztt3Xk8_QMF74v2",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WyiTrXicHdBtbpswGABg9TL92dikyZRI0TTK17xhhvFrCH8mYoeYYoObonzwr1foGXaqnWbSniM8H39MN_R_Hz71NLn37WJxvV6fTuN4MscnOdpF834f5EI2xhwa2W_XX9b4ayt34UX6L2fp5-CcCBgqbPicxu7XwboVq8iwx-ylDkQg-jpX8dTV2CVZHHrMIysFOqmQapvKN1yQ4FCmnhzEUECUpINu-fztJnoCWWI8ZXPEUb6C0EUi3kSc-620OE4LXB_tfs6531UIeRS7MbcS075uFRo9KtwNuHoD7OCwZLwJV-e0NwLAjRBrTJMTAtCF5EbToHYKq-_8VVMKLoMlCY898Y-hvlGufjYB41kZ3WtEUcaZCLVaqopE-3Kz5kA6WV7v0m5yWdFEDBEr2djlwGb5aqxI9AUQ-VFU_pSi28z69Lmajc87NMHAXNlHJeSPrbzslo__r3e_Wztt3Xk8_QMF74v2",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFeGxVRTVLWjJSRGRtY3hkMUY0ZEU1UFJWTlVWV05oYTJsMU5ITXlkek4wV1dWclkxVlpjbUYwWnpaaFJVeHpaemRKTUZCVVQyaDRibWxDU1hkQmMzY3lTMUJpY25aRVlYaElXRGhET0Zad1pVaHFUMlE1YUZCTmR4SVhkM1Z5UldGdmVrMUNZbkZzTW5KdlVIRnpSMVp4VVZrYUlrRkVjM0k1WmxGeFYwdzVkSEYyYWs1MFpWWXhaemgzU1hRdFVFWmxYMUJEVkdjIiwiZmN2IjoiMyIsImVpIjoid3VyRWFvek1CYnFsMnJvUHFzR1ZxUVkiLCJxYyI6ImMtTlNMc19JVE01UXlDeFd5TXRYTUZRb3owaXRWQ2dveWk5SnpjeFRBS09VekVRQmh0cVloNGZzQUEiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgNSB3aGV5IHByb3RlaW4gYnJhbmRzIGluIEluZGlhPyIsImxrIjoiR2hsMGIzQWdOU0IzYUdWNUlIQnliM1JsYVc0Z1luSmhibVJ6IiwiYnMiOiJjNDJPTVF2Q01CQkdjYjNKMWRUaE5oR3RhTURKSVl1TE9MaFpFQnhTRTBsb1NVb1NEUDU3MDNRcUtBaDMwM3YzM1FkM1dGZEtQeFNlak5EY1lPMjRFYWc5MXRJSGZGcUhVY2szZHM0R3FRMmpKVm5GN090X2ZMakF0bEk4SUhjU2cwcHJPOXlQbENIQnA3eWhBcU1GbWYzVTRBYmwwRGU5N0FPTjNlQnViS2JwU2JTdUZZd3V5U0tPRDc3NDJZVURGRWNyUFY2MVM1WFBWclVhQTI5azFobWRFeUo2X01xNEdlUHA1QU0iLCJpZCI6ImZjX3d1ckVhb3pNQmJxbDJyb1Bxc0dWcVFZXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFeGxVRTVLWjJSRGRtY3hkMUY0ZEU1UFJWTlVWV05oYTJsMU5ITXlkek4wV1dWclkxVlpjbUYwWnpaaFJVeHpaemRKTUZCVVQyaDRibWxDU1hkQmMzY3lTMUJpY25aRVlYaElXRGhET0Zad1pVaHFUMlE1YUZCTmR4SVhkM1Z5UldGdmVrMUNZbkZzTW5KdlVIRnpSMVp4VVZrYUlrRkVjM0k1WmxGeFYwdzVkSEYyYWs1MFpWWXhaemgzU1hRdFVFWmxYMUJEVkdjIiwiZmN2IjoiMyIsImVpIjoid3VyRWFvek1CYnFsMnJvUHFzR1ZxUVkiLCJxYyI6ImMtTlNMc19JVE01UXlDeFd5TXRYTUZRb3owaXRWQ2dveWk5SnpjeFRBS09VekVRQmh0cVloNGZzQUEiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgNSB3aGV5IHByb3RlaW4gYnJhbmRzIGluIEluZGlhPyIsImxrIjoiR2hsMGIzQWdOU0IzYUdWNUlIQnliM1JsYVc0Z1luSmhibVJ6IiwiYnMiOiJjNDJPTVF2Q01CQkdjYjNKMWRUaE5oR3RhTURKSVl1TE9MaFpFQnhTRTBsb1NVb1NEUDU3MDNRcUtBaDMwM3YzM1FkM1dGZEtQeFNlak5EY1lPMjRFYWc5MXRJSGZGcUhVY2szZHM0R3FRMmpKVm5GN090X2ZMakF0bEk4SUhjU2cwcHJPOXlQbENIQnA3eWhBcU1GbWYzVTRBYmwwRGU5N0FPTjNlQnViS2JwU2JTdUZZd3V5U0tPRDc3NDJZVURGRWNyUFY2MVM1WFBWclVhQTI5azFobWRFeUo2X01xNEdlUHA1QU0iLCJpZCI6ImZjX3d1ckVhb3pNQmJxbDJyb1Bxc0dWcVFZXzUifQ%3D%3D"
+      },
+      {
+        "question": "Which is the no. 1 whey protein in the world?",
+        "type": "ai_overview",
+        "page_token": "nTiBtXicHdBRjqIwHIDxzGXmcaTIusHETKKl0yURh9J_C7xMsEVRWugqEeVtr7BnmFPtaXYyJ_jy-_58mlPX_nv62wyDuy5ns3EcX459fzT1i-rtrLo-OjVTlTH7SrXLxc8Fej2oVXRT681FrVNwTmDmZV6IASWR9glVcE8yILjEMSlbfS2RuyVCY21dVBu322ZoZBZJJkOXtvEiy5NH6pXbAo6-mosu63QA0AdwQv6eJustaSRM8Q5shCoZsiIvUeENKRiCeTS0mpNMTYII0LaWzt_74a6GH1PFm_fElBRwgTj95YmOvMnIDdUGmRI1gcyjSQoW7Kiz7Fxuaq7uuRdPCWVtKgTOqHqwc8O1h0gtQ1O_oSDjpowaPdd5TAoZLjjEJyXHh7JhqvKEfjWYZP0pBTaps7HQoqGmTcsl-Q1nMkr55ZmzHnyCOBaX2uo7pM8HdVvNn79frz4Odli6S3_8D9Fli5s",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nTiBtXicHdBRjqIwHIDxzGXmcaTIusHETKKl0yURh9J_C7xMsEVRWugqEeVtr7BnmFPtaXYyJ_jy-_58mlPX_nv62wyDuy5ns3EcX459fzT1i-rtrLo-OjVTlTH7SrXLxc8Fej2oVXRT681FrVNwTmDmZV6IASWR9glVcE8yILjEMSlbfS2RuyVCY21dVBu322ZoZBZJJkOXtvEiy5NH6pXbAo6-mosu63QA0AdwQv6eJustaSRM8Q5shCoZsiIvUeENKRiCeTS0mpNMTYII0LaWzt_74a6GH1PFm_fElBRwgTj95YmOvMnIDdUGmRI1gcyjSQoW7Kiz7Fxuaq7uuRdPCWVtKgTOqHqwc8O1h0gtQ1O_oSDjpowaPdd5TAoZLjjEJyXHh7JhqvKEfjWYZP0pBTaps7HQoqGmTcsl-Q1nMkr55ZmzHnyCOBaX2uo7pM8HdVvNn79frz4Odli6S3_8D9Fli5s",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFeGxVRTVLWjJSRGRtY3hkMUY0ZEU1UFJWTlVWV05oYTJsMU5ITXlkek4wV1dWclkxVlpjbUYwWnpaaFJVeHpaemRKTUZCVVQyaDRibWxDU1hkQmMzY3lTMUJpY25aRVlYaElXRGhET0Zad1pVaHFUMlE1YUZCTmR4SVhkM1Z5UldGdmVrMUNZbkZzTW5KdlVIRnpSMVp4VVZrYUlrRkVjM0k1WmxGeFYwdzVkSEYyYWs1MFpWWXhaemgzU1hRdFVFWmxYMUJEVkdjIiwiZmN2IjoiMyIsImVpIjoid3VyRWFvek1CYnFsMnJvUHFzR1ZxUVkiLCJxYyI6ImMtTlNMc19JVE01UXlDeFd5TXRYTUZRb3owaXRWQ2dveWk5SnpjeFRBS09VekVRQmh0cVloNGZzQUEiLCJxdWVzdGlvbiI6IldoaWNoIGlzIHRoZSBuby4gMSB3aGV5IHByb3RlaW4gaW4gdGhlIHdvcmxkPyIsImxrIjoiR2lkM2FHbGphQ0JwY3lCMGFHVWdibThnTVNCM2FHVjVJSEJ5YjNSbGFXNGdhVzRnZDI5eWJHUSIsImJzIjoiYzQyT01RdkNNQkJHY2IzSjFkVGhOaEd0YU1ESklZdUxPTGhaRUJ4U0UwbG9TVW9TRFA1NzAzUXFLQWgzMDN2MzNRZDNXRmRLUHhTZWpORGNZTzI0RWFnOTF0SUhmRnFIVWNrM2RzNEdxUTJqSlZuRjdPdF9mTGpBdGxJOElIY1NnMHByTzl5UGxDSEJwN3loQXFNRm1mM1U0QWJsMERlOTdBT04zZUJ1YkticFNiU3VGWXd1eVNLT0Q3NzQyWVVERkVjclBWNjFTNVhQVnJVYUEyOWsxaG1kRXlKNl9NcTRHZVBwNUFNIiwiaWQiOiJmY193dXJFYW96TUJicWwycm9QcXNHVnFRWV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFeGxVRTVLWjJSRGRtY3hkMUY0ZEU1UFJWTlVWV05oYTJsMU5ITXlkek4wV1dWclkxVlpjbUYwWnpaaFJVeHpaemRKTUZCVVQyaDRibWxDU1hkQmMzY3lTMUJpY25aRVlYaElXRGhET0Zad1pVaHFUMlE1YUZCTmR4SVhkM1Z5UldGdmVrMUNZbkZzTW5KdlVIRnpSMVp4VVZrYUlrRkVjM0k1WmxGeFYwdzVkSEYyYWs1MFpWWXhaemgzU1hRdFVFWmxYMUJEVkdjIiwiZmN2IjoiMyIsImVpIjoid3VyRWFvek1CYnFsMnJvUHFzR1ZxUVkiLCJxYyI6ImMtTlNMc19JVE01UXlDeFd5TXRYTUZRb3owaXRWQ2dveWk5SnpjeFRBS09VekVRQmh0cVloNGZzQUEiLCJxdWVzdGlvbiI6IldoaWNoIGlzIHRoZSBuby4gMSB3aGV5IHByb3RlaW4gaW4gdGhlIHdvcmxkPyIsImxrIjoiR2lkM2FHbGphQ0JwY3lCMGFHVWdibThnTVNCM2FHVjVJSEJ5YjNSbGFXNGdhVzRnZDI5eWJHUSIsImJzIjoiYzQyT01RdkNNQkJHY2IzSjFkVGhOaEd0YU1ESklZdUxPTGhaRUJ4U0UwbG9TVW9TRFA1NzAzUXFLQWgzMDN2MzNRZDNXRmRLUHhTZWpORGNZTzI0RWFnOTF0SUhmRnFIVWNrM2RzNEdxUTJqSlZuRjdPdF9mTGpBdGxJOElIY1NnMHByTzl5UGxDSEJwN3loQXFNRm1mM1U0QWJsMERlOTdBT04zZUJ1YkticFNiU3VGWXd1eVNLT0Q3NzQyWVVERkVjclBWNjFTNVhQVnJVYUEyOWsxaG1kRXlKNl9NcTRHZVBwNUFNIiwiaWQiOiJmY193dXJFYW96TUJicWwycm9QcXNHVnFRWV81In0%3D"
+      },
+      {
+        "question": "Does Virat Kohli take whey?",
+        "type": "ai_overview",
+        "page_token": "25M5bXicHdDbboIwGADg7GW81JY6F03MEoSCGDG0_kW4WUpRwZZDphmHu73LnmpPM7OL7wW-7x9T1vr35VQ8Hu19NZt1XTe9Ns3VnKeqqWbyPtRqpqQxmVR6tXhb4PeLWrv3zt40nR1B2wqHIW7oEFmGP8XHMSzZDaykcgfp9nPl5weG2C4q8SbRxTbCttxbGJTOU15RDqiAY134-Y25CXLJHi3nCWIiiZeno9faAPlWnEyjnKCM_TDJdNFDxZwIzBhCK4AIj432Li0RyaqAh2Myl_B6OzimUySQYEIOpLEiYHXo9Xof4woczSnJsdKiyEgbRlXQZ04wZNjuFcpjJWjqlYHN_HA4xCmXHt4IQuOzT3l8pAvQFDNj15LmViS26HnAJhf1tSaT_7H1x6V6rNrP5voHm7d24w",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=25M5bXicHdDbboIwGADg7GW81JY6F03MEoSCGDG0_kW4WUpRwZZDphmHu73LnmpPM7OL7wW-7x9T1vr35VQ8Hu19NZt1XTe9Ns3VnKeqqWbyPtRqpqQxmVR6tXhb4PeLWrv3zt40nR1B2wqHIW7oEFmGP8XHMSzZDaykcgfp9nPl5weG2C4q8SbRxTbCttxbGJTOU15RDqiAY134-Y25CXLJHi3nCWIiiZeno9faAPlWnEyjnKCM_TDJdNFDxZwIzBhCK4AIj432Li0RyaqAh2Myl_B6OzimUySQYEIOpLEiYHXo9Xof4woczSnJsdKiyEgbRlXQZ04wZNjuFcpjJWjqlYHN_HA4xCmXHt4IQuOzT3l8pAvQFDNj15LmViS26HnAJhf1tSaT_7H1x6V6rNrP5voHm7d24w",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFeGxVRTVLWjJSRGRtY3hkMUY0ZEU1UFJWTlVWV05oYTJsMU5ITXlkek4wV1dWclkxVlpjbUYwWnpaaFJVeHpaemRKTUZCVVQyaDRibWxDU1hkQmMzY3lTMUJpY25aRVlYaElXRGhET0Zad1pVaHFUMlE1YUZCTmR4SVhkM1Z5UldGdmVrMUNZbkZzTW5KdlVIRnpSMVp4VVZrYUlrRkVjM0k1WmxGeFYwdzVkSEYyYWs1MFpWWXhaemgzU1hRdFVFWmxYMUJEVkdjIiwiZmN2IjoiMyIsImVpIjoid3VyRWFvek1CYnFsMnJvUHFzR1ZxUVkiLCJxYyI6ImMtTlNMc19JVE01UXlDeFd5TXRYTUZRb3owaXRWQ2dveWk5SnpjeFRBS09VekVRQmh0cVloNGZzQUEiLCJxdWVzdGlvbiI6IkRvZXMgVmlyYXQgS29obGkgdGFrZSB3aGV5PyIsImxrIjoiR2hwa2IyVnpJSFpwY21GMElHdHZhR3hwSUhSaGEyVWdkMmhsZVEiLCJicyI6ImM0Mk9NUXZDTUJCR2NiM0oxZFRoTmhHdGFNREpJWXVMT0xoWkVCeFNFMGxvU1VvU0RQNTcwM1FxS0FoMzAzdjMzUWQzV0ZkS1B4U2VqTkRjWU8yNEVhZzkxdElIZkZxSFVjazNkczRHcVEyakpWbkY3T3RfZkxqQXRsSThJSGNTZzBwck85eVBsQ0hCcDd5aEFxTUZtZjNVNEFibDBEZTk3QU9OM2VCdWJLYnBTYlN1Rll3dXlTS09ENzc0MllVREZFY3JQVjYxUzVYUFZyVWFBMjlrMWhtZEV5SjZfTXE0R2VQcDVBTSIsImlkIjoiZmNfd3VyRWFvek1CYnFsMnJvUHFzR1ZxUVlfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVFeGxVRTVLWjJSRGRtY3hkMUY0ZEU1UFJWTlVWV05oYTJsMU5ITXlkek4wV1dWclkxVlpjbUYwWnpaaFJVeHpaemRKTUZCVVQyaDRibWxDU1hkQmMzY3lTMUJpY25aRVlYaElXRGhET0Zad1pVaHFUMlE1YUZCTmR4SVhkM1Z5UldGdmVrMUNZbkZzTW5KdlVIRnpSMVp4VVZrYUlrRkVjM0k1WmxGeFYwdzVkSEYyYWs1MFpWWXhaemgzU1hRdFVFWmxYMUJEVkdjIiwiZmN2IjoiMyIsImVpIjoid3VyRWFvek1CYnFsMnJvUHFzR1ZxUVkiLCJxYyI6ImMtTlNMc19JVE01UXlDeFd5TXRYTUZRb3owaXRWQ2dveWk5SnpjeFRBS09VekVRQmh0cVloNGZzQUEiLCJxdWVzdGlvbiI6IkRvZXMgVmlyYXQgS29obGkgdGFrZSB3aGV5PyIsImxrIjoiR2hwa2IyVnpJSFpwY21GMElHdHZhR3hwSUhSaGEyVWdkMmhsZVEiLCJicyI6ImM0Mk9NUXZDTUJCR2NiM0oxZFRoTmhHdGFNREpJWXVMT0xoWkVCeFNFMGxvU1VvU0RQNTcwM1FxS0FoMzAzdjMzUWQzV0ZkS1B4U2VqTkRjWU8yNEVhZzkxdElIZkZxSFVjazNkczRHcVEyakpWbkY3T3RfZkxqQXRsSThJSGNTZzBwck85eVBsQ0hCcDd5aEFxTUZtZjNVNEFibDBEZTk3QU9OM2VCdWJLYnBTYlN1Rll3dXlTS09ENzc0MllVREZFY3JQVjYxUzVYUFZyVWFBMjlrMWhtZEV5SjZfTXE0R2VQcDVBTSIsImlkIjoiZmNfd3VyRWFvek1CYnFsMnJvUHFzR1ZxUVlfNSJ9"
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "[Help] Which Is best whey protein in india?",
+        "link": "https://www.reddit.com/r/india/comments/9vrliq/help_which_is_best_whey_protein_in_india/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFW8mzZdRTp_xVuMEVxEUeNgheEGhNiiDqoCa5pHxqSMQZS_XAdl__NQylaUczaN_qHzbN0Se7o9JE7C4BGq8aRc_Wr2Vv-CfAyGPbqEc6uluIXCxXnB1q7lR5WKcCHh2H4Pnmia_b8J1CtUt_lE6NtIals6y3FbIJgICOn6tg0SzfxhI-Ac74uwztwo5XBo&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQFnoECCcQAQ&uoh=1",
+        "displayed_link": "30+ comments · 7 years ago",
+        "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+        "snippet": "I Am Asking Again Because Didn't Get Answer For Last One ! I was searching best whey protein in india by filtering google search result (latest post), ...",
+        "about_this_result": {
+          "source": {
+            "description": "Optimum Nutrition Gold Standard Whey: Best whey protein IMO. Muscleblaze: If you're on a budget, this is a decent pick.",
+            "source_info_link": "https://www.reddit.com/r/india/comments/9vrliq/help_which_is_best_whey_protein_in_india/",
+            "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZXOG16WmRSVHBfeFZ1TUVWeEVVZU5naGVFR2hOaWlEcW9DYTVwSHhxU01RWlNfWEFkbF9fTlF5bGFVY3phTl9xSHpiTjBTZTdvOUpFN0M0QkdxOGFSY19XcjJWdi1DZkF5R1BicUVjNnVsdUlYQ3hYbkIxcTdsUjVXS2NDSGgySDRQbm1pYV9iOEoxQ3RVdF9sRTZOdElhbHM2eTNGYklKZ0lDT242dGcwU3pmeGhJLUFjNzR1d3p0d281WEJvEgQaAggAGvcFEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA0QUIABAAGAAgACocCgV3aGljaBVb_YdAGgJpdBoEdGhhdBoEdGhpcyoJCgJpcxUAAAAAKjIKAm5vFZQxyD4aBW5vdCBhGgZudW1iZXIaCm51bWJlciBvbmUaB3dpdGhvdXQaA25vMSoeCgExFdW--z8aCm51bWJlciBvbmUaA29uZRoDbm8xKi8KBHdoZXkVtQK7QBoKc3VwcGxlbWVudBoLd2hleXByb3RlaW4aCWl2O3A7d2hleSozCgdwcm90ZWluFdYlvEAaCHByb3RlaW5zGgt3aGV5cHJvdGVpbhoMaXY7cDtwcm90ZWluKgkKAmluFQAAAAAqGwoFaW5kaWEVtsrDQBoEY29zdBoHaW5kaWEnczLVAS9nb3RvP3VybD1DQUVTa3dFQjZ6c3dGVzhtelpkUlRwX3hWdU1FVnhFVWVOZ2hlRUdoTmlpRHFvQ2E1cEh4cVNNUVpTX1hBZGxfX05ReWxhVWN6YU5fcUh6Yk4wU2U3bzlKRTdDNEJHcThhUmNfV3IyVnYtQ2ZBeUdQYnFFYzZ1bHVJWEN4WG5CMXE3bFI1V0tjQ0hoMkg0UG5taWFfYjhKMUN0VXRfbEU2TnRJYWxzNnkzRmJJSmdJQ09uNnRnMFN6ZnhoSS1BYzc0dXd6dHdvNVhCbzo7W0hlbHBdIFdoaWNoIElzIGJlc3QgPGI-d2hleSBwcm90ZWluIGluIGluZGlhPC9iPj8gLSBSZWRkaXRCggE8Yj5PcHRpbXVtIE51dHJpdGlvbiBHb2xkIFN0YW5kYXJkIFdoZXk8L2I-OiBCZXN0IHdoZXkgcHJvdGVpbiBJTU8uIE11c2NsZWJsYXplOiBJZiB5b3UmIzM5O3JlIG9uIGEgYnVkZ2V0LCB0aGlzIGlzIGEgZGVjZW50IHBpY2suSgJpbkoCaXNSBHRoYXRSAml0UgR0aGlzUgNvbmVSBW5vdCBhIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZXOG16WmRSVHBfeFZ1TUVWeEVVZU5naGVFR2hOaWlEcW9DYTVwSHhxU01RWlNfWEFkbF9fTlF5bGFVY3phTl9xSHpiTjBTZTdvOUpFN0M0QkdxOGFSY19XcjJWdi1DZkF5R1BicUVjNnVsdUlYQ3hYbkIxcTdsUjVXS2NDSGgySDRQbm1pYV9iOEoxQ3RVdF9sRTZOdElhbHM2eTNGYklKZ0lDT242dGcwU3pmeGhJLUFjNzR1d3p0d281WEJvEgQaAggAGvcFEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA0QUIABAAGAAgACocCgV3aGljaBVb_YdAGgJpdBoEdGhhdBoEdGhpcyoJCgJpcxUAAAAAKjIKAm5vFZQxyD4aBW5vdCBhGgZudW1iZXIaCm51bWJlciBvbmUaB3dpdGhvdXQaA25vMSoeCgExFdW--z8aCm51bWJlciBvbmUaA29uZRoDbm8xKi8KBHdoZXkVtQK7QBoKc3VwcGxlbWVudBoLd2hleXByb3RlaW4aCWl2O3A7d2hleSozCgdwcm90ZWluFdYlvEAaCHByb3RlaW5zGgt3aGV5cHJvdGVpbhoMaXY7cDtwcm90ZWluKgkKAmluFQAAAAAqGwoFaW5kaWEVtsrDQBoEY29zdBoHaW5kaWEnczLVAS9nb3RvP3VybD1DQUVTa3dFQjZ6c3dGVzhtelpkUlRwX3hWdU1FVnhFVWVOZ2hlRUdoTmlpRHFvQ2E1cEh4cVNNUVpTX1hBZGxfX05ReWxhVWN6YU5fcUh6Yk4wU2U3bzlKRTdDNEJHcThhUmNfV3IyVnYtQ2ZBeUdQYnFFYzZ1bHVJWEN4WG5CMXE3bFI1V0tjQ0hoMkg0UG5taWFfYjhKMUN0VXRfbEU2TnRJYWxzNnkzRmJJSmdJQ09uNnRnMFN6ZnhoSS1BYzc0dXd6dHdvNVhCbzo7W0hlbHBdIFdoaWNoIElzIGJlc3QgPGI-d2hleSBwcm90ZWluIGluIGluZGlhPC9iPj8gLSBSZWRkaXRCggE8Yj5PcHRpbXVtIE51dHJpdGlvbiBHb2xkIFN0YW5kYXJkIFdoZXk8L2I-OiBCZXN0IHdoZXkgcHJvdGVpbiBJTU8uIE11c2NsZWJsYXplOiBJZiB5b3UmIzM5O3JlIG9uIGEgYnVkZ2V0LCB0aGlzIGlzIGEgZGVjZW50IHBpY2suSgJpbkoCaXNSBHRoYXRSAml0UgR0aGlzUgNvbmVSBW5vdCBhIgIQAUgAWABoAA",
+        "source": "Reddit · r/india"
+      },
+      {
+        "position": 2,
+        "title": "Expert Insights: Choosing the Best Whey Protein in India",
+        "link": "https://smytten.com/blogs/wellness/expert-insights-choosing-the-best-whey-protein-in-india?srsltid=AU7gw4WghT88ksjhQDGvC7yh7uQ-5byI1ZtOCIAUUzVuO8HDUjPl_p38",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1wEB6zswFdlb6IE3U0Svinv-Tuiuj7O7dNWpyijes2OywWa4-n_slWoHPys6s6TDDsmOwBIHrIZ6FYHRRXSG2EK4pl2hsvGMrALF9aDGuxQVF1YdxZ8Qb8KeCllYi69EAysOjSgDIRd6vmtpkt6ZwQqQXQP-H8jszkfuxRdJNDkxyJpbu_fgJB_Zl0x1cSpfI7eEaYUJHoaU7buINKVoF_FvBGFpz-7rfrrTKWmb8evc7Gm9_cyAsrFxJqFcDxvZw4nHZf6TbLMW21CF-YHeWsNA8JcTCp1I5g&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQFnoECCUQAQ&uoh=1",
+        "displayed_link": "https://smytten.com › Home › Wellness",
+        "favicon": "https://serpapi.com/images/i/UklGRoIBAABXRUJQVlA4IHYBAAAQBwCdASogACAAPtEutFooIagoGAEAGgllAMDjevIgdgNYGMJZ2_1VX5v8HeJfP1x5PBMzR60Kbg6iidSJyL2gAAD-_sOIjv7mf8Mmd6gWEhJEwZXXPFaMkGq4Ez0xAmsRBMygB81DnQPTOuXmfQZIn8LJ7X4xPrCE-5CrZ560y6X5_16PZ2wbH7Kqt7q6Xtn5nXPeI_36rZ4DCzCBVLH7ctD_4PIpO0qBzqHuo9hGjTqMFuU9Llm9i-JwDzC8AUwTsa3Sc_qIMLDlr__l-nGGuPTr3_6XAFOHuqFJgQ__VVSr3fxvDlv2RRUcGlG1gJ_etMYFObtaEaCBrrlSckBzX40211IMF3xvGsWC1qt5GLm7ywIxAGGp7mrDLplCVdeDYGVM6GtKMUfmKZOTywH7ou1H1Cgldd8wLTI2e_YzWR7xr6q-9MiruHfp_7LtaIY5Wua1hflBZ6_qGSaOTN3bha85xa3syI_YHlUgNcUIg1W7ZHgAAA.webp",
+        "date": "6 Aug 2025",
+        "snippet": "Discover the best whey protein in India for your fitness goals. Expert guide to brands, types, and affordable options for muscle gain ...",
+        "snippet_highlighted_words": [
+          "best whey protein in India"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Discover the best whey protein in India for your fitness goals. Expert guide to brands, types, and affordable options for muscle gain ...",
+            "source_info_link": "https://smytten.com/blogs/wellness/expert-insights-choosing-the-best-whey-protein-in-india?srsltid=AU7gw4WghT88ksjhQDGvC7yh7uQ-5byI1ZtOCIAUUzVuO8HDUjPl_p38",
+            "icon": "https://serpapi.com/images/i/UklGRoIBAABXRUJQVlA4IHYBAAAQBwCdASogACAAPtEutFooIagoGAEAGgllAMDjevIgdgNYGMJZ2_1VX5v8HeJfP1x5PBMzR60Kbg6iidSJyL2gAAD-_sOIjv7mf8Mmd6gWEhJEwZXXPFaMkGq4Ez0xAmsRBMygB81DnQPTOuXmfQZIn8LJ7X4xPrCE-5CrZ560y6X5_16PZ2wbH7Kqt7q6Xtn5nXPeI_36rZ4DCzCBVLH7ctD_4PIpO0qBzqHuo9hGjTqMFuU9Llm9i-JwDzC8AUwTsa3Sc_qIMLDlr__l-nGGuPTr3_6XAFOHuqFJgQ__VVSr3fxvDlv2RRUcGlG1gJ_etMYFObtaEaCBrrlSckBzX40211IMF3xvGsWC1qt5GLm7ywIxAGGp7mrDLplCVdeDYGVM6GtKMUfmKZOTywH7ou1H1Cgldd8wLTI2e_YzWR7xr6q-9MiruHfp_7LtaIY5Wua1hflBZ6_qGSaOTN3bha85xa3syI_YHlUgNcUIg1W7ZHgAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrACL2dvdG8_dXJsPUNBRVMxd0VCNnpzd0ZkbGI2SUUzVTBTdmludi1UdWl1ajdPN2ROV3B5aWplczJPeXdXYTQtbl9zbFdvSFB5czZzNlRERHNtT3dCSUhySVo2RllIUlJYU0cyRUs0cGwyaHN2R01yQUxGOWFER3V4UVZGMVlkeFo4UWI4S2VDbGxZaTY5RUF5c09qU2dESVJkNnZtdHBrdDZad1FxUVhRUC1IOGpzemtmdXhSZEpORGt4eUpwYnVfZmdKQl9abDB4MWNTcGZJN2VFYVlVSkhvYVU3YnVJTktWb0ZfRnZCR0Zwei03cmZyclRLV21iOGV2YzdHbTlfY3lBc3JGeEpxRmNEeHZadzRuSFpmNlRiTE1XMjFDRi1ZSGVXc05BOEpjVENwMUk1ZxIEGgIIABqPBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDrBQgAEAAYACAAKhwKBXdoaWNoFZCKej8aAml0GgR0aGF0GgR0aGlzKgkKAmlzFQAAAAAqMgoCbm8VgObYPhoFbm90IGEaBm51bWJlchoKbnVtYmVyIG9uZRoHd2l0aG91dBoDbm8xKh4KATEVcgvsPhoKbnVtYmVyIG9uZRoDb25lGgNubzEqLwoEd2hleRVvLJ5AGgpzdXBwbGVtZW50Ggt3aGV5cHJvdGVpbhoJaXY7cDt3aGV5KjMKB3Byb3RlaW4VwiuoQBoIcHJvdGVpbnMaC3doZXlwcm90ZWluGgxpdjtwO3Byb3RlaW4qCQoCaW4VAAAAACobCgVpbmRpYRU0x4RAGgRjb3N0GgdpbmRpYSdzMtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZlUUlLanV1N2s4SjNlVkQ1RFJ5VmlManJrNTh6TUFjOUppbnlDbFRXZmdHSW1kUW5PSk5JSy1xSXpnbnVxNlBGNTNmSUYwRlUzUE54YWc4bWFzM2EyNUNPRVpfM1QtcjBjeExYaTBZMVVyMWZhdXJJQkdOcnM3aGlVV2lnYUNBUFpvQjRoSkVRUzBkRnRhM2xmU1NCYzFLdFhaNW04OEN5OVRVc3c3ZFh0Y1JWZ3Q0ZWdTR2gtRFdVWEZXenpuYl9ROj9FeHBlcnQgSW5zaWdodHM6IENob29zaW5nIHRoZSBCZXN0IDxiPldoZXkgUHJvdGVpbiBpbiBJbmRpYTwvYj5ClQFEaXNjb3ZlciB0aGUgPGI-YmVzdCB3aGV5IHByb3RlaW4gaW4gSW5kaWE8L2I-IGZvciB5b3VyIGZpdG5lc3MgZ29hbHMuIEV4cGVydCBndWlkZSB0byBicmFuZHMsIHR5cGVzLCBhbmQgYWZmb3JkYWJsZSBvcHRpb25zIGZvciBtdXNjbGUgZ2FpbiZuYnNwOy4uLkoCaW5KAmlzUgR0aGlzUgJpdFIEdGhhdFIDb25lUgVub3QgYSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrACL2dvdG8_dXJsPUNBRVMxd0VCNnpzd0ZkbGI2SUUzVTBTdmludi1UdWl1ajdPN2ROV3B5aWplczJPeXdXYTQtbl9zbFdvSFB5czZzNlRERHNtT3dCSUhySVo2RllIUlJYU0cyRUs0cGwyaHN2R01yQUxGOWFER3V4UVZGMVlkeFo4UWI4S2VDbGxZaTY5RUF5c09qU2dESVJkNnZtdHBrdDZad1FxUVhRUC1IOGpzemtmdXhSZEpORGt4eUpwYnVfZmdKQl9abDB4MWNTcGZJN2VFYVlVSkhvYVU3YnVJTktWb0ZfRnZCR0Zwei03cmZyclRLV21iOGV2YzdHbTlfY3lBc3JGeEpxRmNEeHZadzRuSFpmNlRiTE1XMjFDRi1ZSGVXc05BOEpjVENwMUk1ZxIEGgIIABqPBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDrBQgAEAAYACAAKhwKBXdoaWNoFZCKej8aAml0GgR0aGF0GgR0aGlzKgkKAmlzFQAAAAAqMgoCbm8VgObYPhoFbm90IGEaBm51bWJlchoKbnVtYmVyIG9uZRoHd2l0aG91dBoDbm8xKh4KATEVcgvsPhoKbnVtYmVyIG9uZRoDb25lGgNubzEqLwoEd2hleRVvLJ5AGgpzdXBwbGVtZW50Ggt3aGV5cHJvdGVpbhoJaXY7cDt3aGV5KjMKB3Byb3RlaW4VwiuoQBoIcHJvdGVpbnMaC3doZXlwcm90ZWluGgxpdjtwO3Byb3RlaW4qCQoCaW4VAAAAACobCgVpbmRpYRU0x4RAGgRjb3N0GgdpbmRpYSdzMtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZlUUlLanV1N2s4SjNlVkQ1RFJ5VmlManJrNTh6TUFjOUppbnlDbFRXZmdHSW1kUW5PSk5JSy1xSXpnbnVxNlBGNTNmSUYwRlUzUE54YWc4bWFzM2EyNUNPRVpfM1QtcjBjeExYaTBZMVVyMWZhdXJJQkdOcnM3aGlVV2lnYUNBUFpvQjRoSkVRUzBkRnRhM2xmU1NCYzFLdFhaNW04OEN5OVRVc3c3ZFh0Y1JWZ3Q0ZWdTR2gtRFdVWEZXenpuYl9ROj9FeHBlcnQgSW5zaWdodHM6IENob29zaW5nIHRoZSBCZXN0IDxiPldoZXkgUHJvdGVpbiBpbiBJbmRpYTwvYj5ClQFEaXNjb3ZlciB0aGUgPGI-YmVzdCB3aGV5IHByb3RlaW4gaW4gSW5kaWE8L2I-IGZvciB5b3VyIGZpdG5lc3MgZ29hbHMuIEV4cGVydCBndWlkZSB0byBicmFuZHMsIHR5cGVzLCBhbmQgYWZmb3JkYWJsZSBvcHRpb25zIGZvciBtdXNjbGUgZ2FpbiZuYnNwOy4uLkoCaW5KAmlzUgR0aGlzUgJpdFIEdGhhdFIDb25lUgVub3QgYSICEAFIAFgAaAA",
+        "source": "Smytten"
+      },
+      {
+        "position": 3,
+        "title": "Buy products of the world's number one whey protein brand, ...",
+        "link": "https://www.facebook.com/METROWholesaleIndia/videos/choose-fitness-choose-metro/398508277391798/",
+        "displayed_link": "70+ reactions · 7 years ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4eabde9639b6ff8ae89b1/images/FwabLcOf96_eC_bP8gj2eaSqgtEPxNB3bIz1LSpdwaU.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "snippet": "Buy products of the world's number one whey protein brand, Optimum Nutrition from METRO Wholesale and fulfill your fitness needs.",
+        "duration": "0:24",
+        "about_this_result": {
+          "source": {
+            "description": "Buy products of the world's number one whey protein brand, Optimum Nutrition from METRO Wholesale and fulfill your fitness needs.",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZmcWhvS2FwclFwTUo5czNnTGEyQnBIbFJnSjZPVjFvVDVqcnYwX0ppcVgxbE1Oa2JwdDdzY3duSHdpa1NrV2ppV0tkMmtQMEhld2ExeE9jcFV0QXFNYVlqUmRTVXAyNGpwWEUzejV0QnF3SXFXcW1Dd1RrU2pjaV8ydnA5T3N6WUN4LVhhZnV3NFhTOTk2VTV1cW5pVVdFU1JTamN2cXB4NWlYUWxOQ2p5Z3NyZENyVWlnZm1zdDMzRk5PN2hlQ1FpTk5VeldHdEESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZmcWhvS2FwclFwTUo5czNnTGEyQnBIbFJnSjZPVjFvVDVqcnYwX0ppcVgxbE1Oa2JwdDdzY3duSHdpa1NrV2ppV0tkMmtQMEhld2ExeE9jcFV0QXFNYVlqUmRTVXAyNGpwWEUzejV0QnF3SXFXcW1Dd1RrU2pjaV8ydnA5T3N6WUN4LVhhZnV3NFhTOTk2VTV1cW5pVVdFU1JTamN2cXB4NWlYUWxOQ2p5Z3NyZENyVWlnZm1zdDMzRk5PN2hlQ1FpTk5VeldHdEESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSPDjmYQSN8E583abp0N9AJvbrQU60Y8w2dZg",
+        "source": "Facebook · METRO Wholesale India"
+      },
+      {
+        "position": 4,
+        "title": "Undoubtedly 𝐍𝐨. 𝟏 𝐈𝐬𝐨𝐥𝐚𝐭𝐞 𝐏𝐫𝐨𝐭𝐞𝐢𝐧 In India ...",
+        "link": "https://www.instagram.com/reel/DAI_2-GojqA/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVn3HIio32j6zL0MRJc_a7Au_m_yiP1xeaLAzRj4eWgCMeI0z2MHaJkx2WyUzIljISU-Jag1Cl_7vg8vBI271iTDgroq9WPxWDFsm9_cWCDa7ynKFRi-xyno4FNyTdbf_HlA&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQFnoECCMQAQ&uoh=1",
+        "displayed_link": "97.5K+ likes · 2 years ago",
+        "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+        "snippet": "Undoubtedly No. 1 Isolate Protein In India. Nitric Whey Protein. Anabolic Research Nitro Whey 30 servings Pack Now Available in 3 flavours",
+        "snippet_highlighted_words": [
+          "Nitric Whey Protein"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Undoubtedly No. 1 Isolate Protein In India. Nitric Whey Protein. Anabolic Research Nitro Whey 30 servings Pack Now Available in 3 flavours",
+            "source_info_link": "https://www.instagram.com/reel/DAI_2-GojqA/",
+            "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVm4zSElpbzMyajZ6TDBNUkpjX2E3QXVfbV95aVAxeGVhTEF6Umo0ZVdnQ01lSTB6Mk1IYUpreDJXeVV6SWxqSVNVLUphZzFDbF83dmc4dkJJMjcxaVREZ3JvcTlXUHhXREZzbTlfY1dDRGE3eW5LRlJpLXh5bm80Rk55VGRiZl9IbEESBBoCCAAa2wUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAtwUIABAAGAAgACocCgV3aGljaBUAAAAAGgJpdBoEdGhhdBoEdGhpcyoJCgJpcxUAAAAAKjIKAm5vFQVrg0AaBW5vdCBhGgZudW1iZXIaCm51bWJlciBvbmUaB3dpdGhvdXQaA25vMSoeCgExFVzrikAaCm51bWJlciBvbmUaA29uZRoDbm8xKi8KBHdoZXkVrLSeQBoKc3VwcGxlbWVudBoLd2hleXByb3RlaW4aCWl2O3A7d2hleSozCgdwcm90ZWluFTiYtkAaCHByb3RlaW5zGgt3aGV5cHJvdGVpbhoMaXY7cDtwcm90ZWluKgkKAmluFQAAAAAqGwoFaW5kaWEVBWuDQBoEY29zdBoHaW5kaWEnczKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZuM0hJaW8zMmo2ekwwTVJKY19hN0F1X21feWlQMXhlYUxBelJqNGVXZ0NNZUkwejJNSGFKa3gyV3lVeklsaklTVS1KYWcxQ2xfN3ZnOHZCSTI3MWlURGdyb3E5V1B4V0RGc205X2NXQ0RhN3luS0ZSaS14eW5vNEZOeVRkYmZfSGxBOk9VbmRvdWJ0ZWRseSA8Yj5ObzwvYj4uIDxiPjE8L2I-IElzb2xhdGUgPGI-UHJvdGVpbiBJbiBJbmRpYTwvYj4gLi4uIC0gSW5zdGFncmFtQpEBVW5kb3VidGVkbHkgTm8uIDEgSXNvbGF0ZSBQcm90ZWluIEluIEluZGlhLiA8Yj5OaXRyaWMgV2hleSBQcm90ZWluPC9iPi4gQW5hYm9saWMgUmVzZWFyY2ggTml0cm8gV2hleSAzMCBzZXJ2aW5ncyBQYWNrIE5vdyBBdmFpbGFibGUgaW4gMyBmbGF2b3Vyc0oCaW5KAmlzUgVub3QgYVIEdGhpc1ICaXRSBHRoYXRSA29uZSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVm4zSElpbzMyajZ6TDBNUkpjX2E3QXVfbV95aVAxeGVhTEF6Umo0ZVdnQ01lSTB6Mk1IYUpreDJXeVV6SWxqSVNVLUphZzFDbF83dmc4dkJJMjcxaVREZ3JvcTlXUHhXREZzbTlfY1dDRGE3eW5LRlJpLXh5bm80Rk55VGRiZl9IbEESBBoCCAAa2wUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAtwUIABAAGAAgACocCgV3aGljaBUAAAAAGgJpdBoEdGhhdBoEdGhpcyoJCgJpcxUAAAAAKjIKAm5vFQVrg0AaBW5vdCBhGgZudW1iZXIaCm51bWJlciBvbmUaB3dpdGhvdXQaA25vMSoeCgExFVzrikAaCm51bWJlciBvbmUaA29uZRoDbm8xKi8KBHdoZXkVrLSeQBoKc3VwcGxlbWVudBoLd2hleXByb3RlaW4aCWl2O3A7d2hleSozCgdwcm90ZWluFTiYtkAaCHByb3RlaW5zGgt3aGV5cHJvdGVpbhoMaXY7cDtwcm90ZWluKgkKAmluFQAAAAAqGwoFaW5kaWEVBWuDQBoEY29zdBoHaW5kaWEnczKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZuM0hJaW8zMmo2ekwwTVJKY19hN0F1X21feWlQMXhlYUxBelJqNGVXZ0NNZUkwejJNSGFKa3gyV3lVeklsaklTVS1KYWcxQ2xfN3ZnOHZCSTI3MWlURGdyb3E5V1B4V0RGc205X2NXQ0RhN3luS0ZSaS14eW5vNEZOeVRkYmZfSGxBOk9VbmRvdWJ0ZWRseSA8Yj5ObzwvYj4uIDxiPjE8L2I-IElzb2xhdGUgPGI-UHJvdGVpbiBJbiBJbmRpYTwvYj4gLi4uIC0gSW5zdGFncmFtQpEBVW5kb3VidGVkbHkgTm8uIDEgSXNvbGF0ZSBQcm90ZWluIEluIEluZGlhLiA8Yj5OaXRyaWMgV2hleSBQcm90ZWluPC9iPi4gQW5hYm9saWMgUmVzZWFyY2ggTml0cm8gV2hleSAzMCBzZXJ2aW5ncyBQYWNrIE5vdyBBdmFpbGFibGUgaW4gMyBmbGF2b3Vyc0oCaW5KAmlzUgVub3QgYVIEdGhpc1ICaXRSBHRoYXRSA29uZSICEAFIAFgAaAA",
+        "source": "Instagram · sahilkhan"
+      },
+      {
+        "position": 5,
+        "title": "Which whey protein? : r/Fitness_India",
+        "link": "https://www.reddit.com/r/Fitness_India/comments/13y3ylz/which_whey_protein/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFY9Q-0a9nEIA4BN0lNk9Ny_8ipPTAkKSPHVpRF3NgFdfCEGqlMfm0eldTcr81HS5gY-U8OuciuKPek9axeEg5eaZJCrHsTb5ihH9BlzRMFxQ2pWp_Je37Ho7gAmTEQLZgGm50yum-KoZInYMTyrNiXEyQu4x-c_zq9BMEuku1p3Ldw&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQFnoECFUQAQ&uoh=1",
+        "displayed_link": "40+ comments · 3 years ago",
+        "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+        "snippet": "Which whey protein have you guys tried so far? Can you share your experience with all the brands? (Indian brands are not upto the mark but still consider ...",
+        "about_this_result": {
+          "source": {
+            "description": "I know 1- ON, 2- MyProtein, 3- Muscleblaze(heard. Some Indian brands are actually not bad, I really like As-it-is and Avvatar. People also ...",
+            "source_info_link": "https://www.reddit.com/r/Fitness_India/comments/13y3ylz/which_whey_protein/",
+            "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZZOVEtMGE5bkVJQTRCTjBsTms5TnlfOGlwUFRBa0tTUEhWcFJGM05nRmRmQ0VHcWxNZm0wZWxkVGNyODFIUzVnWS1VOE91Y2l1S1BlazlheGVFZzVlYVpKQ3JIc1RiNWloSDlCbHpSTUZ4UTJwV3BfSmUzN0hvN2dBbVRFUUxaZ0dtNTB5dW0tS29aSW5ZTVR5ck5pWEV5UXU0eC1jX3pxOUJNRXVrdTFwM0xkdxIEGgIIABr2BRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDSBQgAEAAYACAAKhwKBXdoaWNoFbJOeUAaAml0GgR0aGF0GgR0aGlzKgkKAmlzFQAAAAAqMgoCbm8VCNrXPhoFbm90IGEaBm51bWJlchoKbnVtYmVyIG9uZRoHd2l0aG91dBoDbm8xKh4KATEVUBKkPxoKbnVtYmVyIG9uZRoDb25lGgNubzEqLwoEd2hleRUIpplAGgpzdXBwbGVtZW50Ggt3aGV5cHJvdGVpbhoJaXY7cDt3aGV5KjMKB3Byb3RlaW4VdhuXQBoIcHJvdGVpbnMaC3doZXlwcm90ZWluGgxpdjtwO3Byb3RlaW4qCQoCaW4VAAAAACobCgVpbmRpYRVFtaU-GgRjb3N0GgdpbmRpYSdzMsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZZOVEtMGE5bkVJQTRCTjBsTms5TnlfOGlwUFRBa0tTUEhWcFJGM05nRmRmQ0VHcWxNZm0wZWxkVGNyODFIUzVnWS1VOE91Y2l1S1BlazlheGVFZzVlYVpKQ3JIc1RiNWloSDlCbHpSTUZ4UTJwV3BfSmUzN0hvN2dBbVRFUUxaZ0dtNTB5dW0tS29aSW5ZTVR5ck5pWEV5UXU0eC1jX3pxOUJNRXVrdTFwM0xkdzo1V2hpY2ggPGI-d2hleSBwcm90ZWluPC9iPj8gOiByL0ZpdG5lc3NfSW5kaWEgLSBSZWRkaXRCmgFJIGtub3cgPGI-MS0gT048L2I-LCAyLSBNeVByb3RlaW4sIDMtIE11c2NsZWJsYXplKGhlYXJkLiBTb21lIEluZGlhbiBicmFuZHMgYXJlIGFjdHVhbGx5IG5vdCBiYWQsIEkgcmVhbGx5IGxpa2UgQXMtaXQtaXMgYW5kIEF2dmF0YXIuIFBlb3BsZSBhbHNvJm5ic3A7Li4uSgJpc0oCaW5SBW5vdCBhUgR0aGF0UgJpdFIEdGhpc1IDb25lIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZZOVEtMGE5bkVJQTRCTjBsTms5TnlfOGlwUFRBa0tTUEhWcFJGM05nRmRmQ0VHcWxNZm0wZWxkVGNyODFIUzVnWS1VOE91Y2l1S1BlazlheGVFZzVlYVpKQ3JIc1RiNWloSDlCbHpSTUZ4UTJwV3BfSmUzN0hvN2dBbVRFUUxaZ0dtNTB5dW0tS29aSW5ZTVR5ck5pWEV5UXU0eC1jX3pxOUJNRXVrdTFwM0xkdxIEGgIIABr2BRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDSBQgAEAAYACAAKhwKBXdoaWNoFbJOeUAaAml0GgR0aGF0GgR0aGlzKgkKAmlzFQAAAAAqMgoCbm8VCNrXPhoFbm90IGEaBm51bWJlchoKbnVtYmVyIG9uZRoHd2l0aG91dBoDbm8xKh4KATEVUBKkPxoKbnVtYmVyIG9uZRoDb25lGgNubzEqLwoEd2hleRUIpplAGgpzdXBwbGVtZW50Ggt3aGV5cHJvdGVpbhoJaXY7cDt3aGV5KjMKB3Byb3RlaW4VdhuXQBoIcHJvdGVpbnMaC3doZXlwcm90ZWluGgxpdjtwO3Byb3RlaW4qCQoCaW4VAAAAACobCgVpbmRpYRVFtaU-GgRjb3N0GgdpbmRpYSdzMsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZZOVEtMGE5bkVJQTRCTjBsTms5TnlfOGlwUFRBa0tTUEhWcFJGM05nRmRmQ0VHcWxNZm0wZWxkVGNyODFIUzVnWS1VOE91Y2l1S1BlazlheGVFZzVlYVpKQ3JIc1RiNWloSDlCbHpSTUZ4UTJwV3BfSmUzN0hvN2dBbVRFUUxaZ0dtNTB5dW0tS29aSW5ZTVR5ck5pWEV5UXU0eC1jX3pxOUJNRXVrdTFwM0xkdzo1V2hpY2ggPGI-d2hleSBwcm90ZWluPC9iPj8gOiByL0ZpdG5lc3NfSW5kaWEgLSBSZWRkaXRCmgFJIGtub3cgPGI-MS0gT048L2I-LCAyLSBNeVByb3RlaW4sIDMtIE11c2NsZWJsYXplKGhlYXJkLiBTb21lIEluZGlhbiBicmFuZHMgYXJlIGFjdHVhbGx5IG5vdCBiYWQsIEkgcmVhbGx5IGxpa2UgQXMtaXQtaXMgYW5kIEF2dmF0YXIuIFBlb3BsZSBhbHNvJm5ic3A7Li4uSgJpc0oCaW5SBW5vdCBhUgR0aGF0UgJpdFIEdGhpc1IDb25lIgIQAUgAWABoAA",
+        "source": "Reddit · r/Fitness_India"
+      },
+      {
+        "position": 6,
+        "title": "Choose wisely @muscleblaze Biozyme Performance Whey ...",
+        "link": "https://www.instagram.com/reel/DcVacJCBMQ4/",
+        "displayed_link": "1.3K+ likes · 1 month ago",
+        "thumbnail": "https://serpapi.com/searches/6ac4eabde9639b6ff8ae89b1/images/FwabLcOf96_eC_bP8gj2eTE7Xy_h2Bl6r-VsXv2tL_c.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+        "snippet": "Ranking the cleanest protein brands in India 🥛💪. I've ranked these proteins based on their overall approach to making a clean, quality product,",
+        "duration": "0:57",
+        "about_this_result": {
+          "source": {
+            "description": "Ranking the cleanest protein brands in India 🥛💪. I've ranked these proteins based on their overall approach to making a clean, quality product,",
+            "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlNjR1hGQnN1UG4tcGdDNml1cl9fYVN5Ui1RRDZDTmE2ekVWdTVUbzhuc3NuYVNfc0lTTE9WLXc3M256cGIyRFptUXk2UFJkZFlVWEVMd19BalRyV01DQ1NSS3FISDhhYXg2SHUyVTNSMzd4VlFneUtQMUxxVlF5OUN0WDNvejJoLVESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlNjR1hGQnN1UG4tcGdDNml1cl9fYVN5Ui1RRDZDTmE2ekVWdTVUbzhuc3NuYVNfc0lTTE9WLXc3M256cGIyRFptUXk2UFJkZFlVWEVMd19BalRyV01DQ1NSS3FISDhhYXg2SHUyVTNSMzd4VlFneUtQMUxxVlF5OUN0WDNvejJoLVESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "source": "Instagram · prashantsharmaofficial_"
+      },
+      {
+        "position": 7,
+        "title": "Vanilla - Whey Proteins / Protein Supplements",
+        "link": "https://www.amazon.in/Whey-Proteins-Vanilla-Protein-Supplements/s?rh=n%3A11364606031%2Cp_n_g-1003223235111%3A28046928031",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESswEB6zswFRAezwmJ27xwm8TA_9N7TBlbrkT7tPXJzjnh-ifKipM8oR8Us2Eo1JIP8r_0FDDSnFSppmz8ttnJyMP9JEu94c4_GjF_5439cxaK1yg-irX20j8uka3SoI6_O8D-RpFRHerOtCz5LOQ7KQMK8xZZSyvHaorxoQEhRRiYfDgNDwuwrMsI7werkePo5yL57lnha-dj5HE0UYH7-6Rf60rQMQ-t2hqsfUvBhGRHa6_rPg&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQFnoECE8QAQ&uoh=1",
+        "displayed_link": "https://www.amazon.in › Whey-Proteins-Vanilla-Protein-...",
+        "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+        "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey Protein - 5 X 31 g (Vanilla Ice Cream) Single Serve Sachets, for Muscle Support & Recovery, ...",
+        "snippet_highlighted_words": [
+          "Optimum Nutrition (ON) Gold Standard 100% Whey Protein"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.1
+            },
+            "extensions": [
+              "4.1",
+              "store rating (1.5K)",
+              "Free delivery"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Optimum Nutrition (ON) Gold Standard 100% Whey Protein - 5 X 31 g (Vanilla Ice Cream) Single Serve Sachets, for Muscle Support & Recovery, ...",
+            "source_info_link": "https://www.amazon.in/Whey-Proteins-Vanilla-Protein-Supplements/s?rh=n%3A11364606031%2Cp_n_g-1003223235111%3A28046928031",
+            "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoACL2dvdG8_dXJsPUNBRVNzd0VCNnpzd0ZSQWV6d21KMjd4d204VEFfOU43VEJsYnJrVDd0UFhKempuaC1pZktpcE04b1I4VXMyRW8xSklQOHJfMEZERFNuRlNwcG16OHR0bkp5TVA5SkV1OTRjNF9HakZfNTQzOWN4YUsxeWctaXJYMjBqOHVrYTNTb0k2X084RC1ScEZSSGVyT3RDejVMT1E3S1FNSzh4WlpTeXZIYW9yeG9RRWhSUmlZZkRnTkR3dXdyTXNJN3dlcmtlUG81eUw1N2xuaGEtZGo1SEUwVVlINy02UmY2MHJRTVEtdDJocXNmVXZCaEdSSGE2X3JQZxIEGgIIABrABhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCcBggAEAAYACAAKhwKBXdoaWNoFQAAAAAaAml0GgR0aGF0GgR0aGlzKgkKAmlzFQAAAAAqMgoCbm8V9KrFPhoFbm90IGEaBm51bWJlchoKbnVtYmVyIG9uZRoHd2l0aG91dBoDbm8xKh4KATEVf6YCQBoKbnVtYmVyIG9uZRoDb25lGgNubzEqLwoEd2hleRXI0YxAGgpzdXBwbGVtZW50Ggt3aGV5cHJvdGVpbhoJaXY7cDt3aGV5KjMKB3Byb3RlaW4VhruYQBoIcHJvdGVpbnMaC3doZXlwcm90ZWluGgxpdjtwO3Byb3RlaW4qCQoCaW4VAAAAACobCgVpbmRpYRXcbdo-GgRjb3N0GgdpbmRpYSdzMoACL2dvdG8_dXJsPUNBRVNzd0VCNnpzd0ZSQWV6d21KMjd4d204VEFfOU43VEJsYnJrVDd0UFhKempuaC1pZktpcE04b1I4VXMyRW8xSklQOHJfMEZERFNuRlNwcG16OHR0bkp5TVA5SkV1OTRjNF9HakZfNTQzOWN4YUsxeWctaXJYMjBqOHVrYTNTb0k2X084RC1ScEZSSGVyT3RDejVMT1E3S1FNSzh4WlpTeXZIYW9yeG9RRWhSUmlZZkRnTkR3dXdyTXNJN3dlcmtlUG81eUw1N2xuaGEtZGo1SEUwVVlINy02UmY2MHJRTVEtdDJocXNmVXZCaEdSSGE2X3JQZzo_QW1hem9uLmluOiBWYW5pbGxhIC0gPGI-V2hleSBQcm90ZWluczwvYj4gLyBQcm90ZWluIFN1cHBsZW1lbnRzQp4BPGI-T3B0aW11bSBOdXRyaXRpb24gKE9OKSBHb2xkIFN0YW5kYXJkIDEwMCUgV2hleSBQcm90ZWluPC9iPiAtIDUgWCAzMSBnIChWYW5pbGxhIEljZSBDcmVhbSkgU2luZ2xlIFNlcnZlIFNhY2hldHMsIGZvciBNdXNjbGUgU3VwcG9ydCAmYW1wOyBSZWNvdmVyeSwmbmJzcDsuLi5KAmluSgJpc1IFbm90IGFSBHRoaXNSAml0UgR0aGF0UgNvbmUiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoACL2dvdG8_dXJsPUNBRVNzd0VCNnpzd0ZSQWV6d21KMjd4d204VEFfOU43VEJsYnJrVDd0UFhKempuaC1pZktpcE04b1I4VXMyRW8xSklQOHJfMEZERFNuRlNwcG16OHR0bkp5TVA5SkV1OTRjNF9HakZfNTQzOWN4YUsxeWctaXJYMjBqOHVrYTNTb0k2X084RC1ScEZSSGVyT3RDejVMT1E3S1FNSzh4WlpTeXZIYW9yeG9RRWhSUmlZZkRnTkR3dXdyTXNJN3dlcmtlUG81eUw1N2xuaGEtZGo1SEUwVVlINy02UmY2MHJRTVEtdDJocXNmVXZCaEdSSGE2X3JQZxIEGgIIABrABhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCcBggAEAAYACAAKhwKBXdoaWNoFQAAAAAaAml0GgR0aGF0GgR0aGlzKgkKAmlzFQAAAAAqMgoCbm8V9KrFPhoFbm90IGEaBm51bWJlchoKbnVtYmVyIG9uZRoHd2l0aG91dBoDbm8xKh4KATEVf6YCQBoKbnVtYmVyIG9uZRoDb25lGgNubzEqLwoEd2hleRXI0YxAGgpzdXBwbGVtZW50Ggt3aGV5cHJvdGVpbhoJaXY7cDt3aGV5KjMKB3Byb3RlaW4VhruYQBoIcHJvdGVpbnMaC3doZXlwcm90ZWluGgxpdjtwO3Byb3RlaW4qCQoCaW4VAAAAACobCgVpbmRpYRXcbdo-GgRjb3N0GgdpbmRpYSdzMoACL2dvdG8_dXJsPUNBRVNzd0VCNnpzd0ZSQWV6d21KMjd4d204VEFfOU43VEJsYnJrVDd0UFhKempuaC1pZktpcE04b1I4VXMyRW8xSklQOHJfMEZERFNuRlNwcG16OHR0bkp5TVA5SkV1OTRjNF9HakZfNTQzOWN4YUsxeWctaXJYMjBqOHVrYTNTb0k2X084RC1ScEZSSGVyT3RDejVMT1E3S1FNSzh4WlpTeXZIYW9yeG9RRWhSUmlZZkRnTkR3dXdyTXNJN3dlcmtlUG81eUw1N2xuaGEtZGo1SEUwVVlINy02UmY2MHJRTVEtdDJocXNmVXZCaEdSSGE2X3JQZzo_QW1hem9uLmluOiBWYW5pbGxhIC0gPGI-V2hleSBQcm90ZWluczwvYj4gLyBQcm90ZWluIFN1cHBsZW1lbnRzQp4BPGI-T3B0aW11bSBOdXRyaXRpb24gKE9OKSBHb2xkIFN0YW5kYXJkIDEwMCUgV2hleSBQcm90ZWluPC9iPiAtIDUgWCAzMSBnIChWYW5pbGxhIEljZSBDcmVhbSkgU2luZ2xlIFNlcnZlIFNhY2hldHMsIGZvciBNdXNjbGUgU3VwcG9ydCAmYW1wOyBSZWNvdmVyeSwmbmJzcDsuLi5KAmluSgJpc1IFbm90IGFSBHRoaXNSAml0UgR0aGF0UgNvbmUiAhABSABYAGgA",
+        "source": "Amazon.in",
+        "read_more_link": "https://www.amazon.in/Whey-Proteins-Vanilla-Protein-Supplements/s?rh=n:11364606031,p_n_g-1003223235111:28046928031#:~:text=Optimum%20Nutrition%20(ON)%20Gold%20Standard,%2D%20Primary%20Source%20Whey%20Isolate"
+      },
+      {
+        "position": 8,
+        "title": "Buy DIVINE NUTRITION Life Whey Protein ( Indias NO.1 ...",
+        "link": "https://www.flipkart.com/divine-nutrition-life-whey-protein-indias-no-1-supplement/p/itm9aa0cec1cf569",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFWfPxQPEmOrY-UgiR7aDOtNSrfhaPoB6JPRZNHI7T7INVMuwViN-dzvGSj96y3nj4zB4ud905z5FfGJlqNaFtoq1iC2sin6RGC8io4cu2u67QD1kzBjeGi4TJaj7FBzzaxlMOc67HUIOZvLblb8wT3WqOE1M5wHqfQvdTx3WaIhIMfiz6ohn8BiNInY2xjH05aEv56bXCnd-sW3x&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQFnoECEYQAQ&uoh=1",
+        "displayed_link": "https://www.flipkart.com › divine-nutrition-life-whey-p...",
+        "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp",
+        "snippet": "DIVINE NUTRITION Life Whey Protein ( Indias NO.1 PROTEIN SUPPLEME... more ; Model Number. C004 ; Quantity. 2 kg ; Flavor. RED VELVET ; Protein Type. Whey Protein.",
+        "snippet_highlighted_words": [
+          "DIVINE NUTRITION Life Whey Protein"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "DIVINE NUTRITION Life Whey Protein ( Indias NO.1 PROTEIN SUPPLEME... more ; Model Number. C004 ; Quantity. 2 kg ; Flavor. RED VELVET ; Protein Type. Whey Protein.",
+            "source_info_link": "https://www.flipkart.com/divine-nutrition-life-whey-protein-indias-no-1-supplement/p/itm9aa0cec1cf569",
+            "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZXZlB4UVBFbU9yWS1VZ2lSN2FET3ROU3JmaGFQb0I2SlBSWk5ISTdUN0lOVk11d1ZpTi1kenZHU2o5Nnkzbmo0ekI0dWQ5MDV6NUZmR0pscU5hRnRvcTFpQzJzaW42UkdDOGlvNGN1MnU2N1FEMWt6QmplR2k0VEphajdGQnp6YXhsTU9jNjdIVUlPWnZMYmxiOHdUM1dxT0UxTTV3SHFmUXZkVHgzV2FJaElNZml6Nm9objhCaU5JblkyeGpIMDVhRXY1NmJYQ25kLXNXM3gSBBoCCAAaxgYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAogYIABAAGAAgACocCgV3aGljaBUAAAAAGgJpdBoEdGhhdBoEdGhpcyoJCgJpcxUAAAAAKjIKAm5vFZ20qEAaBW5vdCBhGgZudW1iZXIaCm51bWJlciBvbmUaB3dpdGhvdXQaA25vMSoeCgExFbg1vEAaCm51bWJlciBvbmUaA29uZRoDbm8xKi8KBHdoZXkVa6PJQBoKc3VwcGxlbWVudBoLd2hleXByb3RlaW4aCWl2O3A7d2hleSozCgdwcm90ZWluFaBv6kAaCHByb3RlaW5zGgt3aGV5cHJvdGVpbhoMaXY7cDtwcm90ZWluKgkKAmluFQAAAAAqGwoFaW5kaWEVqByvPxoEY29zdBoHaW5kaWEnczLmAS9nb3RvP3VybD1DQUVTb0FFQjZ6c3dGV2ZQeFFQRW1PclktVWdpUjdhRE90TlNyZmhhUG9CNkpQUlpOSEk3VDdJTlZNdXdWaU4tZHp2R1NqOTZ5M25qNHpCNHVkOTA1ejVGZkdKbHFOYUZ0b3ExaUMyc2luNlJHQzhpbzRjdTJ1NjdRRDFrekJqZUdpNFRKYWo3RkJ6emF4bE1PYzY3SFVJT1p2TGJsYjh3VDNXcU9FMU01d0hxZlF2ZFR4M1dhSWhJTWZpejZvaG44QmlOSW5ZMnhqSDA1YUV2NTZiWENuZC1zVzN4OlRESVZJTkUgTlVUUklUSU9OIExpZmUgPGI-V2hleSBQcm90ZWluPC9iPiAoIEluZGlhcyA8Yj5OTzwvYj4uPGI-MTwvYj4gLi4uIC0gRmxpcGthcnRCqQE8Yj5ESVZJTkUgTlVUUklUSU9OIExpZmUgV2hleSBQcm90ZWluPC9iPiAoIEluZGlhcyBOTy4xIFBST1RFSU4gU1VQUExFTUUuLi4gbW9yZSA7IE1vZGVsIE51bWJlci4gQzAwNCA7IFF1YW50aXR5LiAyIGtnIDsgRmxhdm9yLiBSRUQgVkVMVkVUIDsgUHJvdGVpbiBUeXBlLiBXaGV5IFByb3RlaW4uSgJpbkoCaXNSBW5vdCBhUgR0aGlzUgJpdFIEdGhhdFIDb25lIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZXZlB4UVBFbU9yWS1VZ2lSN2FET3ROU3JmaGFQb0I2SlBSWk5ISTdUN0lOVk11d1ZpTi1kenZHU2o5Nnkzbmo0ekI0dWQ5MDV6NUZmR0pscU5hRnRvcTFpQzJzaW42UkdDOGlvNGN1MnU2N1FEMWt6QmplR2k0VEphajdGQnp6YXhsTU9jNjdIVUlPWnZMYmxiOHdUM1dxT0UxTTV3SHFmUXZkVHgzV2FJaElNZml6Nm9objhCaU5JblkyeGpIMDVhRXY1NmJYQ25kLXNXM3gSBBoCCAAaxgYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAogYIABAAGAAgACocCgV3aGljaBUAAAAAGgJpdBoEdGhhdBoEdGhpcyoJCgJpcxUAAAAAKjIKAm5vFZ20qEAaBW5vdCBhGgZudW1iZXIaCm51bWJlciBvbmUaB3dpdGhvdXQaA25vMSoeCgExFbg1vEAaCm51bWJlciBvbmUaA29uZRoDbm8xKi8KBHdoZXkVa6PJQBoKc3VwcGxlbWVudBoLd2hleXByb3RlaW4aCWl2O3A7d2hleSozCgdwcm90ZWluFaBv6kAaCHByb3RlaW5zGgt3aGV5cHJvdGVpbhoMaXY7cDtwcm90ZWluKgkKAmluFQAAAAAqGwoFaW5kaWEVqByvPxoEY29zdBoHaW5kaWEnczLmAS9nb3RvP3VybD1DQUVTb0FFQjZ6c3dGV2ZQeFFQRW1PclktVWdpUjdhRE90TlNyZmhhUG9CNkpQUlpOSEk3VDdJTlZNdXdWaU4tZHp2R1NqOTZ5M25qNHpCNHVkOTA1ejVGZkdKbHFOYUZ0b3ExaUMyc2luNlJHQzhpbzRjdTJ1NjdRRDFrekJqZUdpNFRKYWo3RkJ6emF4bE1PYzY3SFVJT1p2TGJsYjh3VDNXcU9FMU01d0hxZlF2ZFR4M1dhSWhJTWZpejZvaG44QmlOSW5ZMnhqSDA1YUV2NTZiWENuZC1zVzN4OlRESVZJTkUgTlVUUklUSU9OIExpZmUgPGI-V2hleSBQcm90ZWluPC9iPiAoIEluZGlhcyA8Yj5OTzwvYj4uPGI-MTwvYj4gLi4uIC0gRmxpcGthcnRCqQE8Yj5ESVZJTkUgTlVUUklUSU9OIExpZmUgV2hleSBQcm90ZWluPC9iPiAoIEluZGlhcyBOTy4xIFBST1RFSU4gU1VQUExFTUUuLi4gbW9yZSA7IE1vZGVsIE51bWJlci4gQzAwNCA7IFF1YW50aXR5LiAyIGtnIDsgRmxhdm9yLiBSRUQgVkVMVkVUIDsgUHJvdGVpbiBUeXBlLiBXaGV5IFByb3RlaW4uSgJpbkoCaXNSBW5vdCBhUgR0aGlzUgJpdFIEdGhhdFIDb25lIgIQAUgAWABoAA",
+        "source": "Flipkart",
+        "read_more_link": "https://www.flipkart.com/divine-nutrition-life-whey-protein-indias-no-1-supplement/p/itm9aa0cec1cf569#:~:text=DIVINE%20NUTRITION%20Life%20Whey%20Protein,more&text=Model%20Number,C004&text=Quantity,2%20kg&text=Flavor,RED%20VELVET&text=Protein%20Type,Whey%20Protein"
+      },
+      {
+        "position": 9,
+        "title": "Top Nutrition Whey Protein Powder",
+        "link": "https://www.1mg.com/otc/top-nutrition-whey-protein-powder-otc799991",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVQRIePUZmb7aDRv2EZXglsd5XafmcG4n4QqY2A0ta9wTqmOK71eL29Gqvy0RYm9RRbEr0_zduiaxEysk0QUuXzpMUQfy_TmTca2_STsUqXBmxYt5JDpCGerC-8RjsYisVp8malYBZujltY93wXCzFmIQK0Sa3UrK65g&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQFnoECE0QAQ&uoh=1",
+        "displayed_link": "https://www.1mg.com › otc › top-nutrition-whey-protei...",
+        "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAw3rmOLWBqABliCvOLqV-POH2BlSydBTJPQ3AA_EYZiqJnirAxWOw5BfnIHLnxuu5Aw8r9fKLAIxiC14yw8PbtbSAisHl3uHk5QuFpAittWGsU4gtzcLWD6ZlXXEqf4GDizziiVr7PBgXP06H3lwuTVAmTngake71aLavAwBKa_R4u38vwzJq7SbNY7ElLGskLuZrzwc5tEXIcjgHNveZod_7bLEWHYe_k3LqEex6idp-eC_R5F4mXxO_kLkkp7D0zI-ylz4Gf0TYKjko4A7qAIiGB-50JRyXZi15HAOr0irmvH1Fr_ksyGZ2a_MRIN7X6L1_ydvWxVoxD5NTDKq1S3poGjV6l83BjAEZKR_zfTZYAAAA.webp",
+        "snippet": "Top Nutrition Whey Protein Powder is rich in protein, providing 24g of protein and 5g of BCAA per serving. It is a high-quality complete protein powder that ...",
+        "snippet_highlighted_words": [
+          "Top Nutrition Whey Protein Powder"
+        ],
+        "rich_snippet": {
+          "bottom": {
+            "detected_extensions": {
+              "price": 2223.69,
+              "currency": "₹"
+            },
+            "extensions": [
+              "₹2,223.69",
+              "Out of stock"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Top Nutrition Whey Protein Powder is rich in protein, providing 24g of protein and 5g of BCAA per serving. It is a high-quality complete protein powder that ...",
+            "source_info_link": "https://www.1mg.com/otc/top-nutrition-whey-protein-powder-otc799991",
+            "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAw3rmOLWBqABliCvOLqV-POH2BlSydBTJPQ3AA_EYZiqJnirAxWOw5BfnIHLnxuu5Aw8r9fKLAIxiC14yw8PbtbSAisHl3uHk5QuFpAittWGsU4gtzcLWD6ZlXXEqf4GDizziiVr7PBgXP06H3lwuTVAmTngake71aLavAwBKa_R4u38vwzJq7SbNY7ElLGskLuZrzwc5tEXIcjgHNveZod_7bLEWHYe_k3LqEex6idp-eC_R5F4mXxO_kLkkp7D0zI-ylz4Gf0TYKjko4A7qAIiGB-50JRyXZi15HAOr0irmvH1Fr_ksyGZ2a_MRIN7X6L1_ydvWxVoxD5NTDKq1S3poGjV6l83BjAEZKR_zfTZYAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlFSSWVQVVptYjdhRFJ2MkVaWGdsc2Q1WGFmbWNHNG40UXFZMkEwdGE5d1RxbU9LNzFlTDI5R3F2eTBSWW05UlJiRXIwX3pkdWlheEV5c2swUVV1WHpwTVVRZnlfVG1UY2EyX1NUc1VxWEJteFl0NUpEcENHZXJDLThSanNZaXNWcDhtYWxZQlp1amx0WTkzd1hDekZtSVFLMFNhM1VySzY1ZxIEGgIIABr1BRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDRBQgAEAAYACAAKhwKBXdoaWNoFXzteTwaAml0GgR0aGF0GgR0aGlzKgkKAmlzFQAAAAAqMgoCbm8VCqMJPxoFbm90IGEaBm51bWJlchoKbnVtYmVyIG9uZRoHd2l0aG91dBoDbm8xKh4KATEVz1Y4PxoKbnVtYmVyIG9uZRoDb25lGgNubzEqLwoEd2hleRXgTnFAGgpzdXBwbGVtZW50Ggt3aGV5cHJvdGVpbhoJaXY7cDt3aGV5KjMKB3Byb3RlaW4V_FyIQBoIcHJvdGVpbnMaC3doZXlwcm90ZWluGgxpdjtwO3Byb3RlaW4qCQoCaW4VAAAAACobCgVpbmRpYRXqLaY_GgRjb3N0GgdpbmRpYSdzMrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlFSSWVQVVptYjdhRFJ2MkVaWGdsc2Q1WGFmbWNHNG40UXFZMkEwdGE5d1RxbU9LNzFlTDI5R3F2eTBSWW05UlJiRXIwX3pkdWlheEV5c2swUVV1WHpwTVVRZnlfVG1UY2EyX1NUc1VxWEJteFl0NUpEcENHZXJDLThSanNZaXNWcDhtYWxZQlp1amx0WTkzd1hDekZtSVFLMFNhM1VySzY1ZzouVG9wIE51dHJpdGlvbiA8Yj5XaGV5IFByb3RlaW48L2I-IFBvd2RlciAtIDFtZ0KsATxiPlRvcCBOdXRyaXRpb24gV2hleSBQcm90ZWluIFBvd2RlcjwvYj4gaXMgcmljaCBpbiBwcm90ZWluLCBwcm92aWRpbmcgMjRnIG9mIHByb3RlaW4gYW5kIDVnIG9mIEJDQUEgcGVyIHNlcnZpbmcuIEl0IGlzIGEgaGlnaC1xdWFsaXR5IGNvbXBsZXRlIHByb3RlaW4gcG93ZGVyIHRoYXQmbmJzcDsuLi5KAmlzSgJpblIEdGhhdFICaXRSBHRoaXNSA29uZVIFbm90IGEiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlFSSWVQVVptYjdhRFJ2MkVaWGdsc2Q1WGFmbWNHNG40UXFZMkEwdGE5d1RxbU9LNzFlTDI5R3F2eTBSWW05UlJiRXIwX3pkdWlheEV5c2swUVV1WHpwTVVRZnlfVG1UY2EyX1NUc1VxWEJteFl0NUpEcENHZXJDLThSanNZaXNWcDhtYWxZQlp1amx0WTkzd1hDekZtSVFLMFNhM1VySzY1ZxIEGgIIABr1BRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDRBQgAEAAYACAAKhwKBXdoaWNoFXzteTwaAml0GgR0aGF0GgR0aGlzKgkKAmlzFQAAAAAqMgoCbm8VCqMJPxoFbm90IGEaBm51bWJlchoKbnVtYmVyIG9uZRoHd2l0aG91dBoDbm8xKh4KATEVz1Y4PxoKbnVtYmVyIG9uZRoDb25lGgNubzEqLwoEd2hleRXgTnFAGgpzdXBwbGVtZW50Ggt3aGV5cHJvdGVpbhoJaXY7cDt3aGV5KjMKB3Byb3RlaW4V_FyIQBoIcHJvdGVpbnMaC3doZXlwcm90ZWluGgxpdjtwO3Byb3RlaW4qCQoCaW4VAAAAACobCgVpbmRpYRXqLaY_GgRjb3N0GgdpbmRpYSdzMrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlFSSWVQVVptYjdhRFJ2MkVaWGdsc2Q1WGFmbWNHNG40UXFZMkEwdGE5d1RxbU9LNzFlTDI5R3F2eTBSWW05UlJiRXIwX3pkdWlheEV5c2swUVV1WHpwTVVRZnlfVG1UY2EyX1NUc1VxWEJteFl0NUpEcENHZXJDLThSanNZaXNWcDhtYWxZQlp1amx0WTkzd1hDekZtSVFLMFNhM1VySzY1ZzouVG9wIE51dHJpdGlvbiA8Yj5XaGV5IFByb3RlaW48L2I-IFBvd2RlciAtIDFtZ0KsATxiPlRvcCBOdXRyaXRpb24gV2hleSBQcm90ZWluIFBvd2RlcjwvYj4gaXMgcmljaCBpbiBwcm90ZWluLCBwcm92aWRpbmcgMjRnIG9mIHByb3RlaW4gYW5kIDVnIG9mIEJDQUEgcGVyIHNlcnZpbmcuIEl0IGlzIGEgaGlnaC1xdWFsaXR5IGNvbXBsZXRlIHByb3RlaW4gcG93ZGVyIHRoYXQmbmJzcDsuLi5KAmlzSgJpblIEdGhhdFICaXRSBHRoaXNSA29uZVIFbm90IGEiAhABSABYAGgA",
+        "source": "1mg",
+        "read_more_link": "https://www.1mg.com/otc/top-nutrition-whey-protein-powder-otc799991#:~:text=Top%20Nutrition%20Whey%20Protein%20Powder,that%20supports%20strength%20and%20recovery."
+      },
+      {
+        "position": 10,
+        "title": "Amul enters India's protein market with high-quality products",
+        "link": "https://www.linkedin.com/posts/chiragkakkarofficial_innovation-nutrition-health-activity-7300009871800709121-YzoQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEB6zswFV4LNIhNDVmbf6SgD0JZnoueaBMdzdRxW3Dx_cVjxGqvjdbYPoBb45Bp04_TTB334gWJKY3pbDiiG6_fu8Hu4eUENpC9VJH9atWEwCkCdyiFF-LVeyNHE7Nf4EUa-JNUutS39LlBC-Dh6TxeCFofezCMsmxOqwuK2cXT6-r8RV0dM072JAWOHnaZH-9irFRRYNm7ngrxJX6Yrp65Zdz7AqmO7CwVn5b0&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQFnoECEcQAQ&uoh=1",
+        "displayed_link": "10+ reactions · 1 year ago",
+        "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+        "snippet": "The Whey Protien market size stood at USD 92.03 million in 2023 & is expected to reach USD 125.2 million by 2030 ...",
+        "snippet_highlighted_words": [
+          "Whey"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The Whey Protien market size stood at USD 92.03 million in 2023 & is expected to reach USD 125.2 million by 2030 ...",
+            "source_info_link": "https://www.linkedin.com/posts/chiragkakkarofficial_innovation-nutrition-health-activity-7300009871800709121-YzoQ",
+            "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvYBL2dvdG8_dXJsPUNBRVNyQUVCNnpzd0ZWNExOSWhORFZtYmY2U2dEMEpabm91ZWFCTWR6ZFJ4VzNEeF9jVmp4R3F2amRiWVBvQmI0NUJwMDRfVFRCMzM0Z1dKS1kzcGJEaWlHNl9mdThIdTRlVUVOcEM5VkpIOWF0V0V3Q2tDZHlpRkYtTFZleU5IRTdOZjRFVWEtSk5VdXRTMzlMbEJDLURoNlR4ZUNGb2ZlekNNc214T3F3dUsyY1hUNi1yOFJWMGRNMDcySkFXT0huYVpILTlpckZSUllObTduZ3J4Slg2WXJwNjVaZHo3QXFtTzdDd1ZuNWIwEgQaAggAGqUGEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIEGCAAQABgAIAAqHAoFd2hpY2gVWYqePhoCaXQaBHRoYXQaBHRoaXMqCQoCaXMVAAAAACoyCgJubxVXZkk_GgVub3QgYRoGbnVtYmVyGgpudW1iZXIgb25lGgd3aXRob3V0GgNubzEqHgoBMRXrecE_GgpudW1iZXIgb25lGgNvbmUaA25vMSovCgR3aGV5FeClwT8aCnN1cHBsZW1lbnQaC3doZXlwcm90ZWluGglpdjtwO3doZXkqMwoHcHJvdGVpbhXzTpZAGghwcm90ZWlucxoLd2hleXByb3RlaW4aDGl2O3A7cHJvdGVpbioJCgJpbhUAAAAAKhsKBWluZGlhFS2NlUAaBGNvc3QaB2luZGlhJ3My9gEvZ290bz91cmw9Q0FFU3JBRUI2enN3RlY0TE5JaE5EVm1iZjZTZ0QwSlpub3VlYUJNZHpkUnhXM0R4X2NWanhHcXZqZGJZUG9CYjQ1QnAwNF9UVEIzMzRnV0pLWTNwYkRpaUc2X2Z1OEh1NGVVRU5wQzlWSkg5YXRXRXdDa0NkeWlGRi1MVmV5TkhFN05mNEVVYS1KTlV1dFMzOUxsQkMtRGg2VHhlQ0ZvZmV6Q01zbXhPcXd1SzJjWFQ2LXI4UlYwZE0wNzJKQVdPSG5hWkgtOWlyRlJSWU5tN25ncnhKWDZZcnA2NVpkejdBcW1PN0N3Vm41YjA6SEFtdWwgZW50ZXJzIDxiPkluZGlhJiMzOTtzIHByb3RlaW48L2I-IG1hcmtldCB3aXRoIGhpZ2gtcXVhbGl0eSBwcm9kdWN0c0KEAVRoZSA8Yj5XaGV5PC9iPiBQcm90aWVuIG1hcmtldCBzaXplIHN0b29kIGF0IFVTRCA5Mi4wMyBtaWxsaW9uIGluIDIwMjMgJmFtcDsgaXMgZXhwZWN0ZWQgdG8gcmVhY2ggVVNEIDEyNS4yIG1pbGxpb24gYnkgMjAzMCZuYnNwOy4uLkoCaW5KAmlzUgR0aGF0UgJpdFIEdGhpc1IDb25lUgVub3QgYSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvYBL2dvdG8_dXJsPUNBRVNyQUVCNnpzd0ZWNExOSWhORFZtYmY2U2dEMEpabm91ZWFCTWR6ZFJ4VzNEeF9jVmp4R3F2amRiWVBvQmI0NUJwMDRfVFRCMzM0Z1dKS1kzcGJEaWlHNl9mdThIdTRlVUVOcEM5VkpIOWF0V0V3Q2tDZHlpRkYtTFZleU5IRTdOZjRFVWEtSk5VdXRTMzlMbEJDLURoNlR4ZUNGb2ZlekNNc214T3F3dUsyY1hUNi1yOFJWMGRNMDcySkFXT0huYVpILTlpckZSUllObTduZ3J4Slg2WXJwNjVaZHo3QXFtTzdDd1ZuNWIwEgQaAggAGqUGEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIEGCAAQABgAIAAqHAoFd2hpY2gVWYqePhoCaXQaBHRoYXQaBHRoaXMqCQoCaXMVAAAAACoyCgJubxVXZkk_GgVub3QgYRoGbnVtYmVyGgpudW1iZXIgb25lGgd3aXRob3V0GgNubzEqHgoBMRXrecE_GgpudW1iZXIgb25lGgNvbmUaA25vMSovCgR3aGV5FeClwT8aCnN1cHBsZW1lbnQaC3doZXlwcm90ZWluGglpdjtwO3doZXkqMwoHcHJvdGVpbhXzTpZAGghwcm90ZWlucxoLd2hleXByb3RlaW4aDGl2O3A7cHJvdGVpbioJCgJpbhUAAAAAKhsKBWluZGlhFS2NlUAaBGNvc3QaB2luZGlhJ3My9gEvZ290bz91cmw9Q0FFU3JBRUI2enN3RlY0TE5JaE5EVm1iZjZTZ0QwSlpub3VlYUJNZHpkUnhXM0R4X2NWanhHcXZqZGJZUG9CYjQ1QnAwNF9UVEIzMzRnV0pLWTNwYkRpaUc2X2Z1OEh1NGVVRU5wQzlWSkg5YXRXRXdDa0NkeWlGRi1MVmV5TkhFN05mNEVVYS1KTlV1dFMzOUxsQkMtRGg2VHhlQ0ZvZmV6Q01zbXhPcXd1SzJjWFQ2LXI4UlYwZE0wNzJKQVdPSG5hWkgtOWlyRlJSWU5tN25ncnhKWDZZcnA2NVpkejdBcW1PN0N3Vm41YjA6SEFtdWwgZW50ZXJzIDxiPkluZGlhJiMzOTtzIHByb3RlaW48L2I-IG1hcmtldCB3aXRoIGhpZ2gtcXVhbGl0eSBwcm9kdWN0c0KEAVRoZSA8Yj5XaGV5PC9iPiBQcm90aWVuIG1hcmtldCBzaXplIHN0b29kIGF0IFVTRCA5Mi4wMyBtaWxsaW9uIGluIDIwMjMgJmFtcDsgaXMgZXhwZWN0ZWQgdG8gcmVhY2ggVVNEIDEyNS4yIG1pbGxpb24gYnkgMjAzMCZuYnNwOy4uLkoCaW5KAmlzUgR0aGF0UgJpdFIEdGhpc1IDb25lUgVub3QgYSICEAFIAFgAaAA",
+        "source": "LinkedIn · Chirag Kakkar",
+        "read_more_link": "https://www.linkedin.com/posts/chiragkakkarofficial_innovation-nutrition-health-activity-7300009871800709121-YzoQ#:~:text=%F0%9F%91%89%20The%20Whey%20Protien%20market,at%20a%20CAGR%20of%20%F0%9D%9F%93.%F0%9D%9F%8E%F0%9D%9F%96%25."
+      }
+    ],
+    "refine_this_search": [
+      {
+        "query": "Price",
+        "link": "https://www.google.com/search?q=price+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GBIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKAF6BAgxEF0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=price+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Brand",
+        "link": "https://www.google.com/search?q=brand+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GBIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMgkIEhIFQnJhbmRgAQ&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKAJ6BAgxEF4",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=brand+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Weight Gain",
+        "link": "https://www.google.com/search?q=weight+gain+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GAEqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhsIARILV2VpZ2h0IEdhaW46Cgjx6l4Q8-peMABYpJQhYAE&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKAN6BAgxEF8",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=weight+gain+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Chocolate",
+        "link": "https://www.google.com/search?q=chocolate+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GAEqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhkIARIJQ2hvY29sYXRlOgoIzpQ7ENCUOzAAWKSUIWAB&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKAR6BAgxEGA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=chocolate+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "MuscleBlaze",
+        "link": "https://www.google.com/search?q=muscleblaze+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GAEqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhsIARILTXVzY2xlQmxhemU6CgiD8zwQs6VTMAFYpJQhYAE&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKAV6BAgxEGE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=muscleblaze+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Under ₹1,500",
+        "link": "https://www.google.com/search?q=Which+is+no+1+whey+protein+in+India?+under+1500&gl=in&hl=en&shoprs=Eg0SCxEAAADAC1rWQRgBGAUqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMicIBRIOVW5kZXIg4oK5MSw1MDAYAiINEgsRAAAAwAta1kEYASoCGAFYpJQhYAE&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKAZ6BAgxEGI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Which+is+no+1+whey+protein+in+India%3F+under+1500"
+      },
+      {
+        "query": "Optimum Nutrition",
+        "link": "https://www.google.com/search?q=optimum+nutrition+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GAEqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMiEIARIRT3B0aW11bSBOdXRyaXRpb246CgiD8zwQxOo-MAFYpJQhYAE&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKAd6BAgxEGM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=optimum+nutrition+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Black",
+        "link": "https://www.google.com/search?q=black+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GAEqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhcIARIFQmxhY2s6DAjYjPUBEOWK9QEwC1iklCFgAQ&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKAh6BAgxEGQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=black+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "On sale",
+        "link": "https://www.google.com/search?q=Which+is+no+1+whey+protein+in+India?+sale&gl=in&hl=en&shoprs=EgRKAggBGAYqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhMIBhIHT24gc2FsZRgCIgRKAggBWKSUIWAB&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKAl6BAgxEGU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Which+is+no+1+whey+protein+in+India%3F+sale"
+      },
+      {
+        "query": "Reviews",
+        "link": "https://www.google.com/search?q=reviews+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GBIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKAp6BAgxEGY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=reviews+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Female",
+        "link": "https://www.google.com/search?q=female+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GBIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMgoIEhIGRmVtYWxlYAE&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKAt6BAgxEGc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=female+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Muscle Gain",
+        "link": "https://www.google.com/search?q=muscle+gain+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GAEqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhsIARILTXVzY2xlIEdhaW46Cgjx6l4Q8upeMABYpJQhYAE&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKAx6BAgxEGg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=muscle+gain+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "MuscleTech",
+        "link": "https://www.google.com/search?q=muscletech+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GAEqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhoIARIKTXVzY2xlVGVjaDoKCIPzPBCdz04wAViklCFgAQ&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKA16BAgxEGk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=muscletech+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "1mg",
+        "link": "https://www.google.com/search?q=1mg+which+is+no+1+whey+protein+in+india&gl=in&hl=en&shoprs=GAIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMgcIAhIDMW1nWKSUIWAB&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKA56BAgxEGo",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=1mg+which+is+no+1+whey+protein+in+india"
+      },
+      {
+        "query": "White",
+        "link": "https://www.google.com/search?q=white+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GAEqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhcIARIFV2hpdGU6DAjYjPUBEKGL9QEwC1iklCFgAQ&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKA96BAgxEGs",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=white+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Girl",
+        "link": "https://www.google.com/search?q=girl+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GBIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMggIEhIER2lybGAB&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBB6BAgxEGw",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=girl+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Buy",
+        "link": "https://www.google.com/search?q=buy+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GBIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBF6BAgxEG0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=buy+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "asitisnutrition.com",
+        "link": "https://www.google.com/search?q=asitisnutrition.com+which+is+no+1+whey+protein+in+india&gl=in&hl=en&shoprs=GAIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhcIAhITYXNpdGlzbnV0cml0aW9uLmNvbViklCFgAQ&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBJ6BAgxEG4",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=asitisnutrition.com+which+is+no+1+whey+protein+in+india"
+      },
+      {
+        "query": "GNC",
+        "link": "https://www.google.com/search?q=gnc+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GAEqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhMIARIDR05DOgoIg_M8EOLmPjABWKSUIWAB&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBN6BAgxEG8",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=gnc+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Boy",
+        "link": "https://www.google.com/search?q=boy+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GBIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMgcIEhIDQm95YAE&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBR6BAgxEHA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=boy+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Labrada",
+        "link": "https://www.google.com/search?q=labrada+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GAEqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhcIARIHTGFicmFkYToKCIPzPBDx9j4wAViklCFgAQ&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBV6BAgxEHE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=labrada+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Avvatar India",
+        "link": "https://www.google.com/search?q=avvatar+india+which+is+no+1+whey+protein+in&gl=in&hl=en&shoprs=GAIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhEIAhINQXZ2YXRhciBJbmRpYViklCFgAQ&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBZ6BAgxEHI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=avvatar+india+which+is+no+1+whey+protein+in"
+      },
+      {
+        "query": "Body",
+        "link": "https://www.google.com/search?q=body+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GBIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMggIEhIEQm9keWAB&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBd6BAgxEHM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=body+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Online",
+        "link": "https://www.google.com/search?q=online+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GBIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBh6BAgxEHQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=online+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Vanilla",
+        "link": "https://www.google.com/search?q=vanilla+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GAEqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhcIARIHVmFuaWxsYToKCM6UOxDSlDswAFiklCFgAQ&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBl6BAgxEHU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=vanilla+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "HealthKart Official",
+        "link": "https://www.google.com/search?q=healthkart+official+which+is+no+1+whey+protein+in+india&gl=in&hl=en&shoprs=GAIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhcIAhITSGVhbHRoS2FydCBPZmZpY2lhbFiklCFgAQ&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBp6BAgxEHY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=healthkart+official+which+is+no+1+whey+protein+in+india"
+      },
+      {
+        "query": "Man",
+        "link": "https://www.google.com/search?q=man+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GBIqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMgcIEhIDTWFuYAE&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBt6BAgxEHc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=man+Which+is+no+1+whey+protein+in+India"
+      },
+      {
+        "query": "Blue",
+        "link": "https://www.google.com/search?q=blue+Which+is+no+1+whey+protein+in+India&gl=in&hl=en&shoprs=GAEqI3doaWNoIGlzIG5vIDEgd2hleSBwcm90ZWluIGluIGluZGlhMhYIARIEQmx1ZToMCNiM9QEQ5or1ATALWKSUIWAB&sa=X&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQip4GKBx6BAgxEHg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=blue+Which+is+no+1+whey+protein+in+India"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Which are the best whey protein brands in India?",
+        "link": "https://www.quora.com/Which-are-the-best-whey-protein-brands-in-India-1?no_redirect=1",
+        "date": "9 years ago",
+        "extensions": [
+          "40+ answers"
+        ],
+        "source": "Quora",
+        "answers": [
+          {
+            "link": "https://www.quora.com/Which-are-the-best-whey-protein-brands-in-India-1?top_ans=264327003",
+            "extensions": [
+              "Top answer",
+              "108 votes",
+              "5 years ago"
+            ]
+          },
+          {
+            "link": "https://www.quora.com/Which-are-the-best-whey-protein-brands-in-India-1?top_ans=325058991",
+            "extensions": [
+              "12 votes",
+              "4 years ago"
+            ]
+          },
+          {
+            "link": "https://www.quora.com/Which-are-the-best-whey-protein-brands-in-India-1?top_ans=243928946",
+            "extensions": [
+              "8 votes",
+              "5 years ago"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Which is the best brand for whey protein in the Indian market?",
+        "link": "https://www.quora.com/Which-is-the-best-brand-for-whey-protein-in-the-Indian-market?no_redirect=1",
+        "date": "9 years ago",
+        "extensions": [
+          "40+ answers"
+        ],
+        "source": "Quora",
+        "answers": [
+          {
+            "link": "https://www.quora.com/Which-is-the-best-brand-for-whey-protein-in-the-Indian-market?top_ans=123308633",
+            "extensions": [
+              "Top answer",
+              "17 votes",
+              "7 years ago"
+            ]
+          },
+          {
+            "link": "https://www.quora.com/Which-is-the-best-brand-for-whey-protein-in-the-Indian-market?top_ans=325058991",
+            "extensions": [
+              "12 votes",
+              "4 years ago"
+            ]
+          },
+          {
+            "link": "https://www.quora.com/Which-is-the-best-brand-for-whey-protein-in-the-Indian-market?top_ans=101289394",
+            "extensions": [
+              "11 votes",
+              "8 years ago"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Looking for a genuine whey protein. What do you recommend?",
+        "link": "https://www.reddit.com/r/Chandigarh/comments/1ula985/looking_for_a_genuine_whey_protein_what_do_you/",
+        "date": "3 months ago",
+        "extensions": [
+          "r/Chandigarh",
+          "20+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.reddit.com/r/Chandigarh/comments/1ula985/looking_for_a_genuine_whey_protein_what_do_you/"
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Which+is+no+1+whey+protein+in+India?&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQntndYHUP-CibyamoPmA7xaZsnfgxw:1791290050101&ei=wurEaozMBbql2roPqsGVqQY&start=10&sa=N&sstk=AS6-VmIFTjhTuS36GV6Cz9UmvzFM8Liw76DrEFl-_0_A94-OYEHf_17c_CxmZAotTOcWVqd_jgImQRS0Ic1-E_JRlISniecW3SiBJg&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQ8NMDegQIRBAQ",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Which+is+no+1+whey+protein+in+India?&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQntndYHUP-CibyamoPmA7xaZsnfgxw:1791290050101&ei=wurEaozMBbql2roPqsGVqQY&start=10&sa=N&sstk=AS6-VmIFTjhTuS36GV6Cz9UmvzFM8Liw76DrEFl-_0_A94-OYEHf_17c_CxmZAotTOcWVqd_jgImQRS0Ic1-E_JRlISniecW3SiBJg&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQ8tMDegQIRBAE",
+        "3": "https://www.google.com/search?q=Which+is+no+1+whey+protein+in+India?&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQntndYHUP-CibyamoPmA7xaZsnfgxw:1791290050101&ei=wurEaozMBbql2roPqsGVqQY&start=20&sa=N&sstk=AS6-VmIFTjhTuS36GV6Cz9UmvzFM8Liw76DrEFl-_0_A94-OYEHf_17c_CxmZAotTOcWVqd_jgImQRS0Ic1-E_JRlISniecW3SiBJg&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQ8tMDegQIRBAG",
+        "4": "https://www.google.com/search?q=Which+is+no+1+whey+protein+in+India?&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQntndYHUP-CibyamoPmA7xaZsnfgxw:1791290050101&ei=wurEaozMBbql2roPqsGVqQY&start=30&sa=N&sstk=AS6-VmIFTjhTuS36GV6Cz9UmvzFM8Liw76DrEFl-_0_A94-OYEHf_17c_CxmZAotTOcWVqd_jgImQRS0Ic1-E_JRlISniecW3SiBJg&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQ8tMDegQIRBAI",
+        "5": "https://www.google.com/search?q=Which+is+no+1+whey+protein+in+India?&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQntndYHUP-CibyamoPmA7xaZsnfgxw:1791290050101&ei=wurEaozMBbql2roPqsGVqQY&start=40&sa=N&sstk=AS6-VmIFTjhTuS36GV6Cz9UmvzFM8Liw76DrEFl-_0_A94-OYEHf_17c_CxmZAotTOcWVqd_jgImQRS0Ic1-E_JRlISniecW3SiBJg&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQ8tMDegQIRBAK",
+        "6": "https://www.google.com/search?q=Which+is+no+1+whey+protein+in+India?&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQntndYHUP-CibyamoPmA7xaZsnfgxw:1791290050101&ei=wurEaozMBbql2roPqsGVqQY&start=50&sa=N&sstk=AS6-VmIFTjhTuS36GV6Cz9UmvzFM8Liw76DrEFl-_0_A94-OYEHf_17c_CxmZAotTOcWVqd_jgImQRS0Ic1-E_JRlISniecW3SiBJg&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQ8tMDegQIRBAM",
+        "7": "https://www.google.com/search?q=Which+is+no+1+whey+protein+in+India?&sca_esv=4b52e16ed3e955c1&gl=in&hl=en&sxsrf=APpeQntndYHUP-CibyamoPmA7xaZsnfgxw:1791290050101&ei=wurEaozMBbql2roPqsGVqQY&start=60&sa=N&sstk=AS6-VmIFTjhTuS36GV6Cz9UmvzFM8Liw76DrEFl-_0_A94-OYEHf_17c_CxmZAotTOcWVqd_jgImQRS0Ic1-E_JRlISniecW3SiBJg&ved=2ahUKEwiMtYC5s6WXAxW6klYBHapgJWUQ8tMDegQIRBAO"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Which+is+no+1+whey+protein+in+India%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Which+is+no+1+whey+protein+in+India%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Which+is+no+1+whey+protein+in+India%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Which+is+no+1+whey+protein+in+India%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Which+is+no+1+whey+protein+in+India%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Which+is+no+1+whey+protein+in+India%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Which+is+no+1+whey+protein+in+India%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Mumbai%2C+Maharashtra%2C+India&q=Which+is+no+1+whey+protein+in+India%3F&start=60"
+      }
+    }
+  }
+}

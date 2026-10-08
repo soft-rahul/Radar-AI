@@ -1,0 +1,272 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "2000 रुपये के अंदर सबसे अच्छा व्हे प्रोटीन कौन सा है",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "hi",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:39:12+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebe53d40b67e506dca2e",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/WYOOM8u3ofYPr1uc7truMAJr5p3WF9MvVN_972mpRnI/6ac4ebe53d40b67e506dca2e.json",
+      "markdown_endpoint": "https://serpapi.com/searches/WYOOM8u3ofYPr1uc7truMAJr5p3WF9MvVN_972mpRnI/6ac4ebe53d40b67e506dca2e.md",
+      "created_at": "2026-10-06 12:39:01 UTC",
+      "processed_at": "2026-10-06 12:39:01 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=2000+%E0%A4%B0%E0%A5%81%E0%A4%AA%E0%A4%AF%E0%A5%87+%E0%A4%95%E0%A5%87+%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88&udm=50&gl=in&hl=hi&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/WYOOM8u3ofYPr1uc7truMAJr5p3WF9MvVN_972mpRnI/6ac4ebe53d40b67e506dca2e.html",
+      "prettify_html_file": "https://serpapi.com/searches/WYOOM8u3ofYPr1uc7truMAJr5p3WF9MvVN_972mpRnI/6ac4ebe53d40b67e506dca2e.prettify",
+      "total_time_taken": 11.06
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "2000 रुपये के अंदर सबसे अच्छा व्हे प्रोटीन कौन सा है",
+      "hl": "hi",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "2000 रुपये के बजट में 1 किलोग्राम (1kg) का अच्छा और लैब-टेस्टेड व्हे प्रोटीन ढूंढना थोड़ा चुनौतीपूर्ण हो सकता है क्योंकि कई पॉपुलर ब्रांड्स की कीमत इससे ज्यादा है। हालांकि, कुछ बेहतरीन बजट-फ्रेंडली और भरोसेमंद विकल्प ऐसे हैं जो इस बजट (या ऑफर्स के साथ ₹1600 - ₹2000 के बीच) में मिल जाते हैं और उनकी क्वालिटी भी प्रमाणित (Trustified / Lab Tested) होती है।",
+        "snippet_highlighted_words": [
+          "कुछ बेहतरीन बजट-फ्रेंडली और भरोसेमंद विकल्प ऐसे हैं जो इस बजट (या ऑफर्स के साथ ₹1600 - ₹2000 के बीच) में मिल जाते हैं और उनकी क्वालिटी भी प्रमाणित (Trustified / Lab Tested) होती है"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "2000 रुपये के अंदर सबसे अच्छे और लोकप्रिय विकल्पों की सूची:"
+      },
+      {
+        "type": "heading",
+        "snippet": "1. Nakpro Whey Gold / Nakpro Impact"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "कीमत: लगभग ₹1,500 - ₹1,800 (1 kg)",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रति सर्विंग: लगभग 24g - 25g प्रोटीन (स्कूप साइज़ के अनुसार)",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "विशेषताएं: यह ब्रांड अपनी किफायती कीमत और अच्छी लैब रिपोर्ट्स (Trustified certified) के लिए जाना जाता है। इसमें आपको कॉन्सेंट्रेट और आइसोलेट का ब्लेंड मिलता है, जो रिकवरी और मसल्स बिल्डिंग के लिए बढ़िया है। इसमें कई फ्लेवर (जैसे मलाई कुल्फी, चॉकलेट) भी उपलब्ध हैं।",
+            "reference_indexes": [
+              0,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. AS-IT-IS Nutrition Whey Protein Concentrate 80% (Unflavoured)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "कीमत: लगभग ₹1,700 - ₹1,900 (1 kg)"
+          },
+          {
+            "snippet": "प्रोटीन प्रति सर्विंग: 24g (प्रति 30g स्कूप)"
+          },
+          {
+            "snippet": "विशेषताएं: अगर आपको फ्लेवर से फर्क नहीं पड़ता और आप 100% शुद्ध रॉ (Raw) व्हे प्रोटीन चाहते हैं, तो यह सबसे पारदर्शी और बजट-बेस्ट विकल्पों में से एक है। इसमें किसी तरह के आर्टिफिशियल फ्लेवर या शुगर का इस्तेमाल नहीं होता। आप चाहें तो इसे अपनी पसंद के अनुसार जूस, कॉफी या कोको पाउडर में मिला सकते हैं।",
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. Nakpro Perform / Platinum (Raw variants)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "कीमत: ₹1,200 - ₹1,800 के बीच (सेल या डिस्काउंट के दौरान)"
+          },
+          {
+            "snippet": "प्रोटीन प्रति सर्विंग: 22g - 24g"
+          },
+          {
+            "snippet": "विशेषताएं: शुरुआती लोगों (Beginners) के लिए यह एक बहुत ही किफायती और सुरक्षित विकल्प है।",
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "तुलना तालिका (Comparison Table)"
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "ब्रांड और वेरिएंट",
+            "प्रकार (Type)",
+            "प्रोटीन (प्रति सर्विंग)",
+            "लगभग कीमत (1 Kg)",
+            "मुख्य खूबी"
+          ],
+          [
+            "Nakpro Whey Gold",
+            "कॉन्सेंट्रेट + आइसोलेट ब्लेंड",
+            "~ 25g",
+            "₹1,500 - ₹1,800",
+            "स्वादिष्ट फ्लेवर और बजट फ्रेंडली"
+          ],
+          [
+            "AS-IT-IS Raw Whey 80%",
+            "रॉ व्हे कॉन्सेंट्रेट",
+            "~ 24g",
+            "₹1,700 - ₹1,900",
+            "बिना किसी मिलावट/फ्लेवर के शुद्ध प्रोटीन"
+          ]
+        ],
+        "detailed": [
+          [
+            {
+              "snippet": "ब्रांड और वेरिएंट"
+            },
+            {
+              "snippet": "प्रकार (Type)"
+            },
+            {
+              "snippet": "प्रोटीन (प्रति सर्विंग)"
+            },
+            {
+              "snippet": "लगभग कीमत (1 Kg)"
+            },
+            {
+              "snippet": "मुख्य खूबी"
+            }
+          ],
+          [
+            {
+              "snippet": "Nakpro Whey Gold"
+            },
+            {
+              "snippet": "कॉन्सेंट्रेट + आइसोलेट ब्लेंड"
+            },
+            {
+              "snippet": "~ 25g"
+            },
+            {
+              "snippet": "₹1,500 - ₹1,800"
+            },
+            {
+              "snippet": "स्वादिष्ट फ्लेवर और बजट फ्रेंडली"
+            }
+          ],
+          [
+            {
+              "snippet": "AS-IT-IS Raw Whey 80%"
+            },
+            {
+              "snippet": "रॉ व्हे कॉन्सेंट्रेट"
+            },
+            {
+              "snippet": "~ 24g"
+            },
+            {
+              "snippet": "₹1,700 - ₹1,900"
+            },
+            {
+              "snippet": "बिना किसी मिलावट/फ्लेवर के शुद्ध प्रोटीन"
+            }
+          ]
+        ],
+        "formatted": [
+          {
+            "ब्रांड_और_वेरिएंट": "Nakpro Whey Gold",
+            "प्रकार_type": "कॉन्सेंट्रेट + आइसोलेट ब्लेंड",
+            "प्रोटीन_प्रति_सर्विंग": "~ 25g",
+            "लगभग_कीमत_1_kg": "₹1,500 - ₹1,800",
+            "मुख्य_खूबी": "स्वादिष्ट फ्लेवर और बजट फ्रेंडली"
+          },
+          {
+            "ब्रांड_और_वेरिएंट": "AS-IT-IS Raw Whey 80%",
+            "प्रकार_type": "रॉ व्हे कॉन्सेंट्रेट",
+            "प्रोटीन_प्रति_सर्विंग": "~ 24g",
+            "लगभग_कीमत_1_kg": "₹1,700 - ₹1,900",
+            "मुख्य_खूबी": "बिना किसी मिलावट/फ्लेवर के शुद्ध प्रोटीन"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "महत्वपूर्ण सुझाव:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "हमेशा आधिकारिक वेबसाइटों या अधिकृत विक्रेताओं (Official Website / Authorized Amazon/HealthKart sellers) से ही खरीदें ताकि डुप्लीकेसी से बच सकें।"
+          },
+          {
+            "snippet": "अगर आपको लैक्टोज इंटॉलरेंस (दूध पचने में समस्या) है, तो रॉ/कॉन्सेंट्रेट की बजाय थोड़ा बजट बढ़ाकर आइसोलेट की तरफ जाना पड़ सकता है, क्योंकि ₹2000 के अंदर मिलने वाले ज्यादातर विकल्प कॉन्सेंट्रेट या ब्लेंड होते हैं जिनमें थोड़ा लैक्टोज हो सकता है।",
+            "reference_indexes": [
+              0,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "यदि आप बताना चाहें कि आपका गोल क्या है (मसल्स गेन, फैट लॉस, या सिर्फ डेली प्रोटीन पूरा करना) और क्या आपको फ्लेवर वाला प्रोटीन चाहिए या अनफ्लेवरड, तो मैं आपके लिए एकदम सटीक विकल्प सुझा सकता हूँ।"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Buy Best Muscle Building Supplements - nakpro nutrition",
+        "link": "https://nakpro.com/collections/all-website-products?srsltid=AU7gw4VWVR5PzEG6hSz5nkjfp1sZ3Y7M90mP4liU6rOm7KnUen8BQuFN",
+        "snippet": "Nakpro Impact Whey Protein | 53g Protein | Whey Isolate & Concentrate Blend | Added Enzymes & Vitamins | Trustified Certified. Regular price Rs. 2,600.00 Sale pric...",
+        "source": "nakpro nutrition",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nakpro.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5hzFSRNXd5lNT_N8RUFgA2AGJ5FDwimoOysdSCo4P56YJOQoe9Uh_lx8Om4ynDZNXlDca85zfLT2evOaccbsy6d1CY3Uzkd9Ejo0r"
+      },
+      {
+        "index": 1,
+        "title": "NAKPRO Nutrition | Whey Protein Powder | Whey Gold Concentrate – NAKPRO NUTRITION",
+        "link": "https://nakpro.com/products/nakpro-whey-protein-concentrate-whey-protein-powder",
+        "snippet": "Nakpro Whey Gold Whey Protein. Specs: 35g scoop, 28 servings (1kg), 137.20 kcal, 25.46g protein, 4.46g carbs, 1.96g fat, calcium per serving. Flavors & Sizes: 500g...",
+        "source": "nakpro nutrition",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nakpro.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyqj9tspMaSha8eDffOdx0tKK2vTImTLuSQDjnDmPeGAJQBOEsRlDtpWWbzX-wh4zKih9pOQL5hWETObAQxCwPZu8h7hpJtCPXQtGZ"
+      },
+      {
+        "index": 2,
+        "title": "AS-IT-IS Nutrition Whey Protein Concentrate 80% - 1kg",
+        "link": "https://www.amazon.in/AS-Nutrition-Protein-Concentrate-Unflavoured/dp/B079SZJJDR",
+        "snippet": "Each Serving Of 30G Contains 24G Protein And 5.4G Bcaa, Which Makes It Very Effective For Muscle Gain And Synthesis.",
+        "source": "Amazon.in",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3x1sjTrbKZ1PVCtFrCmgr1YM_A-xZ4XTy9GVi3TKVEVUvzpggLBB_Zi9WxLSiDwCNM0rPKq4Pkt81E3LUdHfdasbQ-NPpYj6buk4t"
+      }
+    ],
+    "reconstructed_markdown": "2000 रुपये के बजट में 1 किलोग्राम \\(1kg\\) का अच्छा और लैब\\-टेस्टेड व्हे प्रोटीन ढूंढना थोड़ा चुनौतीपूर्ण हो सकता है क्योंकि कई पॉपुलर ब्रांड्स की कीमत इससे ज्यादा है। हालांकि, कुछ बेहतरीन बजट\\-फ्रेंडली और भरोसेमंद विकल्प ऐसे हैं जो इस बजट \\(या ऑफर्स के साथ ₹1600 \\- ₹2000 के बीच\\) में मिल जाते हैं और उनकी क्वालिटी भी प्रमाणित \\(Trustified / Lab Tested\\) होती है।\n\n2000 रुपये के अंदर सबसे अच्छे और लोकप्रिय विकल्पों की सूची:\n\n### 1. Nakpro Whey Gold / Nakpro Impact\n\n- कीमत: लगभग ₹1,500 \\- ₹1,800 \\(1 kg\\) [0]\n- प्रोटीन प्रति सर्विंग: लगभग 24g \\- 25g प्रोटीन \\(स्कूप साइज़ के अनुसार\\) [1]\n- विशेषताएं: यह ब्रांड अपनी किफायती कीमत और अच्छी लैब रिपोर्ट्स \\(Trustified certified\\) के लिए जाना जाता है। इसमें आपको कॉन्सेंट्रेट और आइसोलेट का ब्लेंड मिलता है, जो रिकवरी और मसल्स बिल्डिंग के लिए बढ़िया है। इसमें कई फ्लेवर \\(जैसे मलाई कुल्फी, चॉकलेट\\) भी उपलब्ध हैं। [0] [1]\n\n### 2. AS\\-IT\\-IS Nutrition Whey Protein Concentrate 80% \\(Unflavoured\\)\n\n- कीमत: लगभग ₹1,700 \\- ₹1,900 \\(1 kg\\)\n- प्रोटीन प्रति सर्विंग: 24g \\(प्रति 30g स्कूप\\)\n- विशेषताएं: अगर आपको फ्लेवर से फर्क नहीं पड़ता और आप 100% शुद्ध रॉ \\(Raw\\) व्हे प्रोटीन चाहते हैं, तो यह सबसे पारदर्शी और बजट\\-बेस्ट विकल्पों में से एक है। इसमें किसी तरह के आर्टिफिशियल फ्लेवर या शुगर का इस्तेमाल नहीं होता। आप चाहें तो इसे अपनी पसंद के अनुसार जूस, कॉफी या कोको पाउडर में मिला सकते हैं। [2]\n\n### 3. Nakpro Perform / Platinum \\(Raw variants\\)\n\n- कीमत: ₹1,200 \\- ₹1,800 के बीच \\(सेल या डिस्काउंट के दौरान\\)\n- प्रोटीन प्रति सर्विंग: 22g \\- 24g\n- विशेषताएं: शुरुआती लोगों \\(Beginners\\) के लिए यह एक बहुत ही किफायती और सुरक्षित विकल्प है। [0]\n\n### तुलना तालिका \\(Comparison Table\\)\n\n| ब्रांड और वेरिएंट | प्रकार \\(Type\\) | प्रोटीन \\(प्रति सर्विंग\\) | लगभग कीमत \\(1 Kg\\) | मुख्य खूबी |\n| --- | --- | --- | --- | --- |\n| Nakpro Whey Gold | कॉन्सेंट्रेट \\+ आइसोलेट ब्लेंड | \\~ 25g | ₹1,500 \\- ₹1,800 | स्वादिष्ट फ्लेवर और बजट फ्रेंडली |\n| AS\\-IT\\-IS Raw Whey 80% | रॉ व्हे कॉन्सेंट्रेट | \\~ 24g | ₹1,700 \\- ₹1,900 | बिना किसी मिलावट/फ्लेवर के शुद्ध प्रोटीन |\n\n### महत्वपूर्ण सुझाव:\n\n- हमेशा आधिकारिक वेबसाइटों या अधिकृत विक्रेताओं \\(Official Website / Authorized Amazon/HealthKart sellers\\) से ही खरीदें ताकि डुप्लीकेसी से बच सकें।\n- अगर आपको लैक्टोज इंटॉलरेंस \\(दूध पचने में समस्या\\) है, तो रॉ/कॉन्सेंट्रेट की बजाय थोड़ा बजट बढ़ाकर आइसोलेट की तरफ जाना पड़ सकता है, क्योंकि ₹2000 के अंदर मिलने वाले ज्यादातर विकल्प कॉन्सेंट्रेट या ब्लेंड होते हैं जिनमें थोड़ा लैक्टोज हो सकता है। [0] [1]\n\nयदि आप बताना चाहें कि आपका गोल क्या है \\(मसल्स गेन, फैट लॉस, या सिर्फ डेली प्रोटीन पूरा करना\\) और क्या आपको फ्लेवर वाला प्रोटीन चाहिए या अनफ्लेवरड, तो मैं आपके लिए एकदम सटीक विकल्प सुझा सकता हूँ।\n\n\n### References\n\n[0] [Buy Best Muscle Building Supplements \\- nakpro nutrition](https://www.google.com/goto?url=CAESrwEB6zswFV_rd9gUjuPt-0acvQeS15Rh9U0HWfuHZ11YoSMUcSdRSdFAkTubHDTs0Zep2YFzJbQjS3q8cvcYMQzHE_OURYJ_nUbLqfFj3RygfBoR9cNZaiiYY8u_6CXjIR8Wh6r2Eh6XPtzXcjGR_fNvbxypjHQOlrPrGxLHwaVo6wOG_HVCmXIJce8wFALZ7xngYxWvki-40LKeNNjVQsMJgd0Sv0tlJvb8sz1F7Zfk) — Nakpro Impact Whey Protein \\| 53g Protein \\| Whey Isolate & Concentrate Blend \\| Added Enzymes & Vitamins \\| Trustified Certified. Regular price Rs. 2,600.00 Sale pric...\n\n[1] [NAKPRO Nutrition \\| Whey Protein Powder \\| Whey Gold Concentrate – NAKPRO NUTRITION](https://www.google.com/goto?url=CAESigEB6zswFQZD-dUky11wQz_K7IMEyAxGUkdHh-X-YIcl8tt5k2sbuvlhAPbWhCn3J1lZWG60pafpAJZay-6m18oLf5v8ZelCFJxrLAxcZClru991jMj-ZgklRjuBOiwyhCLpIckQCTaPx5Cti5saQvGTniVvgCtmWxdILMgXexlzWijLbjP9JzT8zp0) — Nakpro Whey Gold Whey Protein. Specs: 35g scoop, 28 servings \\(1kg\\), 137.20 kcal, 25.46g protein, 4.46g carbs, 1.96g fat, calcium per serving. Flavors & Sizes: 500g...\n\n[2] [AS\\-IT\\-IS Nutrition Whey Protein Concentrate 80% \\- 1kg](https://www.google.com/goto?url=CAESiwEB6zswFRm29m6hOO0Rv3_yqf2BAsM8bymWjX2yo6h_gm9C5LQ2_F-SbNOEGj5iYTGwt5soJGEdGPfnoktjtUsrGltvomC4U0hjITAdXpTZwIQuy4KfAGIUMgVAqvOA4-gHsQuv1w-W1HIMQEX3JWshMi791hQw59VMuGvYrZIlFbHTZkDaaK3_2dPH) — Each Serving Of 30G Contains 24G Protein And 5.4G Bcaa, Which Makes It Very Effective For Muscle Gain And Synthesis.\n"
+  }
+}

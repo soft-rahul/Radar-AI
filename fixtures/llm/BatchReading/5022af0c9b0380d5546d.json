@@ -1,0 +1,264 @@
+{
+  "readings": [
+    {
+      "answer_id": "q2|ai_overview|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "TrueBasics Clean Whey, MuscleBlaze Biozyme, and The Whole Truth are among the top-rated whey protein brands in India for purity, lab testing, and label transparency."
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "TrueBasics Clean Whey, MuscleBlaze Biozyme, and The Whole Truth are among the top-rated whey protein brands in India for purity, lab testing, and label transparency."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition ONE Whey: Widely considered the best verified value for unflavoured raw concentrate with high protein purity per serving."
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard: The premier international benchmark known globally for quality, though higher priced."
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "NAKPRO Gold Raw Whey: A reliable, budget-friendly, and Trustified-certified choice for clean unflavoured concentrate."
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Nakpro",
+          "product": "NAKPRO Gold Raw Whey",
+          "attribute": "certification",
+          "value": "Trustified-certified",
+          "quote": "NAKPRO Gold Raw Whey: A reliable, budget-friendly, and Trustified-certified choice for clean unflavoured concentrate."
+        }
+      ]
+    },
+    {
+      "answer_id": "q2|copilot|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard Whey — Overall Best"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Biozyme Performance Whey — Best Indian Brand"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "Isopure Low Carb Whey — Weight Loss / Low‑Carb Users"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "recommended",
+          "quote": "Dymatize ISO100 — Fast Absorption / Athletes"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q2|copilot|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard Whey – कुल मिलाकर सर्वश्रेष्ठ 2"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Biozyme Performance Whey – भारतीय उपयोगकर्ताओं के लिए सर्वश्रेष्ठ, Labdoor प्रमाणित 2"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "recommended",
+          "quote": "Avvatar Absolute Whey – उच्च प्रोटीन प्रतिशत और भारतीय स्रोत वाला प्रीमियम विकल्प 1"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "Isopure Low Carb / Zero Carb – वजन घटाने और लैक्टोज‑फ्री जरूरतों के लिए श्रेष्ठ 2"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "ON Gold Standard",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "ON Gold Standard | 24g 1 | विश्वसनीय, संतुलित | सभी उपयोगकर्ता"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Biozyme",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "MuscleBlaze Biozyme | 25g 1 | उच्च अवशोषण, भारतीय ब्रांड | शुरुआती–मध्यम स्तर"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Biozyme Performance Whey",
+          "attribute": "certification",
+          "value": "Labdoor प्रमाणित",
+          "quote": "MuscleBlaze Biozyme Performance Whey – भारतीय उपयोगकर्ताओं के लिए सर्वश्रेष्ठ, Labdoor प्रमाणित 2"
+        },
+        {
+          "brand": "Avvatar",
+          "product": "Avvatar Absolute Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "28g",
+          "quote": "Avvatar Absolute Whey | 28g 1 | उच्च प्रोटीन, ताज़ा दूध | लीन मसल्स"
+        },
+        {
+          "brand": "Isopure",
+          "product": "Isopure Zero/Low Carb",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "Isopure Zero/Low Carb | 25g 2 | लैक्टोज‑फ्री | वजन घटाना"
+        }
+      ]
+    },
+    {
+      "answer_id": "q2|copilot|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard Whey — ग्लोबली सबसे भरोसेमंद, isolate primary source 1 ."
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Biozyme Whey — 50% बेहतर absorption, Indian diet‑friendly 1 ."
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "recommended",
+          "quote": "Dymatize Elite Whey — fast absorption, great taste 1 ."
+        },
+        {
+          "brand": "MyProtein",
+          "stance": "recommended",
+          "quote": "MyProtein Impact Whey — EU‑quality, budget‑friendly 1 ."
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "recommended",
+          "quote": "Avvatar Whey — farm‑fresh Indian whey, no hormones 1 ."
+        },
+        {
+          "brand": "Bigmuscles",
+          "stance": "recommended",
+          "quote": "BigMuscles Raw Whey — value for money, German whey sourcing 1 ."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS‑IT‑IS ATOM Whey — pure, no additives, high protein per scoop 1 ."
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Budget में Best: AS‑IT‑IS, Nakpro 1"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "Pure & Clean: AS‑IT‑IS, The Whole Truth (Amazon list) 1"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Optimum Nutrition (ON)",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "Optimum Nutrition (ON) | 24g | Premium | सबसे भरोसेमंद, best quality 1"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Biozyme",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "MuscleBlaze Biozyme | 25g | Mid-range | 50% better absorption, Indian digestion‑friendly 1"
+        },
+        {
+          "brand": "Dymatize",
+          "product": "Dymatize Elite",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "Dymatize Elite | 25g | Premium | Fast absorption, great taste 1"
+        },
+        {
+          "brand": "MyProtein",
+          "product": "MyProtein Impact",
+          "attribute": "protein_per_serving_g",
+          "value": "21g",
+          "quote": "MyProtein Impact | 21g | Budget | EU quality, affordable 1"
+        },
+        {
+          "brand": "Avvatar",
+          "product": "Avvatar Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "Avvatar Whey | 24g | Mid-range | Fresh cow milk, no hormones 1"
+        }
+      ]
+    },
+    {
+      "answer_id": "q2|copilot|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "यदि आप भारत में विश्वसनीय, पचाने में आसान और मसल रिकवरी-फोकस्ड व्हे प्रोटीन चाहते हैं, तो MuscleBlaze Biozyme, Protyze Clear Whey और Optimum Nutrition Gold Standard 100% Whey सबसे उपयुक्त विकल्प हैं।"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "यदि आप भारत में विश्वसनीय, पचाने में आसान और मसल रिकवरी-फोकस्ड व्हे प्रोटीन चाहते हैं, तो MuscleBlaze Biozyme, Protyze Clear Whey और Optimum Nutrition Gold Standard 100% Whey सबसे उपयुक्त विकल्प हैं।"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "neutral",
+          "quote": "TrueBasics और Isopure"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "neutral",
+          "quote": "Dymatize, MyProtein, AS-IT-IS Nutrition, BigMuscles Nutrition, MuscleTech, Avvatar 2"
+        },
+        {
+          "brand": "MyProtein",
+          "stance": "neutral",
+          "quote": "Dymatize, MyProtein, AS-IT-IS Nutrition, BigMuscles Nutrition, MuscleTech, Avvatar 2"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "Dymatize, MyProtein, AS-IT-IS Nutrition, BigMuscles Nutrition, MuscleTech, Avvatar 2"
+        },
+        {
+          "brand": "Bigmuscles",
+          "stance": "neutral",
+          "quote": "Dymatize, MyProtein, AS-IT-IS Nutrition, BigMuscles Nutrition, MuscleTech, Avvatar 2"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "neutral",
+          "quote": "Dymatize, MyProtein, AS-IT-IS Nutrition, BigMuscles Nutrition, MuscleTech, Avvatar 2"
+        }
+      ],
+      "claims": []
+    }
+  ]
+}

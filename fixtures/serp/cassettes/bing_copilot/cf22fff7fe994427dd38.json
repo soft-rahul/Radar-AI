@@ -1,0 +1,415 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "कौन सी कंपनी का व्हे प्रोटीन सबसे अच्छा है?",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:36:12+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb16974bbbc68c5d0363",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/pVhEb7NPO0jRqR26yqE1JWAuWPWrZr4pnU1s-QkTVK0/6ac4eb16974bbbc68c5d0363.json",
+      "markdown_endpoint": "https://serpapi.com/searches/pVhEb7NPO0jRqR26yqE1JWAuWPWrZr4pnU1s-QkTVK0/6ac4eb16974bbbc68c5d0363.md",
+      "created_at": "2026-10-06 12:35:34 UTC",
+      "processed_at": "2026-10-06 12:35:34 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A5%80+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%95%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88%3F&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/pVhEb7NPO0jRqR26yqE1JWAuWPWrZr4pnU1s-QkTVK0/6ac4eb16974bbbc68c5d0363.html",
+      "total_time_taken": 37.94
+    },
+    "search_parameters": {
+      "q": "कौन सी कंपनी का व्हे प्रोटीन सबसे अच्छा है?",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "भारत में Optimum Nutrition (ON) Gold Standard Whey को सबसे भरोसेमंद और समग्र रूप से सर्वश्रेष्ठ व्हे प्रोटीन माना जाता है, जबकि MuscleBlaze Biozyme भारतीय उपयोगकर्ताओं के लिए एक उत्कृष्ट और किफायती विकल्प है।",
+    "text_blocks": [
+      {
+        "type": "heading",
+        "snippet": "✅ भारत में शीर्ष व्हे प्रोटीन ब्रांड (स्रोत‑आधारित)",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "वेब परिणामों के अनुसार, कई विशेषज्ञ और फिटनेस पोर्टल लगातार इन ब्रांडों को सर्वश्रेष्ठ बताते हैं:"
+      },
+      {
+        "type": "heading",
+        "snippet": "1. Optimum Nutrition (ON) Gold Standard Whey — Overall Best",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Optimum Nutrition (ON) Gold Standard Whey",
+          "Overall Best"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति सर्विंग 24g प्रोटीन 2",
+            "snippet_highlighted_words": [
+              "24g प्रोटीन"
+            ],
+            "reference_indexes": [
+              1,
+              2
+            ]
+          },
+          {
+            "snippet": "5.5g BCAA, कम फैट और शुगर 1",
+            "snippet_highlighted_words": [
+              "5.5g BCAA"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "विश्व स्तर पर भरोसेमंद और उच्च गुणवत्ता वाला प्रोटीन 1",
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "मिश्रण क्षमता और स्वाद बेहतरीन"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. MuscleBlaze Biozyme Performance Whey — Best Indian Brand",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "MuscleBlaze Biozyme Performance Whey",
+          "Best Indian Brand"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "भारतीय एथलीटों के लिए डिज़ाइन किया गया 1",
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "25g प्रोटीन, बेहतर पाचन के लिए Biozyme तकनीक 1",
+            "snippet_highlighted_words": [
+              "25g प्रोटीन"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "किफायती और लैब‑टेस्टेड गुणवत्ता"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. Ultimate Nutrition Prostar Whey — High Protein Ratio",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Ultimate Nutrition Prostar Whey",
+          "High Protein Ratio"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप 25g प्रोटीन (83% प्रोटीन) 1",
+            "snippet_highlighted_words": [
+              "25g प्रोटीन"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "BCAA 6g, कम फैट और शुगर 1",
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "4. Isopure Low Carb Whey — Weight Loss / Low‑Carb Users",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Isopure Low Carb Whey",
+          "Weight Loss / Low‑Carb Users"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "25g प्रोटीन, Zero/Low Carb 2",
+            "snippet_highlighted_words": [
+              "25g प्रोटीन"
+            ],
+            "reference_indexes": [
+              1,
+              2
+            ]
+          },
+          {
+            "snippet": "लैक्टोज‑फ्री विकल्प उपलब्ध"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "5. Dymatize ISO100 — Fast Absorption / Athletes",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Dymatize ISO100",
+          "Fast Absorption / Athletes"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "हाइड्रोलाइज्ड आइसोलेट, तेज़ अवशोषण 1",
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "प्रोफेशनल एथलीटों के लिए उपयुक्त"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📌 कौन‑सा ब्रांड आपके लिए सबसे अच्छा है?",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "आपका लक्ष्य तय करता है कि कौन‑सा व्हे प्रोटीन सही रहेगा:"
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "मसल्स गेन (सामान्य)",
+            "ON Gold Standard Whey, Prostar"
+          ],
+          [
+            "भारतीय बजट + बेहतर पाचन",
+            "MuscleBlaze Biozyme"
+          ],
+          [
+            "फैट लॉस / लो‑कार्ब",
+            "Isopure Zero/Low Carb"
+          ],
+          [
+            "तेज़ रिकवरी / एथलीट",
+            "Dymatize ISO100"
+          ],
+          [
+            "शाकाहारी (Vegan)",
+            "Oziva Plant Protein 1"
+          ]
+        ],
+        "headers": [
+          "लक्ष्य",
+          "सबसे उपयुक्त व्हे प्रोटीन"
+        ],
+        "formatted": [
+          {
+            "लक्ष्य": "मसल्स गेन (सामान्य)",
+            "सबसे_उपयुक्त_व्हे_प्रोटीन": "ON Gold Standard Whey, Prostar"
+          },
+          {
+            "लक्ष्य": "भारतीय बजट + बेहतर पाचन",
+            "सबसे_उपयुक्त_व्हे_प्रोटीन": "MuscleBlaze Biozyme"
+          },
+          {
+            "लक्ष्य": "फैट लॉस / लो‑कार्ब",
+            "सबसे_उपयुक्त_व्हे_प्रोटीन": "Isopure Zero/Low Carb"
+          },
+          {
+            "लक्ष्य": "तेज़ रिकवरी / एथलीट",
+            "सबसे_उपयुक्त_व्हे_प्रोटीन": "Dymatize ISO100"
+          },
+          {
+            "लक्ष्य": "शाकाहारी (Vegan)",
+            "सबसे_उपयुक्त_व्हे_प्रोटीन": "Oziva Plant Protein 1"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ व्हे प्रोटीन चुनते समय क्या देखें?",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "वेब परिणामों के अनुसार, एक अच्छा व्हे प्रोटीन इन मानकों पर खरा उतरना चाहिए:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति सर्विंग 20–25g प्रोटीन 1",
+            "snippet_highlighted_words": [
+              "20–25g प्रोटीन"
+            ],
+            "reference_indexes": [
+              4
+            ]
+          },
+          {
+            "snippet": "कम शुगर और कम फिलर 1",
+            "reference_indexes": [
+              4
+            ]
+          },
+          {
+            "snippet": "FSSAI / GMP प्रमाणन 1",
+            "reference_indexes": [
+              4
+            ]
+          },
+          {
+            "snippet": "अच्छा BCAA और EAA प्रोफाइल 1",
+            "reference_indexes": [
+              4
+            ]
+          },
+          {
+            "snippet": "विश्वसनीय ब्रांड और बैच वेरिफिकेशन सुविधा 1",
+            "reference_indexes": [
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "⭐ निष्कर्ष",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "वेब परिणामों के आधार पर, भारत में सबसे अधिक विश्वसनीय और लगातार शीर्ष पर रहने वाला व्हे प्रोटीन है:"
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ Optimum Nutrition (ON) Gold Standard Whey — Overall Best",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Optimum Nutrition (ON) Gold Standard Whey",
+          "Overall Best"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ MuscleBlaze Biozyme — Best Indian Brand",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "MuscleBlaze Biozyme",
+          "Best Indian Brand"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "दोनों ही गुणवत्ता, प्रोटीन मात्रा और उपभोक्ता संतुष्टि में सबसे आगे हैं।"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "क्या आप अपने लक्ष्य (मसल्स गेन, फैट लॉस, बजट आदि) के आधार पर व्यक्तिगत सुझाव चाहते हैं?"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "10 बेस्ट प्रोटीन पाउडर इन इंडिया विथ प्राइस – 10 Best protein powders ...",
+        "link": "https://www.healthunbox.com/10-best-protein-powders-in-india-in-hindi/",
+        "snippet": "इस आर्टिकल में जानिए इंडिया के बेस्ट प्रोटीन पाउडर और उनके प्राइस और भारत में कौन सा प्रोटीन पाउडर ब्रांड है सबसे अच्छा और क्या है ...",
+        "source": "Healthunbox"
+      },
+      {
+        "index": 1,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "इसलिए आज मैं आपको बता रहा हूं, भारत में कौन से 5 ऐसे व्हे प्रोटीन हैं जो ...",
+        "source": "MensXP"
+      },
+      {
+        "index": 2,
+        "title": "भारत में 2026 के सर्वश्रेष्ठ प्रोटीन पाउडर: विशेषज्ञों की समीक्षा ...",
+        "link": "https://doctorspot.in/hi/health/top-protein-powders-of-a-comprehensive-guide/",
+        "snippet": "भारत में उपलब्ध सर्वश्रेष्ठ प्रोटीन पाउडर खोजें। मांसपेशियों को बढ़ाने, वजन घटाने, रिकवरी और समग्र स्वास्थ्य के लिए सबसे अच्छे ...",
+        "source": "doctorspot.in"
+      },
+      {
+        "index": 3,
+        "title": "सर्वश्रेष्ठ प्रोटीन पाउडर सप्लीमेंट्स! (2024) – फिटनेस मैगज़ीन",
+        "link": "https://fitnessdergisi.com/hi/en-iyi-protein-tozu-incelemesi/",
+        "snippet": "इस लेख में सबसे अच्छा प्रोटीन पाउडर जिसे हम आपके साथ अपना शोध साझा करते हैं। हमने तुर्की में बेचे जाने वाले सर्वोत्तम पूरक ब्रांडों ...",
+        "source": "Fitness Dergisi"
+      },
+      {
+        "index": 4,
+        "title": "भारत में सबसे अच्छा व्हे प्रोटीन कैसे चुनें और कीमत",
+        "link": "https://imuscles.in/blogs/weight-gainer/whey-sabse-achha-aur-kimat",
+        "snippet": "भारत में सबसे अच्छा व्हे प्रोटीन कैसे चुनें — प्रोटीन मात्रा, कीमत तुलना (₹/सर्विंग), नकली से बचाव और Gainz4Ever व्हे की कीमत। पूरी हिंदी ...",
+        "source": "imuscles.in"
+      },
+      {
+        "index": 5,
+        "title": "बेस्ट व्हे प्रोटीन के लिए इन 3 बातों का ध्यान जरूर रखें - हैलो स्वास्थ्य",
+        "link": "https://helloswasthya.com/aahar-aur-poshan/sports-nutrition/best-whey-protein/",
+        "snippet": "व्हे प्रोटीन क्या है? भारत में मिलने वाले बेस्ट व्हे प्रोटीन की पूरी लिस्ट आपके लिए सिर्फ यहां। Best whey protein in Hindi.",
+        "source": "हैलो स्वास्थ्य"
+      },
+      {
+        "index": 6,
+        "title": "व्हे प्रोटीन क्या है? Concentrate, Isolate, मात्रा, फायदे, नुकसान और ...",
+        "link": "https://1hindi.com/whey-protein-online-india-hindi/",
+        "snippet": "व्हे प्रोटीन को अक्सर केवल जिम करने वालों का supplement समझा जाता है, लेकिन वास्तव में यह दूध से मिलने वाला एक उच्च गुणवत्ता वाला protein source है ...",
+        "source": "1Hindi"
+      },
+      {
+        "index": 7,
+        "title": "भारत की सबसे बड़ी व्हे प्रोटीन कंपनी कौन सी है ?",
+        "link": "https://news4social.com/which-is-the-largest-whey-protein-company-in-india",
+        "snippet": "भारत में MuscleBlaze सबसे प्रमुख व्हे प्रोटीन ब्रांड है, जो 2012 से संचालित है और Labdoor द्वारा प्रमाणित है।",
+        "source": "news4social.com"
+      },
+      {
+        "index": 8,
+        "title": "Amazon.in सर्वाधिक बिकने वाले: व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "Amazon पर सर्वाधिक बिकने वाले सेल्स पर आधारित हमारे सबसे लोकप्रिय प्रोडक्ट. नियमित अपडेट होने वाली.",
+        "source": "www.amazon.in"
+      },
+      {
+        "index": 9,
+        "title": "भारत में 3 बेहतरीन प्रोटीन पाउडर और 3 सबसे खराब प्रोटीन पाउडर Sahara ...",
+        "link": "https://saharasamachaar.com/3-best-protein-powders-and-3-worst-protein-powders-in-india/",
+        "snippet": "शरीर के विकास और उसे मजबूती देने के लिए प्रोटीन (Protein) की सख्त जरूरत होती है। प्रोटीन मांसपेशियों, हड्डियों, त्वचा, बालों और अंगों को ...",
+        "source": "saharasamachaar.com"
+      },
+      {
+        "index": 10,
+        "title": "वजन बढ़ने के लिए 10 सर्वश्रेष्ठ प्रोटीन पाउडर",
+        "link": "https://www.credihealth.com/hi/blog/10-best-protein-powder-for-weight-gain",
+        "snippet": "प्रोटीन पाउडर एक लोकप्रिय पोषण पूरक है जिसमें आवश्यक माइक्रोन्यूट्रिएंट होते हैं। यह मांसपेशियों को बनाने, ऊतक की मरम्मत और ...",
+        "source": "Credihealth"
+      }
+    ]
+  }
+}

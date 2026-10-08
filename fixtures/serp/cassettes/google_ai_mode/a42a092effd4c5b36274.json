@@ -1,0 +1,391 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "sabse achha whey protein kaun sa hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:34:13+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eac32f5ea0d80547f160",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/9YshqJHBFM_zuLpkPg5t0Lh4o0YvoCviBHgfZz0Ag0g/6ac4eac32f5ea0d80547f160.json",
+      "markdown_endpoint": "https://serpapi.com/searches/9YshqJHBFM_zuLpkPg5t0Lh4o0YvoCviBHgfZz0Ag0g/6ac4eac32f5ea0d80547f160.md",
+      "created_at": "2026-10-06 12:34:11 UTC",
+      "processed_at": "2026-10-06 12:34:11 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=sabse+achha+whey+protein+kaun+sa+hai&udm=50&gl=in&hl=en&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/9YshqJHBFM_zuLpkPg5t0Lh4o0YvoCviBHgfZz0Ag0g/6ac4eac32f5ea0d80547f160.html",
+      "prettify_html_file": "https://serpapi.com/searches/9YshqJHBFM_zuLpkPg5t0Lh4o0YvoCviBHgfZz0Ag0g/6ac4eac32f5ea0d80547f160.prettify",
+      "total_time_taken": 1.15
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "sabse achha whey protein kaun sa hai",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "shopping_results": [
+      {
+        "title": "MuscleBlaze Biozyme Whey Protein",
+        "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,mid:576462887316424599,imageDocid:9170000511552355110,gpcid:15740524446821324801,headlineOfferDocid:14311210668858522875,catalogid:1296878294657690627,productDocid:16487512708365130683,rds:PC_15740524446821324801%7CPROD_PC_15740524446821324801&q=product&sa=X&ved=2ahUKEwjR1fG5s6WXAxV2L1kFHbNyFBUQgLcPegYIAAgOEAw",
+        "immersive_product_page_token": "qaAcJnicdZC9bsIwHMRfppsXf_1tZ6xChZAqQalURuQmTmwRkjROoEh9h75DApXoCF265TV4m6bM7S03nPTT3b23xvXHsiriJqpd_EUEVxIIlVgxAYRhodgx0rXOitTFZ0IDoaSiARcgRYAFlSdrdJy53EyTxFSjIvqlcEYIJVgIpUABpQPz0611aq75OSASDwJCACiDwXFXxf7CZ-GSgOQYKOdcKEoY5QqTt9l8Olr-Ex5eGlPtLjdeP3uDdGStRltrdmhYVRuXo5VucuQ1stod0vLa7w9Mt3bxaRjFBVVKsuEIyiEIunJTtzbdN01mvrcovJ08TMLJ_Xz85PV45R8XsNKLuzbNWpe3NmtN_lHocpNE_f7VV0n_A_K3dAU",
+        "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qaAcJnicdZC9bsIwHMRfppsXf_1tZ6xChZAqQalURuQmTmwRkjROoEh9h75DApXoCF265TV4m6bM7S03nPTT3b23xvXHsiriJqpd_EUEVxIIlVgxAYRhodgx0rXOitTFZ0IDoaSiARcgRYAFlSdrdJy53EyTxFSjIvqlcEYIJVgIpUABpQPz0611aq75OSASDwJCACiDwXFXxf7CZ-GSgOQYKOdcKEoY5QqTt9l8Olr-Ex5eGlPtLjdeP3uDdGStRltrdmhYVRuXo5VucuQ1stod0vLa7w9Mt3bxaRjFBVVKsuEIyiEIunJTtzbdN01mvrcovJ08TMLJ_Xz85PV45R8XsNKLuzbNWpe3NmtN_lHocpNE_f7VV0n_A_K3dAU",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=qaAcJnicdZC9bsIwHMRfppsXf_1tZ6xChZAqQalURuQmTmwRkjROoEh9h75DApXoCF265TV4m6bM7S03nPTT3b23xvXHsiriJqpd_EUEVxIIlVgxAYRhodgx0rXOitTFZ0IDoaSiARcgRYAFlSdrdJy53EyTxFSjIvqlcEYIJVgIpUABpQPz0611aq75OSASDwJCACiDwXFXxf7CZ-GSgOQYKOdcKEoY5QqTt9l8Olr-Ex5eGlPtLjdeP3uDdGStRltrdmhYVRuXo5VucuQ1stod0vLa7w9Mt3bxaRjFBVVKsuEIyiEIunJTtzbdN01mvrcovJ08TMLJ_Xz85PV45R8XsNKLuzbNWpe3NmtN_lHocpNE_f7VV0n_A_K3dAU",
+        "thumbnail": "https://serpapi.com/searches/6ac4eac32f5ea0d80547f160/images/ybxG-PCjoZG-5E_364Ewd4ExoVVlR_3ifxshMQ_Ew-g.jpeg",
+        "price": "₹4,139.00",
+        "extracted_price": 4139.0,
+        "source": "MuscleBlaze Official& more",
+        "rating": 4.7,
+        "reviews": 224,
+        "index": 0
+      },
+      {
+        "title": "Isopure Whey Protein Isolate",
+        "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,mid:576462502853863269,imageDocid:14182060886876624076,gpcid:14557523389222665988,headlineOfferDocid:9425618649108918306,catalogid:1842532163434188796,productDocid:10563762192626736418,rds:PC_14557523389222665988%7CPROD_PC_14557523389222665988&q=product&sa=X&ved=2ahUKEwjR1fG5s6WXAxV2L1kFHbNyFBUQgLcPegYIAAgOEB4",
+        "immersive_product_page_token": "FFzYZHicdY8xTsMwGIUvw-bF_m3_tkdUUFUJqaVIdKxM4iRW0yTESUsl7sAd0hapjKULW6_R2xDBiJi_7z2999Y5fz5UdRm3UePjE6MSuUJgBhBQcRRMHyLb2LxMffzJtADJgSEXvCdaGTxmzsa5L9w4SVx9U0a9ZnoLmUZhGNWGaU7xwy9t6n7wifVRoEi1Rq0QQVCF2zoOFzEZzJmQUkngXBsAQJRG69fJdHwz_wfun1tXby5XwT4FR2yUZZasM7ch_avG-YIsbFuQYElm_T6tfgf8rdkufXyUCgWCpKAl18gBzbZaNV2W7to2d19rMrge3Y8Go7vp8DHY4SI8zOTCzm67NO980WV554r30larJDrvXkKdnL8BOjN0bw",
+        "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=FFzYZHicdY8xTsMwGIUvw-bF_m3_tkdUUFUJqaVIdKxM4iRW0yTESUsl7sAd0hapjKULW6_R2xDBiJi_7z2999Y5fz5UdRm3UePjE6MSuUJgBhBQcRRMHyLb2LxMffzJtADJgSEXvCdaGTxmzsa5L9w4SVx9U0a9ZnoLmUZhGNWGaU7xwy9t6n7wifVRoEi1Rq0QQVCF2zoOFzEZzJmQUkngXBsAQJRG69fJdHwz_wfun1tXby5XwT4FR2yUZZasM7ch_avG-YIsbFuQYElm_T6tfgf8rdkufXyUCgWCpKAl18gBzbZaNV2W7to2d19rMrge3Y8Go7vp8DHY4SI8zOTCzm67NO980WV554r30larJDrvXkKdnL8BOjN0bw",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=FFzYZHicdY8xTsMwGIUvw-bF_m3_tkdUUFUJqaVIdKxM4iRW0yTESUsl7sAd0hapjKULW6_R2xDBiJi_7z2999Y5fz5UdRm3UePjE6MSuUJgBhBQcRRMHyLb2LxMffzJtADJgSEXvCdaGTxmzsa5L9w4SVx9U0a9ZnoLmUZhGNWGaU7xwy9t6n7wifVRoEi1Rq0QQVCF2zoOFzEZzJmQUkngXBsAQJRG69fJdHwz_wfun1tXby5XwT4FR2yUZZasM7ch_avG-YIsbFuQYElm_T6tfgf8rdkufXyUCgWCpKAl18gBzbZaNV2W7to2d19rMrge3Y8Go7vp8DHY4SI8zOTCzm67NO980WV554r30larJDrvXkKdnL8BOjN0bw",
+        "thumbnail": "https://serpapi.com/searches/6ac4eac32f5ea0d80547f160/images/ybxG-PCjoZG-5E_364Ewd9BJycisHCXVI8DVJzLBB8A.jpeg",
+        "price": "₹4,300.00",
+        "extracted_price": 4300.0,
+        "source": "Squat Deadlift& more",
+        "rating": 4.4,
+        "reviews": 6300,
+        "index": 1
+      },
+      {
+        "title": "AS-IT-IS Nutrition Raw Whey Protein",
+        "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,imageDocid:15877609423099345774,gpcid:17432648609866926028,headlineOfferDocid:10388955220216184355,catalogid:3546346029551586425,productDocid:10778479780693110629,rds:PC_17432648609866926028%7CPROD_PC_17432648609866926028&q=product&sa=X&ved=2ahUKEwjR1fG5s6WXAxV2L1kFHbNyFBUQgLcPegYIAAgOEC8",
+        "immersive_product_page_token": "UQYI63icdY_LTsJAGIVfxt1s5n5ZGjCkiQmIiSzJbzvtTCht7bQgie_gOxQwwaW6cdfX4G1siEtdfyffOee1s74_VXWZtHHjky-CldJcGaWxNIwQLKk5xdBAXmY--WSCS8YlpkYIIrTkVHw4C0nuCztNU1uPy_hiYVoPEUoxJZJozoR492vI7C8XWimJDacMG8O4UIrv6ySc-Wy0JIozKrkeuJbS0KFNv8zm0_HyH3h8am29O18FeAwWQewcoK2zOzTcaqwv0AraAgVADvwxqy4D_tDs1z7p99Wm6Vx2aNvcfm_R6Dq6i0bR7XzyEGCyCvcLsYLFTZflnS86l3e2eCuh2qRxf3gOddr_AH9mcPQ",
+        "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=UQYI63icdY_LTsJAGIVfxt1s5n5ZGjCkiQmIiSzJbzvtTCht7bQgie_gOxQwwaW6cdfX4G1siEtdfyffOee1s74_VXWZtHHjky-CldJcGaWxNIwQLKk5xdBAXmY--WSCS8YlpkYIIrTkVHw4C0nuCztNU1uPy_hiYVoPEUoxJZJozoR492vI7C8XWimJDacMG8O4UIrv6ySc-Wy0JIozKrkeuJbS0KFNv8zm0_HyH3h8am29O18FeAwWQewcoK2zOzTcaqwv0AraAgVADvwxqy4D_tDs1z7p99Wm6Vx2aNvcfm_R6Dq6i0bR7XzyEGCyCvcLsYLFTZflnS86l3e2eCuh2qRxf3gOddr_AH9mcPQ",
+        "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=UQYI63icdY_LTsJAGIVfxt1s5n5ZGjCkiQmIiSzJbzvtTCht7bQgie_gOxQwwaW6cdfX4G1siEtdfyffOee1s74_VXWZtHHjky-CldJcGaWxNIwQLKk5xdBAXmY--WSCS8YlpkYIIrTkVHw4C0nuCztNU1uPy_hiYVoPEUoxJZJozoR492vI7C8XWimJDacMG8O4UIrv6ySc-Wy0JIozKrkeuJbS0KFNv8zm0_HyH3h8am29O18FeAwWQewcoK2zOzTcaqwv0AraAgVADvwxqy4D_tDs1z7p99Wm6Vx2aNvcfm_R6Dq6i0bR7XzyEGCyCvcLsYLFTZflnS86l3e2eCuh2qRxf3gOddr_AH9mcPQ",
+        "thumbnail": "https://serpapi.com/searches/6ac4eac32f5ea0d80547f160/images/ybxG-PCjoZG-5E_364Ewd4FV3GkSZMgv9ozFcAUTzo0.jpeg",
+        "price": "₹2,856.00",
+        "extracted_price": 2856.0,
+        "source": "asitisnutrition.com& more",
+        "rating": 4.7,
+        "reviews": 71,
+        "index": 2
+      }
+    ],
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "भारत में सबसे अच्छा व्हे प्रोटीन आपकी फिटनेस गोल, बजट और पाचन क्षमता (Digestion) पर निर्भर करता है। किसी एक प्रोटीन को सबके लिए बेस्ट नहीं कहा जा सकता, लेकिन क्वालिटी, प्योरिटी और लैब टेस्ट रिपोर्ट के आधार पर भारत के कुछ सबसे बेहतरीन व्हे प्रोटीन नीचे दिए गए हैं:",
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "भारत के टॉप व्हे प्रोटीन ब्रांड्स (2026)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Optimum Nutrition (ON) Gold Standard 100% Whey",
+            "reference_indexes": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "shopping_result": {
+              "title": "MuscleBlaze Biozyme Whey Protein",
+              "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,mid:576462887316424599,imageDocid:9170000511552355110,gpcid:15740524446821324801,headlineOfferDocid:14311210668858522875,catalogid:1296878294657690627,productDocid:16487512708365130683,rds:PC_15740524446821324801%7CPROD_PC_15740524446821324801&q=product&sa=X&ved=2ahUKEwjR1fG5s6WXAxV2L1kFHbNyFBUQgLcPegYIAAgOEAw",
+              "immersive_product_page_token": "qaAcJnicdZC9bsIwHMRfppsXf_1tZ6xChZAqQalURuQmTmwRkjROoEh9h75DApXoCF265TV4m6bM7S03nPTT3b23xvXHsiriJqpd_EUEVxIIlVgxAYRhodgx0rXOitTFZ0IDoaSiARcgRYAFlSdrdJy53EyTxFSjIvqlcEYIJVgIpUABpQPz0611aq75OSASDwJCACiDwXFXxf7CZ-GSgOQYKOdcKEoY5QqTt9l8Olr-Ex5eGlPtLjdeP3uDdGStRltrdmhYVRuXo5VucuQ1stod0vLa7w9Mt3bxaRjFBVVKsuEIyiEIunJTtzbdN01mvrcovJ08TMLJ_Xz85PV45R8XsNKLuzbNWpe3NmtN_lHocpNE_f7VV0n_A_K3dAU",
+              "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qaAcJnicdZC9bsIwHMRfppsXf_1tZ6xChZAqQalURuQmTmwRkjROoEh9h75DApXoCF265TV4m6bM7S03nPTT3b23xvXHsiriJqpd_EUEVxIIlVgxAYRhodgx0rXOitTFZ0IDoaSiARcgRYAFlSdrdJy53EyTxFSjIvqlcEYIJVgIpUABpQPz0611aq75OSASDwJCACiDwXFXxf7CZ-GSgOQYKOdcKEoY5QqTt9l8Olr-Ex5eGlPtLjdeP3uDdGStRltrdmhYVRuXo5VucuQ1stod0vLa7w9Mt3bxaRjFBVVKsuEIyiEIunJTtzbdN01mvrcovJ08TMLJ_Xz85PV45R8XsNKLuzbNWpe3NmtN_lHocpNE_f7VV0n_A_K3dAU",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=qaAcJnicdZC9bsIwHMRfppsXf_1tZ6xChZAqQalURuQmTmwRkjROoEh9h75DApXoCF265TV4m6bM7S03nPTT3b23xvXHsiriJqpd_EUEVxIIlVgxAYRhodgx0rXOitTFZ0IDoaSiARcgRYAFlSdrdJy53EyTxFSjIvqlcEYIJVgIpUABpQPz0611aq75OSASDwJCACiDwXFXxf7CZ-GSgOQYKOdcKEoY5QqTt9l8Olr-Ex5eGlPtLjdeP3uDdGStRltrdmhYVRuXo5VucuQ1stod0vLa7w9Mt3bxaRjFBVVKsuEIyiEIunJTtzbdN01mvrcovJ08TMLJ_Xz85PV45R8XsNKLuzbNWpe3NmtN_lHocpNE_f7VV0n_A_K3dAU",
+              "thumbnail": "https://serpapi.com/searches/6ac4eac32f5ea0d80547f160/images/mmBvJI2cPg4PvGoPeehNAnBecuGmPSryagoLDhabosRUGm5FaC657PUGECIo14Pa.jpeg",
+              "price": "₹4,139.00",
+              "extracted_price": 4139.0,
+              "source": "MuscleBlaze Official& more",
+              "rating": 4.7,
+              "reviews": 224
+            },
+            "reference_indexes": [
+              1,
+              3
+            ]
+          },
+          {
+            "shopping_result": {
+              "title": "Isopure Whey Protein Isolate",
+              "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,mid:576462502853863269,imageDocid:14182060886876624076,gpcid:14557523389222665988,headlineOfferDocid:9425618649108918306,catalogid:1842532163434188796,productDocid:10563762192626736418,rds:PC_14557523389222665988%7CPROD_PC_14557523389222665988&q=product&sa=X&ved=2ahUKEwjR1fG5s6WXAxV2L1kFHbNyFBUQgLcPegYIAAgOEB4",
+              "immersive_product_page_token": "FFzYZHicdY8xTsMwGIUvw-bF_m3_tkdUUFUJqaVIdKxM4iRW0yTESUsl7sAd0hapjKULW6_R2xDBiJi_7z2999Y5fz5UdRm3UePjE6MSuUJgBhBQcRRMHyLb2LxMffzJtADJgSEXvCdaGTxmzsa5L9w4SVx9U0a9ZnoLmUZhGNWGaU7xwy9t6n7wifVRoEi1Rq0QQVCF2zoOFzEZzJmQUkngXBsAQJRG69fJdHwz_wfun1tXby5XwT4FR2yUZZasM7ch_avG-YIsbFuQYElm_T6tfgf8rdkufXyUCgWCpKAl18gBzbZaNV2W7to2d19rMrge3Y8Go7vp8DHY4SI8zOTCzm67NO980WV554r30larJDrvXkKdnL8BOjN0bw",
+              "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=FFzYZHicdY8xTsMwGIUvw-bF_m3_tkdUUFUJqaVIdKxM4iRW0yTESUsl7sAd0hapjKULW6_R2xDBiJi_7z2999Y5fz5UdRm3UePjE6MSuUJgBhBQcRRMHyLb2LxMffzJtADJgSEXvCdaGTxmzsa5L9w4SVx9U0a9ZnoLmUZhGNWGaU7xwy9t6n7wifVRoEi1Rq0QQVCF2zoOFzEZzJmQUkngXBsAQJRG69fJdHwz_wfun1tXby5XwT4FR2yUZZasM7ch_avG-YIsbFuQYElm_T6tfgf8rdkufXyUCgWCpKAl18gBzbZaNV2W7to2d19rMrge3Y8Go7vp8DHY4SI8zOTCzm67NO980WV554r30larJDrvXkKdnL8BOjN0bw",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=FFzYZHicdY8xTsMwGIUvw-bF_m3_tkdUUFUJqaVIdKxM4iRW0yTESUsl7sAd0hapjKULW6_R2xDBiJi_7z2999Y5fz5UdRm3UePjE6MSuUJgBhBQcRRMHyLb2LxMffzJtADJgSEXvCdaGTxmzsa5L9w4SVx9U0a9ZnoLmUZhGNWGaU7xwy9t6n7wifVRoEi1Rq0QQVCF2zoOFzEZzJmQUkngXBsAQJRG69fJdHwz_wfun1tXby5XwT4FR2yUZZasM7ch_avG-YIsbFuQYElm_T6tfgf8rdkufXyUCgWCpKAl18gBzbZaNV2W7to2d19rMrge3Y8Go7vp8DHY4SI8zOTCzm67NO980WV554r30larJDrvXkKdnL8BOjN0bw",
+              "thumbnail": "https://serpapi.com/searches/6ac4eac32f5ea0d80547f160/images/mmBvJI2cPg4PvGoPeehNAkwenh3x7AFNPKWp90fasWTsiW7J9ZCLPRDxVS41JIyN.jpeg",
+              "price": "₹4,300.00",
+              "extracted_price": 4300.0,
+              "source": "Squat Deadlift& more",
+              "rating": 4.4,
+              "reviews": 6300
+            },
+            "reference_indexes": [
+              1,
+              4,
+              5
+            ]
+          },
+          {
+            "shopping_result": {
+              "title": "AS-IT-IS Nutrition Raw Whey Protein",
+              "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,imageDocid:15877609423099345774,gpcid:17432648609866926028,headlineOfferDocid:10388955220216184355,catalogid:3546346029551586425,productDocid:10778479780693110629,rds:PC_17432648609866926028%7CPROD_PC_17432648609866926028&q=product&sa=X&ved=2ahUKEwjR1fG5s6WXAxV2L1kFHbNyFBUQgLcPegYIAAgOEC8",
+              "immersive_product_page_token": "UQYI63icdY_LTsJAGIVfxt1s5n5ZGjCkiQmIiSzJbzvtTCht7bQgie_gOxQwwaW6cdfX4G1siEtdfyffOee1s74_VXWZtHHjky-CldJcGaWxNIwQLKk5xdBAXmY--WSCS8YlpkYIIrTkVHw4C0nuCztNU1uPy_hiYVoPEUoxJZJozoR492vI7C8XWimJDacMG8O4UIrv6ySc-Wy0JIozKrkeuJbS0KFNv8zm0_HyH3h8am29O18FeAwWQewcoK2zOzTcaqwv0AraAgVADvwxqy4D_tDs1z7p99Wm6Vx2aNvcfm_R6Dq6i0bR7XzyEGCyCvcLsYLFTZflnS86l3e2eCuh2qRxf3gOddr_AH9mcPQ",
+              "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=UQYI63icdY_LTsJAGIVfxt1s5n5ZGjCkiQmIiSzJbzvtTCht7bQgie_gOxQwwaW6cdfX4G1siEtdfyffOee1s74_VXWZtHHjky-CldJcGaWxNIwQLKk5xdBAXmY--WSCS8YlpkYIIrTkVHw4C0nuCztNU1uPy_hiYVoPEUoxJZJozoR492vI7C8XWimJDacMG8O4UIrv6ySc-Wy0JIozKrkeuJbS0KFNv8zm0_HyH3h8am29O18FeAwWQewcoK2zOzTcaqwv0AraAgVADvwxqy4D_tDs1z7p99Wm6Vx2aNvcfm_R6Dq6i0bR7XzyEGCyCvcLsYLFTZflnS86l3e2eCuh2qRxf3gOddr_AH9mcPQ",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=UQYI63icdY_LTsJAGIVfxt1s5n5ZGjCkiQmIiSzJbzvtTCht7bQgie_gOxQwwaW6cdfX4G1siEtdfyffOee1s74_VXWZtHHjky-CldJcGaWxNIwQLKk5xdBAXmY--WSCS8YlpkYIIrTkVHw4C0nuCztNU1uPy_hiYVoPEUoxJZJozoR492vI7C8XWimJDacMG8O4UIrv6ySc-Wy0JIozKrkeuJbS0KFNv8zm0_HyH3h8am29O18FeAwWQewcoK2zOzTcaqwv0AraAgVADvwxqy4D_tDs1z7p99Wm6Vx2aNvcfm_R6Dq6i0bR7XzyEGCyCvcLsYLFTZflnS86l3e2eCuh2qRxf3gOddr_AH9mcPQ",
+              "thumbnail": "https://serpapi.com/searches/6ac4eac32f5ea0d80547f160/images/mmBvJI2cPg4PvGoPeehNAtmme3w-kcL4JDOs8WGnJMZOwwQUp1kBr7l2y6PC7vgs.jpeg",
+              "price": "₹2,856.00",
+              "extracted_price": 2856.0,
+              "source": "asitisnutrition.com& more",
+              "rating": 4.7,
+              "reviews": 71
+            },
+            "reference_indexes": [
+              0,
+              1,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "अपनी जरूरत के हिसाब से सही प्रोटीन कैसे चुनें?"
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "आपका गोल / प्रोफाइल",
+            "सबसे सही व्हे प्रोटीन का प्रकार",
+            "क्यों?"
+          ],
+          [
+            "बिगिनर (पहली बार ले रहे हैं)",
+            "Whey Concentrate / Blend",
+            "किफायती है और मसल्स रिकवरी के लिए बेस्ट है।"
+          ],
+          [
+            "लैक्टोज से दिक्कत या पेट फूलना",
+            "Whey Isolate (WPI)",
+            "इसमें लैक्टोज और फैट न के बराबर होता है, जिससे डाइजेशन आसान होता है。"
+          ],
+          [
+            "फैट लॉस / लीन फिजीक",
+            "Isolate / Zero Carb",
+            "कम से कम कैलोरी और बिना कार्ब्स के शुद्ध प्रोटीन मिलता है。"
+          ],
+          [
+            "कम बजट (Tight Budget)",
+            "Unflavoured Raw Whey",
+            "बिना फ्लेवर और केमिकल के शुद्ध प्रोटीन, सबसे कम दाम में।"
+          ]
+        ],
+        "detailed": [
+          [
+            {
+              "snippet": "आपका गोल / प्रोफाइल"
+            },
+            {
+              "snippet": "सबसे सही व्हे प्रोटीन का प्रकार"
+            },
+            {
+              "snippet": "क्यों?"
+            }
+          ],
+          [
+            {
+              "snippet": "बिगिनर (पहली बार ले रहे हैं)"
+            },
+            {
+              "snippet": "Whey Concentrate / Blend"
+            },
+            {
+              "snippet": "किफायती है और मसल्स रिकवरी के लिए बेस्ट है।"
+            }
+          ],
+          [
+            {
+              "snippet": "लैक्टोज से दिक्कत या पेट फूलना"
+            },
+            {
+              "snippet": "Whey Isolate (WPI)"
+            },
+            {
+              "snippet": "इसमें लैक्टोज और फैट न के बराबर होता है, जिससे डाइजेशन आसान होता है。"
+            }
+          ],
+          [
+            {
+              "snippet": "फैट लॉस / लीन फिजीक"
+            },
+            {
+              "snippet": "Isolate / Zero Carb"
+            },
+            {
+              "snippet": "कम से कम कैलोरी और बिना कार्ब्स के शुद्ध प्रोटीन मिलता है。"
+            }
+          ],
+          [
+            {
+              "snippet": "कम बजट (Tight Budget)"
+            },
+            {
+              "snippet": "Unflavoured Raw Whey"
+            },
+            {
+              "snippet": "बिना फ्लेवर और केमिकल के शुद्ध प्रोटीन, सबसे कम दाम में।"
+            }
+          ]
+        ],
+        "formatted": [
+          {
+            "आपका_गोल_प्रोफाइल": "बिगिनर (पहली बार ले रहे हैं)",
+            "सबसे_सही_व्हे_प्रोटीन_का_प्रकार": "Whey Concentrate / Blend",
+            "क्यों": "किफायती है और मसल्स रिकवरी के लिए बेस्ट है।"
+          },
+          {
+            "आपका_गोल_प्रोफाइल": "लैक्टोज से दिक्कत या पेट फूलना",
+            "सबसे_सही_व्हे_प्रोटीन_का_प्रकार": "Whey Isolate (WPI)",
+            "क्यों": "इसमें लैक्टोज और फैट न के बराबर होता है, जिससे डाइजेशन आसान होता है。"
+          },
+          {
+            "आपका_गोल_प्रोफाइल": "फैट लॉस / लीन फिजीक",
+            "सबसे_सही_व्हे_प्रोटीन_का_प्रकार": "Isolate / Zero Carb",
+            "क्यों": "कम से कम कैलोरी और बिना कार्ब्स के शुद्ध प्रोटीन मिलता है。"
+          },
+          {
+            "आपका_गोल_प्रोफाइल": "कम बजट (Tight Budget)",
+            "सबसे_सही_व्हे_प्रोटीन_का_प्रकार": "Unflavoured Raw Whey",
+            "क्यों": "बिना फ्लेवर और केमिकल के शुद्ध प्रोटीन, सबसे कम दाम में।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "खरीदते समय हमेशा ध्यान रखें कि प्रोडक्ट की आधिकारिक वेबसाइट या अधिकृत डीलर से ही खरीदें ताकि आप नकली (Fake) प्रोटीन से बच सकें और स्कूप के पीछे दिए गए वेरिफिकेशन कोड को जरूर चेक करें।"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "सही प्रोटीन चुनने के लिए, कृपया मुझे बताएं:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "आपका फिटनेस गोल क्या है? (मसल गेन, फैट लॉस, या सामान्य फिटनेस?)"
+          },
+          {
+            "snippet": "आपका बजट कितना है?"
+          },
+          {
+            "snippet": "क्या आपको दूध या डेयरी प्रोडक्ट्स से डाइजेशन की कोई समस्या (जैसे गैस या ब्लोटिंग) होती है?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "इसके आधार पर मैं आपको एक सटीक नाम सजेस्ट कर सकता हूँ।"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Top 7 Cleanest Whey Proteins in India (2026): Ranked by Purity, Quality ...",
+        "link": "https://translate.google.com/translate?u=https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/&hl=en&sl=en&tl=en&client=sge",
+        "snippet": "TrueBasics Clean Whey Protein Isolate + Concentrate. Overall Score: 9.65/10. The Whole Truth Raw Whey Protein Concentrate (Unflavoured) — Cleanest Short-Label Pick...",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfd3fvh7YicY_WLMBU1vIthHQxFjL7wjJlKZT1VVaq_G0S49gHFr96XI34TZvQiZTEdjpZ0i8yrQZwGDDkOeU0V7jrb6Agpfmi6xUw"
+      },
+      {
+        "index": 1,
+        "title": "Top 10 Whey Protein Brands In India 2026 - Flavor Catalystz",
+        "link": "https://translate.google.com/translate?u=https://www.flavorcatalyst.com/insights/top-10-whey-protein-brands-in-india/&hl=en&sl=en&tl=en&client=sge",
+        "snippet": "Beginner (first whey tub) | Concentrate or blend | Optimum Nutrition Gold Standard, MuscleBlaze Biozyme. Lactose-sensitive / bloating | Isolate or hydrolysate. Cut...",
+        "source": "Flavor Catalystz",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.flavorcatalyst.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNtEo-4LDsuB-yNRYVG3emW4Cm0_cNeps4CP2C9Pj25PB75gPB0TsuJPsFCg04Rhx0OJeStYp9_j5zkDyq-5M2khr6OkGB9HhPDsq1"
+      },
+      {
+        "index": 2,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "100% व्हे स्टेन्डर्ड (Optimum Nutrition (ON) 100% Whey Gold Standard)",
+        "source": "MensXP",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mensxp.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7J4GU-JKT8P0cOEwlBs03R9UAQjegiMjHbsk7a-YiS76FRlt6UAG_IZ9UPPIHo6Zj1mFJ1yGndCL5XCkKmsayo3UE616zON3lznRT"
+      },
+      {
+        "index": 3,
+        "title": "Low Budget TOP 9 Whey Protein Powder in INDIA | Save More ...",
+        "link": "https://www.youtube.com/watch?v=kj4csShFuQA",
+        "snippet": "document: आइसोलेट. प्राइमरी और कंसंट्रेट एंड हाइड्रोलाइज्ड यूज़ … देखते हो 36 ग्राम का सर्विंग में 26. ग्राम प्रोटीन आपको डिलीवर करता है मतलब. 73%. एलिवेट वे यह नं",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVYK107xWG5qudHY-nyzqlXDpfF_YHAqoYZbstRkupUI_iZ_O_uMwUyGB6-F8Y4MOsnCaXzUioHUxHIRjWuofQnzPOyL665pxlCE0m4Q"
+      },
+      {
+        "index": 4,
+        "title": "व्हे प्रोटीन में सबसे लोकप्रिय आइटम - Amazon.in",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "Isopure व्हे प्रोटीन आइसोलेट ・ 2.20 lbs, 1 kg (डच चोक), लैक्टोज-फ्री, ग्लूटेन-फ्री, वेज प्रोटीन ・ 2 ऑफर ₹7,129.00 से शुरू",
+        "source": "Amazon.in",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu730ACL8gzm6IBZfv5KL4gUR1359zLCMLrP8E2jLOL_G91R-iiT52JNY3ULmRA5JwZX2RhVQeb1S08afwOa5qbwS8pc5r9PtFa_VY"
+      },
+      {
+        "index": 5,
+        "title": "Best Whey Protein in India | Protein Powder - Myprotein IN",
+        "link": "https://translate.google.com/translate?u=https://www.myprotein.co.in/c/nutrition/protein/whey-protein-india/&hl=en&sl=en&tl=en&client=sge",
+        "snippet": "Whey protein concentrate. Isolate undergoes additional filtration to remove more fat and lactose, resulting in a higher protein percentage per gram.",
+        "source": "Myprotein IN",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.myprotein.co.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_FXtBB0fBY5YdV4v2cP0XHzOiOX0n0Qrhy38v-A7NvH2D1o3rFnql6sC5v9JCutYac2ou9GHSYP45UYqAdOyVUp-2i2xO8DtKLC61"
+      },
+      {
+        "index": 6,
+        "title": "भारत में सर्वश्रेष्ठ व्हे प्रोटीन (2026): ईमानदार खरीदार की गाइड",
+        "link": "https://translate.google.com/translate?u=https://denzournutrition.com/blogs/whey-blogs/best-whey-protein-in-india&hl=hi&sl=en&tl=hi&client=sge",
+        "snippet": "✓ प्रति 100 ग्राम प्रोटीन 70% (कॉन्सेंट्रेट) या 85% (आइसोलेट) से अधिक है।",
+        "source": "Denzour Nutrition",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://denzournutrition.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHcM0-UUp7WcZEtw4ULECE7hFKiixY8CfoM-RrPCLSwLBml2bHfIC0GmnIxCs20-5shm8x1CidsC_dKHvJ62LBo4SkBW_qTvW0f8Vn"
+      },
+      {
+        "index": 7,
+        "title": "Top 10 Whey Protein from 1500 to 3000 Rs | Protein from 80% to 63 ...",
+        "link": "https://www.youtube.com/watch?v=3tW5HwUkN00",
+        "snippet": "प्रोटीन मिल जाता ・ बेहतरीन ऑप्शन बन सकता ・ ₹3000 के आसपास. ₹2998. ₹2990. के आसपास 1 केजी फिलहाल मिल जाएगा. कोड.",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFAOLFwtvSfZudOVeSvqiFLRlBBfzrO-_YRU8rwME_MsUZS7JwQZOuu5GaqYOEfgteG5gLE4SEce74YQwe6yezc2hHNAtPvJHdyydIgQ"
+      },
+      {
+        "index": 8,
+        "title": "भारत में बेस्ट व्हे प्रोटीन 2026: संपूर्ण खरीद गाइड (हर बजट के लिए)",
+        "link": "https://clearcals.com/hi/blogs/best-whey-protein-india/",
+        "snippet": "Table_title: व्हे प्रोटीन क्या है? Table_content: | प्रकार | प्रोटीन % | फैट और कार्ब्स | किसके लिए सबसे अच्छा | | --- | --- | --- | --- | | व्हे कंसन्ट्रेट (WPC) ...",
+        "source": "Clearcals",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://clearcals.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-tuT1-5jCKFJmNpppcgh_Stat2kuIcQLBCmz2LyH3svrPUUcYe7MnApA5AZs-XrZiCUTTWCDw6vQ2XcM"
+      }
+    ],
+    "reconstructed_markdown": "भारत में सबसे अच्छा व्हे प्रोटीन आपकी फिटनेस गोल, बजट और पाचन क्षमता \\(Digestion\\) पर निर्भर करता है। किसी एक प्रोटीन को सबके लिए बेस्ट नहीं कहा जा सकता, लेकिन क्वालिटी, प्योरिटी और लैब टेस्ट रिपोर्ट के आधार पर भारत के कुछ सबसे बेहतरीन व्हे प्रोटीन नीचे दिए गए हैं: [0] [1]\n\n### भारत के टॉप व्हे प्रोटीन ब्रांड्स \\(2026\\)\n\n- Optimum Nutrition \\(ON\\) Gold Standard 100% Whey [0] [1] [2]\n- [MuscleBlaze Biozyme Whey Protein](https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,mid:576462887316424599,imageDocid:9170000511552355110,gpcid:15740524446821324801,headlineOfferDocid:14311210668858522875,catalogid:1296878294657690627,productDocid:16487512708365130683,rds:PC_15740524446821324801%7CPROD_PC_15740524446821324801&q=product) — ₹4,139.00 — 4.7★ \\(224 reviews\\) — MuscleBlaze Official& more [1] [3]\n- [Isopure Whey Protein Isolate](https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,mid:576462502853863269,imageDocid:14182060886876624076,gpcid:14557523389222665988,headlineOfferDocid:9425618649108918306,catalogid:1842532163434188796,productDocid:10563762192626736418,rds:PC_14557523389222665988%7CPROD_PC_14557523389222665988&q=product) — ₹4,300.00 — 4.4★ \\(6300 reviews\\) — Squat Deadlift& more [1] [4] [5]\n- [AS\\-IT\\-IS Nutrition Raw Whey Protein](https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,imageDocid:15877609423099345774,gpcid:17432648609866926028,headlineOfferDocid:10388955220216184355,catalogid:3546346029551586425,productDocid:10778479780693110629,rds:PC_17432648609866926028%7CPROD_PC_17432648609866926028&q=product) — ₹2,856.00 — 4.7★ \\(71 reviews\\) — asitisnutrition.com& more [0] [1] [6] [7]\n\n### अपनी जरूरत के हिसाब से सही प्रोटीन कैसे चुनें?\n\n| आपका गोल / प्रोफाइल | सबसे सही व्हे प्रोटीन का प्रकार | क्यों? |\n| --- | --- | --- |\n| बिगिनर \\(पहली बार ले रहे हैं\\) | Whey Concentrate / Blend | किफायती है और मसल्स रिकवरी के लिए बेस्ट है। |\n| लैक्टोज से दिक्कत या पेट फूलना | Whey Isolate \\(WPI\\) | इसमें लैक्टोज और फैट न के बराबर होता है, जिससे डाइजेशन आसान होता है。 |\n| फैट लॉस / लीन फिजीक | Isolate / Zero Carb | कम से कम कैलोरी और बिना कार्ब्स के शुद्ध प्रोटीन मिलता है。 |\n| कम बजट \\(Tight Budget\\) | Unflavoured Raw Whey | बिना फ्लेवर और केमिकल के शुद्ध प्रोटीन, सबसे कम दाम में। |\n\nखरीदते समय हमेशा ध्यान रखें कि प्रोडक्ट की आधिकारिक वेबसाइट या अधिकृत डीलर से ही खरीदें ताकि आप नकली \\(Fake\\) प्रोटीन से बच सकें और स्कूप के पीछे दिए गए वेरिफिकेशन कोड को जरूर चेक करें।\n\nसही प्रोटीन चुनने के लिए, कृपया मुझे बताएं:\n\n- आपका फिटनेस गोल क्या है? \\(मसल गेन, फैट लॉस, या सामान्य फिटनेस?\\)\n- आपका बजट कितना है?\n- क्या आपको दूध या डेयरी प्रोडक्ट्स से डाइजेशन की कोई समस्या \\(जैसे गैस या ब्लोटिंग\\) होती है?\n\nइसके आधार पर मैं आपको एक सटीक नाम सजेस्ट कर सकता हूँ।\n\n\n### References\n\n[0] [Top 7 Cleanest Whey Proteins in India \\(2026\\): Ranked by Purity, Quality ...](https://www.google.com/goto?url=CAES-gEB6zswFZ6tmbTw7LcKHbyyFLrGKf6UG8GS0snPzA579GmCP3syWh6P3MiO_AADAQ7DElkfonIy5Y_XUAdUCZrEuXF-rD1PafD23_fKr6n8w74dTnH_pC33EdXZobsK8un_UBT9MaRb5hD6ewlRvmmuCUvhYFml-95UF9UPPy8-JZM8vhPds5VOAZxQEUSE1_vubiNPETCHSx9_2kkN4PjvfGZRRIM2rUD3YCWlnvGjkfa5SxJyMoh3mLEzX-S-GzYmbc2NfyQXA2HqrBLB7MgF_EJ9A3cloWp5ZUmmy1PiLg3jlIf0q9ybuym4DlCUYBvdALq75VMUNhF7) — TrueBasics Clean Whey Protein Isolate \\+ Concentrate. Overall Score: 9.65/10. The Whole Truth Raw Whey Protein Concentrate \\(Unflavoured\\) — Cleanest Short\\-Label Pick...\n\n[1] [Top 10 Whey Protein Brands In India 2026 \\- Flavor Catalystz](https://www.google.com/goto?url=CAESzgEB6zswFa6bf8kTCGMf2Hs3fs4GLgOaGVC7HP8hWYgySPmNelo-zo_D0CzgsiJlCX2dB-Qb_rXny_GYFStlIakCZeCT2WfnOgqnmpD2hyzfSvTt_8yfYrbjoJ5j-3lZGadLKzr-LGG-i4ebZVOXWgXs3lebPex10UUupuIaookisSSu4EQFHEJTzs-2aaiQ6Y0Spzbiz7ggb6FWPm4gInqdGXQ9l3YCU6z7w0GX6fnf70c2iqYrFRHFh9hFNBRw1YHezi8oNlkhsEq3SKFBmA) — Beginner \\(first whey tub\\) \\| Concentrate or blend \\| Optimum Nutrition Gold Standard, MuscleBlaze Biozyme. Lactose\\-sensitive / bloating \\| Isolate or hydrolysate. Cut...\n\n[2] [Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए](https://www.google.com/goto?url=CAESsAEB6zswFSsuJc75uwfxKbi4IuynSTQ0lfddO2NiXXXZq2oob-R3VpGvXRi-G4lCL8eFqHvt6gkf5aqzrydxYRYSS-9Kk4k7NKfXEUDQnlQVZyNZsW_l8LGUVNTA8t0Zjj8J52D_sgMzdccdswLzvzXmlPWLlT0CyU8KfSqsvkfN2mfSY4j-buTJpVg4qxMD_3vwiFF80QSbGoCefW9KPZ1DJidkh8s20GqB2ycPbE5G-A) — 100% व्हे स्टेन्डर्ड \\(Optimum Nutrition \\(ON\\) 100% Whey Gold Standard\\)\n\n[3] [Low Budget TOP 9 Whey Protein Powder in INDIA \\| Save More ...](https://www.google.com/goto?url=CAESZgHrOzAV8ruJYg-9esI6Qq766vMf93Sp1JvUTsau07Y1ASQCKTC8x3TCSepH8KATxjmE90fZlMa6O5x_MwILJJ3CkGHRIadb_6PtdG_STCAIiBwXwEXIMfj6iyY7lfPhuHckPS_wqQ) — document: आइसोलेट. प्राइमरी और कंसंट्रेट एंड हाइड्रोलाइज्ड यूज़ … देखते हो 36 ग्राम का सर्विंग में 26. ग्राम प्रोटीन आपको डिलीवर करता है मतलब. 73%. एलिवेट वे यह नं\n\n[4] [व्हे प्रोटीन में सबसे लोकप्रिय आइटम \\- Amazon.in](https://www.google.com/goto?url=CAESdAHrOzAV6Pf8qzLnlSyrTQAEKYvBe1uWz_LLGuSjv1Q-UttLwlE2Vc1nA8Gvxnl8WorUg4yZWwCP1c7Ah4HjDMQSE8BEOw-iM3WVJ3mBAbpa5eILivPglQ86hAVVjEcr2Z-E1I5XweQvhiysQnIUc-on0wjh) — Isopure व्हे प्रोटीन आइसोलेट ・ 2.20 lbs, 1 kg \\(डच चोक\\), लैक्टोज\\-फ्री, ग्लूटेन\\-फ्री, वेज प्रोटीन ・ 2 ऑफर ₹7,129.00 से शुरू\n\n[5] [Best Whey Protein in India \\| Protein Powder \\- Myprotein IN](https://www.google.com/goto?url=CAESxQEB6zswFe7v8o1mR2YUbT2p0nHOPJ3yhjhpZYIPrZK0ywL3OpJVqdSNNAAP-de0RJ5TDLUr93BqawgzAXsY4Gr312dIwKdp8TT1wiWXfTH7wUrqWBATjraOVAx8udgN2iBe7igNkCgQnGeQBDOxoW9-bUdy-zbNI2uJYD3PwsDju1UlRtZlrTv6jKXVwu1NjIQ_QO3Vub0MeGkuQziJOjCiyb-OruZCDwqSa1DC_Uh87PfIaBoCpNiwpCWlWHMCydLEZELWHA) — Whey protein concentrate. Isolate undergoes additional filtration to remove more fat and lactose, resulting in a higher protein percentage per gram.\n\n[6] [भारत में सर्वश्रेष्ठ व्हे प्रोटीन \\(2026\\): ईमानदार खरीदार की गाइड](https://www.google.com/goto?url=CAESygEB6zswFZGsP4Ff0AfTrMbMMoBunykSzZhPnsG1ROdhFuOWwnRt-3dMT0C0FIPdlRD9cYemRQVtFnnWbp505SqzaXzf0NCNxZA5yE9skD88zhN383UABkCnTLtR9IPbe-Swp31-jFB-BiZ8NCGSuZjSwW3bPdxbY8fQc-QSuvNsyj2ipxnC0XZrp9s9jK6Ccm5jG5c_C760-jceXUbOUrdpJ1NBhYZMdArbPQrNqFTNNm8eKWFVOdZY0MJdABTsLbueSaex0eXkavAs) — ✓ प्रति 100 ग्राम प्रोटीन 70% \\(कॉन्सेंट्रेट\\) या 85% \\(आइसोलेट\\) से अधिक है।\n\n[7] [Top 10 Whey Protein from 1500 to 3000 Rs \\| Protein from 80% to 63 ...](https://www.google.com/goto?url=CAESZgHrOzAVhG3jZSJkJ91o7xaQGdjyI4uFAxX2MN3TpE9hUZzRrR9YK7VxPktZx7NT3rzA89yIXGfmn9_8C3iEUVND_jhVCJMaWiuRRxNSpWOlZfEVinOgmuCGn6_PoK3nBl8sdNFeDQ) — प्रोटीन मिल जाता ・ बेहतरीन ऑप्शन बन सकता ・ ₹3000 के आसपास. ₹2998. ₹2990. के आसपास 1 केजी फिलहाल मिल जाएगा. कोड.\n\n[8] [भारत में बेस्ट व्हे प्रोटीन 2026: संपूर्ण खरीद गाइड \\(हर बजट के लिए\\)](https://www.google.com/goto?url=CAEScgHrOzAVQadrU9LciwVO9zqP1MBgalj9pB6mnQ6STsggXFlWEBTcTXB2WocuXxqXGbImblDkN8Ejt69tRtj8ALR1kwGcgG06vXELvHc1eK5A8z9dk09PNM5U8bvmUaR0cjqDTj1UiFNfTIkZ0iN4G8eElg) — Table\\_title: व्हे प्रोटीन क्या है? Table\\_content: \\| प्रकार \\| प्रोटीन % \\| फैट और कार्ब्स \\| किसके लिए सबसे अच्छा \\| \\| \\-\\-\\- \\| \\-\\-\\- \\| \\-\\-\\- \\| \\-\\-\\- \\| \\| व्हे कंसन्ट्रेट \\(WPC\\) ...\n"
+  }
+}

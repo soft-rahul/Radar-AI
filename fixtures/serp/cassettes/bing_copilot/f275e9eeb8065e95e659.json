@@ -1,0 +1,287 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:39:43+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ec0305bb59ec10ed288b",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/1FG3u-jjeJ1NjG1L4k82z-gMV9GnaB7n4MO7jEgVK2k/6ac4ec0305bb59ec10ed288b.json",
+      "markdown_endpoint": "https://serpapi.com/searches/1FG3u-jjeJ1NjG1L4k82z-gMV9GnaB7n4MO7jEgVK2k/6ac4ec0305bb59ec10ed288b.md",
+      "created_at": "2026-10-06 12:39:31 UTC",
+      "processed_at": "2026-10-06 12:39:31 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/1FG3u-jjeJ1NjG1L4k82z-gMV9GnaB7n4MO7jEgVK2k/6ac4ec0305bb59ec10ed288b.html",
+      "total_time_taken": 11.51
+    },
+    "search_parameters": {
+      "q": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "2000 रुपये के भीतर, Optimum Nutrition (ON) Gold Standard 100% Whey और MuscleBlaze Biozyme Performance Whey जैसे विकल्प सबसे लोकप्रिय और भरोसेमंद माने जाते हैं, जो मसल्स बिल्डिंग और रिकवरी में मदद करते हैं MensXP+1 .",
+    "text_blocks": [
+      {
+        "type": "heading",
+        "snippet": "प्रमुख विकल्प और विवरण",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey",
+            "snippet_highlighted_words": [
+              "Optimum Nutrition (ON) Gold Standard 100% Whey"
+            ],
+            "list": [
+              {
+                "snippet": "प्रोटीन प्रति स्कूप: 24g",
+                "snippet_highlighted_words": [
+                  "प्रोटीन प्रति स्कूप"
+                ]
+              },
+              {
+                "snippet": "प्रोटीन प्रतिशत: लगभग 79%",
+                "snippet_highlighted_words": [
+                  "प्रोटीन प्रतिशत"
+                ]
+              },
+              {
+                "snippet": "बीसीएए (BCAAs): 5.5g",
+                "snippet_highlighted_words": [
+                  "बीसीएए (BCAAs)"
+                ]
+              },
+              {
+                "snippet": "फैट / शुगर: 1g / 1g",
+                "snippet_highlighted_words": [
+                  "फैट / शुगर"
+                ]
+              },
+              {
+                "snippet": "विशेषताएँ: Whey Protein Isolate + Concentrate मिलकर बनाया गया, तेजी से अवशोषण, मसल्स रिकवरी में उत्कृष्ट 1 .",
+                "snippet_highlighted_words": [
+                  "विशेषताएँ"
+                ],
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "MuscleBlaze Biozyme Performance Whey Protein",
+            "snippet_highlighted_words": [
+              "MuscleBlaze Biozyme Performance Whey Protein"
+            ],
+            "list": [
+              {
+                "snippet": "प्रोटीन प्रति स्कूप: 25–27g",
+                "snippet_highlighted_words": [
+                  "प्रोटीन प्रति स्कूप"
+                ]
+              },
+              {
+                "snippet": "बीसीएए: करीब 5–6g",
+                "snippet_highlighted_words": [
+                  "बीसीएए"
+                ]
+              },
+              {
+                "snippet": "विशेषताएँ: प्रोटीन आइसोलेट और कॉन्सेंट्रेट का मिश्रण, पाचन एंजाइम्स के साथ ताकि शरीर जल्दी अवशोषित करे, मसल्स बिल्डिंग और रिकवरी में सहायक 1 .",
+                "snippet_highlighted_words": [
+                  "विशेषताएँ"
+                ],
+                "reference_indexes": [
+                  2
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "Bigmuscles Nutrition Nitra Isolate Whey Protein",
+            "snippet_highlighted_words": [
+              "Bigmuscles Nutrition Nitra Isolate Whey Protein"
+            ],
+            "list": [
+              {
+                "snippet": "प्रोटीन प्रति स्कूप: 32g",
+                "snippet_highlighted_words": [
+                  "प्रोटीन प्रति स्कूप"
+                ]
+              },
+              {
+                "snippet": "बीसीएए: 10g",
+                "snippet_highlighted_words": [
+                  "बीसीएए"
+                ]
+              },
+              {
+                "snippet": "विशेषताएँ: प्रोहाइड्रोलाइज़ एंजाइम टेक्नोलॉजी, तेजी से अवशोषण और ताकत बढ़ाने के लिए अनुकूल 1 .",
+                "snippet_highlighted_words": [
+                  "विशेषताएँ"
+                ],
+                "reference_indexes": [
+                  1
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "Isopure Low Carb Whey Protein",
+            "snippet_highlighted_words": [
+              "Isopure Low Carb Whey Protein"
+            ],
+            "list": [
+              {
+                "snippet": "प्रोटीन प्रति स्कूप: 25g",
+                "snippet_highlighted_words": [
+                  "प्रोटीन प्रति स्कूप"
+                ]
+              },
+              {
+                "snippet": "प्रोटीन प्रतिशत: लगभग 81%",
+                "snippet_highlighted_words": [
+                  "प्रोटीन प्रतिशत"
+                ]
+              },
+              {
+                "snippet": "विशेषताएँ: 100% Whey Protein Isolate, लो कार्ब, लैक्टोज और ग्लूटेन फ्री, Glutamine और BCAAs के साथ 1 .",
+                "snippet_highlighted_words": [
+                  "विशेषताएँ"
+                ],
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "चयन के टिप्स",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रोटीन की मात्रा और बीसीएए देखें: ज्यादा बीसीएए और प्रोटीन प्रतिशत मसल्स रिकवरी और विकास के लिए बेहतर है।",
+            "snippet_highlighted_words": [
+              "प्रोटीन की मात्रा और बीसीएए"
+            ]
+          },
+          {
+            "snippet": "पाचन में आसानी: यदि पेट संवेदनशील है, तो आइसोलेट या एंजाइम-समर्थित प्रोटीन चुनें।",
+            "snippet_highlighted_words": [
+              "पाचन में आसानी"
+            ]
+          },
+          {
+            "snippet": "ब्रांड प्रतिष्ठा: ON, MuscleBlaze, Bigmuscles जैसे प्रमाणित ब्रांड भरोसेमंद हैं।",
+            "snippet_highlighted_words": [
+              "ब्रांड प्रतिष्ठा"
+            ]
+          },
+          {
+            "snippet": "अनावश्यक कार्ब/शुगर कम: यदि आपका लक्ष्य फैट लॉस या लो कार्ब डाइट है, तो लो कार्ब प्रोटीन बेहतर है।",
+            "snippet_highlighted_words": [
+              "अनावश्यक कार्ब/शुगर कम"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "निष्कर्ष",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "2000 रुपये के बजट में, Optimum Nutrition Gold Standard 100% Whey या MuscleBlaze Biozyme Performance Whey सबसे लोकप्रिय और असरदार विकल्प हैं MensXP+1 . यदि आप अतिरिक्त बीसीएए और तेज अवशोषण चाहते हैं, तो Bigmuscles Nutrition Nitra Isolate पर विचार कर सकते हैं। इन्हें हमेशा प्रमाणित और भरोसेमंद विक्रेता से ही खरीदें।",
+        "snippet_highlighted_words": [
+          "Optimum Nutrition Gold Standard 100% Whey",
+          "MuscleBlaze Biozyme Performance Whey",
+          "Bigmuscles Nutrition Nitra Isolate"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे ... - MensXP",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "हाई क्वालिटी के 'कंप्‍लीट प्रोटीन' को व्हे प्रोटीन (whey protein) कहते हैं। इसमें काफी सारे अमीनो एसिड्स होते हैं, जैसे - ब्रांच्ड एमीनो एसिड्स (Branched Amino Acids), ग्लूटामिन (Glutamins),...",
+        "source": "MensXP"
+      },
+      {
+        "index": 1,
+        "title": "Best Protein Powder Under ₹2,000 in India (2026) - RichDeals",
+        "link": "https://richdeals.in/blog/best-protein-powder-under-2000-india-2026",
+        "snippet": "A cost-per-scoop comparison of whey versus plant protein, plus authenticity checks and how to spot a real 2026 deal on protein powder under 2,000 rupees.",
+        "source": "richdeals.in"
+      },
+      {
+        "index": 2,
+        "title": "Best Protein Powders Under ₹2,000 in India | Whey2Much",
+        "link": "https://whey2much.in/blog/best-protein-under-2000-india",
+        "snippet": "Quality protein doesn't need to be expensive. Five lab-tested whey picks under ₹2,000, chosen for protein-per-rupee, clean formulation, and verified certifications.",
+        "source": "whey2much.in"
+      },
+      {
+        "index": 3,
+        "title": "Amazon.in सर्वाधिक बिकने वाले: व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "Bigmuscles Nutrition Nitra आइसोलेट [1kg, रिच चॉकलेट] | 32g प्रोटीन | 10g EAA | व्हे प्रोटीन प्रोहाइड्रोलेज़ एंजाइम टेक के साथ. तेजी से अवशोषण के लिए | बेहतर ताकत, तेज़ रिकवरी और मांसपेशियों का निर्माण. The Func.",
+        "source": "www.amazon.in"
+      },
+      {
+        "index": 4,
+        "title": "Best Whey Protein for Beginners in India (2026) – Top 7 Tested Options",
+        "link": "http://www.gymbar.in/2026/06/best-whey-protein-for-beginners-in.html",
+        "snippet": "Market me MuscleBlaze, AS-IT-IS, Nakpro, Optimum Nutrition aur kai brands available hain. Har brand apne product ko best batata hai, lekin beginners ke liye sahi protein choose karna confusing ho sakta hai.",
+        "source": "www.gymbar.in"
+      },
+      {
+        "index": 5,
+        "title": "Whey Protein vs Creatine vs Ashwagandha vs Shilajit: Gym Ke Liye Best ...",
+        "link": "https://www.thenexoraa.shop/2026/08/best-gym-supplement-whey-creatine-ashwagandha-shilajit.html",
+        "snippet": "Beginners ke liye whey protein sabse safe aur useful start hai, kyunki Indian diet mein protein ki kami sabse common hai. Budget kam hai toh creatine bhi best hai - ye sabse sasta aur sabse researched supplement hai.",
+        "source": "thenexoraa.shop"
+      },
+      {
+        "index": 6,
+        "title": "Best Whey Protein Under ₹2000 in India (2026) - ValueLens",
+        "link": "https://valuelens.in/best-whey-protein-under-2000-india",
+        "snippet": "Compare more than 20 whey proteins under ₹2000 by price, protein content, ingredients and value. See our top picks for different needs and budgets.",
+        "source": "valuelens.in"
+      },
+      {
+        "index": 7,
+        "title": "Best Whey Protein in India 2026 — Top 10 Ranked by Value & Quality",
+        "link": "https://proteinpaisa.com/blog/best-whey-protein-india-2026/",
+        "snippet": "Complete ranking of the best whey protein powders in India for 2026. Compare MuscleBlaze, Nakpro, Avvatar, ON, AS-IT-IS, Nutrabay & more by price, purity, and taste.",
+        "source": "proteinpaisa.com"
+      },
+      {
+        "index": 8,
+        "title": "Buy Whey Protein Under 2000 Online - Nykaa",
+        "link": "https://www.nykaa.com/dp/whey-protein-under-2000",
+        "snippet": "Buy whey protein under 2000 online at great offers and deals with COD and fast delivery. Experience the power of wellness with the collection, available at Nykaa!",
+        "source": "Nykaa"
+      }
+    ]
+  }
+}

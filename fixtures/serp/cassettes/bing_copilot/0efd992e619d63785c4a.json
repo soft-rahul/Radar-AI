@@ -1,0 +1,573 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "best whey protein for beginners in India",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:37:00+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb4d73bf59e5b3a13acc",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/tAZD5-ZeZ7xCXtJ2mRifbBSkJOJtAI9K7XEFmsldIwQ/6ac4eb4d73bf59e5b3a13acc.json",
+      "markdown_endpoint": "https://serpapi.com/searches/tAZD5-ZeZ7xCXtJ2mRifbBSkJOJtAI9K7XEFmsldIwQ/6ac4eb4d73bf59e5b3a13acc.md",
+      "created_at": "2026-10-06 12:36:29 UTC",
+      "processed_at": "2026-10-06 12:36:29 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=best+whey+protein+for+beginners+in+India&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/tAZD5-ZeZ7xCXtJ2mRifbBSkJOJtAI9K7XEFmsldIwQ/6ac4eb4d73bf59e5b3a13acc.html",
+      "total_time_taken": 30.76
+    },
+    "search_parameters": {
+      "q": "best whey protein for beginners in India",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "MuscleBlaze Beginner’s Whey Protein and Nutrabay Gold Vital Whey are the best beginner‑friendly whey proteins in India because they offer moderate protein per serving, easy digestion, and clean formulations suited for first‑time users.",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Bold summary: If you’re a beginner, choose MuscleBlaze Beginner’s Whey for a gentle start or Nutrabay Gold Vital Whey for higher protein with digestive enzymes. If you want a long‑term, higher‑quality whey, MuscleBlaze Biozyme Whey is the top-ranked overall option in India HealthKart .",
+        "snippet_highlighted_words": [
+          "Bold summary:",
+          "MuscleBlaze Beginner’s Whey",
+          "Nutrabay Gold Vital Whey",
+          "MuscleBlaze Biozyme Whey"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ Best Whey Proteins for Beginners in India (Based on Supplied Sources)",
+        "level": 2
+      },
+      {
+        "type": "heading",
+        "snippet": "1. MuscleBlaze Beginner’s Whey Protein",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "MuscleBlaze Beginner’s Whey Protein"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Best for absolute beginners",
+        "snippet_highlighted_words": [
+          "Best for absolute beginners"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "12g protein per serving — intentionally moderate for new users 1",
+            "snippet_highlighted_words": [
+              "12g protein per serving"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Zero added sugar 1",
+            "snippet_highlighted_words": [
+              "Zero added sugar"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Added vitamins for overall health support 1",
+            "snippet_highlighted_words": [
+              "Added vitamins"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Designed to help beginners adjust to whey without digestive discomfort"
+          },
+          {
+            "snippet": "Great for people who are not used to high protein intake"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. Nutrabay Gold Vital Whey Protein",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Nutrabay Gold Vital Whey Protein"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Best for beginners wanting higher protein + carbs",
+        "snippet_highlighted_words": [
+          "Best for beginners wanting higher protein + carbs"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Balanced protein + carbohydrates for lean muscle gain 1",
+            "snippet_highlighted_words": [
+              "protein + carbohydrates"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Digestive enzymes for better absorption 1",
+            "snippet_highlighted_words": [
+              "Digestive enzymes"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Free from banned substances and fillers 1",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Easy mixing and beginner-friendly flavours"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. MyFitFuel Advance Beginner Whey Protein",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "MyFitFuel Advance Beginner Whey Protein"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Best for taste-focused beginners",
+        "snippet_highlighted_words": [
+          "Best for taste-focused beginners"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "14.2g protein per serving 1",
+            "snippet_highlighted_words": [
+              "14.2g protein per serving"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Blend of isolate + concentrate for smoother digestion"
+          },
+          {
+            "snippet": "No soy or gluten (good for sensitive users) 1",
+            "snippet_highlighted_words": [
+              "No soy or gluten"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Great flavour options (e.g., double chocolate)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "4. Asitis Nutrition ATOM Beginners Whey",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Asitis Nutrition ATOM Beginners Whey"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Best for high protein per serving among beginner formulas",
+        "snippet_highlighted_words": [
+          "Best for high protein per serving among beginner formulas"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "25g protein per serving 1",
+            "snippet_highlighted_words": [
+              "25g protein per serving"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "5.7g BCAAs for recovery 1",
+            "snippet_highlighted_words": [
+              "5.7g BCAAs"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Includes digestive enzymes"
+          },
+          {
+            "snippet": "Labdoor USA certified for purity 1",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Good for beginners who train harder or want faster progress"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ Best Regular Whey That Is Still Beginner-Friendly",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "These are not “beginner formulas,” but they are excellent choices for new users who want higher-quality whey."
+      },
+      {
+        "type": "heading",
+        "snippet": "MuscleBlaze Biozyme Whey Protein",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "MuscleBlaze Biozyme Whey Protein"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Ranked #1 whey protein in India with a score of 86/100 1",
+            "snippet_highlighted_words": [
+              "#1 whey protein in India",
+              "86/100"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "25g protein per serving",
+            "snippet_highlighted_words": [
+              "25g protein per serving"
+            ]
+          },
+          {
+            "snippet": "Enhanced digestion formula (Biozyme)"
+          },
+          {
+            "snippet": "Great for beginners who want a long-term whey option"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "TrueBasics Clean Whey Protein",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "TrueBasics Clean Whey Protein"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Clean-label blend of isolate + concentrate 1",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "25.2g protein per serving",
+            "snippet_highlighted_words": [
+              "25.2g protein per serving"
+            ]
+          },
+          {
+            "snippet": "Third‑party tested for purity 1",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Good for beginners who want a simple, clean formula"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📊 Comparison Table for Beginners",
+        "level": 2
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "MuscleBlaze Beginner’s Whey",
+            "12g",
+            "No",
+            "First-time users",
+            "1"
+          ],
+          [
+            "Nutrabay Gold Vital Whey",
+            "High (exact varies)",
+            "Yes",
+            "Lean muscle + easy digestion",
+            "1"
+          ],
+          [
+            "MyFitFuel Beginner Whey",
+            "14.2g",
+            "Yes",
+            "Taste + smooth mixing",
+            "1"
+          ],
+          [
+            "Asitis ATOM Beginners Whey",
+            "25g",
+            "Yes",
+            "High-protein beginners",
+            "1"
+          ],
+          [
+            "MuscleBlaze Biozyme Whey",
+            "25g",
+            "Yes",
+            "Long-term whey, top quality",
+            "1"
+          ]
+        ],
+        "headers": [
+          "Product",
+          "Protein/Serving",
+          "Digestive Enzymes",
+          "Best For",
+          "Source"
+        ],
+        "formatted": [
+          {
+            "product": "MuscleBlaze Beginner’s Whey",
+            "protein_serving": "12g",
+            "digestive_enzymes": "No",
+            "best_for": "First-time users",
+            "source": "1"
+          },
+          {
+            "product": "Nutrabay Gold Vital Whey",
+            "protein_serving": "High (exact varies)",
+            "digestive_enzymes": "Yes",
+            "best_for": "Lean muscle + easy digestion",
+            "source": "1"
+          },
+          {
+            "product": "MyFitFuel Beginner Whey",
+            "protein_serving": "14.2g",
+            "digestive_enzymes": "Yes",
+            "best_for": "Taste + smooth mixing",
+            "source": "1"
+          },
+          {
+            "product": "Asitis ATOM Beginners Whey",
+            "protein_serving": "25g",
+            "digestive_enzymes": "Yes",
+            "best_for": "High-protein beginners",
+            "source": "1"
+          },
+          {
+            "product": "MuscleBlaze Biozyme Whey",
+            "protein_serving": "25g",
+            "digestive_enzymes": "Yes",
+            "best_for": "Long-term whey, top quality",
+            "source": "1"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ How to Choose the Right Whey as a Beginner",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Key factors to consider:",
+        "snippet_highlighted_words": [
+          "Key factors to consider:"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Protein per serving: Beginners often do better with 12–20g initially.",
+            "snippet_highlighted_words": [
+              "Protein per serving:"
+            ]
+          },
+          {
+            "snippet": "Digestibility: Look for digestive enzymes or isolate-based whey if you get bloating.",
+            "snippet_highlighted_words": [
+              "Digestibility:",
+              "digestive enzymes"
+            ]
+          },
+          {
+            "snippet": "Budget: Concentrates are cheaper; isolates cost more but digest easier.",
+            "snippet_highlighted_words": [
+              "Budget:"
+            ]
+          },
+          {
+            "snippet": "Flavour & mixability: Important for consistency.",
+            "snippet_highlighted_words": [
+              "Flavour & mixability:"
+            ]
+          },
+          {
+            "snippet": "Testing & authenticity: Choose brands with batch testing (e.g., MuscleBlaze Biozyme, TrueBasics).",
+            "snippet_highlighted_words": [
+              "Testing & authenticity:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ Final Recommendation",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you want the simplest, safest start: ➡️ MuscleBlaze Beginner’s Whey Protein India Deets",
+        "snippet_highlighted_words": [
+          "MuscleBlaze Beginner’s Whey Protein"
+        ],
+        "reference_indexes": [
+          1
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you want better digestion and more protein: ➡️ Nutrabay Gold Vital Whey India Deets",
+        "snippet_highlighted_words": [
+          "Nutrabay Gold Vital Whey"
+        ],
+        "reference_indexes": [
+          1
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you want the highest-quality whey overall (even as a beginner): ➡️ MuscleBlaze Biozyme Whey Protein — India’s top-ranked whey HealthKart",
+        "snippet_highlighted_words": [
+          "MuscleBlaze Biozyme Whey Protein"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Would you like me to recommend the best option based on your goal (muscle gain, weight loss, or general fitness)?",
+        "snippet_highlighted_words": [
+          "based on your goal"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Best Whey Protein for Beginners in India (2026) - ValueLens",
+        "link": "https://valuelens.in/best-beginner-whey-protein-india",
+        "snippet": "Choosing your first whey protein? Learn what matters, what to avoid, and how to compare whey proteins in India using protein percentage, ingredients, and ₹/g protein.",
+        "source": "valuelens.in"
+      },
+      {
+        "index": 1,
+        "title": "Best Whey Protein for Beginners in India — Complete Guide",
+        "link": "https://www.fitsimplylife.com/2026/05/best-whey-protein-beginners-india.html",
+        "snippet": "An honest guide to whey protein for beginners in India — 6 popular options, how to use it sensibly, and when you actually need it.",
+        "source": "fitsimplylife.com"
+      },
+      {
+        "index": 2,
+        "title": "Best Whey Protein for Beginners in India (2026) – Top 7 Tested Options",
+        "link": "http://www.gymbar.in/2026/06/best-whey-protein-for-beginners-in.html",
+        "snippet": "Is guide me hum India ke popular whey proteins ko compare karenge aur batayenge ki beginners ke liye kaunsa option sabse suitable hai. 1. MuscleBlaze Biozyme Whey Protein. MuscleBlaze Biozyme India ke sabse popular whey proteins me se ek hai. Iski digestion-friendly formula aur good taste beginners ko kaafi pasand aati hai.",
+        "source": "www.gymbar.in"
+      },
+      {
+        "index": 3,
+        "title": "10 Best Whey Protein Powders in India (2026): MuscleBlaze, TrueBasics ...",
+        "link": "https://www.healthkart.com/connect/10-best-whey-protein-powders-in-india-2026-muscleblaze-truebasics-more-ranked/",
+        "snippet": "Expert-ranked whey protein powders in India compared by purity, form, and price per gram. Top picks across concentrate, isolate, and hydrolysate for every goal.",
+        "source": "HealthKart"
+      },
+      {
+        "index": 4,
+        "title": "Top Whey Protein Picks for Indian Beginners (20g+ BCAAs) - India Deets",
+        "link": "https://indiadeets.com/best-whey-protein-for-beginners-in-india/",
+        "snippet": "Choosing the right whey protein is key, especially if you’re a beginner in India. You want one that not only supports your goals but also aligns with your lifestyle and budget. That’s why we’ve sifted through the multitude to bring you the top picks that promise quality and value.",
+        "source": "India Deets"
+      },
+      {
+        "index": 5,
+        "title": "Best Whey Protein for Beginners India 2026 | WellFitLife",
+        "link": "https://wellfitlife.in/blog/whey-protein-guide-beginners-india",
+        "snippet": "Starting whey protein in India and don't know where to begin? This complete guide covers exact dosage, best timing, honest reviews of ON Gold Standard, MuscleBlaze Biozyme and AS-IT-IS ATOM, side effects myths busted, and which whey is actually worth buying in 2026.",
+        "source": "wellfitlife.in"
+      },
+      {
+        "index": 6,
+        "title": "Best Whey Protein for Beginners India 2026 | Top 5 Tested",
+        "link": "https://reviehub.in/best-whey-protein-for-beginners-india-2026-top-5-tested/",
+        "snippet": "Choosing the right whey protein as a beginner can make or break your progress. We’ve analyzed India’s top 5 beginner-friendly whey proteins with real protein content, digestive support, and value to help you make the smart first purchase.",
+        "source": "reviehub.in"
+      },
+      {
+        "index": 7,
+        "title": "Best Whey Protein for Beginners in India – What Trainers Recommend in 2026",
+        "link": "https://bornathlete.in/blog/best-whey-protein-for-beginners-in-india-what-trainers-recommend-in-2026",
+        "snippet": "The best whey protein for beginners in India is a clean, high-quality whey protein that delivers 22–26g protein per scoop, easy digestion, and minimal sugar or fillers.",
+        "source": "bornathlete.in"
+      },
+      {
+        "index": 8,
+        "title": "Best Whey Protein for Beginners in India: A Simple Guide",
+        "link": "https://reformulate.in/blogs/blogs/best-whey-protein-for-beginners-in-india",
+        "snippet": "Find the best whey protein for beginners in India. Learn types, dosage & tips to pick the right one and start seeing results faster.",
+        "source": "reformulate.in"
+      },
+      {
+        "index": 9,
+        "title": "Best Protein Powder for Beginners in India (2026) | Whey2Much",
+        "link": "https://www.whey2much.in/blog/best-protein-powder-for-beginners-india",
+        "snippet": "For most beginners, a good whey protein delivering 24 to 27 grams of protein per serving from a clear protein source is all you need. MuscleBlaze Biozyme Performance Whey is our overall pick because it is widely available, consistently reliable and reasonably priced.",
+        "source": "www.whey2much.in"
+      }
+    ]
+  }
+}

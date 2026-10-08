@@ -1,0 +1,188 @@
+{
+  "readings": [
+    {
+      "answer_id": "q2|copilot|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Biozyme Iso‑Zero — Best Dual‑Verified Purity"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "The Whole Truth Raw Whey (Unflavoured) — Cleanest Short Label"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard Whey — Best International Benchmark"
+        },
+        {
+          "brand": "MyProtein",
+          "stance": "recommended",
+          "quote": "MyProtein Impact Whey — Best Flavour Variety"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Biozyme Iso-Zero",
+          "attribute": "protein_per_serving_g",
+          "value": "27g",
+          "quote": "MuscleBlaze Biozyme Iso‑Zero | Dual‑verified purity | Trustified + Labdoor 1 | 27g | Lean muscle, digestion"
+        },
+        {
+          "brand": "The Whole Truth",
+          "product": "Raw Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "26g",
+          "quote": "The Whole Truth Raw Whey | Minimal ingredients | Trustified + NABL 1 | 26g | Clean-label seekers"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "Biozyme Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "MuscleBlaze Biozyme Whey | Best overall usability | Trustified retest 1 | 25g | Regular gym-goers"
+        }
+      ]
+    },
+    {
+      "answer_id": "q2|copilot|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Biozyme Whey Protein — Score: 86/100"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard 100% Whey — Score: 72/100"
+        },
+        {
+          "brand": "MyProtein",
+          "stance": "recommended",
+          "quote": "MyProtein Impact Whey — Score: 68/100"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "recommended",
+          "quote": "Avvatar Absolute Whey — Score: 66/100"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition Whey Concentrate 80% — Score: 64/100"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "recommended",
+          "quote": "Dymatize ISO100 Hydrolyzed — Score: 62/100"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Biozyme",
+          "attribute": "price_inr",
+          "value": "₹3600–3700",
+          "quote": "MuscleBlaze Biozyme | ~76g | Blend | ₹3600–3700 | Overall performance 1"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard",
+          "attribute": "price_inr",
+          "value": "₹3600–4300",
+          "quote": "ON Gold Standard | ~79g | Blend | ₹3600–4300 | Global trust 1"
+        },
+        {
+          "brand": "MyProtein",
+          "product": "Impact Whey",
+          "attribute": "price_inr",
+          "value": "₹2800–3300",
+          "quote": "MyProtein Impact Whey | 67–84g | Concentrate | ₹2800–3300 | Flavour variety 1"
+        }
+      ]
+    },
+    {
+      "answer_id": "q3|ai_mode|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "neutral",
+          "quote": "Optimum Nutrition (ON) Gold Standard 100% Whey"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "MuscleBlaze Beginner's Whey Protein"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate 80%"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "neutral",
+          "quote": "NAKPRO Impact Whey / Gold"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q3|ai_mode|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन MuscleBlaze Beginner's Whey, Nakpro Platinum Whey और Avvatar Whey Protein माने जाते हैं।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन MuscleBlaze Beginner's Whey, Nakpro Platinum Whey और Avvatar Whey Protein माने जाते हैं।"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "recommended",
+          "quote": "भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन MuscleBlaze Beginner's Whey, Nakpro Platinum Whey और Avvatar Whey Protein माने जाते हैं।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "Atom Whey Protein: यह उन लोगों के लिए सबसे अच्छा है जो कम कीमत में बेहतरीन परिणाम चाहते हैं।"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q3|ai_mode|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "शुरुआती (beginners) के लिए सबसे अच्छा और लोकप्रिय व्हे प्रोटीन MuscleBlaze Beginner's Whey, Optimum Nutrition (ON) Gold Standard 100% Whey, और बजट के लिहाज से AS-IT-IS Nutrition Whey Protein Concentrate माना जाता है।"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "शुरुआती (beginners) के लिए सबसे अच्छा और लोकप्रिय व्हे प्रोटीन MuscleBlaze Beginner's Whey, Optimum Nutrition (ON) Gold Standard 100% Whey, और बजट के लिहाज से AS-IT-IS Nutrition Whey Protein Concentrate माना जाता है।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "शुरुआती (beginners) के लिए सबसे अच्छा और लोकप्रिय व्हे प्रोटीन MuscleBlaze Beginner's Whey, Optimum Nutrition (ON) Gold Standard 100% Whey, और बजट के लिहाज से AS-IT-IS Nutrition Whey Protein Concentrate माना जाता है।"
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "recommended",
+          "quote": "Nutrabay Gold Whey Protein: यह भी बिगिनर्स के लिए एक बेहतरीन और किफायती ऑप्शन है जिसमें अच्छी मात्रा में बीसीएए (BCAA) और प्रोटीन मिल जाता है।"
+        }
+      ],
+      "claims": []
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "readings": [
+    {
+      "answer_id": "q3|ai_overview|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze (जैसे MuscleBlaze Biozyme Whey Protein) – यह पाचन (digestion) और लैब-टेस्टिंग के मामले में भारत में काफी लोकप्रिय है।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Nakpro – कम बजट में अच्छी क्वालिटी और प्रोटीन प्रोफाइल चाहने वालों के लिए एक अच्छा विकल्प है।"
+        },
+        {
+          "brand": "Wellcore",
+          "stance": "recommended",
+          "quote": "Wellcore – नए ट्रेंड्स और अच्छे फ्लेवर के कारण बिगिनर्स द्वारा पसंद किया जा रहा है।"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Biozyme Whey Protein",
+          "attribute": "certification",
+          "value": "लैब-टेस्टिंग",
+          "quote": "यह पाचन (digestion) और लैब-टेस्टिंग के मामले में भारत में काफी लोकप्रिय है।"
+        }
+      ]
+    },
+    {
+      "answer_id": "q3|ai_overview|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "शुरुआती लोगों (beginners) के लिए सबसे अच्छा और किफायती विकल्प MuscleBlaze Beginner's Whey Protein"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition ATOM Beginners Whey Protein माना जाता है"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "neutral",
+          "quote": "Optimum Nutrition (ON) 100% Whey Gold Standard:"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Beginner's Whey Protein",
+          "attribute": "other",
+          "value": "पाचन एंजाइम (digestive enzymes)",
+          "quote": "इनमें पाचन एंजाइम (digestive enzymes) होते हैं"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS Nutrition ATOM Beginners Whey Protein",
+          "attribute": "other",
+          "value": "पाचन एंजाइम (digestive enzymes)",
+          "quote": "इनमें पाचन एंजाइम (digestive enzymes) होते हैं"
+        }
+      ]
+    },
+    {
+      "answer_id": "q3|ai_overview|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "The best beginner-friendly option in India is MuscleBlaze Beginner's Protein Powder"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "neutral",
+          "quote": "Optimum Nutrition (ON) Gold Standard 100% Whey"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate 80%"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "neutral",
+          "quote": "Nakpro Impact Whey Protein"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Beginner's Protein Powder",
+          "attribute": "other",
+          "value": "added digestive enzymes",
+          "quote": "specially designed for entry-level gym-goers with added digestive enzymes for easy absorption."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS Nutrition Whey Protein Concentrate 80%",
+          "attribute": "other",
+          "value": "80%",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate 80%"
+        }
+      ]
+    },
+    {
+      "answer_id": "q3|ai_overview|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "The best beginner-friendly option in India is MuscleBlaze Beginner's Protein Powder"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "neutral",
+          "quote": "Optimum Nutrition (ON) Gold Standard 100% Whey"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate 80%"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "neutral",
+          "quote": "Nakpro Impact Whey Protein"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Beginner's Protein Powder",
+          "attribute": "other",
+          "value": "added digestive enzymes",
+          "quote": "specially designed for entry-level gym-goers with added digestive enzymes for easy absorption."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS Nutrition Whey Protein Concentrate 80%",
+          "attribute": "other",
+          "value": "80%",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate 80%"
+        }
+      ]
+    },
+    {
+      "answer_id": "q3|copilot|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Gainz4Ever",
+          "stance": "recommended",
+          "quote": "Gainz4Ever Whey Protein एक भरोसेमंद विकल्प है।"
+        }
+      ],
+      "claims": []
+    }
+  ]
+}

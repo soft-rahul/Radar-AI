@@ -1,0 +1,128 @@
+{
+  "request": {
+    "engine": "google_autocomplete",
+    "params": {
+      "q": "which protein powder is best",
+      "gl": "in",
+      "hl": "en"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:02:45+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4e36455ba654ffcbd795a",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/QxCXkyBL-phLgkONQ6TTpySY7_Q02sSFoxNLMbctCX8/6ac4e36455ba654ffcbd795a.json",
+      "markdown_endpoint": "https://serpapi.com/searches/QxCXkyBL-phLgkONQ6TTpySY7_Q02sSFoxNLMbctCX8/6ac4e36455ba654ffcbd795a.md",
+      "created_at": "2026-10-06 12:02:44 UTC",
+      "processed_at": "2026-10-06 12:02:44 UTC",
+      "google_autocomplete_url": "https://www.google.com/complete/search?q=which+protein+powder+is+best&gl=in&hl=en&client=chrome&dpr=1",
+      "raw_html_file": "https://serpapi.com/searches/QxCXkyBL-phLgkONQ6TTpySY7_Q02sSFoxNLMbctCX8/6ac4e36455ba654ffcbd795a.html",
+      "prettify_html_file": "https://serpapi.com/searches/QxCXkyBL-phLgkONQ6TTpySY7_Q02sSFoxNLMbctCX8/6ac4e36455ba654ffcbd795a.prettify",
+      "total_time_taken": 1.53
+    },
+    "search_parameters": {
+      "engine": "google_autocomplete",
+      "q": "which protein powder is best",
+      "gl": "in",
+      "hl": "en"
+    },
+    "search_information": {
+      "autocomplete_results_state": "Showing completion results."
+    },
+    "suggestions": [
+      {
+        "value": "which protein powder is best for weight loss",
+        "relevance": 1250,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+weight+loss"
+      },
+      {
+        "value": "which protein powder is best for weight gain for female",
+        "relevance": 700,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+weight+gain+for+female"
+      },
+      {
+        "value": "which protein powder is best for weight gain for male",
+        "relevance": 650,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+weight+gain+for+male"
+      },
+      {
+        "value": "which protein powder is best for weight loss for female",
+        "relevance": 601,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+weight+loss+for+female"
+      },
+      {
+        "value": "which protein powder is best for muscle gain",
+        "relevance": 600,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+muscle+gain"
+      },
+      {
+        "value": "which protein powder is best for weight gain",
+        "relevance": 559,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+weight+gain"
+      },
+      {
+        "value": "which protein powder is best for women",
+        "relevance": 558,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+women"
+      },
+      {
+        "value": "which protein powder is best for pregnancy",
+        "relevance": 557,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+pregnancy"
+      },
+      {
+        "value": "which protein powder is best for diabetic patients",
+        "relevance": 556,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+diabetic+patients"
+      },
+      {
+        "value": "which protein powder is best in india",
+        "relevance": 555,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+in+india"
+      },
+      {
+        "value": "which protein powder is best for muscle gain in india",
+        "relevance": 554,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+muscle+gain+in+india"
+      },
+      {
+        "value": "which protein powder is best for muscle gain for male",
+        "relevance": 553,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+muscle+gain+for+male"
+      },
+      {
+        "value": "which protein powder is best for kids",
+        "relevance": 552,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+kids"
+      },
+      {
+        "value": "which protein powder is best for weight loss male",
+        "relevance": 551,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+weight+loss+male"
+      },
+      {
+        "value": "which protein powder is best for hair growth and thickness",
+        "relevance": 550,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=en&q=which+protein+powder+is+best+for+hair+growth+and+thickness"
+      }
+    ],
+    "verbatim_relevance": 1300
+  }
+}

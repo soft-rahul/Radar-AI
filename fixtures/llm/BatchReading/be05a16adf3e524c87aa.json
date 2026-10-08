@@ -1,0 +1,129 @@
+{
+  "readings": [
+    {
+      "answer_id": "q5|ai_mode|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Nakpro",
+          "stance": "neutral",
+          "quote": "Nakpro Gold / Concentrate Whey Protein"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate (80%)"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "MuscleBlaze Fuel One Whey Max"
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "neutral",
+          "quote": "Nutrabay Vital Whey Protein"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q5|ai_mode|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "As-It-Is Nutrition Whey Protein Concentrate: Kai baar sales ya discounts ke dauran unflavoured 1kg pack is range ke aas-paas mil jata hai, jo ki lab-tested aur pure hota hai."
+        }
+      ],
+      "claims": [
+        {
+          "brand": "AS-IT-IS",
+          "product": "Atom Power Protein / Beginners Whey",
+          "attribute": "price_inr",
+          "value": "₹1,600 se ₹1,800",
+          "quote": "Atom Power Protein / Beginners Whey: Ye bhi ₹1,600 se ₹1,800 ki range me mil jata hai"
+        }
+      ]
+    },
+    {
+      "answer_id": "q5|ai_mode|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate 80%: Widely considered one of the most value-driven and transparent unflavoured wheys in India."
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Nakpro Nutrition Gold / Platinum Whey Concentrate: Known for offering heavily pocket-friendly flavored and unflavored whey protein concentrates."
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "MuscleBlaze Raw Whey Concentrate: Often discounted or available in smaller sizes/starter variants within a sub-₹2,000 budget."
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q5|ai_mode|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate 80%"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Why it wins: Nakpro is heavily trusted for offering clean, certified budget protein that mixes reasonably well and comes in both flavored and unflavored options."
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "MuscleBlaze Raw Whey Concentrate 80%"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q5|ai_overview|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Nakpro Impact Whey: यह [Trustified] से प्रमाणित है और हर एक स्कूप में लगभग 24 ग्राम प्रोटीन देता है, जो शुरुआती लोगों के लिए बेहद किफायती और सुरक्षित माना जाता है।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Atom Whey Protein: इसके कुछ पैक्स और छोटे वेरिएंट्स में पाचन के लिए DigeZyme® एंजाइम और करीब 27 ग्राम प्रोटीन तक मिल जाता है, जो पेट के लिए हल्का होता है।"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro Impact Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24 ग्राम",
+          "quote": "हर एक स्कूप में लगभग 24 ग्राम प्रोटीन देता है"
+        },
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro Impact Whey",
+          "attribute": "certification",
+          "value": "Trustified",
+          "quote": "यह [Trustified] से प्रमाणित है"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS Atom Whey Protein",
+          "attribute": "protein_per_serving_g",
+          "value": "27 ग्राम",
+          "quote": "करीब 27 ग्राम प्रोटीन तक मिल जाता है"
+        }
+      ]
+    }
+  ]
+}

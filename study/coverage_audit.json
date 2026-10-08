@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-06",
+  "run_id": 2,
+  "method": "After the human check, plain code searched the 30 checked answers for product-like phrases (<Name> Whey/Protein/Nutrition) that no listed alias matched, and for known names not on the list. Every listed brand was found wherever it appeared; the gaps were brands missing from the list.",
+  "unlisted_brand_mentions_before_fix": {
+    "TrueBasics": 6,
+    "Ultimate Nutrition": 4,
+    "FuelOne": 4,
+    "OZiva": 1
+  },
+  "fix": "Added the four brands to study/whey.json. They were found by the code audit, not marked by the human checker.",
+  "notes": {
+    "FuelOne": "Budget whey sold on HealthKart; some answers write 'MuscleBlaze Fuel One'. Counted as its own brand so MuscleBlaze is not inflated."
+  },
+  "second_pass_all_answers": {
+    "method": "Same audit over all 85 answered cells of run 2 with a list of ~70 known protein brands.",
+    "unlisted_brand_mentions": {
+      "MuscleTech": 7,
+      "Fast&Up": 3,
+      "MyFitFuel": 2,
+      "HK Vitals": 1,
+      "PowerLift": 1
+    },
+    "fix": "Added to study/whey.json (27 brands in total)."
+  }
+}

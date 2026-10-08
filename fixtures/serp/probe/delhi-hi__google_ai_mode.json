@@ -1,0 +1,153 @@
+{
+  "search_metadata": {
+    "id": "6ac4de8b13f4b6a80933bf92",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vBzDpw5TWFBbWdn8CCOsBkPojelUZTbcIBau5303Mlc/6ac4de8b13f4b6a80933bf92.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vBzDpw5TWFBbWdn8CCOsBkPojelUZTbcIBau5303Mlc/6ac4de8b13f4b6a80933bf92.md",
+    "created_at": "2026-10-06 11:42:03 UTC",
+    "processed_at": "2026-10-06 11:42:03 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%86%E0%A4%A4%E0%A5%80+%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88&udm=50&gl=in&hl=hi&uule=w+CAIQICILRGVsaGksSW5kaWE",
+    "raw_html_file": "https://serpapi.com/searches/vBzDpw5TWFBbWdn8CCOsBkPojelUZTbcIBau5303Mlc/6ac4de8b13f4b6a80933bf92.html",
+    "prettify_html_file": "https://serpapi.com/searches/vBzDpw5TWFBbWdn8CCOsBkPojelUZTbcIBau5303Mlc/6ac4de8b13f4b6a80933bf92.prettify",
+    "total_time_taken": 6.19
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन कौन सा है",
+    "hl": "hi",
+    "gl": "in",
+    "location_requested": "Delhi, India",
+    "location_used": "Delhi,India",
+    "device": "desktop"
+  },
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "भारत में शुरुआती (Beginners) लोगों के लिए व्हे प्रोटीन चुनते समय पचनीयता (digestion), बजट और क्वालिटी का ध्यान रखना बहुत जरूरी है। शुरुआती जिम जाने वालों के लिए पेट की समस्याओं से बचने के लिए ऐसा प्रोटीन चाहिए जो आसानी से पच जाए और जेब पर भी भारी न पड़े।",
+      "snippet_highlighted_words": [
+        "शुरुआती जिम जाने वालों के लिए पेट की समस्याओं से बचने के लिए ऐसा प्रोटीन चाहिए जो आसानी से पच जाए और जेब पर भी भारी न पड़े"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "यहाँ भारत में शुरुआती लोगों के लिए कुछ सबसे अच्छे और भरोसेमंद व्हे प्रोटीन ब्रांड्स की सूची दी गई है:"
+    },
+    {
+      "type": "heading",
+      "snippet": "1. Optimum Nutrition (ON) Gold Standard 100% Whey"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "खासियत: यह दुनिया भर में और भारत में भी सबसे लोकप्रिय और भरोसेमंद ब्रांड्स में से एक है।"
+        },
+        {
+          "snippet": "प्रोटीन प्रति स्कूप: लगभग 24g प्रोटीन।"
+        },
+        {
+          "snippet": "फायदे: इसकी क्वालिटी प्रीमियम है, यह आसानी से पच जाता है (क्योंकि इसमें पाचक एंजाइम होते हैं), और इसका स्वाद भी बेहतरीन है। शुरुआती लोगों के लिए यह एक 'गोल्ड स्टैंडर्ड' विकल्प है।"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "2. MuscleBlaze Beginner's Whey Protein"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "खासियत: इसे खासतौर पर उन लोगों के लिए डिजाइन किया गया है जो पहली बार जिम या व्हे प्रोटीन की शुरुआत कर रहे हैं।"
+        },
+        {
+          "snippet": "प्रोटीन प्रति स्कूप: लगभग 12g से 22g (वेरिएंट के अनुसार)।"
+        },
+        {
+          "snippet": "फायदे: इसमें पाचन के लिए बायोसाइम (Biozyme) या एडवांस्ड डाइजेस्टिव एंजाइम होते हैं, जिससे शुरुआती लोगों को पेट फूलना या बदहजमी जैसी समस्या नहीं होती। यह बजट के अनुकूल भी है।"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "3. AS-IT-IS Nutrition Whey Protein Concentrate 80%"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "खासियत: यह अनफ्लूएस्ड (बिना फ्लेवर वाला) और पूरी तरह शुद्ध रॉ व्हे प्रोटीन है।"
+        },
+        {
+          "snippet": "प्रोटीन प्रति स्कूप: लगभग 24g प्रोटीन।"
+        },
+        {
+          "snippet": "फायदे: अगर आपका बजट कम है और आप बिना किसी आर्टिफिशियल फ्लेवर या शुगर के सबसे शुद्ध फॉर्म चाहते हैं, तो यह सबसे किफायती और बेहतरीन विकल्प है। आप इसे अपनी पसंद के अनुसार शेक या जूस में मिला सकते हैं।"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "4. NAKPRO Impact Whey / Gold"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "खासियत: बजट-फ्रेंडली और ईमानदारी से बनाई गई प्रोटीन सप्लीमेंट कंपनी।"
+        },
+        {
+          "snippet": "प्रोटीन प्रति स्कूप: लगभग 24g प्रोटीन।"
+        },
+        {
+          "snippet": "फायदे: कम कीमत में अच्छी क्वालिटी का प्रोटीन चाहने वाले बिगिनर्स के लिए यह बहुत लोकप्रिय है। इसकी घुलनशीलता (solubility) भी अच्छी है।"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "शुरुआती लोगों के लिए जरूरी टिप्स:"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "पानी या दूध: शुरुआत में आप इसे पानी या टोंड दूध के साथ ले सकते हैं। अगर लैक्टोज इंटॉलरेंस (दूध न पचने की समस्या) है, तो पानी के साथ ही लें।"
+        },
+        {
+          "snippet": "मात्रा: दिन में सिर्फ 1 स्कूप (लगभग 30g) से शुरुआत करें, और पानी भरपूर पिएं।"
+        },
+        {
+          "snippet": "ऑथेंटिसिटी: हमेशा प्रोडक्ट पर दिए गए क्यूआर कोड या स्क्रैच कोड से उसकी असलियत (authenticity) जरूर जांच लें।",
+          "reference_indexes": [
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "क्या आप अपने लिए बजट रेंज (जैसे कि किफायती या प्रीमियम) और अपना मुख्य फिटनेस गोल (जैसे वजन घटाना या मांसपेशियां बढ़ाना) साझा करना चाहेंगे, ताकि मैं इनमें से आपके लिए सबसे सटीक प्रोटीन सुझा सकूं?"
+    }
+  ],
+  "references": [
+    {
+      "index": 0,
+      "title": "Best Whey Proteins for Beginners online at MuscleBlaze",
+      "link": "https://www.muscleblaze.com/categories/proteins/beginners-whey-proteins?navKey=CL-5694&srsltid=AU7gw4XPon2TlcN92yF6AyPnopB3f4fYRvtsrbz6oxJ39LP17R6AvXEm",
+      "snippet": "Usually, a scoop of whey protein contains around 25 to 30g of protein. It has a great effect on muscle size and recovery. It can be taken as pre workout,",
+      "source": "MuscleBlaze",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.muscleblaze.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    {
+      "index": 1,
+      "title": "Lean Starter Shake",
+      "link": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhwaWRuZDNZalJ3GAo",
+      "snippet": "30g whey concentrate with water. Light, low-calorie, beginner-friendly protein boost 120 Kcal | 22g Protein | 3g Carbs | 0g Fibre",
+      "source": "google.com",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    }
+  ],
+  "reconstructed_markdown": "भारत में शुरुआती \\(Beginners\\) लोगों के लिए व्हे प्रोटीन चुनते समय पचनीयता \\(digestion\\), बजट और क्वालिटी का ध्यान रखना बहुत जरूरी है। शुरुआती जिम जाने वालों के लिए पेट की समस्याओं से बचने के लिए ऐसा प्रोटीन चाहिए जो आसानी से पच जाए और जेब पर भी भारी न पड़े।\n\nयहाँ भारत में शुरुआती लोगों के लिए कुछ सबसे अच्छे और भरोसेमंद व्हे प्रोटीन ब्रांड्स की सूची दी गई है:\n\n### 1. Optimum Nutrition \\(ON\\) Gold Standard 100% Whey\n\n- खासियत: यह दुनिया भर में और भारत में भी सबसे लोकप्रिय और भरोसेमंद ब्रांड्स में से एक है।\n- प्रोटीन प्रति स्कूप: लगभग 24g प्रोटीन।\n- फायदे: इसकी क्वालिटी प्रीमियम है, यह आसानी से पच जाता है \\(क्योंकि इसमें पाचक एंजाइम होते हैं\\), और इसका स्वाद भी बेहतरीन है। शुरुआती लोगों के लिए यह एक 'गोल्ड स्टैंडर्ड' विकल्प है।\n\n### 2. MuscleBlaze Beginner's Whey Protein\n\n- खासियत: इसे खासतौर पर उन लोगों के लिए डिजाइन किया गया है जो पहली बार जिम या व्हे प्रोटीन की शुरुआत कर रहे हैं।\n- प्रोटीन प्रति स्कूप: लगभग 12g से 22g \\(वेरिएंट के अनुसार\\)।\n- फायदे: इसमें पाचन के लिए बायोसाइम \\(Biozyme\\) या एडवांस्ड डाइजेस्टिव एंजाइम होते हैं, जिससे शुरुआती लोगों को पेट फूलना या बदहजमी जैसी समस्या नहीं होती। यह बजट के अनुकूल भी है।\n\n### 3. AS\\-IT\\-IS Nutrition Whey Protein Concentrate 80%\n\n- खासियत: यह अनफ्लूएस्ड \\(बिना फ्लेवर वाला\\) और पूरी तरह शुद्ध रॉ व्हे प्रोटीन है।\n- प्रोटीन प्रति स्कूप: लगभग 24g प्रोटीन।\n- फायदे: अगर आपका बजट कम है और आप बिना किसी आर्टिफिशियल फ्लेवर या शुगर के सबसे शुद्ध फॉर्म चाहते हैं, तो यह सबसे किफायती और बेहतरीन विकल्प है। आप इसे अपनी पसंद के अनुसार शेक या जूस में मिला सकते हैं।\n\n### 4. NAKPRO Impact Whey / Gold\n\n- खासियत: बजट\\-फ्रेंडली और ईमानदारी से बनाई गई प्रोटीन सप्लीमेंट कंपनी।\n- प्रोटीन प्रति स्कूप: लगभग 24g प्रोटीन।\n- फायदे: कम कीमत में अच्छी क्वालिटी का प्रोटीन चाहने वाले बिगिनर्स के लिए यह बहुत लोकप्रिय है। इसकी घुलनशीलता \\(solubility\\) भी अच्छी है।\n\n### शुरुआती लोगों के लिए जरूरी टिप्स:\n\n- पानी या दूध: शुरुआत में आप इसे पानी या टोंड दूध के साथ ले सकते हैं। अगर लैक्टोज इंटॉलरेंस \\(दूध न पचने की समस्या\\) है, तो पानी के साथ ही लें।\n- मात्रा: दिन में सिर्फ 1 स्कूप \\(लगभग 30g\\) से शुरुआत करें, और पानी भरपूर पिएं।\n- ऑथेंटिसिटी: हमेशा प्रोडक्ट पर दिए गए क्यूआर कोड या स्क्रैच कोड से उसकी असलियत \\(authenticity\\) जरूर जांच लें। [0] [1]\n\nक्या आप अपने लिए बजट रेंज \\(जैसे कि किफायती या प्रीमियम\\) और अपना मुख्य फिटनेस गोल \\(जैसे वजन घटाना या मांसपेशियां बढ़ाना\\) साझा करना चाहेंगे, ताकि मैं इनमें से आपके लिए सबसे सटीक प्रोटीन सुझा सकूं?\n\n\n### References\n\n[0] [Best Whey Proteins for Beginners online at MuscleBlaze](https://www.google.com/goto?url=CAES0wEB6zswFW0GCTF8Zzajs6oux4fDNPYeh3FvDBSoptMvP0KfOhdrp-MMN4kwLj7zmD41zgU98jwh4VWKUUheFLcLsvF8wtcbwMJcJa-8tTF7Kx1FsKI-t6-2bwXJt1AW7u1uhgyeS5vf734MVDnPb3oV5hqxPdbepdb-jvZzFcmbGEeYZ4RgG8SD56yr5QqzT2vrSHD5y1Tnj22fLDVOUSp8CL8YJRsYV34DJfn0Vg3v1YNv6O5RQ44H0to8cFFA-_hYlkTNr9EOXgqRtpdiFz2Uv3y0) — Usually, a scoop of whey protein contains around 25 to 30g of protein. It has a great effect on muscle size and recovery. It can be taken as pre workout,\n\n[1] [Lean Starter Shake](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhwaWRuZDNZalJ3GAo) — 30g whey concentrate with water. Light, low\\-calorie, beginner\\-friendly protein boost 120 Kcal \\| 22g Protein \\| 3g Carbs \\| 0g Fibre\n"
+}

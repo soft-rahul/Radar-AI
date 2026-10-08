@@ -1,0 +1,201 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "2000 रुपये के अंदर सबसे अच्छा व्हे प्रोटीन कौन सा है",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "hi",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:39:20+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebf01b6c6e037628046a",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/IqIXELTnVhsEqcrXBY1KzOPaI4ZF01nlFjMDYqfS_08/6ac4ebf01b6c6e037628046a.json",
+      "markdown_endpoint": "https://serpapi.com/searches/IqIXELTnVhsEqcrXBY1KzOPaI4ZF01nlFjMDYqfS_08/6ac4ebf01b6c6e037628046a.md",
+      "created_at": "2026-10-06 12:39:12 UTC",
+      "processed_at": "2026-10-06 12:39:12 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=2000+%E0%A4%B0%E0%A5%81%E0%A4%AA%E0%A4%AF%E0%A5%87+%E0%A4%95%E0%A5%87+%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88&udm=50&gl=in&hl=hi&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/IqIXELTnVhsEqcrXBY1KzOPaI4ZF01nlFjMDYqfS_08/6ac4ebf01b6c6e037628046a.html",
+      "prettify_html_file": "https://serpapi.com/searches/IqIXELTnVhsEqcrXBY1KzOPaI4ZF01nlFjMDYqfS_08/6ac4ebf01b6c6e037628046a.prettify",
+      "total_time_taken": 7.19
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "2000 रुपये के अंदर सबसे अच्छा व्हे प्रोटीन कौन सा है",
+      "hl": "hi",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "2000 रुपये के अंदर सबसे अच्छा और भरोसेमंद व्हे प्रोटीन AS-IT-IS Nutrition Whey Protein Concentrate 80% और Nakpro Gold Whey Protein हैं, जो बजट में उच्च गुणवत्ता और लैब-टेस्टेड शुद्धता प्रदान करते हैं।",
+        "snippet_highlighted_words": [
+          "AS-IT-IS Nutrition Whey Protein Concentrate 80% और Nakpro Gold Whey Protein"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "2000 रुपये के बजट में मिलने वाले शीर्ष व्हे प्रोटीन विकल्पों की तुलना नीचे दी गई है:"
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "ब्रांड और वेरिएंट",
+            "प्रोटीन प्रति सर्विंग",
+            "मुख्य विशेषता",
+            "अनुमानित कीमत (1Kg)"
+          ],
+          [
+            "AS-IT-IS Nutrition Whey Protein Concentrate 80%",
+            "~24 ग्राम",
+            "बिना फ्लेवर वाला, शुद्ध और किफायती (Unflavoured)",
+            "₹1,600 - ₹1,900"
+          ],
+          [
+            "Nakpro Gold Whey Protein Concentrate",
+            "~25.5 ग्राम",
+            "अच्छा स्वाद (Flavoured), BCAA और पाचन के लिए बेहतरीन",
+            "₹1,700 - ₹2,000"
+          ],
+          [
+            "Fuelone Whey Max",
+            "~27 ग्राम",
+            "कंसंट्रेट और आइसोलेट का मिश्रण, उच्च प्रोटीन मात्रा",
+            "₹1,800 - ₹2,000"
+          ]
+        ],
+        "detailed": [
+          [
+            {
+              "snippet": "ब्रांड और वेरिएंट"
+            },
+            {
+              "snippet": "प्रोटीन प्रति सर्विंग"
+            },
+            {
+              "snippet": "मुख्य विशेषता"
+            },
+            {
+              "snippet": "अनुमानित कीमत (1Kg)"
+            }
+          ],
+          [
+            {
+              "snippet": "AS-IT-IS Nutrition Whey Protein Concentrate 80%"
+            },
+            {
+              "snippet": "~24 ग्राम"
+            },
+            {
+              "snippet": "बिना फ्लेवर वाला, शुद्ध और किफायती (Unflavoured)"
+            },
+            {
+              "snippet": "₹1,600 - ₹1,900"
+            }
+          ],
+          [
+            {
+              "snippet": "Nakpro Gold Whey Protein Concentrate"
+            },
+            {
+              "snippet": "~25.5 ग्राम"
+            },
+            {
+              "snippet": "अच्छा स्वाद (Flavoured), BCAA और पाचन के लिए बेहतरीन"
+            },
+            {
+              "snippet": "₹1,700 - ₹2,000"
+            }
+          ],
+          [
+            {
+              "snippet": "Fuelone Whey Max"
+            },
+            {
+              "snippet": "~27 ग्राम"
+            },
+            {
+              "snippet": "कंसंट्रेट और आइसोलेट का मिश्रण, उच्च प्रोटीन मात्रा"
+            },
+            {
+              "snippet": "₹1,800 - ₹2,000"
+            }
+          ]
+        ],
+        "formatted": [
+          {
+            "ब्रांड_और_वेरिएंट": "AS-IT-IS Nutrition Whey Protein Concentrate 80%",
+            "प्रोटीन_प्रति_सर्विंग": "~24 ग्राम",
+            "मुख्य_विशेषता": "बिना फ्लेवर वाला, शुद्ध और किफायती (Unflavoured)",
+            "अनुमानित_कीमत_1_kg": "₹1,600 - ₹1,900"
+          },
+          {
+            "ब्रांड_और_वेरिएंट": "Nakpro Gold Whey Protein Concentrate",
+            "प्रोटीन_प्रति_सर्विंग": "~25.5 ग्राम",
+            "मुख्य_विशेषता": "अच्छा स्वाद (Flavoured), BCAA और पाचन के लिए बेहतरीन",
+            "अनुमानित_कीमत_1_kg": "₹1,700 - ₹2,000"
+          },
+          {
+            "ब्रांड_और_वेरिएंट": "Fuelone Whey Max",
+            "प्रोटीन_प्रति_सर्विंग": "~27 ग्राम",
+            "मुख्य_विशेषता": "कंसंट्रेट और आइसोलेट का मिश्रण, उच्च प्रोटीन मात्रा",
+            "अनुमानित_कीमत_1_kg": "₹1,800 - ₹2,000"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "बेहतरीन बजट विकल्पों का विस्तृत विवरण"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "AS-IT-IS Nutrition Whey Protein Concentrate 80%",
+            "list": [
+              {
+                "snippet": "विवरण: यह बिना फ्लेवर (Unflavoured) वाला रॉ व्हे प्रोटीन है, जिसका मतलब है कि इसमें किसी भी तरह की आर्टिफिशियल शुगर या फ्लेवर का इस्तेमाल नहीं किया जाता।"
+              },
+              {
+                "snippet": "फायदा: कम कीमत में सबसे ज्यादा शुद्ध प्रोटीन ग्राम (Cost-per-gram) मिलता है। यह स्टूडेंट्स और कम बजट वाले जिम जाने वालों के लिए सबसे अच्छा विकल्प है।"
+              }
+            ]
+          },
+          {
+            "snippet": "Nakpro Gold Whey Protein",
+            "list": [
+              {
+                "snippet": "विवरण: यह फ्लेवर्ड प्रोटीन है जिसमें प्रति सर्विंग लगभग 25.5 ग्राम प्रोटीन और 5.6 ग्राम BCAA मिलता है।"
+              },
+              {
+                "snippet": "फायदा: यह ट्रस्टिफाइड (Trustified) प्रमाणित है, घुलनशीलता (Mixability) में अच्छा है और इसका स्वाद भी बजट के हिसाब से काफी बढ़िया है।"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "2000 रुपये से कम कीमत में आने वाले कुछ बेहतरीन बजट व्हे प्रोटीन विकल्पों की पूरी जानकारी और उनकी गुणवत्ता की तुलना देखने के लिए यह वीडियो देखें:",
+        "video": {
+          "link": "https://www.youtube.com/watch?v=anaP-_RQaCk&t=157",
+          "thumbnail": "https://serpapi.com/searches/6ac4ebf01b6c6e037628046a/images/EqdcBvdRssh0fll5OXh6td7h-g8KRznvy9SVV7KXKsc.jpeg"
+        }
+      },
+      {
+        "type": "paragraph",
+        "snippet": "यदि आप बताना चाहें कि आपका मुख्य लक्ष्य क्या है (जैसे- वजन घटाना, मांसपेशियां बढ़ाना या सिर्फ दैनिक प्रोटीन पूरा करना) और क्या आपको फ्लेवर्ड या अनफ्लेवर्ड प्रोटीन पसंद है, तो मैं आपके लिए सबसे सही विकल्प चुन सकता हूँ।"
+      }
+    ],
+    "reconstructed_markdown": "2000 रुपये के अंदर सबसे अच्छा और भरोसेमंद व्हे प्रोटीन AS\\-IT\\-IS Nutrition Whey Protein Concentrate 80% और Nakpro Gold Whey Protein हैं, जो बजट में उच्च गुणवत्ता और लैब\\-टेस्टेड शुद्धता प्रदान करते हैं।\n\n2000 रुपये के बजट में मिलने वाले शीर्ष व्हे प्रोटीन विकल्पों की तुलना नीचे दी गई है:\n\n| ब्रांड और वेरिएंट | प्रोटीन प्रति सर्विंग | मुख्य विशेषता | अनुमानित कीमत \\(1Kg\\) |\n| --- | --- | --- | --- |\n| AS\\-IT\\-IS Nutrition Whey Protein Concentrate 80% | \\~24 ग्राम | बिना फ्लेवर वाला, शुद्ध और किफायती \\(Unflavoured\\) | ₹1,600 \\- ₹1,900 |\n| Nakpro Gold Whey Protein Concentrate | \\~25.5 ग्राम | अच्छा स्वाद \\(Flavoured\\), BCAA और पाचन के लिए बेहतरीन | ₹1,700 \\- ₹2,000 |\n| Fuelone Whey Max | \\~27 ग्राम | कंसंट्रेट और आइसोलेट का मिश्रण, उच्च प्रोटीन मात्रा | ₹1,800 \\- ₹2,000 |\n\n### बेहतरीन बजट विकल्पों का विस्तृत विवरण\n\n- AS\\-IT\\-IS Nutrition Whey Protein Concentrate 80%\n  - विवरण: यह बिना फ्लेवर \\(Unflavoured\\) वाला रॉ व्हे प्रोटीन है, जिसका मतलब है कि इसमें किसी भी तरह की आर्टिफिशियल शुगर या फ्लेवर का इस्तेमाल नहीं किया जाता।\n  - फायदा: कम कीमत में सबसे ज्यादा शुद्ध प्रोटीन ग्राम \\(Cost\\-per\\-gram\\) मिलता है। यह स्टूडेंट्स और कम बजट वाले जिम जाने वालों के लिए सबसे अच्छा विकल्प है।\n- Nakpro Gold Whey Protein\n  - विवरण: यह फ्लेवर्ड प्रोटीन है जिसमें प्रति सर्विंग लगभग 25.5 ग्राम प्रोटीन और 5.6 ग्राम BCAA मिलता है।\n  - फायदा: यह ट्रस्टिफाइड \\(Trustified\\) प्रमाणित है, घुलनशीलता \\(Mixability\\) में अच्छा है और इसका स्वाद भी बजट के हिसाब से काफी बढ़िया है।\n\n2000 रुपये से कम कीमत में आने वाले कुछ बेहतरीन बजट व्हे प्रोटीन विकल्पों की पूरी जानकारी और उनकी गुणवत्ता की तुलना देखने के लिए यह वीडियो देखें:\n\nयदि आप बताना चाहें कि आपका मुख्य लक्ष्य क्या है \\(जैसे\\- वजन घटाना, मांसपेशियां बढ़ाना या सिर्फ दैनिक प्रोटीन पूरा करना\\) और क्या आपको फ्लेवर्ड या अनफ्लेवर्ड प्रोटीन पसंद है, तो मैं आपके लिए सबसे सही विकल्प चुन सकता हूँ।\n"
+  }
+}

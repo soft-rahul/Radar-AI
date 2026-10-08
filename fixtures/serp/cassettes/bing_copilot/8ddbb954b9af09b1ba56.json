@@ -1,0 +1,377 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "kis company ka whey protein sabse accha hai",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:36:28+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb2c5922f4751e53f27c",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/XXutsbgAoMIc1jSsePzN1mRv4u2xvRgbBXLEUSsNMRE/6ac4eb2c5922f4751e53f27c.json",
+      "markdown_endpoint": "https://serpapi.com/searches/XXutsbgAoMIc1jSsePzN1mRv4u2xvRgbBXLEUSsNMRE/6ac4eb2c5922f4751e53f27c.md",
+      "created_at": "2026-10-06 12:35:56 UTC",
+      "processed_at": "2026-10-06 12:35:56 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=kis+company+ka+whey+protein+sabse+accha+hai&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/XXutsbgAoMIc1jSsePzN1mRv4u2xvRgbBXLEUSsNMRE/6ac4eb2c5922f4751e53f27c.html",
+      "total_time_taken": 31.55
+    },
+    "search_parameters": {
+      "q": "kis company ka whey protein sabse accha hai",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "भारत में सबसे भरोसेमंद और उच्च‑गुणवत्ता वाला whey protein Optimum Nutrition (ON) Gold Standard Whey माना जाता है, जबकि MuscleBlaze Biozyme और Dymatize Elite Whey भी टॉप विकल्पों में शामिल हैं।",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "सीधा जवाब: वेब परिणामों के अनुसार भारत में सबसे ज़्यादा भरोसेमंद whey protein ब्रांड हैं — Optimum Nutrition (ON), MuscleBlaze, Dymatize, MyProtein, Avvatar, AS‑IT‑IS, BigMuscles, Ultimate Nutrition Dial4Trade+1 .",
+        "snippet_highlighted_words": [
+          "सीधा जवाब:",
+          "Optimum Nutrition (ON)",
+          "MuscleBlaze",
+          "Dymatize",
+          "MyProtein",
+          "Avvatar",
+          "AS‑IT‑IS",
+          "BigMuscles",
+          "Ultimate Nutrition"
+        ],
+        "reference_indexes": [
+          0,
+          4
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ भारत के टॉप Whey Protein ब्रांड (वेब परिणामों के आधार पर)",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard Whey — ग्लोबली सबसे भरोसेमंद, isolate primary source 1 .",
+            "snippet_highlighted_words": [
+              "Optimum Nutrition (ON) Gold Standard Whey"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "MuscleBlaze Biozyme Whey — 50% बेहतर absorption, Indian diet‑friendly 1 .",
+            "snippet_highlighted_words": [
+              "MuscleBlaze Biozyme Whey"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Dymatize Elite Whey — fast absorption, great taste 1 .",
+            "snippet_highlighted_words": [
+              "Dymatize Elite Whey"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "MyProtein Impact Whey — EU‑quality, budget‑friendly 1 .",
+            "snippet_highlighted_words": [
+              "MyProtein Impact Whey"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Avvatar Whey — farm‑fresh Indian whey, no hormones 1 .",
+            "snippet_highlighted_words": [
+              "Avvatar Whey"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "AS‑IT‑IS ATOM Whey — pure, no additives, high protein per scoop 1 .",
+            "snippet_highlighted_words": [
+              "AS‑IT‑IS ATOM Whey"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "BigMuscles Raw Whey — value for money, German whey sourcing 1 .",
+            "snippet_highlighted_words": [
+              "BigMuscles Raw Whey"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Ultimate Nutrition ProStar — long‑trusted bodybuilding brand 1 .",
+            "snippet_highlighted_words": [
+              "Ultimate Nutrition ProStar"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📊 तुलना तालिका (महत्वपूर्ण ब्रांड)",
+        "level": 2
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "Optimum Nutrition (ON)",
+            "24g",
+            "Premium",
+            "सबसे भरोसेमंद, best quality 1"
+          ],
+          [
+            "MuscleBlaze Biozyme",
+            "25g",
+            "Mid-range",
+            "50% better absorption, Indian digestion‑friendly 1"
+          ],
+          [
+            "Dymatize Elite",
+            "25g",
+            "Premium",
+            "Fast absorption, great taste 1"
+          ],
+          [
+            "MyProtein Impact",
+            "21g",
+            "Budget",
+            "EU quality, affordable 1"
+          ],
+          [
+            "Avvatar Whey",
+            "24g",
+            "Mid-range",
+            "Fresh cow milk, no hormones 1"
+          ]
+        ],
+        "headers": [
+          "Brand",
+          "Protein per Scoop",
+          "Price Range",
+          "Why it’s Good"
+        ],
+        "formatted": [
+          {
+            "brand": "Optimum Nutrition (ON)",
+            "protein_per_scoop": "24g",
+            "price_range": "Premium",
+            "why_it_s_good": "सबसे भरोसेमंद, best quality 1"
+          },
+          {
+            "brand": "MuscleBlaze Biozyme",
+            "protein_per_scoop": "25g",
+            "price_range": "Mid-range",
+            "why_it_s_good": "50% better absorption, Indian digestion‑friendly 1"
+          },
+          {
+            "brand": "Dymatize Elite",
+            "protein_per_scoop": "25g",
+            "price_range": "Premium",
+            "why_it_s_good": "Fast absorption, great taste 1"
+          },
+          {
+            "brand": "MyProtein Impact",
+            "protein_per_scoop": "21g",
+            "price_range": "Budget",
+            "why_it_s_good": "EU quality, affordable 1"
+          },
+          {
+            "brand": "Avvatar Whey",
+            "protein_per_scoop": "24g",
+            "price_range": "Mid-range",
+            "why_it_s_good": "Fresh cow milk, no hormones 1"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ किसके लिए कौन‑सा Whey Protein सबसे अच्छा?",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Muscle Gain: ON Gold Standard, Dymatize, Ultimate Nutrition",
+            "snippet_highlighted_words": [
+              "Muscle Gain:"
+            ]
+          },
+          {
+            "snippet": "Better Digestion / No Bloating: MuscleBlaze Biozyme, Avvatar",
+            "snippet_highlighted_words": [
+              "Better Digestion / No Bloating:"
+            ]
+          },
+          {
+            "snippet": "Budget में Best: AS‑IT‑IS, Nakpro 1",
+            "snippet_highlighted_words": [
+              "Budget में Best:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Pure & Clean: AS‑IT‑IS, The Whole Truth (Amazon list) 1",
+            "snippet_highlighted_words": [
+              "Pure & Clean:"
+            ],
+            "reference_indexes": [
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "⚠️ Fake Supplements से बचने के लिए",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "केवल official website, Amazon/Flipkart verified sellers, या authorized stores से खरीदें।",
+            "snippet_highlighted_words": [
+              "official website",
+              "Amazon/Flipkart verified sellers",
+              "authorized stores"
+            ]
+          },
+          {
+            "snippet": "Seal, batch number, and QR verification ज़रूर चेक करें।"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ आपकी ज़रूरत के हिसाब से सही चुनाव",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "सबसे अच्छा whey protein आपकी goal, budget, और digestion पर निर्भर करता है।",
+        "snippet_highlighted_words": [
+          "goal",
+          "budget",
+          "digestion"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "एक सवाल जिससे मैं आपको perfect recommendation दे सकूँ:",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "आपका fitness goal क्या है — muscle gain, fat loss, या general protein intake?",
+        "snippet_highlighted_words": [
+          "आपका fitness goal क्या है — muscle gain, fat loss, या general protein intake?"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Best Whey Protein in India (2026): Top Brands & Products Compared",
+        "link": "https://www.protyze.com/blogs/supplements/best-whey-proteins-in-india-2026",
+        "snippet": "Looking for the best whey protein in India in 2026? Discover top brands, products, protein quality, ingredients, taste, value, and how to choose the right one",
+        "source": "protyze.com"
+      },
+      {
+        "index": 1,
+        "title": "Whey Protein - Whey Protein for bodybuilding Latest Price ...",
+        "link": "https://dir.indiamart.com/impcat/whey-protein.html",
+        "snippet": "Get contact details & address of companies manufacturing and supplying Whey Protein, Whey Protein for bodybuilding, Hydrolyzed Whey Protein across India.",
+        "source": "IndiaMART"
+      },
+      {
+        "index": 2,
+        "title": "Top 20 Whey Protein Brands In India: A Handy Full Guide",
+        "link": "https://foodsure.co.in/blog/whey-protein-brands-in-india/",
+        "snippet": "Get a handy, full guide to the Top 20 Whey Protein Brands in India, covering purity, taste, and pricing to help you choose wisely.",
+        "source": "foodsure.co.in"
+      },
+      {
+        "index": 3,
+        "title": "10 Best Protein Powder Brands In India | LBB",
+        "link": "https://lbb.in/all/best-protein-powder/",
+        "snippet": "Looking for the best protein powder available in India? Here's a list of top protein powder brands that will help you achieve your fitness goals this year.",
+        "source": "LBB"
+      },
+      {
+        "index": 4,
+        "title": "सबसे ज्यादा प्रोटीन किसमें होता है? पूरी लिस्ट Veg-Non Veg (August 2026)",
+        "link": "https://www.novahospitalmeerut.com/blog/sabse-jyada-protein-kisme-hota-hai",
+        "snippet": "सबसे ज्यादा प्रोटीन किसमें होता है जानिए — सोया चंक्स, पनीर, दाल, अंडा, चिकन के 100g protein values, daily requirement और Indian meal plans के साथ।",
+        "source": "novahospitalmeerut.com"
+      },
+      {
+        "index": 5,
+        "title": "Amazon.in: Whey Protein Powder",
+        "link": "https://www.amazon.in/whey-protein-powder/s?k=whey+protein+powder",
+        "snippet": "Fitspire Fit Super Pro Whey Protein Powder, Double Rich Chocolate, With Shaker | Whey Isolate & Concentrate Blend | 36g Protein per 100g | Enzymes & Probiotics | Supports Muscle Growth & Recovery | No Added Sugar",
+        "source": "www.amazon.in"
+      },
+      {
+        "index": 6,
+        "title": "Top 10 Best Protein Powders in India – (2026 List)",
+        "link": "https://the5xlnutrition.com/best-protein-powder-in-india/",
+        "snippet": "Below is an honest, criteria-based ranking of the top 10 protein powders available in India in 2026, evaluated on protein quality, digestibility, ingredient transparency, value for money, and suitability for long-term daily use.",
+        "source": "the5xlnutrition.com"
+      },
+      {
+        "index": 7,
+        "title": "Whey Protein Kis Company Ka Achcha Hota Hai by david kendrick blog",
+        "link": "https://storage.googleapis.com/gcpaagrlwlkwf/whey-protein-kis-company-ka-achcha-hota-hai.html",
+        "snippet": "在蛋白粉的包装上就能看到 whey代表：乳清 concentrate whey代表：浓缩乳清 isolate whey代表：分离乳清 hydrolysate whey代表：水解乳清 三者的区别： 浓缩.",
+        "source": "googleapis.com"
+      },
+      {
+        "index": 8,
+        "title": "Sabse Jyada Protein Kisme Hota Hai? Top 25 High Protein Foods List",
+        "link": "https://www.healthkasathi.com/blog/sabse-jyada-protein-kisme-hota-hai",
+        "snippet": "तो यहाँ देखें 25 High Protein Foods की पूरी लिस्ट (Veg & Non-Veg)। जानें शाकाहारी और मांसाहारी में सबसे ज्यादा प्रोटीन किसमें पाया जाता है।",
+        "source": "healthkasathi.com"
+      },
+      {
+        "index": 9,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे ... - MensXP",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "हाई क्वालिटी के 'कंप्‍लीट प्रोटीन' को व्हे प्रोटीन (whey protein) कहते हैं। इसमें काफी सारे अमीनो एसिड्स होते हैं, जैसे - ब्रांच्ड एमीनो एसिड्स (Branched Amino Acids), ग्लूटामिन (Glutamins),...",
+        "source": "MensXP"
+      },
+      {
+        "index": 10,
+        "title": "अब Whey Protein पर हजारों खर्च करने की जरूरत नहीं, जानें कैसे आसानी से ...",
+        "link": "https://ndtv.in/food/what-is-whey-protein-a-complete-source-of-protein-can-it-help-in-weight-loss-whey-protein-health-benefits-and-recipe-3698951",
+        "snippet": "और हां, क्‍या इस व्‍हे प्रोटीन को आप घर पर बना सकते हैं... तो चलिए जानते हैं. सबसे पहले समझते हैं कि आख‍िर व्‍हे प्रोटीन क्‍या है (What Is Whey Protein?)",
+        "source": "NDTV India"
+      }
+    ]
+  }
+}

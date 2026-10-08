@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets: never commit real keys
+.env
+.env.*
+!.env.example
+
+# Local data
+data/
+*.sqlite3
+.pytest_cache/
+.DS_Store
+
+# Editor and local tool config
+.vscode/
+.claude/
+
+# Notes for the author only (video script, form drafts)
+private/
+
+# Session handoff for Claude Code (local only)
+CLAUDE.md

@@ -1,0 +1,197 @@
+{
+  "readings": [
+    {
+      "answer_id": "q1|ai_overview|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard 100% Whey को सबसे नंबर वन और भरोसेमंद माना जाता है"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Biozyme Performance Whey: भारत का टॉप ब्रांड"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "The Whole Truth Whey Protein: बिना किसी मिलावट, आर्टिफिशियल फ्लेवर या स्वीट नरसा (sweeteners) के साफ-सुथरे प्रोटीन के लिए जाना जाता है।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition / Nakpro: बजट फ्रेंडली और अनफ्लेवर्ड/फ्लेवर्ड व्हे प्रोटीन चाहने वालों के लिए बेहतरीन विकल्प।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition / Nakpro: बजट फ्रेंडली और अनफ्लेवर्ड/फ्लेवर्ड व्हे प्रोटीन चाहने वालों के लिए बेहतरीन विकल्प।"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q1|ai_overview|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard 100% Whey और MuscleBlaze Biozyme सबसे भरोसेमंद और लोकप्रिय विकल्प हैं।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "सर्वश्रेष्ठ भारतीय ब्रांड: MuscleBlaze Biozyme Whey Protein - यह विशेष रूप से भारतीय पेट के लिए डिज़ाइन किया गया है"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "recommended",
+          "quote": "शुद्ध और प्राकृतिक (Clean & Raw): Avvatar Whey Protein या The Whole Truth Raw Whey - ये ताजे दूध से बिना किसी मिलावट"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "शुद्ध और प्राकृतिक (Clean & Raw): Avvatar Whey Protein या The Whole Truth Raw Whey - ये ताजे दूध से बिना किसी मिलावट"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "कम बजट के लिए (Best Budget): AS-IT-IS Nutrition या Nakpro Nutrition - ये कम कीमत में बेहतरीन अनफ्लेवर्ड"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "कम बजट के लिए (Best Budget): AS-IT-IS Nutrition या Nakpro Nutrition - ये कम कीमत में बेहतरीन अनफ्लेवर्ड"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "वजन घटाने और लीन मसल्स के लिए यह सबसे अच्छा आइसोलेट प्रोटीन है।"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard 100% Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24 ग्राम",
+          "quote": "Optimum Nutrition (ON) Gold Standard 100% Whey - इसमें प्रति स्कूप 24 ग्राम प्रोटीन और 5.5 ग्राम BCAA मिलता है"
+        }
+      ]
+    },
+    {
+      "answer_id": "q1|ai_overview|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "The top-ranked and most popular whey protein in India is Optimum Nutrition (ON) Gold Standard 100% Whey, widely regarded as the global and domestic gold standard"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "alongside top Indian competitor MuscleBlaze Biozyme Performance Whey."
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "The Whole Truth Whey Protein and AS-IT-IS Nutrition offer clean, transparent ingredient lists."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "The Whole Truth Whey Protein and AS-IT-IS Nutrition offer clean, transparent ingredient lists."
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard 100% Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "Optimum Nutrition Gold Standard 100% Whey provides 24g of protein per scoop"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "Biozyme Performance Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "MuscleBlaze Biozyme Performance Whey offers 25g of protein per scoop"
+        }
+      ]
+    },
+    {
+      "answer_id": "q1|copilot|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "ON Gold Standard Whey को भारत में मिलने वाले व्हे प्रोटीन में सबसे अच्छा (नंबर वन) माना गया है"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "लैक्टोज‑फ्री / कटिंग: Isopure Low Carb"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "neutral",
+          "quote": "Dymatize Elite Whey MensXP"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q1|copilot|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard 100% Whey भारत में सबसे भरोसेमंद, सबसे ज़्यादा सुझाया गया और सबसे ज़्यादा बिकने वाला व्हे प्रोटीन है।"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "Isopure Low Carb Whey Isolate — 100% isolate, 25g प्रोटीन/स्कूप, लैक्टोज‑फ्री 1"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "recommended",
+          "quote": "Dymatize Elite Whey — 25g प्रोटीन/स्कूप, balanced amino profile 1"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "MuscleBlaze Biozyme Whey"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "neutral",
+          "quote": "The Whole Truth Whey"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "neutral",
+          "quote": "Nakpro Whey"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Isopure",
+          "product": "Low Carb Whey Isolate",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "Isopure Low Carb Whey Isolate — 100% isolate, 25g प्रोटीन/स्कूप, लैक्टोज‑फ्री 1"
+        },
+        {
+          "brand": "Dymatize",
+          "product": "Elite Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "Dymatize Elite Whey — 25g प्रोटीन/स्कूप, balanced amino profile 1"
+        }
+      ]
+    }
+  ]
+}

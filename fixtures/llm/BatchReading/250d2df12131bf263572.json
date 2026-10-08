@@ -1,0 +1,209 @@
+{
+  "readings": [
+    {
+      "answer_id": "q4|ai_mode|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "Best Overall Value & Digestion (Best-Seller): MuscleBlaze Biozyme Performance Whey"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "Best Budget / Raw Option: AS-IT-IS Nutrition Whey Protein Concentrate 80%"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "Best Premium / Zero-Carb Isolate: Isopure Low Carb / Zero Carb 100% Whey Isolate"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "recommended",
+          "quote": "Best Homegrown Grass-Fed Option: Avvatar 100% Whey Protein"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Best International Import: Optimum Nutrition (ON) Gold Standard 100% Whey"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Isopure",
+          "product": "Isopure Low Carb / Zero Carb 100% Whey Isolate",
+          "attribute": "other",
+          "value": "Zero-Carb",
+          "quote": "Best Premium / Zero-Carb Isolate: Isopure Low Carb / Zero Carb 100% Whey Isolate"
+        },
+        {
+          "brand": "Avvatar",
+          "product": "Avvatar 100% Whey Protein",
+          "attribute": "other",
+          "value": "Grass-Fed",
+          "quote": "Best Homegrown Grass-Fed Option: Avvatar 100% Whey Protein"
+        }
+      ]
+    },
+    {
+      "answer_id": "q4|ai_overview|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition गोल्ड स्टैंडर्ड 100% व्हे और MuscleBlaze बायोइन सबसे लोकप्रिय और भरोसेमंद विकल्प माने जाते हैं।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition गोल्ड स्टैंडर्ड 100% व्हे और MuscleBlaze बायोइन सबसे लोकप्रिय और भरोसेमंद विकल्प माने जाते हैं।"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "द होल ट्रुथ रॉ व्हे: यह बिना किसी कृत्रिम फ्लेवर या शुगर के सबसे शुद्ध और साफ-सुथरा विकल्प है।"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "The Whole Truth",
+          "product": "द होल ट्रुथ रॉ व्हे",
+          "attribute": "sugar_g",
+          "value": "बिना किसी कृत्रिम फ्लेवर या शुगर के",
+          "quote": "द होल ट्रुथ रॉ व्हे: यह बिना किसी कृत्रिम फ्लेवर या शुगर के सबसे शुद्ध और साफ-सुथरा विकल्प है।"
+        }
+      ]
+    },
+    {
+      "answer_id": "q4|ai_overview|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition गोल्ड स्टैंडर्ड 100% व्हे और MuscleBlaze बायोइन सबसे लोकप्रिय और भरोसेमंद विकल्प माने जाते हैं।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition गोल्ड स्टैंडर्ड 100% व्हे और MuscleBlaze बायोइन सबसे लोकप्रिय और भरोसेमंद विकल्प माने जाते हैं।"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "द होल ट्रुथ रॉ व्हे: यह बिना किसी कृत्रिम फ्लेवर या शुगर के सबसे शुद्ध और साफ-सुथरा विकल्प है।"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "The Whole Truth",
+          "product": "द होल ट्रुथ रॉ व्हे",
+          "attribute": "sugar_g",
+          "value": "बिना किसी कृत्रिम फ्लेवर या शुगर के",
+          "quote": "द होल ट्रुथ रॉ व्हे: यह बिना किसी कृत्रिम फ्लेवर या शुगर के सबसे शुद्ध और साफ-सुथरा विकल्प है।"
+        }
+      ]
+    },
+    {
+      "answer_id": "q4|ai_overview|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition Gold Standard 100% Whey और MuscleBlaze Biozyme Performance Whey भारत में सबसे अच्छे और लोकप्रिय प्रोटीन पाउडर माने जाते हैं।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition Gold Standard 100% Whey और MuscleBlaze Biozyme Performance Whey भारत में सबसे अच्छे और लोकप्रिय प्रोटीन पाउडर माने जाते हैं।"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "The Whole Truth (TWT) Whey: यह बिना किसी आर्टिफिशियल फ्लेवर और मिलावट के 'क्लिन' प्रोटीन देने के लिए प्रसिद्ध है।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Nakpro / AS-IT-IS: यह बजट-फ्रेंडली और रॉ (Raw) व्हे प्रोटीन चाहने वालों के लिए अच्छे विकल्प हैं।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "Nakpro / AS-IT-IS: यह बजट-फ्रेंडली और रॉ (Raw) व्हे प्रोटीन चाहने वालों के लिए अच्छे विकल्प हैं।"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "The Whole Truth",
+          "product": "The Whole Truth (TWT) Whey",
+          "attribute": "other",
+          "value": "बिना किसी आर्टिफिशियल फ्लेवर और मिलावट के",
+          "quote": "The Whole Truth (TWT) Whey: यह बिना किसी आर्टिफिशियल फ्लेवर और मिलावट के 'क्लिन' प्रोटीन देने के लिए प्रसिद्ध है।"
+        }
+      ]
+    },
+    {
+      "answer_id": "q4|ai_overview|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON) Gold Standard 100% Whey: यह भारत और दुनिया भर में सबसे भरोसेमंद और लोकप्रिय ब्रांडों में से एक है"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "Isopure Whey Protein Isolate: लैक्टोज-असहिष्णु (lactose intolerant) और पेट के लिए हल्का प्रोटीन चाहने वालों के लिए यह एक बेहतरीन और शुद्ध आइसोलेट विकल्प है।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition / Nakpro: यदि आप कम बजट में किफायती और लैब-टेस्टेड (Labdoor certified) विकल्प ढूंढ रहे हैं"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition / Nakpro: यदि आप कम बजट में किफायती और लैब-टेस्टेड (Labdoor certified) विकल्प ढूंढ रहे हैं"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard 100% Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "लगभग 24 ग्राम",
+          "quote": "प्रति स्कूप लगभग 24 ग्राम उच्च गुणवत्ता वाला प्रोटीन देता है"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS Nutrition",
+          "attribute": "certification",
+          "value": "Labdoor certified",
+          "quote": "लैब-टेस्टेड (Labdoor certified)"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS Nutrition",
+          "attribute": "sugar_g",
+          "value": "बिना किसी अतिरिक्त चीनी के",
+          "quote": "बिना किसी अतिरिक्त चीनी के"
+        },
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro",
+          "attribute": "certification",
+          "value": "Labdoor certified",
+          "quote": "लैब-टेस्टेड (Labdoor certified)"
+        },
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro",
+          "attribute": "sugar_g",
+          "value": "बिना किसी अतिरिक्त चीनी के",
+          "quote": "बिना किसी अतिरिक्त चीनी के"
+        }
+      ]
+    }
+  ]
+}

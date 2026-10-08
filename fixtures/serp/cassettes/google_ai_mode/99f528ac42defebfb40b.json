@@ -1,0 +1,137 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "beginners ke liye sabse accha whey protein kaun sa hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:36:29+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb49c2bb9912b50ff59d",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/V2KTxj5IGKQfXHUVzdvVAN0IU-JzIM7b7VJxeUmkWUY/6ac4eb49c2bb9912b50ff59d.json",
+      "markdown_endpoint": "https://serpapi.com/searches/V2KTxj5IGKQfXHUVzdvVAN0IU-JzIM7b7VJxeUmkWUY/6ac4eb49c2bb9912b50ff59d.md",
+      "created_at": "2026-10-06 12:36:25 UTC",
+      "processed_at": "2026-10-06 12:36:25 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&udm=50&gl=in&hl=en&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/V2KTxj5IGKQfXHUVzdvVAN0IU-JzIM7b7VJxeUmkWUY/6ac4eb49c2bb9912b50ff59d.html",
+      "prettify_html_file": "https://serpapi.com/searches/V2KTxj5IGKQfXHUVzdvVAN0IU-JzIM7b7VJxeUmkWUY/6ac4eb49c2bb9912b50ff59d.prettify",
+      "total_time_taken": 3.41
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "beginners ke liye sabse accha whey protein kaun sa hai",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "शुरुआती (beginners) के लिए सबसे अच्छा और लोकप्रिय व्हे प्रोटीन MuscleBlaze Beginner's Whey, Optimum Nutrition (ON) Gold Standard 100% Whey, और बजट के लिहाज से AS-IT-IS Nutrition Whey Protein Concentrate माना जाता है।",
+        "snippet_highlighted_words": [
+          "MuscleBlaze Beginner's Whey, Optimum Nutrition (ON) Gold Standard 100% Whey"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "शुरुआती लोगों के लिए सही व्हे प्रोटीन चुनने की जानकारी और उनके विकल्पों को देखने के लिए यह वीडियो देखें:",
+        "video": {
+          "link": "https://www.youtube.com/watch?v=z4Vz68mKanQ&t=141",
+          "thumbnail": "https://serpapi.com/searches/6ac4eb49c2bb9912b50ff59d/images/ukBWNV6m6qzLFmVZ7fzGdscGeXZBbNArlSNN0eaXbcI.jpeg"
+        }
+      },
+      {
+        "type": "heading",
+        "snippet": "शुरुआती लोगों के लिए बेहतरीन व्हे प्रोटीन विकल्प"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "MuscleBlaze Beginner's Whey: यह विशेष रूप से उन लोगों के लिए बनाया गया है जो जिम की शुरुआत कर रहे हैं। इसमें पाचन को आसान बनाने के लिए डाइजेस्टिव एंजाइम्स होते हैं और यह बजट में भी सही बैठता है।"
+          },
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard Whey: यह दुनिया भर में सबसे भरोसेमंद ब्रांड है। इसमें हाई-क्वालिटी व्हे आइसोलेट और कॉन्सेंट्रेट का ब्लेंड मिलता है जो मसल्स रिकवरी में बहुत मदद करता है।"
+          },
+          {
+            "snippet": "AS-IT-IS Nutrition Whey Protein Concentrate: अगर आप बिना किसी फ्लेवर और सबसे कम कीमत में शुद्ध प्रोटीन चाहते हैं, तो यह अनफ्लवर्ड रॉ (Raw) प्रोटीन एक किफायती विकल्प है।",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Nutrabay Gold Whey Protein: यह भी बिगिनर्स के लिए एक बेहतरीन और किफायती ऑप्शन है जिसमें अच्छी मात्रा में बीसीएए (BCAA) और प्रोटीन मिल जाता है।"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "बिगिनर्स के लिए कुछ जरूरी बातें"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "शुरुआत में हमेशा Whey Protein Concentrate या Beginner-specific Blend से शुरुआत करें।"
+          },
+          {
+            "snippet": "दिन में सिर्फ 1 स्कूप (लगभग 25-30 ग्राम) प्रोटीन ही पर्याप्त होता है, जिसे वर्कआउट के बाद पानी या दूध के साथ लिया जा सकता है।"
+          },
+          {
+            "snippet": "हमेशा ऐसे प्रोटीन का चुनाव करें जिस पर थर्ड-पार्टी लैब टेस्टिंग या लैब रिपोर्ट उपलब्ध हो ताकि शुद्धता की गारंटी रहे।",
+            "reference_indexes": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "अगर आप अपना बजट और कोई डाइटरी प्रेफरेंस (जैसे फ्लेवर्ड या अनफ्लवर्ड) बताएं, तो मैं आपके लिए सबसे सही प्रोडक्ट सुझा सकता हूँ।"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "भारत में शुरुआती लोगों के लिए सर्वश्रेष्ठ व्हे प्रोटीन (2026)",
+        "link": "https://translate.google.com/translate?u=https://valuelens.in/best-beginner-whey-protein-india&hl=hi&sl=en&tl=hi&client=sge",
+        "snippet": "₹3.04, ₹1,231. 15 ग्राम प्रोटीन / 37 ग्राम स्कूप. व्हे प्रोटीन मिश्रण 41% प्रोटीन.",
+        "source": "valuelens.in",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://valuelens.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 1,
+        "title": "10 Best Whey Protein Powders in India (2026) - HealthKart",
+        "link": "https://translate.google.com/translate?u=https://www.healthkart.com/connect/10-best-whey-protein-powders-in-india-2026-muscleblaze-truebasics-more-ranked/&hl=en&sl=en&tl=en&client=sge",
+        "snippet": "A good beginner-friendly whey protein is MuscleBlaze Biozyme Whey Protein Powder. It provides 25g of protein per serving, and it is also fairly tasty.",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdwOq88Frm4IV7grC-oSOOpWz2h6YCmxWeV_WAb5sXnSMGoj4VZR_eI78mOIw_MPzICFt_bLD4CtoqcNqQRTANfDCVWvcs-DlfLaBR"
+      },
+      {
+        "index": 2,
+        "title": "शुरुआती लोगों के लिए व्हे प्रोटीन: इसे कैसे चुनें और इस्तेमाल करें",
+        "link": "https://translate.google.com/translate?u=https://denzournutrition.com/blogs/whey-blogs/whey-protein-for-beginners&hl=hi&sl=en&tl=hi&client=sge&srsltid=AU7gw4Wiu53So2m_gkluonS1MCZC8rt10mTKWnnN9Xzb_PjlTI1MszZv",
+        "snippet": "आप शुरुआत कर रहे हैं … तो शायद आपको यहीं से शुरुआत करनी चाहिए।",
+        "source": "Denzour Nutrition",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://denzournutrition.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKe8VYFrguqsa2k-4vRLoqZgxKMawNgGQDN07EEFWiweelFE0dxN6YUVPLh2NaTMG1dlxuRJQY5M6vHk48S0Jetgug3vM1FpENjSXO"
+      }
+    ],
+    "reconstructed_markdown": "शुरुआती \\(beginners\\) के लिए सबसे अच्छा और लोकप्रिय व्हे प्रोटीन MuscleBlaze Beginner's Whey, Optimum Nutrition \\(ON\\) Gold Standard 100% Whey, और बजट के लिहाज से AS\\-IT\\-IS Nutrition Whey Protein Concentrate माना जाता है। [0] [1]\n\nशुरुआती लोगों के लिए सही व्हे प्रोटीन चुनने की जानकारी और उनके विकल्पों को देखने के लिए यह वीडियो देखें:\n\n### शुरुआती लोगों के लिए बेहतरीन व्हे प्रोटीन विकल्प\n\n- MuscleBlaze Beginner's Whey: यह विशेष रूप से उन लोगों के लिए बनाया गया है जो जिम की शुरुआत कर रहे हैं। इसमें पाचन को आसान बनाने के लिए डाइजेस्टिव एंजाइम्स होते हैं और यह बजट में भी सही बैठता है।\n- Optimum Nutrition \\(ON\\) Gold Standard Whey: यह दुनिया भर में सबसे भरोसेमंद ब्रांड है। इसमें हाई\\-क्वालिटी व्हे आइसोलेट और कॉन्सेंट्रेट का ब्लेंड मिलता है जो मसल्स रिकवरी में बहुत मदद करता है।\n- AS\\-IT\\-IS Nutrition Whey Protein Concentrate: अगर आप बिना किसी फ्लेवर और सबसे कम कीमत में शुद्ध प्रोटीन चाहते हैं, तो यह अनफ्लवर्ड रॉ \\(Raw\\) प्रोटीन एक किफायती विकल्प है। [1]\n- Nutrabay Gold Whey Protein: यह भी बिगिनर्स के लिए एक बेहतरीन और किफायती ऑप्शन है जिसमें अच्छी मात्रा में बीसीएए \\(BCAA\\) और प्रोटीन मिल जाता है।\n\n### बिगिनर्स के लिए कुछ जरूरी बातें\n\n- शुरुआत में हमेशा Whey Protein Concentrate या Beginner\\-specific Blend से शुरुआत करें।\n- दिन में सिर्फ 1 स्कूप \\(लगभग 25\\-30 ग्राम\\) प्रोटीन ही पर्याप्त होता है, जिसे वर्कआउट के बाद पानी या दूध के साथ लिया जा सकता है।\n- हमेशा ऐसे प्रोटीन का चुनाव करें जिस पर थर्ड\\-पार्टी लैब टेस्टिंग या लैब रिपोर्ट उपलब्ध हो ताकि शुद्धता की गारंटी रहे। [1] [2]\n\nअगर आप अपना बजट और कोई डाइटरी प्रेफरेंस \\(जैसे फ्लेवर्ड या अनफ्लवर्ड\\) बताएं, तो मैं आपके लिए सबसे सही प्रोडक्ट सुझा सकता हूँ।\n\n\n### References\n\n[0] [भारत में शुरुआती लोगों के लिए सर्वश्रेष्ठ व्हे प्रोटीन \\(2026\\)](https://www.google.com/goto?url=CAEStgEB6zswFaqnbPN1XqK-OeiFxgAeq7QYcfIB9EzZr8sl3RY3IE_mivJBHEix75_ZqIRgw91Zk0sL2zK_bdimm58I5ThWo7tIXwuyD3jBIC6_6LY9ezXr9mYLpWvxm9zURw2fVlxMTIJvuVVLyGUxxb9jH8fkrdNJTGfbm3pflqmk38MwXzzDvKQ4QU2OZxRzUJmfwKcZQAFQoGuarlCy0U2SgFdK6LV00L90eu_7OWuDQh3yrltBPQ) — ₹3.04, ₹1,231. 15 ग्राम प्रोटीन / 37 ग्राम स्कूप. व्हे प्रोटीन मिश्रण 41% प्रोटीन.\n\n[1] [10 Best Whey Protein Powders in India \\(2026\\) \\- HealthKart](https://www.google.com/goto?url=CAES8wEB6zswFVnejR9PQwY37oA1nDZlGysi80OkTAhmEeQPMPQ71CM3ym_T0QcbfO1610iO3qf62GoD7B4yF6E5Yhinb1tCe5XRbQi_iJLbaDrncYLDvqUCsxHviXCzS1R4cnR3lO3BZlSNmmHUsq5weiRDw3OFFoQz7jlTaBbX42_4hSMTzqU7GM5eWkNSl_UGs4TdWgfiB4OsK9vv0Xcn7ewgzpuhVBbaNPynP6h8rFBoTLDUcI0BHaIejy2YxKR2W2HlVaJkNTc1g6lqpIKXlI8xx1bC26mNt2UROZZLg9WDGd4hNfCYwYdaKcXrTSyS1gzxY4Q) — A good beginner\\-friendly whey protein is MuscleBlaze Biozyme Whey Protein Powder. It provides 25g of protein per serving, and it is also fairly tasty.\n\n[2] [शुरुआती लोगों के लिए व्हे प्रोटीन: इसे कैसे चुनें और इस्तेमाल करें](https://www.google.com/goto?url=CAESiwIB6zswFZlYrLyv1yCfT1nPK-ar3padLS8p8j2VVq9Dk5QCgB1yNStxJ_E-utq2Q8IPCHNbDM3H6Au_040GFM-JvSIBVnQjM7Ksu4UXD3nOYx9c6EfyfGFPTACdByhcUGY10tKcJsu3NgHm80pPHypAWD0di2xbIiwCyuzfhZ0OaMhog8q-OXyKPnpJp10GUHfHI9Lo-J_PYFCUYxs_FFcBWOQFc4tA1YsVVihUMbYhdOzUac7ArRsPlAjM-zmxpHq9RCHAu4B86A5xWqK8tRoSE8VFnvm398tHFx-JYur_qmblsNs62ktv7Pf7pH0SCwkokh2VYETAfW3i2VhZgDfHC6UCWWbadHI61VM) — आप शुरुआत कर रहे हैं … तो शायद आपको यहीं से शुरुआत करनी चाहिए।\n"
+  }
+}

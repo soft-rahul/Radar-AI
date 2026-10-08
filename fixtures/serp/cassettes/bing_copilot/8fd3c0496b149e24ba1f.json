@@ -1,0 +1,437 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "kaun sa protein powder best hota hai",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:39:11+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebc6f7ae8d2448c06166",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/0nJh5mu8jo8mzdFAC_F5nsaAL1vFBlORGWaBrJYLar8/6ac4ebc6f7ae8d2448c06166.json",
+      "markdown_endpoint": "https://serpapi.com/searches/0nJh5mu8jo8mzdFAC_F5nsaAL1vFBlORGWaBrJYLar8/6ac4ebc6f7ae8d2448c06166.md",
+      "created_at": "2026-10-06 12:38:30 UTC",
+      "processed_at": "2026-10-06 12:38:30 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=kaun+sa+protein+powder+best+hota+hai&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/0nJh5mu8jo8mzdFAC_F5nsaAL1vFBlORGWaBrJYLar8/6ac4ebc6f7ae8d2448c06166.html",
+      "total_time_taken": 40.53
+    },
+    "search_parameters": {
+      "q": "kaun sa protein powder best hota hai",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "Whey Protein Isolate सबसे बेहतर माना जाता है, और उपलब्ध विकल्पों में 5XL Nutrition Whey Protein Isolate को 2026 में भारत का टॉप‑रेटेड प्रोटीन बताया गया है .",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "संक्षिप्त जवाब: अगर आप क्लीन, आसानी से पचने वाला और हाई‑प्रोटीन विकल्प चाहते हैं, तो Whey Isolate चुनें। भारत में 2026 की रैंकिंग के अनुसार 5XL Nutrition Whey Protein Isolate सबसे ऊपर है . अगर आप इंटरनेशनल ब्रांड चाहते हैं, तो ON Gold Standard Whey एक भरोसेमंद विकल्प है MensXP+1 .",
+        "snippet_highlighted_words": [
+          "संक्षिप्त जवाब:",
+          "क्लीन, आसानी से पचने वाला और हाई‑प्रोटीन",
+          "Whey Isolate",
+          "5XL Nutrition Whey Protein Isolate",
+          "ON Gold Standard Whey"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "⭐ भारत में टॉप प्रोटीन पाउडर (वेब रिज़ल्ट्स के आधार पर)",
+        "level": 2
+      },
+      {
+        "type": "heading",
+        "snippet": "1. 5XL Nutrition Whey Protein Isolate — Best Overall",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "5XL Nutrition Whey Protein Isolate",
+          "Best Overall"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "27g protein per scoop"
+          },
+          {
+            "snippet": "90%+ protein by weight"
+          },
+          {
+            "snippet": "Zero sugar, zero fat"
+          },
+          {
+            "snippet": "Lactose‑friendly"
+          },
+          {
+            "snippet": "No fillers, clean formula"
+          },
+          {
+            "snippet": "Digestive enzymes for better absorption किसके लिए: Cutting, lean muscle gain, lactose‑sensitive users, daily use.",
+            "snippet_highlighted_words": [
+              "किसके लिए:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. Optimum Nutrition (ON) Gold Standard Whey — Most Trusted International Brand",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Optimum Nutrition (ON) Gold Standard Whey",
+          "Most Trusted International Brand"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "MensXP+1",
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "24g protein per scoop"
+          },
+          {
+            "snippet": "Whey isolate + concentrate blend"
+          },
+          {
+            "snippet": "5.5g BCAAs"
+          },
+          {
+            "snippet": "Very consistent quality किसके लिए: International brand preference, reliable performance.",
+            "snippet_highlighted_words": [
+              "किसके लिए:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. Ultimate Nutrition Prostar Whey",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Ultimate Nutrition Prostar Whey"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "MensXP+1",
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "25g protein per scoop"
+          },
+          {
+            "snippet": "83% protein per scoop"
+          },
+          {
+            "snippet": "6g BCAAs किसके लिए: High protein per scoop चाहने वाले यूज़र्स.",
+            "snippet_highlighted_words": [
+              "किसके लिए:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "4. Isopure Low Carb Whey Isolate",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Isopure Low Carb Whey Isolate"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "MensXP",
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "25g protein per scoop"
+          },
+          {
+            "snippet": "100% isolate"
+          },
+          {
+            "snippet": "Zero lactose, gluten‑free किसके लिए: Lactose‑intolerant users, low‑carb diets.",
+            "snippet_highlighted_words": [
+              "किसके लिए:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "5. MuscleBlaze Biozyme Whey",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "MuscleBlaze Biozyme Whey"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Enhanced digestion formula"
+          },
+          {
+            "snippet": "Indian brand, widely available किसके लिए: Beginners, mainstream users.",
+            "snippet_highlighted_words": [
+              "किसके लिए:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📊 तुलना तालिका (आपके लिए कौन‑सा सही है?)",
+        "level": 2
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "Fat loss / Cutting",
+            "5XL Nutrition Isolate / Isopure",
+            "High purity, low calories, zero sugar 2"
+          ],
+          [
+            "Lean muscle gain",
+            "ON Gold Standard / 5XL Isolate",
+            "Strong amino profile, clean absorption 2"
+          ],
+          [
+            "Lactose sensitivity",
+            "5XL Isolate / Isopure",
+            "Minimal lactose, easy digestion 2"
+          ],
+          [
+            "Budget beginners",
+            "MuscleBlaze Biozyme",
+            "Good value, easy availability 1"
+          ],
+          [
+            "International brand preference",
+            "ON Gold Standard",
+            "Global reputation, consistent quality 2"
+          ]
+        ],
+        "headers": [
+          "Goal / Need",
+          "Best Option",
+          "क्यों"
+        ],
+        "formatted": [
+          {
+            "goal_need": "Fat loss / Cutting",
+            "best_option": "5XL Nutrition Isolate / Isopure",
+            "क्यों": "High purity, low calories, zero sugar 2"
+          },
+          {
+            "goal_need": "Lean muscle gain",
+            "best_option": "ON Gold Standard / 5XL Isolate",
+            "क्यों": "Strong amino profile, clean absorption 2"
+          },
+          {
+            "goal_need": "Lactose sensitivity",
+            "best_option": "5XL Isolate / Isopure",
+            "क्यों": "Minimal lactose, easy digestion 2"
+          },
+          {
+            "goal_need": "Budget beginners",
+            "best_option": "MuscleBlaze Biozyme",
+            "क्यों": "Good value, easy availability 1"
+          },
+          {
+            "goal_need": "International brand preference",
+            "best_option": "ON Gold Standard",
+            "क्यों": "Global reputation, consistent quality 2"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ Whey Protein क्यों Best माना जाता है?",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "यह complete protein है जिसमें सभी essential amino acids होते हैं 1 .",
+            "snippet_highlighted_words": [
+              "complete protein"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "जल्दी absorb होता है, इसलिए post‑workout के लिए perfect है 1 .",
+            "snippet_highlighted_words": [
+              "post‑workout"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "Muscle recovery, fat loss और metabolism में मदद करता है 1 .",
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "🧭 कैसे चुनें कि आपके लिए कौन‑सा बेस्ट है?",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "आपका लक्ष्य क्या है? (fat loss, muscle gain, general fitness)"
+          },
+          {
+            "snippet": "क्या आपको दूध से दिक्कत होती है? (तो isolate लें)"
+          },
+          {
+            "snippet": "आपका बजट क्या है?"
+          },
+          {
+            "snippet": "क्या आप daily use कर पाएंगे? (digestibility matters)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ अंतिम सलाह",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "अगर आप confusion में हैं और एक safe, high‑quality, digestion‑friendly विकल्प चाहते हैं, तो Whey Isolate चुनें — और भारत में 2026 के अनुसार 5XL Nutrition Whey Protein Isolate सबसे balanced और top‑rated विकल्प है .",
+        "snippet_highlighted_words": [
+          "safe, high‑quality, digestion‑friendly",
+          "Whey Isolate",
+          "5XL Nutrition Whey Protein Isolate"
+        ],
+        "reference_indexes": [
+          1
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "क्या आप चाहेंगे कि मैं आपके goal, budget और diet के हिसाब से perfect protein powder चुनकर बताऊँ?",
+        "snippet_highlighted_words": [
+          "goal, budget और diet"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Best Protein Powder Kaun Sa Hai (2026) | Novocado",
+        "link": "https://www.novocado.com/best-protein-powder-kaun-sa-hai/",
+        "snippet": "This vegan blend combines pea protein concentrate (~17 g per 30 g), rice protein isolate (~5 g), and pumpkin-seed protein (~3 g) to reach ~25 g protein per 40 g serving with all nine essential amino acids.",
+        "source": "novocado.com"
+      },
+      {
+        "index": 1,
+        "title": "Best Protein Powder For Men: 5 बेस्ट व्हे ... - MensXP",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "हाई क्वालिटी के 'कंप्‍लीट प्रोटीन' को व्हे प्रोटीन (whey protein) कहते हैं। इसमें काफी सारे अमीनो एसिड्स होते हैं, जैसे - ब्रांच्ड एमीनो एसिड्स (Branched Amino Acids), ग्लूटामिन (Glutamins),...",
+        "source": "MensXP"
+      },
+      {
+        "index": 2,
+        "title": "Top 10 Best Protein Powders in India – (2026 List)",
+        "link": "https://the5xlnutrition.com/best-protein-powder-in-india/",
+        "snippet": "Below is an honest, criteria-based ranking of the top 10 protein powders available in India in 2026, evaluated on protein quality, digestibility, ingredient transparency, value for money, and suitability for long-term daily use.",
+        "source": "the5xlnutrition.com"
+      },
+      {
+        "index": 3,
+        "title": "Which Is the Best Protein Powder in India: 2026 Picks",
+        "link": "https://www.thescienceofgoodhealth.com/blogs/news/which-is-the-best-protein-powder-in-india",
+        "snippet": "Discover the best protein powder in India for muscle gain, recovery, taste, and value. Find top brands and expert tips to choose the right supplement.",
+        "source": "thescienceofgoodhealth.com"
+      },
+      {
+        "index": 4,
+        "title": "AIIMS ट्रेंड डॉक्टर ने कर दिया टॉप 5 प्रोटीन फूड्स का खुलासा, डेली डाइट ...",
+        "link": "https://ndtv.in/food/dr-saurabh-sethi-gastroenterologis-rates-popular-protein-sources-top-rated-proteins-sabse-best-protein-kaun-sa-hai-11264080",
+        "snippet": "High Protein Foods: अपने इंस्टाग्राम हैंडल पर एक वीडियो शेयर कर, AIIMS ...",
+        "source": "NDTV India"
+      },
+      {
+        "index": 5,
+        "title": "7 Best Protein Powders in India for 2026 (Top Whey, Plant & Budget Picks)",
+        "link": "https://7best.in/fitness/protein-powders/best-protein-powders/",
+        "snippet": "Maximize your fitness gains with the 7 best protein powders in India for 2026, but which one will truly elevate your performance? Discover the top choices!",
+        "source": "7best.in"
+      },
+      {
+        "index": 6,
+        "title": "Top 10 Protein Powders in India 2026 (Expert Guide)",
+        "link": "https://zokera.com/blog/10-best-protein-powder-brands-india-2025",
+        "snippet": "Discover the best protein powders in India for 2026. Compare top whey, plant-based, and budget options for muscle gain, recovery, and fitness goals.",
+        "source": "zokera.com"
+      },
+      {
+        "index": 7,
+        "title": "प्रोटीन पाउडर के फायदे, लेने का समय, खुराक और बेस्ट प्रोटीन पाउडर ...",
+        "link": "https://www.myupchar.com/fitness/protein-powder",
+        "snippet": "Protein powder benefits, dosage in Hindi. आइये जानते हैं प्रोटीन पाउडर के बारे में विस्तार से - प्रोटीन पाउडर के फायदे, लेने का समय, खुराक और बेस्ट प्रोटीन पाउडर",
+        "source": "myUpchar"
+      },
+      {
+        "index": 8,
+        "title": "Amazon.in सर्वाधिक बिकने वाले: व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "Lab व्हे प्रोटीन आइसोलेट - डार्क चॉकलेट | 500g | घास-फेड, 28g प्रोटीन, 6.37g BCAA प्रति स्कूप | मांसपेशियों की वृद्धि, पाचन और अवशोषण समर्थन के लिए उच्च प्रोटीन सप्लीमेंट.",
+        "source": "www.amazon.in"
+      },
+      {
+        "index": 9,
+        "title": "Protein Ki Kami Se Kya Hota Hai? | Best Protein Powder Kaun Sa Hai ...",
+        "link": "https://www.youtube.com/watch?v=V-A3gZ5MEuU",
+        "snippet": "Protein Ki Kami Se Kya Hota Hai? | Best Protein Powder Kaun Sa Hai? 💪 Protein की कमी को हल्के में न लें!",
+        "source": "YouTube"
+      },
+      {
+        "index": 10,
+        "title": "10 बेस्ट प्रोटीन पाउडर इन इंडिया विथ प्राइस – 10 Best protein powders ...",
+        "link": "https://www.healthunbox.com/10-best-protein-powders-in-india-in-hindi/",
+        "snippet": "इस आर्टिकल में जानिए इंडिया के बेस्ट प्रोटीन पाउडर और उनके प्राइस और भारत में कौन सा प्रोटीन पाउडर ब्रांड है सबसे अच्छा और क्या है ...",
+        "source": "Healthunbox"
+      }
+    ]
+  }
+}

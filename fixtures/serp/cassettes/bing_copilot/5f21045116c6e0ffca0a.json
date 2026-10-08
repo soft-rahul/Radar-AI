@@ -1,0 +1,473 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "which protein powder is best for muscle gain in india",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:39:01+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eba99bc9c921c04f8e8b",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/O8nuPPQUa4KN3FGe4QUJOJanLM0I0BFVTkUNTZsbnuQ/6ac4eba99bc9c921c04f8e8b.json",
+      "markdown_endpoint": "https://serpapi.com/searches/O8nuPPQUa4KN3FGe4QUJOJanLM0I0BFVTkUNTZsbnuQ/6ac4eba99bc9c921c04f8e8b.md",
+      "created_at": "2026-10-06 12:38:01 UTC",
+      "processed_at": "2026-10-06 12:38:01 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=which+protein+powder+is+best+for+muscle+gain+in+india&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/O8nuPPQUa4KN3FGe4QUJOJanLM0I0BFVTkUNTZsbnuQ/6ac4eba99bc9c921c04f8e8b.html",
+      "total_time_taken": 60.34
+    },
+    "search_parameters": {
+      "q": "which protein powder is best for muscle gain in india",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "Whey protein isolate is the best overall choice for muscle gain in India, with MuscleBlaze Biozyme Whey and MuscleBlaze Raw Whey Isolate 90 ranking as top-performing products based on purity, absorption, and protein-per-serving.",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Key takeaway: For most lifters in India, whey isolate offers the best combination of fast absorption, high protein percentage, and low lactose, while whey concentrate remains the best value option.",
+        "snippet_highlighted_words": [
+          "Key takeaway:"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "🥇 Best Protein Type for Muscle Gain (Based on 2026 Rankings)",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Type"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Whey Protein Isolate — Best for fast muscle gain High purity (90%+ protein), low lactose, and fast digestion make isolate the top pick for post‑workout muscle protein synthesis 1 .",
+            "snippet_highlighted_words": [
+              "Whey Protein Isolate — Best for fast muscle gain"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Whey Concentrate — Best value pick ~24g protein per 30g scoop and lowest cost-per-gram make it ideal for beginners and budget-focused buyers 1 .",
+            "snippet_highlighted_words": [
+              "Whey Concentrate — Best value pick"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Whey Blends — Balanced option Mix of isolate + concentrate for moderate price and good absorption, but only when the ratio is clearly disclosed 1 .",
+            "snippet_highlighted_words": [
+              "Whey Blends — Balanced option"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Mass Gainers — Only for hardgainers 1,000+ kcal per serving; useful only if you struggle to eat enough calories 1 .",
+            "snippet_highlighted_words": [
+              "Mass Gainers — Only for hardgainers"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Plant Protein — Best for vegetarians/vegans Requires 20–30% larger servings to match whey’s leucine content 1 .",
+            "snippet_highlighted_words": [
+              "Plant Protein — Best for vegetarians/vegans"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "🏆 Best Products in India (2026)",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Products"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "1. MuscleBlaze Biozyme Whey Protein — Best Overall",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "1. MuscleBlaze Biozyme Whey Protein — Best Overall"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Ranked #1 with a score of 86/100 HealthKart .",
+        "snippet_highlighted_words": [
+          "#1"
+        ],
+        "reference_indexes": [
+          1
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "25g protein per 33g scoop"
+          },
+          {
+            "snippet": "Enhanced digestion formula"
+          },
+          {
+            "snippet": "Strong third‑party testing transparency Best for: Everyday muscle gain, recovery, and users wanting reliable digestion.",
+            "snippet_highlighted_words": [
+              "Best for:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. MuscleBlaze Raw Whey Isolate 90 — Best for Lean Muscle",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "2. MuscleBlaze Raw Whey Isolate 90 — Best for Lean Muscle"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Score: 84/100 HealthKart .",
+        "reference_indexes": [
+          1
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "27g protein per 30g scoop"
+          },
+          {
+            "snippet": "90% protein per 100g"
+          },
+          {
+            "snippet": "Low lactose, unflavoured Best for: Cutting phases, lactose-sensitive users, and high-protein needs.",
+            "snippet_highlighted_words": [
+              "Best for:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. TrueBasics Clean Whey — Best Clean-Label Blend",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "3. TrueBasics Clean Whey — Best Clean-Label Blend"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Score: 74/100 HealthKart .",
+        "reference_indexes": [
+          1
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "25.2g protein per serving"
+          },
+          {
+            "snippet": "Blend of isolate + concentrate"
+          },
+          {
+            "snippet": "Strong contaminant testing Best for: Users wanting clean ingredients and balanced macros.",
+            "snippet_highlighted_words": [
+              "Best for:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "4. Optimum Nutrition Gold Standard Whey — Best International Option",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "4. Optimum Nutrition Gold Standard Whey — Best International Option"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Score: 72/100 HealthKart .",
+        "reference_indexes": [
+          1
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "24g protein per serving"
+          },
+          {
+            "snippet": "Blend of isolate, concentrate, hydrolysate"
+          },
+          {
+            "snippet": "Informed Choice certified Best for: Users prioritizing global brand trust and consistent taste.",
+            "snippet_highlighted_words": [
+              "Best for:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "5. AS-IT-IS Whey Concentrate 80% — Best Budget Pick",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "5. AS-IT-IS Whey Concentrate 80% — Best Budget Pick"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Score: 64/100 HealthKart .",
+        "reference_indexes": [
+          1
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "80% protein per 100g"
+          },
+          {
+            "snippet": "Minimal additives Best for: Beginners and budget-conscious lifters.",
+            "snippet_highlighted_words": [
+              "Best for:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ How to Choose the Best Protein for Your Goal",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Your"
+        ]
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "Fast muscle gain",
+            "Whey Isolate",
+            "MuscleBlaze Raw Whey Isolate 90 1"
+          ],
+          [
+            "Budget muscle gain",
+            "Whey Concentrate",
+            "AS-IT-IS Whey Concentrate 80% 1"
+          ],
+          [
+            "Sensitive digestion",
+            "Isolate or Plant",
+            "MuscleBlaze Raw Whey Isolate 90 / Vegan options 2"
+          ],
+          [
+            "All-round daily use",
+            "Whey Blend",
+            "MuscleBlaze Biozyme Whey 1"
+          ],
+          [
+            "Hardgainer",
+            "Mass Gainer",
+            "Any reputable gainer (use only if in calorie deficit) 1"
+          ]
+        ],
+        "headers": [
+          "Goal",
+          "Best Type",
+          "Best Product (from results)"
+        ],
+        "formatted": [
+          {
+            "goal": "Fast muscle gain",
+            "best_type": "Whey Isolate",
+            "best_product_from_results": "MuscleBlaze Raw Whey Isolate 90 1"
+          },
+          {
+            "goal": "Budget muscle gain",
+            "best_type": "Whey Concentrate",
+            "best_product_from_results": "AS-IT-IS Whey Concentrate 80% 1"
+          },
+          {
+            "goal": "Sensitive digestion",
+            "best_type": "Isolate or Plant",
+            "best_product_from_results": "MuscleBlaze Raw Whey Isolate 90 / Vegan options 2"
+          },
+          {
+            "goal": "All-round daily use",
+            "best_type": "Whey Blend",
+            "best_product_from_results": "MuscleBlaze Biozyme Whey 1"
+          },
+          {
+            "goal": "Hardgainer",
+            "best_type": "Mass Gainer",
+            "best_product_from_results": "Any reputable gainer (use only if in calorie deficit) 1"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "⚠️ Common Mistakes to Avoid",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Choosing based on flavour instead of protein-per-scoop 1 .",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Buying from unauthorized sellers (counterfeits are common) 1 .",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Using mass gainers without checking calorie needs 1 .",
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📌 Final Recommendation",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If your goal is maximum muscle gain, choose:",
+        "snippet_highlighted_words": [
+          "maximum muscle gain"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Whey Isolate for purity and fast absorption",
+            "snippet_highlighted_words": [
+              "Whey Isolate"
+            ]
+          },
+          {
+            "snippet": "MuscleBlaze Raw Whey Isolate 90 or MuscleBlaze Biozyme Whey for the best combination of protein quality, testing transparency, and results 2 .",
+            "snippet_highlighted_words": [
+              "MuscleBlaze Raw Whey Isolate 90",
+              "MuscleBlaze Biozyme Whey"
+            ],
+            "reference_indexes": [
+              0,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Would you like a personalized recommendation based on your budget, lactose tolerance, and training routine?"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Best Protein Powder for Muscle Gain in India (2026)",
+        "link": "https://imuscles.in/blogs/articles/best-protein-powder-for-muscle-gain-in-india",
+        "snippet": "Best protein powder for muscle gain in India, 2026: whey isolate vs concentrate vs mass gainer ranked by protein-per-scoop, cost, and verdict.",
+        "source": "imuscles.in"
+      },
+      {
+        "index": 1,
+        "title": "10 Best Whey Protein Powders in India (2026): MuscleBlaze, TrueBasics ...",
+        "link": "https://www.healthkart.com/connect/10-best-whey-protein-powders-in-india-2026-muscleblaze-truebasics-more-ranked/",
+        "snippet": "Expert-ranked whey protein powders in India compared by purity, form, and price per gram. Top picks across concentrate, isolate, and hydrolysate for every goal.",
+        "source": "HealthKart"
+      },
+      {
+        "index": 2,
+        "title": "Which Is the Best Protein Powder in India: 2026 Picks",
+        "link": "https://www.thescienceofgoodhealth.com/blogs/news/which-is-the-best-protein-powder-in-india",
+        "snippet": "Discover the best protein powder in India for muscle gain, recovery, taste, and value. Find top brands and expert tips to choose the right supplement.",
+        "source": "thescienceofgoodhealth.com"
+      },
+      {
+        "index": 3,
+        "title": "Best Protein Powder in India (2026): What Actually Works",
+        "link": "https://proathlix.com/blogs/nutrition/best-protein-powder-in-india-2026-guide",
+        "snippet": "What is the Best Protein Powder in India in 2026? The best protein powder in India in 2026 depends on your goal — muscle gain, fat loss, or general fitness. But for most people, the best choice is: A high-quality whey protein that is easy to digest, cleanly formulated, and consistent in results.",
+        "source": "proathlix.com"
+      },
+      {
+        "index": 4,
+        "title": "Comparing 10 Best Whey Protein in India - Nutrabay Magazine",
+        "link": "https://nutrabay.com/magazine/10-best-whey-protein-in-india-comparison",
+        "snippet": "Products with names like “Gold,” “Isolate,” and “Performance Series” may be available, but you might not know which one best fits your objectives. For this reason, we will present ten well-liked whey choices that are currently generally accessible in India one by one in this blog post.",
+        "source": "NUTRABAY™"
+      },
+      {
+        "index": 5,
+        "title": "Best Protein Powder in India 2026: Top 10 Compared",
+        "link": "https://denzournutrition.com/blogs/whey-blogs/best-protein-powder-in-india",
+        "snippet": "Compare 10 protein powders sold in India in 2026 by protein per serving, ingredients and price, for muscle gain, recovery and beginners.",
+        "source": "denzournutrition.com"
+      },
+      {
+        "index": 6,
+        "title": "Top 10 Protein Powder Brands in India (2026 Updated List)",
+        "link": "https://getmymettle.com/blogs/health/top-10-protein-powder-brands-in-india",
+        "snippet": "Discover the top 10 protein powder brands in India for 2026. Compare whey, plant, and budget-friendly options for muscle gain, fitness, and daily nutrition.",
+        "source": "GetMyMettle"
+      },
+      {
+        "index": 7,
+        "title": "10 Best Whey Proteins in India 2026 — Tested & Ranked",
+        "link": "https://2xnutrition.com/blogs/articles/comparing-10-best-whey-proteins-in-india-2025-edition",
+        "snippet": "We tested 10 top whey proteins in India — comparing price, taste, amino profile & results. See which brand actually delivers. Updated for 2026 with new picks.",
+        "source": "2X Nutrition"
+      },
+      {
+        "index": 8,
+        "title": "Top 10 Protein Powders in India 2026 (Expert Guide)",
+        "link": "https://zokera.com/blog/10-best-protein-powder-brands-india-2025",
+        "snippet": "Discover the best protein powders in India for 2026. Compare top whey, plant-based, and budget options for muscle gain, recovery, and fitness goals.",
+        "source": "zokera.com"
+      },
+      {
+        "index": 9,
+        "title": "5 Best Protein Powders for Muscle Gain in India - clinikally.com",
+        "link": "https://www.clinikally.com/blogs/news/top-protein-powders-recommended-by-nutritionists",
+        "snippet": "Protein Powders are becoming a necessity nowadays! In this guide, we'll learn some of the best protein powders in India for muscle gain & fat loss.",
+        "source": "Clinikally"
+      }
+    ]
+  }
+}

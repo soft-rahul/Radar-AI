@@ -1,0 +1,162 @@
+{
+  "readings": [
+    {
+      "answer_id": "q2|ai_overview|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "भारत में MuscleBlaze और Optimum Nutrition (ON) के व्हे प्रोटीन को सबसे अच्छा माना जाता है।"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "भारत में MuscleBlaze और Optimum Nutrition (ON) के व्हे प्रोटीन को सबसे अच्छा माना जाता है।"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "neutral",
+          "quote": "द होल ट्रुथ (The Whole Truth)"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "एस-इट-इज (AS-IT-IS Nutrition)"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q2|ai_overview|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "भारत में Optimum Nutrition (ON) Gold Standard और MuscleBlaze Biozyme सबसे अच्छे और लोकप्रिय व्हे प्रोटीन ब्रांड्स माने जाते हैं।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "भारत में Optimum Nutrition (ON) Gold Standard और MuscleBlaze Biozyme सबसे अच्छे और लोकप्रिय व्हे प्रोटीन ब्रांड्स माने जाते हैं।"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "neutral",
+          "quote": "The Whole Truth Raw Whey: यह बिना किसी मिलावट, कृत्रिम फ्लेवर या शुगर के मिलने वाला एक साफ-सुथरा (Clean) विकल्प है।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition और Nakpro: यह बजट-अनुकूल (Budget-friendly) और अनफ्लेवर्ड व्हे प्रोटीन चाहने वाले छात्रों के लिए किफायती विकल्प हैं।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition और Nakpro: यह बजट-अनुकूल (Budget-friendly) और अनफ्लेवर्ड व्हे प्रोटीन चाहने वाले छात्रों के लिए किफायती विकल्प हैं।"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard 100% Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "के प्रति स्कूप में लगभग 24 ग्राम प्रोटीन मिलता है।"
+        }
+      ]
+    },
+    {
+      "answer_id": "q2|ai_overview|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "भारत में Optimum Nutrition (ON) और MuscleBlaze सबसे अच्छे और सबसे भरोसेमंद व्हे प्रोटीन ब्रांड माने जाते हैं।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "भारत में Optimum Nutrition (ON) और MuscleBlaze सबसे अच्छे और सबसे भरोसेमंद व्हे प्रोटीन ब्रांड माने जाते हैं।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition Whey Concentrate: अगर आपका बजट कम है, तो यह अनफ्लेवर्ड और शुद्ध कंसन्ट्रेट पाउडर आपके लिए सबसे किफायती और अच्छा विकल्प है।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "neutral",
+          "quote": "Nakpro Nutrition: यह भी कम कीमत में अच्छी क्वालिटी और लैब-सर्टिफाइड प्रोटीन उपलब्ध कराता है।"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "neutral",
+          "quote": "The Whole Truth (TWT): यह ब्रांड पूरी तरह से साफ (clean) और बिना किसी आर्टिफिशियल स्वीटन्ज़र के प्रोटीन देता है।"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q2|ai_overview|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze (मसलब्लेज़): यह भारत का सबसे लोकप्रिय और भरोसेमंद ब्रांड है।"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition (ON - ऑन): इसका 100% Whey Gold Standard दुनिया भर में सबसे ज्यादा पसंद किया जाने वाला प्रीमियम प्रोटीन है।"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "neutral",
+          "quote": "Avvatar (अव्वतार): यह पूरी तरह से 'मेक इन इंडिया' ब्रांड है जो ताजा दूध से सीधे व्हे प्रोटीन बनाता है।"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "neutral",
+          "quote": "Isopure (आइसोप्योर): यदि आपको लैक्टोज (दूध से होने वाली एलर्जी) की समस्या है और आप प्योर आइसोलेट ढूंढ रहे हैं, तो यह एक बेहतरीन विकल्प है।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "As-It-Is Nutrition (ऐस-इट-इज़): यदि आप कम बजट में बिना किसी मिलावट (Raw Whey) का अच्छा प्रोटीन चाहते हैं, तो इनका AS-IT-IS Whey Concentrate बहुत किफायती और लोकप्रिय है।"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q2|ai_overview|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "TrueBasics Clean Whey, MuscleBlaze Biozyme, and The Whole Truth are among the top-rated whey protein brands in India for purity, lab testing, and label transparency."
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "TrueBasics Clean Whey, MuscleBlaze Biozyme, and The Whole Truth are among the top-rated whey protein brands in India for purity, lab testing, and label transparency."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition ONE Whey: Widely considered the best verified value for unflavoured raw concentrate with high protein purity per serving."
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "neutral",
+          "quote": "Optimum Nutrition (ON) Gold Standard: The premier international benchmark known globally for quality, though higher priced."
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "neutral",
+          "quote": "NAKPRO Gold Raw Whey: A reliable, budget-friendly, and Trustified-certified choice for clean unflavoured concentrate."
+        }
+      ],
+      "claims": []
+    }
+  ]
+}

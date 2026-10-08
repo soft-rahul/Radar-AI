@@ -1,0 +1,367 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "beginners ke liye sabse accha whey protein kaun sa hai",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:37:22+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb6c550cc4cfbe8e1b9e",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/SYClc5AObq9m2dYTRhocJpXpiKknYldqlvxaTW6bmqA/6ac4eb6c550cc4cfbe8e1b9e.json",
+      "markdown_endpoint": "https://serpapi.com/searches/SYClc5AObq9m2dYTRhocJpXpiKknYldqlvxaTW6bmqA/6ac4eb6c550cc4cfbe8e1b9e.md",
+      "created_at": "2026-10-06 12:37:00 UTC",
+      "processed_at": "2026-10-06 12:37:00 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/SYClc5AObq9m2dYTRhocJpXpiKknYldqlvxaTW6bmqA/6ac4eb6c550cc4cfbe8e1b9e.html",
+      "total_time_taken": 21.71
+    },
+    "search_parameters": {
+      "q": "beginners ke liye sabse accha whey protein kaun sa hai",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "शुरुआती लोगों के लिए Optimum Nutrition (ON) Gold Standard Whey, Ultimate Nutrition Prostar, और MuscleBlaze Beginner’s Whey सबसे आसान, भरोसेमंद और पचने में हल्के विकल्प हैं।",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "संक्षिप्त उत्तर: शुरुआत करने वालों के लिए ऐसा व्हे प्रोटीन बेहतर होता है जिसमें 24–25g प्रोटीन, कम फैट/शुगर, और अच्छी मिक्सिंग व पाचन हो।",
+        "snippet_highlighted_words": [
+          "संक्षिप्त उत्तर:",
+          "24–25g प्रोटीन",
+          "कम फैट/शुगर",
+          "अच्छी मिक्सिंग व पाचन"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ शुरुआती के लिए सबसे भरोसेमंद विकल्प (वेब परिणामों के आधार पर)",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "snippet": "1. Optimum Nutrition (ON) Gold Standard Whey MensXP",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "1. Optimum Nutrition (ON) Gold Standard Whey"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप 24g प्रोटीन",
+            "snippet_highlighted_words": [
+              "24g प्रोटीन"
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत लगभग 79%",
+            "snippet_highlighted_words": [
+              "79%"
+            ]
+          },
+          {
+            "snippet": "ब्लेंड: Whey Isolate + Concentrate"
+          },
+          {
+            "snippet": "पचने में हल्का, मिक्सिंग अच्छी",
+            "snippet_highlighted_words": [
+              "पचने में हल्का"
+            ]
+          },
+          {
+            "snippet": "शुरुआती के लिए सबसे सुरक्षित और ग्लोबली ट्रस्टेड विकल्प"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. Ultimate Nutrition Prostar 100% Whey MensXP",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "2. Ultimate Nutrition Prostar 100% Whey"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप 25g प्रोटीन",
+            "snippet_highlighted_words": [
+              "25g प्रोटीन"
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत 83%",
+            "snippet_highlighted_words": [
+              "83%"
+            ]
+          },
+          {
+            "snippet": "6g BCAA, कम फैट और शुगर"
+          },
+          {
+            "snippet": "शुरुआती के लिए बढ़िया क्योंकि प्रोटीन ज्यादा और कीमत संतुलित",
+            "snippet_highlighted_words": [
+              "प्रोटीन ज्यादा और कीमत संतुलित"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. MuscleBlaze Beginner’s Whey Protein (Amazon Bestsellers में सूचीबद्ध)",
+        "level": 4,
+        "snippet_highlighted_words": [
+          "3. MuscleBlaze Beginner’s Whey Protein"
+        ],
+        "reference_indexes": [
+          1
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रति स्कूप 12g प्रोटीन",
+            "snippet_highlighted_words": [
+              "12g प्रोटीन"
+            ]
+          },
+          {
+            "snippet": "खास तौर पर beginners के लिए बनाया गया",
+            "snippet_highlighted_words": [
+              "beginners"
+            ]
+          },
+          {
+            "snippet": "हल्का, आसानी से पचने वाला"
+          },
+          {
+            "snippet": "बजट‑फ्रेंडली और स्टार्ट करने के लिए अच्छा विकल्प"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ शुरुआती को Whey Protein चुनते समय क्या देखना चाहिए?",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रोटीन प्रति स्कूप: 20–25g आदर्श",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रति स्कूप:"
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत: 70%+ (कंसन्ट्रेट), 80–90% (आइसोलेट)",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रतिशत:"
+            ]
+          },
+          {
+            "snippet": "कम फैट/शुगर: 1–2g",
+            "snippet_highlighted_words": [
+              "कम फैट/शुगर:"
+            ]
+          },
+          {
+            "snippet": "पाचन: शुरुआती के लिए concentrate + isolate blend बेहतर",
+            "snippet_highlighted_words": [
+              "पाचन:"
+            ]
+          },
+          {
+            "snippet": "ब्रांड की विश्वसनीयता: ON, Prostar, MuscleBlaze जैसे ब्रांड सुरक्षित विकल्प हैं",
+            "snippet_highlighted_words": [
+              "ब्रांड की विश्वसनीयता:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ भारत में सबसे ज़्यादा उपयोग होने वाले Whey Proteins (MensXP लिस्ट) MensXP",
+        "level": 3,
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "ON Gold Standard Whey"
+          },
+          {
+            "snippet": "Ultimate Nutrition Prostar"
+          },
+          {
+            "snippet": "Dymatize Elite Whey"
+          },
+          {
+            "snippet": "Isopure Low Carb (अगर लैक्टोज समस्या हो)"
+          },
+          {
+            "snippet": "Muscletech Nitrotech (मसल गेन के लिए, क्रिएटिन भी शामिल)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ शुरुआती के लिए मेरी सलाह (आपके लक्ष्य के अनुसार)",
+        "level": 3
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "सामान्य फिटनेस / शुरुआत",
+            "ON Gold Standard / Prostar"
+          ],
+          [
+            "बजट‑फ्रेंडली शुरुआत",
+            "MuscleBlaze Beginner’s Whey"
+          ],
+          [
+            "लैक्टोज सेंसिटिव",
+            "Isopure Low Carb"
+          ],
+          [
+            "तेज़ मसल गेन",
+            "Muscletech Nitrotech"
+          ]
+        ],
+        "headers": [
+          "लक्ष्य",
+          "सबसे अच्छा विकल्प"
+        ],
+        "formatted": [
+          {
+            "लक्ष्य": "सामान्य फिटनेस / शुरुआत",
+            "सबसे_अच्छा_विकल्प": "ON Gold Standard / Prostar"
+          },
+          {
+            "लक्ष्य": "बजट‑फ्रेंडली शुरुआत",
+            "सबसे_अच्छा_विकल्प": "MuscleBlaze Beginner’s Whey"
+          },
+          {
+            "लक्ष्य": "लैक्टोज सेंसिटिव",
+            "सबसे_अच्छा_विकल्प": "Isopure Low Carb"
+          },
+          {
+            "लक्ष्य": "तेज़ मसल गेन",
+            "सबसे_अच्छा_विकल्प": "Muscletech Nitrotech"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ अगला कदम",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "क्या आप मसल गेन, फैट लॉस, या सिर्फ डेली प्रोटीन पूरा करने के लिए whey लेना चाहते हैं? इससे मैं आपको और सटीक सुझाव दे सकता हूँ।",
+        "snippet_highlighted_words": [
+          "मसल गेन",
+          "फैट लॉस",
+          "डेली प्रोटीन पूरा करने"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Best Whey Protein for Beginners in India (2026) – Top 7 Tested Options",
+        "link": "http://www.gymbar.in/2026/06/best-whey-protein-for-beginners-in.html",
+        "snippet": "Har brand apne product ko best batata hai, lekin beginners ke liye sahi protein choose karna confusing ho sakta hai. Is guide me hum India ke popular whey proteins ko compare karenge aur batayenge ki beginners ke liye kaunsa option sabse suitable hai. 1. MuscleBlaze Biozyme Whey Protein.",
+        "source": "www.gymbar.in"
+      },
+      {
+        "index": 1,
+        "title": "Best Whey Protein in India 2026 | Lab Tested, FSSAI Certified | Aarogya ...",
+        "link": "https://aarogyamatrix.com/blogs/news/whey-protein-india-guide-2026",
+        "snippet": "A: Beginners ke liye whey protein concentrate best hai — affordable price, good protein content, aur digestible. Aarogya Matrix Gold Whey Protein exactly isi category mein hai — ₹2,610/kg mein FSSAI certified, lab tested, aur 4.9★ rated.",
+        "source": "aarogyamatrix.com"
+      },
+      {
+        "index": 2,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे ... - MensXP",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "हाई क्वालिटी के 'कंप्‍लीट प्रोटीन' को व्हे प्रोटीन (whey protein) कहते हैं। इसमें काफी सारे अमीनो एसिड्स होते हैं, जैसे - ब्रांच्ड एमीनो एसिड्स (Branched Amino Acids), ग्लूटामिन (Glutamins),...",
+        "source": "MensXP"
+      },
+      {
+        "index": 3,
+        "title": "Best Whey Protein in India 2026 — Top 10 Ranked by Value & Quality",
+        "link": "https://proteinpaisa.com/blog/best-whey-protein-india-2026/",
+        "snippet": "Complete ranking of the best whey protein powders in India for 2026. Compare MuscleBlaze, Nakpro, Avvatar, ON, AS-IT-IS, Nutrabay & more by price, purity, and taste.",
+        "source": "proteinpaisa.com"
+      },
+      {
+        "index": 4,
+        "title": "Amazon.in सर्वाधिक बिकने वाले: व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "MuscleBlaze बायोजाइम परफॉर्मेंस व्हे प्रोटीन पीआर (चॉकलेट फज, 1 किग्रा/2.2 एलबी) 30 ग्राम प्रोटीन के साथ, 3 ग्राम क्रिएटिन मोनोहाइड्रेट और 50 ...",
+        "source": "www.amazon.in"
+      },
+      {
+        "index": 5,
+        "title": "10 Best Whey Protein Powders in India (2026): MuscleBlaze, TrueBasics ...",
+        "link": "https://www.healthkart.com/connect/10-best-whey-protein-powders-in-india-2026-muscleblaze-truebasics-more-ranked/",
+        "snippet": "Expert-ranked whey protein powders in India compared by purity, form, and price per gram. Top picks across concentrate, isolate, and hydrolysate for every goal.",
+        "source": "HealthKart"
+      },
+      {
+        "index": 6,
+        "title": "Whey Protein for Beginners in India (2026 Guide)",
+        "link": "https://peacefulhealth.in/whey-protein-for-beginners-in-india/",
+        "snippet": "Yes, whey protein is generally safe for healthy beginners when taken in recommended amounts (20–30g per serving). Choose a trusted brand, check for FSSAI compliance, and match your intake to your daily protein needs.",
+        "source": "peacefulhealth.in"
+      },
+      {
+        "index": 7,
+        "title": "Best Whey Protein in India 2026: Ranked | WellFitLife",
+        "link": "https://wellfitlife.in/blog/best-whey-protein-brand-india-2026",
+        "snippet": "Best whey protein brand in India 2026 — AS-IT-IS ATOM vs ON Gold Standard vs MuscleBlaze Biozyme, ranked on protein per scoop and price per serving.",
+        "source": "wellfitlife.in"
+      },
+      {
+        "index": 8,
+        "title": "10 Best Whey Proteins in India 2026 — Tested & Ranked",
+        "link": "https://2xnutrition.com/blogs/articles/comparing-10-best-whey-proteins-in-india-2025-edition",
+        "snippet": "When you're choosing the best whey protein in India 2026, purity, digestibility, price value, and real-world performance matter far more than packaging or marketing hype. Whether someone wants the best whey protein for muscle gain, the best whey protein for beginners, a protein powder for women, or simply a clean whey protein isolate for daily use, the product’s lab testing, ingredient ...",
+        "source": "2X Nutrition"
+      },
+      {
+        "index": 9,
+        "title": "Beginner's Guide to Whey Protein in India (2025)",
+        "link": "https://www.findbestprotein.com/guides/beginners-guide-to-whey-protein-india",
+        "snippet": "A complete guide for beginners starting with whey protein in India. Learn about dosage, timing, and top brands like MuscleBlaze and Nakpro to kickstart your fitness journey.",
+        "source": "findbestprotein.com"
+      },
+      {
+        "index": 10,
+        "title": "Best Whey Protein in India 2026: Evidence-Based Guide",
+        "link": "https://purenutrition.in/blogs/news/best-whey-protein-in-india",
+        "snippet": "Looking for the best whey protein in India? Compare protein, ingredients, testing and value before choosing the right whey for your goals, budget and diet.",
+        "source": "Pure Nutrition"
+      }
+    ]
+  }
+}

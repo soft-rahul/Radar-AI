@@ -1,0 +1,287 @@
+{
+  "readings": [
+    {
+      "answer_id": "q5|ai_overview|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Nakpro",
+          "stance": "neutral",
+          "quote": "Nakpro Impact / Nakpro Gold (500g से 1kg पैक)"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze भारत के सबसे भरोसेमंद फिटनेस ब्रांड्स में से एक है।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Nutrition का 500g पैक इस बजट में बेहतरीन है।"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro Impact / Nakpro Gold",
+          "attribute": "other",
+          "value": "500g से 1kg पैक",
+          "quote": "Nakpro Impact / Nakpro Gold (500g से 1kg पैक)"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Beginner's / Raw Whey",
+          "attribute": "other",
+          "value": "500g / छोटा पैक",
+          "quote": "MuscleBlaze Beginner's / Raw Whey (500g / छोटा पैक)"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS Nutrition Whey Protein Concentrate",
+          "attribute": "other",
+          "value": "500g पैक",
+          "quote": "AS-IT-IS Nutrition Whey Protein Concentrate (500g पैक)"
+        }
+      ]
+    },
+    {
+      "answer_id": "q5|ai_overview|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "The best budget-friendly whey protein options under ₹2,000 in India include trusted and lab-tested choices like Nakpro Impact Whey"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "The best budget-friendly whey protein options under ₹2,000 in India include trusted and lab-tested choices like Nakpro Impact Whey and MuscleBlaze Beginner's Whey"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS ATOM Beginners / Whey XL: Known for transparent, unflavoured, and lightly flavoured budget concentrates and blends containing digestive enzymes like DigeZyme, priced between ₹1,200 and ₹1,900."
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro Impact Whey Protein / Gold Blend",
+          "attribute": "protein_per_serving_g",
+          "value": "around 24g",
+          "quote": "offers around 24g of protein per serving"
+        },
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro Impact Whey Protein / Gold Blend",
+          "attribute": "certification",
+          "value": "Trustified certified",
+          "quote": "select variants are Trustified certified for quality"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Beginner's Whey",
+          "attribute": "price_inr",
+          "value": "around ₹1,100–₹1,500",
+          "quote": "priced around ₹1,100–₹1,500 for 500g–1kg variants"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Beginner's Whey",
+          "attribute": "other",
+          "value": "500g–1kg variants",
+          "quote": "priced around ₹1,100–₹1,500 for 500g–1kg variants"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS ATOM Beginners / Whey XL",
+          "attribute": "price_inr",
+          "value": "between ₹1,200 and ₹1,900",
+          "quote": "priced between ₹1,200 and ₹1,900"
+        }
+      ]
+    },
+    {
+      "answer_id": "q5|ai_overview|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "The best budget-friendly whey protein options under ₹2,000 in India include trusted and lab-tested choices like Nakpro Impact Whey"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "The best budget-friendly whey protein options under ₹2,000 in India include trusted and lab-tested choices like Nakpro Impact Whey and MuscleBlaze Beginner's Whey"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS ATOM Beginners / Whey XL: Known for transparent, unflavoured, and lightly flavoured budget concentrates and blends containing digestive enzymes like DigeZyme, priced between ₹1,200 and ₹1,900."
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro Impact Whey Protein / Gold Blend",
+          "attribute": "protein_per_serving_g",
+          "value": "around 24g",
+          "quote": "offers around 24g of protein per serving"
+        },
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro Impact Whey Protein / Gold Blend",
+          "attribute": "certification",
+          "value": "Trustified certified",
+          "quote": "select variants are Trustified certified for quality"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Beginner's Whey",
+          "attribute": "price_inr",
+          "value": "around ₹1,100–₹1,500",
+          "quote": "priced around ₹1,100–₹1,500 for 500g–1kg variants"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Beginner's Whey",
+          "attribute": "other",
+          "value": "500g–1kg variants",
+          "quote": "priced around ₹1,100–₹1,500 for 500g–1kg variants"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS ATOM Beginners / Whey XL",
+          "attribute": "price_inr",
+          "value": "between ₹1,200 and ₹1,900",
+          "quote": "priced between ₹1,200 and ₹1,900"
+        }
+      ]
+    },
+    {
+      "answer_id": "q5|copilot|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "2000 रुपये के अंदर सबसे संतुलित और भरोसेमंद विकल्प NAKPRO और AS-IT-IS हैं"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "2000 रुपये के अंदर सबसे संतुलित और भरोसेमंद विकल्प NAKPRO और AS-IT-IS हैं"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Raw Whey भी एक सुरक्षित और लोकप्रिय विकल्प है।"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Nakpro",
+          "product": "Impact/Gold",
+          "attribute": "protein_per_serving_g",
+          "value": "~24g",
+          "quote": "NAKPRO Impact/Gold | ~24g"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "Concentrate 80%",
+          "attribute": "protein_per_serving_g",
+          "value": "27g",
+          "quote": "AS-IT-IS Concentrate 80% | 27g"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "Raw Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24–27g",
+          "quote": "MuscleBlaze Raw Whey | 24–27g"
+        }
+      ]
+    },
+    {
+      "answer_id": "q5|copilot|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "ON Gold Standard 100% Whey — गुणवत्ता, ब्रांड विश्वसनीयता और पोषण संतुलन के आधार पर सबसे अच्छा विकल्प है"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "अगर आप लैक्टोज-फ्री चाहते हैं → Isopure Low Carb बेहतर है"
+        },
+        {
+          "brand": "Ultimate Nutrition",
+          "stance": "neutral",
+          "quote": "Ultimate Nutrition Prostar 100% Whey"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "neutral",
+          "quote": "Dymatize Elite Whey Protein"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "ON Gold Standard | 24g"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Gold Standard",
+          "attribute": "price_inr",
+          "value": "₹1900–2500",
+          "quote": "ON Gold Standard | 24g | 78.94% | 5.5g | ₹1900–2500"
+        },
+        {
+          "brand": "Isopure",
+          "product": "Low Carb",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "Isopure Low Carb | 25g"
+        },
+        {
+          "brand": "Isopure",
+          "product": "Low Carb",
+          "attribute": "price_inr",
+          "value": "₹2000–2300",
+          "quote": "Isopure Low Carb | 25g | 80.64% | 5g | ₹2000–2300"
+        },
+        {
+          "brand": "Ultimate Nutrition",
+          "product": "Prostar 100% Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "Prostar 100% Whey | 25g"
+        },
+        {
+          "brand": "Ultimate Nutrition",
+          "product": "Prostar 100% Whey",
+          "attribute": "price_inr",
+          "value": "₹2000–2500 (छोटा पैक)",
+          "quote": "Prostar 100% Whey | 25g | 83% | 6g | ₹2000–2500 (छोटा पैक)"
+        },
+        {
+          "brand": "Dymatize",
+          "product": "Elite",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "Dymatize Elite | 25g"
+        },
+        {
+          "brand": "Dymatize",
+          "product": "Elite",
+          "attribute": "price_inr",
+          "value": "₹2000–2400",
+          "quote": "Dymatize Elite | 25g | 69.44% | 5g | ₹2000–2400"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "request": {
+    "engine": "google_ai_overview",
+    "params": {
+      "page_token": "r4jNzniczVZbcrJIFF7ArGN4MRFEjZoq6q9ubBE1UWLUSV4oBGyQm9IYNG__XmZPUzWrmeZiRCMzmTxMTVsCp_v0ufQ5Hx8_f3dt3_nzlz-sKNqQe5aN47iKgwC7ZlUPPFYjB19nV4FLQt36sdu5phBXRCArsiiPnqQ50SSHTBdNR1sgBruC7TOWK5g-c3gT6oxOBI4xbaG2e0MakQzQPrS2EZng8djnFZlJrQvqUiPmmjrfrwmrsvTi_FrvUqFKqqavSrC6l2ZvmnKYbF-5Ks_x9eqY1TyqA_6zAYFMf0ABmP7Fcj1MNb9iLtGanuliJfNTGN1MRDi9DUutyTLKnePkgf4n-_V7VwdAwkedaeluVMxHBFDJI8SpJVGUv5JQ0Vyeh5JP4HLdq2eVTxbSLdYZldqC545EDMRJA-DTlvN1FBQl5cOLjkG7H8AuBLPywOmZYzB8AZwLTomWDAR7Jjg6g6SrAMQamHYvxy5Dequxtm7p6UNIkqYWnztcgKSmv6nPO92IN97VKHB7c231GM-5273C6kuq5waaYRqqpXI_UrnG15pcp95q36SA0skHokgRUaDp39YfnEU45qqjKqwdsUSb4FTpYkrJ7OxajjBpHFRSRbomXzkaUZROQn4oIgISBPDCjrjmEh8fRcNAj0FffDqP4Bii-AlLJxkVlCU7E2ycG81CPQ25iwo9Bgvt1r_MJRnO5QQeH33JchZrngK6cJTkDVGydjyk-MKURPcE1FKPqtgNOTOjnxKDgWxT6aytk0X6ckH52cOzheRawFJyBlbysE5eDgOwHYBpUmwZpFaT4uahidZFJeUyUDt046wUo3870JdenegImgsMnGFnv3te-d4Iztz49clzo31jLPYGHH9ox9exEnjLf0c_-v8JUB_kFGTkVA4o-BVAwcTeZ3I62Uvr2z0CKiOnckCNMkBl5AQL5NS_Rk4XgELAPgFq-JSSE8Ql5PQNQOFyQMGP62dADa8DyikDFA34ElDTM3KSy8gpB9T3yAl-j5xSfJnZ7ZypdmtcyljSFHumK__mTsLWGI2eVWhGPaPDWW0F_CNjrbzo3tMM90a1jXvID6KDcaPSieDeNJitwHMcV3HMiuYbWlgh2pLQZ123tEpsmYfKJgwi0_Yrjrbz6WrF0mzGc8NA4LTG2pxunndgOB1FrUV_ifiJxg29_sPz7btVX42i3e1WXr8YiyDU6Gcuv7KnyOnvFTCfvOiTR_x65yxtxd-_Kw-3C0XeLuBg0hX3M4vrb3tP4au3bsFmd9uvE6622KhNWzq8DhrNR8Pe3xka3nU2nCO2N3onHNa2L404jYsIddebP9qmvXx3GJomMYUa44W6QHukgcGjAhZJZ4ovQKHfMTONAluMgSLdAQVBnjYNQ3RNNcmb0Fg2ebN2Zxp1s9Ns6tQKjg4bocMxxA-F2l8_1l0M"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:38:54+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebd70bbc381f0ebcdb7d",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/J3_9q8N4cjsWA4ygOQQlArNqtW7GXk0-87pygndtPJ4/6ac4ebd70bbc381f0ebcdb7d.json",
+      "markdown_endpoint": "https://serpapi.com/searches/J3_9q8N4cjsWA4ygOQQlArNqtW7GXk0-87pygndtPJ4/6ac4ebd70bbc381f0ebcdb7d.md",
+      "created_at": "2026-10-06 12:38:47 UTC",
+      "processed_at": "2026-10-06 12:38:47 UTC",
+      "google_ai_overview_url": "https://www.google.com/async/folsrch?uule=w+CAIQICILRGVsaGksSW5kaWE&gl=in&hl=en&yv=3&cs=0&ei=1uvEasGdA8y7qtsPgOOn2QI&async=_basejs:/xjs/_/js/k%3Dxjs.s.en_GB.xGUvaQyPqZ0.2023.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAIAIAAQAgAQACAAAAAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAASABAAAAAAAAAAAgQAAAABAAAAAAAAAAAADABAAAAEgBAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAIIEAAAAAgAgEAAAEAAPxjzDcAAGgAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAAAAEACAAAAAAAAAACABQAAAAABBgAAEAACCIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAABAAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAAAKAAAAAAAAAADAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABBgAAAAAAAAAAAAACgACP4AgAAEAAAAAAAgAAAAAAAAAAAAAEoAAAAAAAAAAAAQAADAAAAAAcgA8HoBDBAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgAKYA0lAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBFeAoAAAAAAABsDQAE/dg%3D0/br%3D1/ichc%3D1/rs%3DACT90oEG5np3V9Dt2dz_tolFVafNwV0-xQ/cb%3Dloaded_h_0?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.s.A5n-3MkWrO0.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAACAIAAQAAAAAAAAAAAAAAAACCGAAAAAAAAAAoAAAAAACEAGBABABAAAAAAAAAAAAACj0AAABgAAAAAAAAgAcwAHCRAAAAAAAAAAAABAAAAAAAIACABAAAAAAAAAAAgQAABAAAAAAAAAEAAAAAABAAAAGiAAAAAAigAAAAAgAAAAACAAAAAAAAAAAIDEAEAAAAAAAAABEAAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAgOAAAABAAAIIRAAAAABgAAAAAEAAACAAAAAAAAAAAAACEBEgAAAQAAAAAAAwAAAAAAAAAAAAAAAGAEAoBAAFAAQi4IgAAAAAcABAAAAAAAABoIiABAgAAAAAAAAAAAABAAABBAEIAAQAAABAAAAAAAAABAAAAABADAAAAAAAAAAigAAhAAAAjSAAAJAqJASIAAAIAABAgACAAEQAAAAAAChAQAAAAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAAAAkAgAUEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE/br%3D1/cb%3Dloaded_h_0/rs%3DACT90oExuTfnmLBUlwZRmltx4OCFJ02y8w?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.s.en_GB.xGUvaQyPqZ0.2023.O/ck%3Dxjs.s.A5n-3MkWrO0.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAACAIAAQAAAAAAAAAAAAAAAACCGABAIAIAAQAoAQACAACEAGBABABAAAAAAAAAAAAACj0ABABgAAAAAAAAgAcwAHCRAAAAAAAAAAAABAAAABBAIASABAAAAAAAAAAAgQAABABAAAAAAAEAAAADABAAAAGiBAAAAKigAAAAAgAAAAACAAAAAAAAAAAILEAEAAAgAgEAABEAAPxjzDcAAHgAAAAAAAASAAAAAAAAAAkAAAAAAAAAAAAAAEAiOAAAABAAAIKRBQAAABgBBgAAEAACCIAAAAAAAAAAAACEBEgAAAQAAAAAAAwAAAAAAAAAAAAAAAGAEAoBAAFAAQi4IgAAAgAcABAAAAAAAABoIiABAgAAAAAABAAAAABAAABBAEIAAQAAABAAAAAAKAABAAAAABADAAAAAAAAAAikAAhAAAAjSAAAJAqJASIAAAIABBggACAAEQAAAAAAChASP4AgAAEAAAAAAIgAAAAAAAAAAAAAEoAAAAAAAAkAgAUEADAAAAAAcgA8HoBDBAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgAKYA0lBAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBFeAoAAAAAAABsDQAE/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/ichc%3D1/rs%3DACT90oGSgmelIXlPr7OELT_BetFd90h8QA/cb%3Dloaded_h_0?cb%3D121509378,_fmt:madl,_id:B2Jtyd,_mado:ed&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&mlro=0a4jeSpTuAKSLt7WHbE2Pa0KmHMT-zh3fLtu-qIjYdWorafol2fiSEkHxQAVPYcPNgZ6kbiQnxzQM-WQIqWBJPDCxUh0HqFRrZmj7B5DqH3s01Wp_5iGyZJ45Ndix6dagu9p0kC8pc9rK1qY4w&mlros=3lmVNieibzk&madse=1&mrc=CAA4gANQAWgAcACYAQCgAUaoAQCwAQG6AQEB2AEA&sca_esv=4b52e16ed3e955c1&mgtyp=90&snr=1",
+      "raw_html_file": "https://serpapi.com/searches/J3_9q8N4cjsWA4ygOQQlArNqtW7GXk0-87pygndtPJ4/6ac4ebd70bbc381f0ebcdb7d.html",
+      "total_time_taken": 7.26
+    },
+    "search_parameters": {
+      "engine": "google_ai_overview",
+      "page_token": "r4jNzniczVZbcrJIFF7ArGN4MRFEjZoq6q9ubBE1UWLUSV4oBGyQm9IYNG__XmZPUzWrmeZiRCMzmTxMTVsCp_v0ufQ5Hx8_f3dt3_nzlz-sKNqQe5aN47iKgwC7ZlUPPFYjB19nV4FLQt36sdu5phBXRCArsiiPnqQ50SSHTBdNR1sgBruC7TOWK5g-c3gT6oxOBI4xbaG2e0MakQzQPrS2EZng8djnFZlJrQvqUiPmmjrfrwmrsvTi_FrvUqFKqqavSrC6l2ZvmnKYbF-5Ks_x9eqY1TyqA_6zAYFMf0ABmP7Fcj1MNb9iLtGanuliJfNTGN1MRDi9DUutyTLKnePkgf4n-_V7VwdAwkedaeluVMxHBFDJI8SpJVGUv5JQ0Vyeh5JP4HLdq2eVTxbSLdYZldqC545EDMRJA-DTlvN1FBQl5cOLjkG7H8AuBLPywOmZYzB8AZwLTomWDAR7Jjg6g6SrAMQamHYvxy5Dequxtm7p6UNIkqYWnztcgKSmv6nPO92IN97VKHB7c231GM-5273C6kuq5waaYRqqpXI_UrnG15pcp95q36SA0skHokgRUaDp39YfnEU45qqjKqwdsUSb4FTpYkrJ7OxajjBpHFRSRbomXzkaUZROQn4oIgISBPDCjrjmEh8fRcNAj0FffDqP4Bii-AlLJxkVlCU7E2ycG81CPQ25iwo9Bgvt1r_MJRnO5QQeH33JchZrngK6cJTkDVGydjyk-MKURPcE1FKPqtgNOTOjnxKDgWxT6aytk0X6ckH52cOzheRawFJyBlbysE5eDgOwHYBpUmwZpFaT4uahidZFJeUyUDt046wUo3870JdenegImgsMnGFnv3te-d4Iztz49clzo31jLPYGHH9ox9exEnjLf0c_-v8JUB_kFGTkVA4o-BVAwcTeZ3I62Uvr2z0CKiOnckCNMkBl5AQL5NS_Rk4XgELAPgFq-JSSE8Ql5PQNQOFyQMGP62dADa8DyikDFA34ElDTM3KSy8gpB9T3yAl-j5xSfJnZ7ZypdmtcyljSFHumK__mTsLWGI2eVWhGPaPDWW0F_CNjrbzo3tMM90a1jXvID6KDcaPSieDeNJitwHMcV3HMiuYbWlgh2pLQZ123tEpsmYfKJgwi0_Yrjrbz6WrF0mzGc8NA4LTG2pxunndgOB1FrUV_ifiJxg29_sPz7btVX42i3e1WXr8YiyDU6Gcuv7KnyOnvFTCfvOiTR_x65yxtxd-_Kw-3C0XeLuBg0hX3M4vrb3tP4au3bsFmd9uvE6622KhNWzq8DhrNR8Pe3xka3nU2nCO2N3onHNa2L404jYsIddebP9qmvXx3GJomMYUa44W6QHukgcGjAhZJZ4ovQKHfMTONAluMgSLdAQVBnjYNQ3RNNcmb0Fg2ebN2Zxp1s9Ns6tQKjg4bocMxxA-F2l8_1l0M"
+    },
+    "ai_overview": {
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "₹2000 के बजट में सबसे अच्छे और भरोसेमंद व्हे प्रोटीन (Whey Protein) विकल्प मुख्य रूप से शुरुआती और बजट-प्रेमी फिटनेस प्रेमियों के लिए उपलब्ध हैं। इस कीमत में आपको आमतौर पर 500 ग्राम के प्रीमियम ब्रांड या 1 किलोग्राम के बेसिक/रॉ (Raw) व्हे कॉन्सेंट्रेट मिलते हैं।",
+          "reference_indexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "यहाँ ₹2000 के अंदर सबसे अच्छे विकल्प दिए गए हैं:"
+        },
+        {
+          "type": "heading",
+          "snippet": "1. Nakpro Impact / Nakpro Gold (500g से 1kg पैक)"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "विशेषताएं: यह ब्रांड अपनी शुद्धता और कम कीमत के लिए जाना जाता है। इसके 500 ग्राम के पैक (गोल्ड या इम्पैक्ट ब्लेंड) ₹2000 के अंदर आसानी से मिल जाते हैं ।"
+            },
+            {
+              "snippet": "प्रोटीन मात्रा: प्रति सर्विंग लगभग 24g से 25.5g प्रोटीन मिलता है।"
+            },
+            {
+              "snippet": "भरोसा: यह कई स्वतंत्र लैब टेस्ट (जैसे Trustified) में पास हो चुका है।"
+            }
+          ],
+          "reference_indexes": [
+            0,
+            2
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "2. MuscleBlaze Beginner's / Raw Whey (500g / छोटा पैक)"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "विशेषताएं: MuscleBlaze भारत के सबसे भरोसेमंद फिटनेस ब्रांड्स में से एक है। ₹2000 के बजट में इसके शुरुआती वेरिएंट्स या छोटे पैक मिल जाते हैं।",
+              "reference_indexes": [
+                0,
+                3
+              ]
+            },
+            {
+              "snippet": "फायदा: यह जिम की शुरुआत करने वालों के लिए पचने में आसान और सुरक्षित है।"
+            }
+          ],
+          "reference_indexes": [
+            1
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "3. AS-IT-IS Nutrition Whey Protein Concentrate (500g पैक)"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "विशेषताएं: अगर आपको बिना फ्लेवर वाला (Unflavoured) और पूरी तरह शुद्ध प्रोटीन चाहिए, तो AS-IT-IS Nutrition का 500g पैक इस बजट में बेहतरीन है।",
+              "snippet_links": [
+                {
+                  "text": "AS-IT-IS Nutrition",
+                  "link": "https://www.asitisnutrition.com"
+                }
+              ],
+              "reference_indexes": [
+                0,
+                4
+              ]
+            },
+            {
+              "snippet": "फायदा: इसमें किसी तरह के कृत्रिम फ्लेवर या शुगर नहीं होते और यह लैब-प्रमाणित है।"
+            }
+          ],
+          "reference_indexes": [
+            0,
+            4
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "खरीदने से पहले जरूरी बातें:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "सच्चाई जांचें: हमेशा ओरिजिनल वेबसाइट या पर आधिकारिक स्टोर से ही खरीदें ताकि नकली प्रोडक्ट से बच सकें।",
+              "snippet_links": [
+                {
+                  "link": "https://www.amazon.in"
+                }
+              ]
+            },
+            {
+              "snippet": "लैब रिपोर्ट: सुनिश्चित करें कि प्रोडक्ट 'Trustified' या 'Labdoor' से प्रमाणित हो।",
+              "reference_indexes": [
+                0
+              ]
+            },
+            {
+              "snippet": "बजट टिप: ₹2000 के अंदर 1 किलो का अच्छा फ्लेवर्ड ब्रांडेड प्रोटीन ढूंढना मुश्किल होता है, इसलिए शुद्धता के लिए 500 ग्राम का अच्छा पैक या अनफ्लेवर्ड रॉ व्हे चुनें।"
+            }
+          ],
+          "reference_indexes": [
+            0,
+            3
+          ]
+        }
+      ],
+      "references": [
+        {
+          "index": 0,
+          "title": "Best Whey Protein Under ₹2000 in India (2026) - ValueLens",
+          "link": "https://valuelens.in/best-whey-protein-under-2000-india",
+          "snippet": "Sparkfusion Fusion Whey Protein * 69% protein content. * ₹3.86 per gram of protein. ... Nakpro Gold combines whey protein concentrate and whey protein isolate, mak...",
+          "source": "valuelens.in",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://valuelens.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJWkl0cV1eUTLM7J_VttRk8UX75ujpNzcm-Yg1bQLCni3Dr8pE_f5Lg8I7lJcY8DWMpdd5bg2bPoZ5ZZU63lhJf7OB0_8cAUDb-ClF"
+        },
+        {
+          "index": 1,
+          "title": "Best Whey Protein Under ₹2000 in India (2026)–Budget Options",
+          "link": "https://musclexplode.in/best-whey-protein-under-2000-india/",
+          "snippet": "Which is the best whey protein under ₹2000 in India? * 👉 👉 🔥 Check Latest Whey Protein Deals on Amazon * ⚡ Quick Answer (Featured Snippet Optimized) 👉 Best Whe...",
+          "source": "musclexplode.in",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://musclexplode.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVCGZPz3q90UTvDGcrT_3GgRouP5SMjmXoEhBRYuFAqOmI5e8n8OPdJcXJa7Vgf8VP0T5VfkIGzeRQCfcfpQBHxt_ZJV7mwyj78gry"
+        },
+        {
+          "index": 2,
+          "title": "Buy Best Whey Protein in Affordable Price - nakpro nutrition",
+          "link": "https://nakpro.com/collections/whey-protein-powder?srsltid=AU7gw4XES1Wfj1bvyOEzTJAsknfoC0fW2mjmhFDxUDxVm1buYD2Qvian",
+          "snippet": "Why Buy Whey Protein Supplement Online from Nakpro India? Nakpro is a trusted and affordable brand offering the best whey protein powder for fitness enthusiasts an...",
+          "source": "nakpro nutrition",
+          "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nakpro.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS0_I2xsVnpg7Wg-lWp5ZVKfad6Br6XrbIeg5WnIsH4_FCvFIswipXaOGBwbSs0uEqfNskH-1FDhFd5voY79hu7Y6bcwP511Qk3Yc_"
+        },
+        {
+          "index": 3,
+          "title": "भारत में ₹2000 से कम कीमत वाले सर्वश्रेष्ठ व्हे प्रोटीन (2026)",
+          "link": "https://translate.google.com/translate?u=https://musclexplode.in/best-whey-protein-under-2000-india/&hl=hi&sl=en&tl=hi&client=sge",
+          "snippet": "🏁 अंतिम निर्णय यदि आपका बजट ₹2000 से कम है: 🥇 मसलब्लेज़ व्हे प्रोटीन → सर्वश्रेष्ठ 🥈 बिग मसल्स व्हे प्रोटीन → सबसे किफायती विकल्प 🥉 यथावत व्हे प्रोटीन → सर्वश्...",
+          "source": "musclexplode.in",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://musclexplode.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBaIHwlxEXwfJ_5LdsRDOrVTWOU3ifF5ET5FU6Xx33XziTMYYJdM5FyHsF_E9uWdU98ccVSouaVw127VnYEYrDN_5VFIuF_N5aK5_S"
+        },
+        {
+          "index": 4,
+          "title": "Buy Whey Protein in India 2026 | Original Products",
+          "link": "https://nutrabay.com/product-category/bodybuilding/proteins/whey-proteins/",
+          "snippet": "Buy Whey Protein Which is the Best Whey Protein Supplement? Here are some of the best whey protein supplements recommended by professional athletes and bodybuilder...",
+          "source": "Nutrabay",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://nutrabay.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-eW2gjgcmaR6bCpHLYm3vC0DBI98uc_j6eiCJRFlkt_BM_o99bgXj2BKJA7uKTZGTxImCgwFkPNtM-RRdLpLlPOOG41SR4nvrF_BZ"
+        }
+      ]
+    }
+  }
+}

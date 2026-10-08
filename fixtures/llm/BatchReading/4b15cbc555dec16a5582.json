@@ -1,0 +1,66 @@
+{
+  "readings": [
+    {
+      "answer_id": "q3|copilot|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Gainz4Ever",
+          "stance": "recommended",
+          "quote": "Gainz4Ever Whey Protein एक भरोसेमंद विकल्प है।"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Gainz4Ever",
+          "product": "Mass Gainer",
+          "attribute": "other",
+          "value": "कैलोरी अधिक होती हैं",
+          "quote": "Gainz4Ever का Mass Gainer भी उपयोगी है, जिसमें कैलोरी अधिक होती हैं"
+        }
+      ]
+    },
+    {
+      "answer_id": "q3|copilot|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "Choose MuscleBlaze Beginner’s Whey if you want the simplest, gentlest start."
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "recommended",
+          "quote": "Choose Nutrabay Gold Vital Whey if you want better digestion and recovery."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "Asitis ATOM Beginners Whey 1 | 25g | Yes | Minimal | Higher protein beginners"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "MuscleBlaze",
+          "product": "Beginner’s Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "12g",
+          "quote": "MuscleBlaze Beginner’s Whey 1 | 12g"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "Beginner’s Whey",
+          "attribute": "sugar_g",
+          "value": "no sugar",
+          "quote": "Vitamins, no sugar"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "ATOM Beginners Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "Asitis ATOM Beginners Whey 1 | 25g"
+        }
+      ]
+    }
+  ]
+}

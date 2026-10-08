@@ -1,0 +1,27 @@
+{
+  "status": "approved",
+  "approved_on": "2026-10-06",
+  "notes": "Discovered from google_autocomplete + People Also Ask (Google India), buying-intent scored, pairs revised for intent diversity. from_search=false means the text was translated, not observed in search data.",
+  "questions": [
+    {"id": "q1", "intent": "overall leader",
+     "en": {"text": "Which is no 1 whey protein in India?", "from_search": true},
+     "hi": {"text": "नंबर वन व्हे प्रोटीन पाउडर कौन सा है?", "from_search": true},
+     "hinglish": {"text": "sabse achha whey protein kaun sa hai", "from_search": true}},
+    {"id": "q2", "intent": "brand choice",
+     "en": {"text": "best whey protein brands in india", "from_search": true},
+     "hi": {"text": "कौन सी कंपनी का व्हे प्रोटीन सबसे अच्छा है?", "from_search": true},
+     "hinglish": {"text": "kis company ka whey protein sabse accha hai", "from_search": true}},
+    {"id": "q3", "intent": "beginners",
+     "en": {"text": "best whey protein for beginners in India", "from_search": false},
+     "hi": {"text": "भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन कौन सा है", "from_search": false},
+     "hinglish": {"text": "beginners ke liye sabse accha whey protein kaun sa hai", "from_search": false}},
+    {"id": "q4", "intent": "goal: muscle gain",
+     "en": {"text": "which protein powder is best for muscle gain in india", "from_search": true},
+     "hi": {"text": "कौन सा प्रोटीन पाउडर सबसे अच्छा है", "from_search": true},
+     "hinglish": {"text": "kaun sa protein powder best hota hai", "from_search": true}},
+    {"id": "q5", "intent": "budget",
+     "en": {"text": "best whey protein under 2000", "from_search": true},
+     "hi": {"text": "2000 रुपये के अंदर सबसे अच्छा व्हे प्रोटीन कौन सा है", "from_search": false},
+     "hinglish": {"text": "2000 ke andar sabse accha whey protein kaun sa hai", "from_search": false}}
+  ]
+}

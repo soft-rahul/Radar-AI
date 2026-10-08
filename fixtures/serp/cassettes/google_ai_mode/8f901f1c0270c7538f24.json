@@ -1,0 +1,162 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "which protein powder is best for muscle gain in india",
+      "location": "Mumbai, Maharashtra, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:37:42+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb8dea58e864fee764d3",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/WSRLFXKVJVk69PJlI-HXKEvQHndC3jtnHlRomscdzqw/6ac4eb8dea58e864fee764d3.json",
+      "markdown_endpoint": "https://serpapi.com/searches/WSRLFXKVJVk69PJlI-HXKEvQHndC3jtnHlRomscdzqw/6ac4eb8dea58e864fee764d3.md",
+      "created_at": "2026-10-06 12:37:33 UTC",
+      "processed_at": "2026-10-06 12:37:33 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=which+protein+powder+is+best+for+muscle+gain+in+india&udm=50&gl=in&hl=en&uule=w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh",
+      "raw_html_file": "https://serpapi.com/searches/WSRLFXKVJVk69PJlI-HXKEvQHndC3jtnHlRomscdzqw/6ac4eb8dea58e864fee764d3.html",
+      "prettify_html_file": "https://serpapi.com/searches/WSRLFXKVJVk69PJlI-HXKEvQHndC3jtnHlRomscdzqw/6ac4eb8dea58e864fee764d3.prettify",
+      "total_time_taken": 8.58
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "which protein powder is best for muscle gain in india",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Mumbai, Maharashtra, India",
+      "location_used": "Mumbai,Maharashtra,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The \"best\" protein powder for muscle gain in India depends on your budget, digestion, and whether you prefer an isolate, blend, or plant-based option. Selecting a brand with third-party testing (like Trustified or Labdoor certification) ensures purity and label accuracy.",
+        "snippet_highlighted_words": [
+          "depends on your budget, digestion, and whether you prefer an isolate, blend, or plant-based option"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Top-performing protein powders in India are categorized below by your specific needs:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Best Overall Value & Digestion (Best-Seller): MuscleBlaze Biozyme Performance Whey",
+            "list": [
+              {
+                "snippet": "Why it stands out: Specially formulated and clinically tested for Indian dietary digestion, featuring added enhanced absorption enzymes to reduce gas or bloating."
+              },
+              {
+                "snippet": "Protein per serving: ~25g"
+              }
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Best Budget / Raw Option: AS-IT-IS Nutrition Whey Protein Concentrate 80%",
+            "list": [
+              {
+                "snippet": "Why it stands out: Unflavoured, minimally processed, and completely free of artificial sweeteners or fillers. It offers clean protein at a fraction of the cost if you are trying to save money."
+              },
+              {
+                "snippet": "Protein per serving: ~24g to 27g (depending on scoop size)"
+              }
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Best Premium / Zero-Carb Isolate: Isopure Low Carb / Zero Carb 100% Whey Isolate",
+            "list": [
+              {
+                "snippet": "Why it stands out: High price tag, but it is pure isolate with virtually zero carbs, fats, or lactose—ideal for lean muscle gain and sensitive stomachs."
+              },
+              {
+                "snippet": "Protein per serving: ~25g"
+              }
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Best Homegrown Grass-Fed Option: Avvatar 100% Whey Protein",
+            "list": [
+              {
+                "snippet": "Why it stands out: Sourced and manufactured directly in India from fresh cow's milk (grass-fed whey), making it a farm-to-jar transparent product."
+              },
+              {
+                "snippet": "Protein per serving: ~24g to 28g"
+              }
+            ]
+          },
+          {
+            "snippet": "Best International Import: Optimum Nutrition (ON) Gold Standard 100% Whey",
+            "list": [
+              {
+                "snippet": "Why it stands out: The global gold standard for mixability, amino profile, and taste, though you must buy from verified official sellers in India to avoid counterfeits."
+              },
+              {
+                "snippet": "Protein per serving: ~24g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like to narrow this down, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "What is your budget per month or per kg?"
+          },
+          {
+            "snippet": "Do you have any lactose intolerance or digestive issues (bloating/gas) with dairy?"
+          },
+          {
+            "snippet": "Are you looking for veg / plant-based or whey?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "10 Best Whey Protein Powders in India (2026)",
+        "link": "https://www.healthkart.com/connect/10-best-whey-protein-powders-in-india-2026-muscleblaze-truebasics-more-ranked/",
+        "snippet": "For most fitness enthusiasts, the best whey protein powder in India is MuscleBlaze Biozyme Whey Protein Powder. It has a great formulation, relatively high protein...",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdwOq88Frm4IV7grC-oSOOpWz2h6YCmxWeV_WAb5sXnSMGoj4VZR_eI78mOIw_MPzICFt_bLD4CtoqcNqQRTANfDCVWvcs-DlfLaBR"
+      },
+      {
+        "index": 1,
+        "title": "I categorized every popular Indian protein brand so you don't ...",
+        "link": "https://www.reddit.com/r/Fitness_India/comments/1r6dm0d/i_categorized_every_popular_indian_protein_brand/",
+        "snippet": "Isopure Low Carb Isolate Price: ~Rs4990 Why: This is the best of isolates. It is 100% Whey Protein Isolate with virtually zero carbs and zero fillers.",
+        "source": "Reddit",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3gs7-7jSqRJRWfJtwTtoi2CY5pMhbUbsADHkLTcqZTgD5590GsjmGFI1_8O06_Zc4cCCcS2y6wP0CvUiZX6zwnKXlgxMTVoKxwthW"
+      }
+    ],
+    "reconstructed_markdown": "The \"best\" protein powder for muscle gain in India depends on your budget, digestion, and whether you prefer an isolate, blend, or plant\\-based option. Selecting a brand with third\\-party testing \\(like Trustified or Labdoor certification\\) ensures purity and label accuracy. [0] [1]\n\nTop\\-performing protein powders in India are categorized below by your specific needs:\n\n- Best Overall Value & Digestion \\(Best\\-Seller\\): MuscleBlaze Biozyme Performance Whey [1]\n  - Why it stands out: Specially formulated and clinically tested for Indian dietary digestion, featuring added enhanced absorption enzymes to reduce gas or bloating.\n  - Protein per serving: \\~25g\n- Best Budget / Raw Option: AS\\-IT\\-IS Nutrition Whey Protein Concentrate 80% [0]\n  - Why it stands out: Unflavoured, minimally processed, and completely free of artificial sweeteners or fillers. It offers clean protein at a fraction of the cost if you are trying to save money.\n  - Protein per serving: \\~24g to 27g \\(depending on scoop size\\)\n- Best Premium / Zero\\-Carb Isolate: Isopure Low Carb / Zero Carb 100% Whey Isolate [1]\n  - Why it stands out: High price tag, but it is pure isolate with virtually zero carbs, fats, or lactose—ideal for lean muscle gain and sensitive stomachs.\n  - Protein per serving: \\~25g\n- Best Homegrown Grass\\-Fed Option: Avvatar 100% Whey Protein\n  - Why it stands out: Sourced and manufactured directly in India from fresh cow's milk \\(grass\\-fed whey\\), making it a farm\\-to\\-jar transparent product.\n  - Protein per serving: \\~24g to 28g\n- Best International Import: Optimum Nutrition \\(ON\\) Gold Standard 100% Whey\n  - Why it stands out: The global gold standard for mixability, amino profile, and taste, though you must buy from verified official sellers in India to avoid counterfeits.\n  - Protein per serving: \\~24g\n\nIf you'd like to narrow this down, let me know:\n\n- What is your budget per month or per kg?\n- Do you have any lactose intolerance or digestive issues \\(bloating/gas\\) with dairy?\n- Are you looking for veg / plant\\-based or whey?\n\n\n### References\n\n[0] [10 Best Whey Protein Powders in India \\(2026\\)](https://www.google.com/goto?url=CAESrAEB6zswFTv0s4OfO13b7_BqGCOFCB72oYtVfJka_wUpVwfoZym5xc3nZ9hmoEeLOHTqNHTBHIwUMa6KNPk-bMIzOHaPsj7aLQ54wydXPYbcNxmB8Y1scOzDNFQV98EdREOhcEtT8VC46P7T3QTYkhbT8pkcm4qO559q12KQBkJyGu_QpDaWErfvEfJXjx3Kgy3GPg8u7DbEjXOKUXcWZpp3PGrtjF972ZF6UxHP) — For most fitness enthusiasts, the best whey protein powder in India is MuscleBlaze Biozyme Whey Protein Powder. It has a great formulation, relatively high protein...\n\n[1] [I categorized every popular Indian protein brand so you don't ...](https://www.google.com/goto?url=CAESpAEB6zswFbPhEl-u92O-xk6dVEm3UqCNb1LIkaFitEjQ0wwVgOFZlgd-cW5ucv67Kvxh1SzoD3SnFLKb7nbrLBELS40Jmtd_GcnpJw9mqiFFiwYVIErd6PN1NeAWG5kfrzqCkApZkWZzlKN3ZiFe-fkYIsEkFq4tDJVdVBarZRVuE9_tOTqCuVfvm2tStU298qRE_jeODCmj2qcITMIfJMJ1XKZSBQ) — Isopure Low Carb Isolate Price: \\~Rs4990 Why: This is the best of isolates. It is 100% Whey Protein Isolate with virtually zero carbs and zero fillers.\n"
+  }
+}

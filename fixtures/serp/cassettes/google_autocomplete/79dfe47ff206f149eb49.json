@@ -1,0 +1,104 @@
+{
+  "request": {
+    "engine": "google_autocomplete",
+    "params": {
+      "q": "सबसे अच्छा व्हे प्रोटीन",
+      "gl": "in",
+      "hl": "hi"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:02:46+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4e3663d34ddd2fca03b01",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/rGAe81TVsk1emCp8c6H9-OVSoXvFfEmmvL25HHDJr5Y/6ac4e3663d34ddd2fca03b01.json",
+      "markdown_endpoint": "https://serpapi.com/searches/rGAe81TVsk1emCp8c6H9-OVSoXvFfEmmvL25HHDJr5Y/6ac4e3663d34ddd2fca03b01.md",
+      "created_at": "2026-10-06 12:02:46 UTC",
+      "processed_at": "2026-10-06 12:02:46 UTC",
+      "google_autocomplete_url": "https://www.google.com/complete/search?q=%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8&gl=in&hl=hi&client=chrome&dpr=1",
+      "raw_html_file": "https://serpapi.com/searches/rGAe81TVsk1emCp8c6H9-OVSoXvFfEmmvL25HHDJr5Y/6ac4e3663d34ddd2fca03b01.html",
+      "prettify_html_file": "https://serpapi.com/searches/rGAe81TVsk1emCp8c6H9-OVSoXvFfEmmvL25HHDJr5Y/6ac4e3663d34ddd2fca03b01.prettify",
+      "total_time_taken": 0.57
+    },
+    "search_parameters": {
+      "engine": "google_autocomplete",
+      "q": "सबसे अच्छा व्हे प्रोटीन",
+      "gl": "in",
+      "hl": "hi"
+    },
+    "search_information": {
+      "autocomplete_results_state": "Showing completion results."
+    },
+    "suggestions": [
+      {
+        "value": "सबसे अच्छा व्हे प्रोटीन कौन सा है",
+        "relevance": 1250,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88"
+      },
+      {
+        "value": "सबसे अच्छा whey protein कौन सा है",
+        "relevance": 601,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+whey+protein+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88"
+      },
+      {
+        "value": "kis company ka whey protein sabse accha hai",
+        "relevance": 600,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=kis+company+ka+whey+protein+sabse+accha+hai"
+      },
+      {
+        "value": "sabse accha isolate whey protein kaun sa hai",
+        "relevance": 557,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=sabse+accha+isolate+whey+protein+kaun+sa+hai"
+      },
+      {
+        "value": "sabse achcha whey protein powder kaun sa hai",
+        "relevance": 556,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=sabse+achcha+whey+protein+powder+kaun+sa+hai"
+      },
+      {
+        "value": "sabse achha whey protein kaun sa hai",
+        "relevance": 555,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=sabse+achha+whey+protein+kaun+sa+hai"
+      },
+      {
+        "value": "sabse achcha whey protein kis company ka hai",
+        "relevance": 554,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=sabse+achcha+whey+protein+kis+company+ka+hai"
+      },
+      {
+        "value": "sabse accha whey protein brand kaun sa hai",
+        "relevance": 553,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=sabse+accha+whey+protein+brand+kaun+sa+hai"
+      },
+      {
+        "value": "sabse achha whey protein",
+        "relevance": 552,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=sabse+achha+whey+protein"
+      },
+      {
+        "value": "सबसे अच्छा प्रोटीन कौन सा है",
+        "relevance": 551,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88"
+      },
+      {
+        "value": "सबसे अच्छा प्रोटीन",
+        "relevance": 550,
+        "type": "QUERY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=in&hl=hi&q=%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8"
+      }
+    ],
+    "verbatim_relevance": 1300
+  }
+}

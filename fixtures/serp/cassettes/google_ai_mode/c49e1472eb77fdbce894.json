@@ -1,0 +1,118 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "kis company ka whey protein sabse accha hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:35:34+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb0ef0114a82ebc322e1",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/pQiEeQDpk-dofx43lINLrQ4l0O5Q_6kiJaDyuAxC0us/6ac4eb0ef0114a82ebc322e1.json",
+      "markdown_endpoint": "https://serpapi.com/searches/pQiEeQDpk-dofx43lINLrQ4l0O5Q_6kiJaDyuAxC0us/6ac4eb0ef0114a82ebc322e1.md",
+      "created_at": "2026-10-06 12:35:26 UTC",
+      "processed_at": "2026-10-06 12:35:26 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=kis+company+ka+whey+protein+sabse+accha+hai&udm=50&gl=in&hl=en&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/pQiEeQDpk-dofx43lINLrQ4l0O5Q_6kiJaDyuAxC0us/6ac4eb0ef0114a82ebc322e1.html",
+      "prettify_html_file": "https://serpapi.com/searches/pQiEeQDpk-dofx43lINLrQ4l0O5Q_6kiJaDyuAxC0us/6ac4eb0ef0114a82ebc322e1.prettify",
+      "total_time_taken": 7.81
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "kis company ka whey protein sabse accha hai",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Whey protein ka koi ek single \"sabse accha\" brand nahi hota, kyunki sabki zarooratein, budget aur fitness goals alag-alag hote hain. Lekin agar quality, trust, aur lab results ki baat karein, toh India mein kuch brands ko sabse best aur reliable maana jata hai:",
+        "snippet_highlighted_words": [
+          "Whey protein ka koi ek single \"sabse accha\" brand nahi hota"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey: Yeh duniya aur India dono jagah sabse zyada trusted aur popular international brand hai. Iska taste, mixability, aur protein quality benchmark maana jata hai. (Thoda premium/expensive hai).",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "MuscleBlaze (Biozyme ya Whey Gold): Yeh India ka No. 1 homegrown/local brand hai jo international standards ko टक्कर deta hai. Iska Biozyme series specially Indian body ke digestion aur protein absorption ko dhyan mein rakh kar banaya gaya hai. Price ke hisab se value for money hai."
+          },
+          {
+            "snippet": "Avvatar Whey Protein: Yeh India ka pehla aisa brand hai jo 100% fresh cow's milk se direct whey banata hai aur ye ek \"Made in India\" pure vegetarian product hai. Iski quality aur purity kafi acchi hai."
+          },
+          {
+            "snippet": "As-It-Is Nutrition / Nakpro: Agar aapka budget kam hai aur aapko bina kisi artificial flavor ya additives ke ekdum raw/unflavoured whey chahiye, toh yeh budget-friendly aur lab-tested options mein sabse best hain."
+          },
+          {
+            "snippet": "Myprotein (Impact Whey): Yeh ek global British brand hai jo online kafi popular hai aur iske unflavoured/flavoured variants ki quality kafi clean hoti hai."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Aapke liye kaun sa accha rahega? Iske liye yeh dekhein:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Agar budget ki koi problem nahi hai aur best international result chahiye: Optimum Nutrition (ON) lo."
+          },
+          {
+            "snippet": "Agar best Indian brand with great digestion/absorption chahiye: MuscleBlaze (Biozyme) lo."
+          },
+          {
+            "snippet": "Agar kam budget mein pure & lab-tested chahiye: AS-IT-IS ya Nakpro try karo."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Aap mujhe bata sakte hain:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Aapka budget kitna hai?"
+          },
+          {
+            "snippet": "Aapka main goal kya hai (muscle gain, fat loss, ya sirf daily protein gap fill karna)?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Isse main aapko ek exact product ya variant recommend kar sakunga!"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Top 10 Whey Protein Brands In India 2026",
+        "link": "https://www.flavorcatalyst.com/insights/top-10-whey-protein-brands-in-india/",
+        "snippet": "Optimum Nutrition Gold Standard 100% Whey Type: Whey isolate + concentrate + peptide blend. Protein: 24 g per 30 g scoop. Approx price: ₹2,800–3,500 per kg.",
+        "source": "Flavor Catalystz",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.flavorcatalyst.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNtEo-4LDsuB-yNRYVG3emW4Cm0_cNeps4CP2C9Pj25PB75gPB0TsuJPsFCg04Rhx0OJeStYp9_j5zkDyq-5M2khr6OkGB9HhPDsq1"
+      }
+    ],
+    "reconstructed_markdown": "Whey protein ka koi ek single \"sabse accha\" brand nahi hota, kyunki sabki zarooratein, budget aur fitness goals alag\\-alag hote hain. Lekin agar quality, trust, aur lab results ki baat karein, toh India mein kuch brands ko sabse best aur reliable maana jata hai:\n\n- Optimum Nutrition \\(ON\\) Gold Standard 100% Whey: Yeh duniya aur India dono jagah sabse zyada trusted aur popular international brand hai. Iska taste, mixability, aur protein quality benchmark maana jata hai. \\(Thoda premium/expensive hai\\). [0]\n- MuscleBlaze \\(Biozyme ya Whey Gold\\): Yeh India ka No. 1 homegrown/local brand hai jo international standards ko टक्कर deta hai. Iska Biozyme series specially Indian body ke digestion aur protein absorption ko dhyan mein rakh kar banaya gaya hai. Price ke hisab se value for money hai.\n- Avvatar Whey Protein: Yeh India ka pehla aisa brand hai jo 100% fresh cow's milk se direct whey banata hai aur ye ek \"Made in India\" pure vegetarian product hai. Iski quality aur purity kafi acchi hai.\n- As\\-It\\-Is Nutrition / Nakpro: Agar aapka budget kam hai aur aapko bina kisi artificial flavor ya additives ke ekdum raw/unflavoured whey chahiye, toh yeh budget\\-friendly aur lab\\-tested options mein sabse best hain.\n- Myprotein \\(Impact Whey\\): Yeh ek global British brand hai jo online kafi popular hai aur iske unflavoured/flavoured variants ki quality kafi clean hoti hai.\n\nAapke liye kaun sa accha rahega? Iske liye yeh dekhein:\n\n- Agar budget ki koi problem nahi hai aur best international result chahiye: Optimum Nutrition \\(ON\\) lo.\n- Agar best Indian brand with great digestion/absorption chahiye: MuscleBlaze \\(Biozyme\\) lo.\n- Agar kam budget mein pure & lab\\-tested chahiye: AS\\-IT\\-IS ya Nakpro try karo.\n\nAap mujhe bata sakte hain:\n\n- Aapka budget kitna hai?\n- Aapka main goal kya hai \\(muscle gain, fat loss, ya sirf daily protein gap fill karna\\)?\n\nIsse main aapko ek exact product ya variant recommend kar sakunga\\!\n\n\n### References\n\n[0] [Top 10 Whey Protein Brands In India 2026](https://www.google.com/goto?url=CAEShwEB6zswFWBqnR-LfYTl_4GSydlgsc0T-nR7u2-BESjfO-3ui3RjhrrT5sYHsaYjnE0aZqYb_UZ80XWeo8EL7KqPxen94qpi7UPJe9L3vXvfQnHsPBx7eKo81MjMy9oevMwZ4x9z8pGT7TprFtKEa889YAFY5cdBAbMBT83PD7ZqQl6DU0Cm3d4) — Optimum Nutrition Gold Standard 100% Whey Type: Whey isolate \\+ concentrate \\+ peptide blend. Protein: 24 g per 30 g scoop. Approx price: ₹2,800–3,500 per kg.\n"
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "which protein powder is best for muscle gain in india",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:38:13+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb946a1f1144dd75040d",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/9AN230xDj0Gau8vzr72HNheqIx2JZE3AK2-ffvEMThc/6ac4eb946a1f1144dd75040d.json",
+      "markdown_endpoint": "https://serpapi.com/searches/9AN230xDj0Gau8vzr72HNheqIx2JZE3AK2-ffvEMThc/6ac4eb946a1f1144dd75040d.md",
+      "created_at": "2026-10-06 12:37:40 UTC",
+      "processed_at": "2026-10-06 12:37:41 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=which+protein+powder+is+best+for+muscle+gain+in+india&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/9AN230xDj0Gau8vzr72HNheqIx2JZE3AK2-ffvEMThc/6ac4eb946a1f1144dd75040d.html",
+      "total_time_taken": 32.82
+    },
+    "search_parameters": {
+      "q": "which protein powder is best for muscle gain in india",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "Whey protein isolate is the best overall choice for muscle gain in India thanks to its high protein percentage, fast absorption, and low lactose content, with whey concentrate as the best value alternative.",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "If your goal is maximum muscle gain, the strongest consensus across the supplied sources is that whey isolate delivers the best protein-per-scoop efficiency and fastest digestion for post‑workout recovery . Product rankings also place MuscleBlaze Raw Whey Isolate 90 among the highest-scoring isolates for Indian buyers seeking lean muscle and low lactose HealthKart .",
+        "snippet_highlighted_words": [
+          "If your goal is maximum muscle gain",
+          "whey isolate",
+          "MuscleBlaze Raw Whey Isolate 90"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "🥇 Best Overall for Muscle Gain: Whey Protein Isolate",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "90%+ protein by weight, significantly higher than concentrate 1 .",
+            "snippet_highlighted_words": [
+              "90%+ protein by weight"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Fastest absorption, ideal immediately after training 1 .",
+            "snippet_highlighted_words": [
+              "Fastest absorption"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Low lactose, suitable for sensitive users 1 .",
+            "snippet_highlighted_words": [
+              "Low lactose"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Top isolate pick: MuscleBlaze Raw Whey Isolate 90 (27g protein per 30g serving) 1 .",
+            "snippet_highlighted_words": [
+              "MuscleBlaze Raw Whey Isolate 90"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Best for: Lifters prioritizing lean muscle, low carbs, and fast recovery."
+      },
+      {
+        "type": "heading",
+        "snippet": "🥈 Best Value Pick: Whey Protein Concentrate",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "~24g protein per 30g scoop at a lower price 1 .",
+            "snippet_highlighted_words": [
+              "24g protein per 30g scoop"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Builds muscle as effectively as isolate when total daily protein is matched 1 .",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Budget leader: AS-IT-IS Whey Concentrate 80% 1 .",
+            "snippet_highlighted_words": [
+              "AS-IT-IS Whey Concentrate 80%"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Best for: Beginners, budget-conscious buyers, and everyday use."
+      },
+      {
+        "type": "heading",
+        "snippet": "🥉 Balanced Option: Whey Blends (Isolate + Concentrate)",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "80–85% protein content, mixing speed and affordability 1 .",
+            "snippet_highlighted_words": [
+              "80–85% protein content"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Works well if the label clearly states blend ratios."
+          },
+          {
+            "snippet": "Example: TrueBasics Clean Whey (72g per 100g) 1 .",
+            "snippet_highlighted_words": [
+              "TrueBasics Clean Whey"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Best for: Users wanting a middle ground between cost and performance."
+      },
+      {
+        "type": "heading",
+        "snippet": "🚀 For Hardgainers: Mass Gainers",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "1,000+ kcal + 40–50g protein per serving 1 .",
+            "snippet_highlighted_words": [
+              "1,000+ kcal + 40–50g protein per serving"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Only useful if you struggle to eat enough calories."
+          },
+          {
+            "snippet": "Not ideal for most lifters because excess calories often add fat."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Best for: Underweight individuals or those with very high training volume."
+      },
+      {
+        "type": "heading",
+        "snippet": "🌱 Vegetarian/Vegan Option: Plant Protein",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "70–80% protein by weight, but lower leucine content 1 .",
+            "snippet_highlighted_words": [
+              "70–80% protein by weight"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Requires 20–30% larger servings to match whey’s muscle-building signal 1 .",
+            "snippet_highlighted_words": [
+              "20–30% larger servings"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Good for lactose-intolerant or vegan users."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Best for: Vegetarian lifters who adjust serving size accordingly."
+      },
+      {
+        "type": "heading",
+        "snippet": "🌙 Nighttime Recovery: Casein",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Slow digestion (6–8 hours) 1 .",
+            "snippet_highlighted_words": [
+              "Slow digestion (6–8 hours)"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Helps reduce overnight muscle breakdown."
+          },
+          {
+            "snippet": "Usually not necessary unless you already meet daily protein targets.",
+            "snippet_highlighted_words": [
+              "not necessary"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Best for: Advanced lifters optimizing nighttime recovery."
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ Quick Comparison Table (Based on 2026 India Rankings)",
+        "level": 2
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "Whey Isolate",
+            "25–30g",
+            "Fast",
+            "Lean muscle, post‑workout",
+            "Buy 1"
+          ],
+          [
+            "Whey Concentrate",
+            "~24g",
+            "Moderate",
+            "Budget muscle gain",
+            "Buy 1"
+          ],
+          [
+            "Whey Blend",
+            "20–27g",
+            "Moderate–Fast",
+            "Balanced needs",
+            "Consider 1"
+          ],
+          [
+            "Mass Gainer",
+            "40–50g + 1000 kcal",
+            "Slow",
+            "Hardgainers",
+            "Buy/Skip by calorie needs 1"
+          ],
+          [
+            "Plant Protein",
+            "18–22g",
+            "Moderate",
+            "Vegans/vegetarians",
+            "Consider 1"
+          ]
+        ],
+        "headers": [
+          "Protein Type",
+          "Protein per Scoop",
+          "Digestion Speed",
+          "Best For",
+          "Verdict (2026)"
+        ],
+        "formatted": [
+          {
+            "protein_type": "Whey Isolate",
+            "protein_per_scoop": "25–30g",
+            "digestion_speed": "Fast",
+            "best_for": "Lean muscle, post‑workout",
+            "verdict_2026": "Buy 1"
+          },
+          {
+            "protein_type": "Whey Concentrate",
+            "protein_per_scoop": "~24g",
+            "digestion_speed": "Moderate",
+            "best_for": "Budget muscle gain",
+            "verdict_2026": "Buy 1"
+          },
+          {
+            "protein_type": "Whey Blend",
+            "protein_per_scoop": "20–27g",
+            "digestion_speed": "Moderate–Fast",
+            "best_for": "Balanced needs",
+            "verdict_2026": "Consider 1"
+          },
+          {
+            "protein_type": "Mass Gainer",
+            "protein_per_scoop": "40–50g + 1000 kcal",
+            "digestion_speed": "Slow",
+            "best_for": "Hardgainers",
+            "verdict_2026": "Buy/Skip by calorie needs 1"
+          },
+          {
+            "protein_type": "Plant Protein",
+            "protein_per_scoop": "18–22g",
+            "digestion_speed": "Moderate",
+            "best_for": "Vegans/vegetarians",
+            "verdict_2026": "Consider 1"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ Best Specific Products (From India 2026 Rankings)",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Based on expert scoring and label analysis HealthKart :",
+        "reference_indexes": [
+          1
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Best overall whey: MuscleBlaze Biozyme Whey Protein",
+            "snippet_highlighted_words": [
+              "Best overall whey",
+              "MuscleBlaze Biozyme Whey Protein"
+            ]
+          },
+          {
+            "snippet": "Best isolate: MuscleBlaze Raw Whey Isolate 90",
+            "snippet_highlighted_words": [
+              "Best isolate",
+              "MuscleBlaze Raw Whey Isolate 90"
+            ]
+          },
+          {
+            "snippet": "Best budget whey: AS-IT-IS Whey Concentrate 80%",
+            "snippet_highlighted_words": [
+              "Best budget whey",
+              "AS-IT-IS Whey Concentrate 80%"
+            ]
+          },
+          {
+            "snippet": "Best international option: Optimum Nutrition Gold Standard Whey",
+            "snippet_highlighted_words": [
+              "Best international option",
+              "Optimum Nutrition Gold Standard Whey"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "How to Choose the Right One for You",
+        "level": 2,
+        "snippet_highlighted_words": [
+          "You"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Use this quick guide:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "You want fastest muscle gain → Whey Isolate",
+            "snippet_highlighted_words": [
+              "You want fastest muscle gain"
+            ]
+          },
+          {
+            "snippet": "You want best value → Whey Concentrate",
+            "snippet_highlighted_words": [
+              "You want best value"
+            ]
+          },
+          {
+            "snippet": "You are vegan/lactose-intolerant → Plant Protein",
+            "snippet_highlighted_words": [
+              "You are vegan/lactose-intolerant"
+            ]
+          },
+          {
+            "snippet": "You struggle to gain weight → Mass Gainer",
+            "snippet_highlighted_words": [
+              "You struggle to gain weight"
+            ]
+          },
+          {
+            "snippet": "You train late at night → Casein",
+            "snippet_highlighted_words": [
+              "You train late at night"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you want, I can help you choose the best protein based on your budget, diet, and training goal.",
+        "snippet_highlighted_words": [
+          "budget",
+          "diet",
+          "training goal"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Best Protein Powder for Muscle Gain in India (2026)",
+        "link": "https://imuscles.in/blogs/articles/best-protein-powder-for-muscle-gain-in-india",
+        "snippet": "Best protein powder for muscle gain in India, 2026: whey isolate vs concentrate vs mass gainer ranked by protein-per-scoop, cost, and verdict.",
+        "source": "imuscles.in"
+      },
+      {
+        "index": 1,
+        "title": "10 Best Whey Protein Powders in India (2026): MuscleBlaze, TrueBasics ...",
+        "link": "https://www.healthkart.com/connect/10-best-whey-protein-powders-in-india-2026-muscleblaze-truebasics-more-ranked/",
+        "snippet": "Expert-ranked whey protein powders in India compared by purity, form, and price per gram. Top picks across concentrate, isolate, and hydrolysate for every goal.",
+        "source": "HealthKart"
+      },
+      {
+        "index": 2,
+        "title": "Which Is the Best Protein Powder in India: 2026 Picks",
+        "link": "https://www.thescienceofgoodhealth.com/blogs/news/which-is-the-best-protein-powder-in-india",
+        "snippet": "Discover the best protein powder in India for muscle gain, recovery, taste, and value. Find top brands and expert tips to choose the right supplement.",
+        "source": "thescienceofgoodhealth.com"
+      },
+      {
+        "index": 3,
+        "title": "Best Whey Protein in India 2026 — Top 10 Ranked by Value & Quality",
+        "link": "https://proteinpaisa.com/blog/best-whey-protein-india-2026/",
+        "snippet": "The best whey protein in India for most people is either Nakpro Impact for budget or Avvatar Performance for quality. Compare all products side by side on our Whey Protein Comparison page and use the Protein Per Rupee tool to find your best value.",
+        "source": "proteinpaisa.com"
+      },
+      {
+        "index": 4,
+        "title": "Best Protein Powder in India (2026): What Actually Works",
+        "link": "https://proathlix.com/blogs/nutrition/best-protein-powder-in-india-2026-guide",
+        "snippet": "What is the Best Protein Powder in India in 2026? The best protein powder in India in 2026 depends on your goal — muscle gain, fat loss, or general fitness. But for most people, the best choice is: A high-quality whey protein that is easy to digest, cleanly formulated, and consistent in results.",
+        "source": "proathlix.com"
+      },
+      {
+        "index": 5,
+        "title": "10 Best Protein Powders in India– Ranked by Quality",
+        "link": "https://nutrabay.com/magazine/top-10-protein-powders-in-india-ranked",
+        "snippet": "In the end, the “best” protein powder depends on your goals, digestion, and budget. Whichever you pick, always ensure it’s authentic and purchased from trusted sellers like Nutrabay.com, so your investment actually fuels your fitness, not fake powders.",
+        "source": "NUTRABAY™"
+      },
+      {
+        "index": 6,
+        "title": "Best Whey Protein in India 2026 — 18 Products Reviewed, Honest Verdicts",
+        "link": "https://readthisfirst.in/best/best-whey-protein-india/",
+        "snippet": "18 whey proteins reviewed with full specs, protein-per-rupee table, amino spiking red flags, and honest brand ownership disclosures. AS-IT-IS ONE wins for budget. The Whole Truth wins for clean label. Biozyme wins for certified flavoured. BigMuscles named “worst whey” by peer-reviewed study.",
+        "source": "readthisfirst.in"
+      },
+      {
+        "index": 7,
+        "title": "Top 10 Protein Powder Brands in India (2026 Updated List)",
+        "link": "https://getmymettle.com/blogs/health/top-10-protein-powder-brands-in-india",
+        "snippet": "Discover the top 10 protein powder brands in India for 2026. Compare whey, plant, and budget-friendly options for muscle gain, fitness, and daily nutrition.",
+        "source": "GetMyMettle"
+      },
+      {
+        "index": 8,
+        "title": "Top 10 Best Protein Powder in India for Fitness – Gentle Beast",
+        "link": "https://www.gentlebeast.in/blogs/info/top-10-best-protein-powder-in-india",
+        "snippet": "Discover the top 10 best protein powder in India based on quality, ingredients, price, and results. A complete guide to choosing the right protein.",
+        "source": "www.gentlebeast.in"
+      },
+      {
+        "index": 9,
+        "title": "Best Protein Powder for Daily Use in India | SparkFusion",
+        "link": "https://sparkfusion.in/blogs/proteins/best-plant-protein-powder-india-2026",
+        "snippet": "Looking for the best protein powder in India? Compare whey, vegan, and plant proteins for muscle gain, fitness, and recovery.",
+        "source": "sparkfusion.in"
+      }
+    ]
+  }
+}

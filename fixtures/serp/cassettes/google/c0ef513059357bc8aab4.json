@@ -1,0 +1,454 @@
+{
+  "request": {
+    "engine": "google",
+    "params": {
+      "q": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:39:59+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebdaf5c2f850cc55bc65",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Ev4N35LGkfL2uqIsOMn6qlJq_pYeSEujI8gDy8JLo3Q/6ac4ebdaf5c2f850cc55bc65.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Ev4N35LGkfL2uqIsOMn6qlJq_pYeSEujI8gDy8JLo3Q/6ac4ebdaf5c2f850cc55bc65.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/Ev4N35LGkfL2uqIsOMn6qlJq_pYeSEujI8gDy8JLo3Q/6ac4ebdaf5c2f850cc55bc65.json_with_pixel_position",
+      "created_at": "2026-10-06 12:38:50 UTC",
+      "processed_at": "2026-10-06 12:38:50 UTC",
+      "google_url": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&oq=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&uule=w+CAIQICILRGVsaGksSW5kaWE&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/Ev4N35LGkfL2uqIsOMn6qlJq_pYeSEujI8gDy8JLo3Q/6ac4ebdaf5c2f850cc55bc65.html",
+      "total_time_taken": 68.31
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "total_results": 127,
+      "time_taken_displayed": 0.73,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Top 10 BEST Whey Protein Under 2000 Rupees",
+        "link": "https://www.youtube.com/watch?v=bJfbnTpkmyk",
+        "thumbnail": "https://serpapi.com/searches/6ac4ebdaf5c2f850cc55bc65/images/yBc-LWtGDjk7qGHHrNaKp2y4PNgCYUlAgJHfxN-HUCA.jpeg",
+        "channel": "COREFITLAB",
+        "duration": "6:10",
+        "platform": "YouTube",
+        "date": "7 May 2026"
+      },
+      {
+        "position": 2,
+        "title": "TOP 10 WHEY PROTEIN UNDER RS 2000 FOR STUDENTS",
+        "link": "https://www.youtube.com/watch?v=0XaxQUWQ6Js",
+        "thumbnail": "https://serpapi.com/searches/6ac4ebdaf5c2f850cc55bc65/images/H5Lgp5O9TEqbcgvBRaHxkPIGZeXX3Hq8Nq6sooVaWOs.jpeg",
+        "channel": "COREFITLAB",
+        "duration": "6:10",
+        "platform": "YouTube",
+        "date": "14 Jun 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQXCsrF8TY4kB0CrI4XI7XkHz0trkWop87iKQ"
+      },
+      {
+        "position": 3,
+        "title": "ONLY 8 BEST Protein Under 2000 Rs | Budget Whey Protein",
+        "link": "https://www.youtube.com/watch?v=SrdtE4tspVQ",
+        "thumbnail": "https://serpapi.com/searches/6ac4ebdaf5c2f850cc55bc65/images/rmQsqAmuUS-6TGZnUPVweppyKx0numSu6lOTeCzXEMc.jpeg",
+        "channel": "COREFITLAB",
+        "duration": "4:26",
+        "platform": "YouTube",
+        "date": "9 Jun 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT0JiFHGeM08psELU_NN8I4mYjdQ9JqAh_TWg"
+      },
+      {
+        "position": 4,
+        "title": "Student \"BUDGET BEST\" Whey Protein Under 2000",
+        "link": "https://www.youtube.com/watch?v=anaP-_RQaCk",
+        "thumbnail": "https://serpapi.com/searches/6ac4ebdaf5c2f850cc55bc65/images/jJQ8KWx0FkpqbYRPf47o8nU5jFoRKHPpgtbHHLj5ZTQ.jpeg",
+        "channel": "COREFITLAB",
+        "duration": "8:14",
+        "platform": "YouTube",
+        "date": "27 May 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcToKN7flFOw4_hICzvR2uxt2kDV9HF-5LrBUw"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "सबसे बेस्ट व्हे प्रोटीन कौन सा है?",
+        "type": "ai_overview",
+        "page_token": "XF5BXHicHdFRbpswGABg7TJ9bKCEVI0UVQVsChqOYmND_5cK7CSkNglJSAy87S67zW6w06zaAb6n79dvczjqvz_-NH3fXZezmbX2cX867c32UZ7aWXUdj3ImK2PqSurl4nnhvu7kCp2TMLwlwYZ3nYiowxzDmBZ9zRtKxQur2sTCEbytSeZEqIGUqcef9ABo0BVORvGk0pq7F3gXc-HSex3jQ9aaMxWwy3lvVSuuIqYXogWuW2FhUhhcbLkgPNcN3hbiq9ZA1igNN8aMIkoL4r35DJGRRk1fIbJWHkzMgK3K4Fy6EBYxLhhvpszxr0x3bRU1d-nic5YLLfWHX8TDhmHkMa-5kQkfVISGrHWzulSQfQUdYa77bSvgdJ1xRcCZz-mEf2aRumRlN7IpBTEFd4bBJ0U65mhjpfMSKGNudegSTpOSxWJBC2yVxgSij0GWdOIRQIHA5_mmSjRG0kt8MJkDWvUE4YmXKhdFtyb6OyF_G-C940r7jmjlw07eV97D_6TV567tl93ltP8HZlqhGg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XF5BXHicHdFRbpswGABg7TJ9bKCEVI0UVQVsChqOYmND_5cK7CSkNglJSAy87S67zW6w06zaAb6n79dvczjqvz_-NH3fXZezmbX2cX867c32UZ7aWXUdj3ImK2PqSurl4nnhvu7kCp2TMLwlwYZ3nYiowxzDmBZ9zRtKxQur2sTCEbytSeZEqIGUqcef9ABo0BVORvGk0pq7F3gXc-HSex3jQ9aaMxWwy3lvVSuuIqYXogWuW2FhUhhcbLkgPNcN3hbiq9ZA1igNN8aMIkoL4r35DJGRRk1fIbJWHkzMgK3K4Fy6EBYxLhhvpszxr0x3bRU1d-nic5YLLfWHX8TDhmHkMa-5kQkfVISGrHWzulSQfQUdYa77bSvgdJ1xRcCZz-mEf2aRumRlN7IpBTEFd4bBJ0U65mhjpfMSKGNudegSTpOSxWJBC2yVxgSij0GWdOIRQIHA5_mmSjRG0kt8MJkDWvUE4YmXKhdFtyb6OyF_G-C940r7jmjlw07eV97D_6TV567tl93ltP8HZlqhGg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVTm9TRVo0U0hkcFdTMUNaemhQVEdweFprZERORnBGUVZVMFYxWlJaamN0T0dWUVkzaGlTa1oxVm1jM1lUSnpaMEpKVldkd1YySXhkSHBUUTJ0a1dFMVdNSGwxYVhGamRXUm1iR04yT0U5RmNVczBRMEZHUmtsMlFSSVhTR1Y2UldGd2RrRk5aRFl4Y1hSelVEWlpXRVo1VVRRYUlrRkVjM0k1WmxGRmNFUXlhamRNYTFsNmMzaGpOSEZzZW1OVU5GRnpRbkZwV0VFIiwiZmN2IjoiMyIsImVpIjoiSGV6RWFwdkFNZDYxcXRzUDZZWEZ5UTQiLCJxYyI6ImMtTXlTVlF3TWpBd1VNaE9WVWpNUzBrc1VpaE9UQ29Hc3BPVE14SVZ5ak5TS3hVS2l2SkxValB6RkxJVFNfT0FzZ29aaVprQ3lyVzZvc3oyaXhpWk1qSUIiLCJxdWVzdGlvbiI6IuCkuOCkrOCkuOClhyDgpKzgpYfgpLjgpY3gpJ8g4KS14KWN4KS54KWHIOCkquCljeCksOCli+Ckn+ClgOCkqCDgpJXgpYzgpKgg4KS44KS+IOCkueCliD8iLCJsayI6ImM1TUtmN0JreDRNbGEwRGswbllGRUd0cE81alQtMkRKZkNCX0s1aTFFeUs1Q3N6WjhHQnBOMUR5d2RLR0IwdFdBRVduUGxqYUEyRUJUZHFuQUZiZEFRQSIsImJzIjoiYzcyUXp3cEJRUlRHbS0yc3JPOXFOckptSVR1UGdaWEl4ZDJnUzlsS0NXRnBRNUk2SXduZDFDMDJQSVFYT0lfaXpKbUZVa3JFWnZyT3Y5XzV6c2hReUN6Q0NXRm5YdDFYUnVrLUJ4T0VKY1VocTdNdGJqa0lVSS1vaUxxRHNLSHNGUFhZS2lKZEZIY1Awb21ja19rUlc4NkZ6Rk1Xb2N2NGdGbmM5UVp5U3lDRUljTEtUcjZ3bjNLU242MlFDeUY5aEQydkNSQ0EyZzU4ZVZjOWZVZ1BZY2FBdWQzOGxlR1lFeTI2elpacS1QV1c2OVZVbzk0dXViNGk1ZFZLWHNHSXFsSHlKbVFsVG1OcmhLdmxQT3hOT1FkOC1lVzlfenphNG9tSHdRYkdFUUhUaWFwVF9zLXFpTGdEIiwiaWQiOiJmY19IZXpFYXB2QU1kNjFxdHNQNllYRnlRNF85In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVTm9TRVo0U0hkcFdTMUNaemhQVEdweFprZERORnBGUVZVMFYxWlJaamN0T0dWUVkzaGlTa1oxVm1jM1lUSnpaMEpKVldkd1YySXhkSHBUUTJ0a1dFMVdNSGwxYVhGamRXUm1iR04yT0U5RmNVczBRMEZHUmtsMlFSSVhTR1Y2UldGd2RrRk5aRFl4Y1hSelVEWlpXRVo1VVRRYUlrRkVjM0k1WmxGRmNFUXlhamRNYTFsNmMzaGpOSEZzZW1OVU5GRnpRbkZwV0VFIiwiZmN2IjoiMyIsImVpIjoiSGV6RWFwdkFNZDYxcXRzUDZZWEZ5UTQiLCJxYyI6ImMtTXlTVlF3TWpBd1VNaE9WVWpNUzBrc1VpaE9UQ29Hc3BPVE14SVZ5ak5TS3hVS2l2SkxValB6RkxJVFNfT0FzZ29aaVprQ3lyVzZvc3oyaXhpWk1qSUIiLCJxdWVzdGlvbiI6IuCkuOCkrOCkuOClhyDgpKzgpYfgpLjgpY3gpJ8g4KS14KWN4KS54KWHIOCkquCljeCksOCli%2BCkn%2BClgOCkqCDgpJXgpYzgpKgg4KS44KS%2BIOCkueCliD8iLCJsayI6ImM1TUtmN0JreDRNbGEwRGswbllGRUd0cE81alQtMkRKZkNCX0s1aTFFeUs1Q3N6WjhHQnBOMUR5d2RLR0IwdFdBRVduUGxqYUEyRUJUZHFuQUZiZEFRQSIsImJzIjoiYzcyUXp3cEJRUlRHbS0yc3JPOXFOckptSVR1UGdaWEl4ZDJnUzlsS0NXRnBRNUk2SXduZDFDMDJQSVFYT0lfaXpKbUZVa3JFWnZyT3Y5XzV6c2hReUN6Q0NXRm5YdDFYUnVrLUJ4T0VKY1VocTdNdGJqa0lVSS1vaUxxRHNLSHNGUFhZS2lKZEZIY1Awb21ja19rUlc4NkZ6Rk1Xb2N2NGdGbmM5UVp5U3lDRUljTEtUcjZ3bjNLU242MlFDeUY5aEQydkNSQ0EyZzU4ZVZjOWZVZ1BZY2FBdWQzOGxlR1lFeTI2elpacS1QV1c2OVZVbzk0dXViNGk1ZFZLWHNHSXFsSHlKbVFsVG1OcmhLdmxQT3hOT1FkOC1lVzlfenphNG9tSHdRYkdFUUhUaWFwVF9zLXFpTGdEIiwiaWQiOiJmY19IZXpFYXB2QU1kNjFxdHNQNllYRnlRNF85In0%3D"
+      },
+      {
+        "question": "नंबर वन व्हे प्रोटीन पाउडर कौन सा है?",
+        "type": "ai_overview",
+        "page_token": "4XdJSXicHdFdjpNAAADgeJl93AKFaps0RgpDQaE7_zAvZjpQ2J3hx4WUwpt38VRewGtoPMKX7-cv89rp3x_-NNM0jIfNZp7n57rva1M9q77dyHHp1EZJY65S6cPu487-fFPH8F2dTnflQzoMLEAWAebbBVAPBXrBeTlTVrZqLWOhBRJRbZUddCuwt6HZv0jSDMW2d5HD_KsjssKAhbYe5SF8YNOvgj7eaAD6fI09ru0RgcQtOGM8YokCzTZdzY6_JROl7F51aFDRfiVO45QtI7QroQK9J3lDIU0ABgLzrnaLdn9JmUHYKhy5li0yn1zijBNmiSu4iCBBd2VQTNbmBzXakoBNaC0cFKBR5smQL3aDz2xINZyu5y9LFQGhVn-mbQkvoHdSkD1kONoVQTl5tbUy_tes84tLzgYaJgKdRSKtJvvnX3KLWTgCDQkTTsAwUe3ZmR_nOGI7xMFcapCJoHioHK00EIKHwqMEyliDUG1jT5jETsPBqTq6QlJbDNtTue0n3JWn3PEApxlPQfh0U_fj9ul_4PH7rZ0Ow3tf_wU5GKlo",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4XdJSXicHdFdjpNAAADgeJl93AKFaps0RgpDQaE7_zAvZjpQ2J3hx4WUwpt38VRewGtoPMKX7-cv89rp3x_-NNM0jIfNZp7n57rva1M9q77dyHHp1EZJY65S6cPu487-fFPH8F2dTnflQzoMLEAWAebbBVAPBXrBeTlTVrZqLWOhBRJRbZUddCuwt6HZv0jSDMW2d5HD_KsjssKAhbYe5SF8YNOvgj7eaAD6fI09ru0RgcQtOGM8YokCzTZdzY6_JROl7F51aFDRfiVO45QtI7QroQK9J3lDIU0ABgLzrnaLdn9JmUHYKhy5li0yn1zijBNmiSu4iCBBd2VQTNbmBzXakoBNaC0cFKBR5smQL3aDz2xINZyu5y9LFQGhVn-mbQkvoHdSkD1kONoVQTl5tbUy_tes84tLzgYaJgKdRSKtJvvnX3KLWTgCDQkTTsAwUe3ZmR_nOGI7xMFcapCJoHioHK00EIKHwqMEyliDUG1jT5jETsPBqTq6QlJbDNtTue0n3JWn3PEApxlPQfh0U_fj9ul_4PH7rZ0Ow3tf_wU5GKlo",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVTm9TRVo0U0hkcFdTMUNaemhQVEdweFprZERORnBGUVZVMFYxWlJaamN0T0dWUVkzaGlTa1oxVm1jM1lUSnpaMEpKVldkd1YySXhkSHBUUTJ0a1dFMVdNSGwxYVhGamRXUm1iR04yT0U5RmNVczBRMEZHUmtsMlFSSVhTR1Y2UldGd2RrRk5aRFl4Y1hSelVEWlpXRVo1VVRRYUlrRkVjM0k1WmxGRmNFUXlhamRNYTFsNmMzaGpOSEZzZW1OVU5GRnpRbkZwV0VFIiwiZmN2IjoiMyIsImVpIjoiSGV6RWFwdkFNZDYxcXRzUDZZWEZ5UTQiLCJxYyI6ImMtTXlTVlF3TWpBd1VNaE9WVWpNUzBrc1VpaE9UQ29Hc3BPVE14SVZ5ak5TS3hVS2l2SkxValB6RkxJVFNfT0FzZ29aaVprQ3lyVzZvc3oyaXhpWk1qSUIiLCJxdWVzdGlvbiI6IuCkqOCkguCkrOCksCDgpLXgpKgg4KS14KWN4KS54KWHIOCkquCljeCksOCli+Ckn+ClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSV4KWM4KSoIOCkuOCkviDgpLngpYg/IiwibGsiOiJjNU15ZTdCa3hZTWxUUS1Xckhtd1pJUENneVZiZ1h3d3RiVDN3WktkRDVhMkF6bXJ3SndORDVaMlAxZ3lfOEhTQnFBU0FBIiwiYnMiOiJjNzJRendwQlFSVEdtLTJzck85cU5ySm1JVHVQZ1pYSXhkMmdTOWxLQ1dGcFE1STZJd25kMUMwMlBJUVhPSV9pekptRlVrckVadnJPdjlfNXpzaFF5Q3pDQ1dGblh0MVhSdWstQnhPRUpjVWhxN010YmprSVVJLW9pTHFEc0tIc0ZQWFlLaUpkRkhjUDBvbWNrX2tSVzg2RnpGTVdvY3Y0Z0ZuYzlRWnlTeUNFSWNMS1RyNnduM0tTbjYyUUN5RjloRDJ2Q1JDQTJnNThlVmM5ZlVnUFljYUF1ZDM4bGVHWUV5MjZ6WlpxLVBXVzY5VlVvOTR1dWI0aTVkVktYc0dJcWxIeUptUWxUbU5yaEt2bFBPeE5PUWQ4LWVXOV96emE0b21Id1FiR0VRSFRpYXBUX3MtcWlMZ0QiLCJpZCI6ImZjX0hlekVhcHZBTWQ2MXF0c1A2WVhGeVE0XzkifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVTm9TRVo0U0hkcFdTMUNaemhQVEdweFprZERORnBGUVZVMFYxWlJaamN0T0dWUVkzaGlTa1oxVm1jM1lUSnpaMEpKVldkd1YySXhkSHBUUTJ0a1dFMVdNSGwxYVhGamRXUm1iR04yT0U5RmNVczBRMEZHUmtsMlFSSVhTR1Y2UldGd2RrRk5aRFl4Y1hSelVEWlpXRVo1VVRRYUlrRkVjM0k1WmxGRmNFUXlhamRNYTFsNmMzaGpOSEZzZW1OVU5GRnpRbkZwV0VFIiwiZmN2IjoiMyIsImVpIjoiSGV6RWFwdkFNZDYxcXRzUDZZWEZ5UTQiLCJxYyI6ImMtTXlTVlF3TWpBd1VNaE9WVWpNUzBrc1VpaE9UQ29Hc3BPVE14SVZ5ak5TS3hVS2l2SkxValB6RkxJVFNfT0FzZ29aaVprQ3lyVzZvc3oyaXhpWk1qSUIiLCJxdWVzdGlvbiI6IuCkqOCkguCkrOCksCDgpLXgpKgg4KS14KWN4KS54KWHIOCkquCljeCksOCli%2BCkn%2BClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSV4KWM4KSoIOCkuOCkviDgpLngpYg%2FIiwibGsiOiJjNU15ZTdCa3hZTWxUUS1Xckhtd1pJUENneVZiZ1h3d3RiVDN3WktkRDVhMkF6bXJ3SndORDVaMlAxZ3lfOEhTQnFBU0FBIiwiYnMiOiJjNzJRendwQlFSVEdtLTJzck85cU5ySm1JVHVQZ1pYSXhkMmdTOWxLQ1dGcFE1STZJd25kMUMwMlBJUVhPSV9pekptRlVrckVadnJPdjlfNXpzaFF5Q3pDQ1dGblh0MVhSdWstQnhPRUpjVWhxN010YmprSVVJLW9pTHFEc0tIc0ZQWFlLaUpkRkhjUDBvbWNrX2tSVzg2RnpGTVdvY3Y0Z0ZuYzlRWnlTeUNFSWNMS1RyNnduM0tTbjYyUUN5RjloRDJ2Q1JDQTJnNThlVmM5ZlVnUFljYUF1ZDM4bGVHWUV5MjZ6WlpxLVBXVzY5VlVvOTR1dWI0aTVkVktYc0dJcWxIeUptUWxUbU5yaEt2bFBPeE5PUWQ4LWVXOV96emE0b21Id1FiR0VRSFRpYXBUX3MtcWlMZ0QiLCJpZCI6ImZjX0hlekVhcHZBTWQ2MXF0c1A2WVhGeVE0XzkifQ%3D%3D"
+      },
+      {
+        "question": "भारत में सबसे अच्छा प्रोटीन पाउडर कौन सा है?",
+        "type": "ai_overview",
+        "page_token": "FNtZWnicHdFNjtowGIBhqb3LLIf8EKoZaVRpEjshIkY49ufEm8rYAU9iIECGBHa9S0_V03TUA7yb5_39x30cu7_fvtth6K-vs9k4js_702nvmmd9OszU9X7UM62c2yrdvS5-LPyfO_2GrmMcn8Z4w_seEuqV_jvdBhYVAbmBX0RF4AvD9VyI_ihEPafCHWqgu41vhUDzqG75BA8dgk9uDfSyScytDF0FDK46hXPjXj4FgrbmeUfFtIGK8CIdSs0NyIeNdZDXEuUL6dGUpv5FMbJohGMGTbhpzaU4RF7h4c8mo7Gs8HLLZKkfUCnRA-ssK9Nx2Lb2TEO6ll_tpjJ3HdjaILMGTDyK8rXqTAh3P61Z_im7qCuBYObbXFW4Zd6UktbOZWsQEy8158tpDTaG2LcmoIsvj0ElblUcbVryCG0zd4aQlASkXwU2lDjPqgAr49FWJeSsU8zqYCpYkpfk6DKSugdl7wcdGKymZVWmsKACj6bDRCb1pCv64ImUAsmIs41adhjpcBlJl6-4N-Xgg11j8rHiL2V96O8qIx-b4_7eZJABRk87fXsLn_7Pffu1Owyv_eW0_wclgLBC",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FNtZWnicHdFNjtowGIBhqb3LLIf8EKoZaVRpEjshIkY49ufEm8rYAU9iIECGBHa9S0_V03TUA7yb5_39x30cu7_fvtth6K-vs9k4js_702nvmmd9OszU9X7UM62c2yrdvS5-LPyfO_2GrmMcn8Z4w_seEuqV_jvdBhYVAbmBX0RF4AvD9VyI_ihEPafCHWqgu41vhUDzqG75BA8dgk9uDfSyScytDF0FDK46hXPjXj4FgrbmeUfFtIGK8CIdSs0NyIeNdZDXEuUL6dGUpv5FMbJohGMGTbhpzaU4RF7h4c8mo7Gs8HLLZKkfUCnRA-ssK9Nx2Lb2TEO6ll_tpjJ3HdjaILMGTDyK8rXqTAh3P61Z_im7qCuBYObbXFW4Zd6UktbOZWsQEy8158tpDTaG2LcmoIsvj0ElblUcbVryCG0zd4aQlASkXwU2lDjPqgAr49FWJeSsU8zqYCpYkpfk6DKSugdl7wcdGKymZVWmsKACj6bDRCb1pCv64ImUAsmIs41adhjpcBlJl6-4N-Xgg11j8rHiL2V96O8qIx-b4_7eZJABRk87fXsLn_7Pffu1Owyv_eW0_wclgLBC",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVTm9TRVo0U0hkcFdTMUNaemhQVEdweFprZERORnBGUVZVMFYxWlJaamN0T0dWUVkzaGlTa1oxVm1jM1lUSnpaMEpKVldkd1YySXhkSHBUUTJ0a1dFMVdNSGwxYVhGamRXUm1iR04yT0U5RmNVczBRMEZHUmtsMlFSSVhTR1Y2UldGd2RrRk5aRFl4Y1hSelVEWlpXRVo1VVRRYUlrRkVjM0k1WmxGRmNFUXlhamRNYTFsNmMzaGpOSEZzZW1OVU5GRnpRbkZwV0VFIiwiZmN2IjoiMyIsImVpIjoiSGV6RWFwdkFNZDYxcXRzUDZZWEZ5UTQiLCJxYyI6ImMtTXlTVlF3TWpBd1VNaE9WVWpNUzBrc1VpaE9UQ29Hc3BPVE14SVZ5ak5TS3hVS2l2SkxValB6RkxJVFNfT0FzZ29aaVprQ3lyVzZvc3oyaXhpWk1qSUIiLCJxdWVzdGlvbiI6IuCkreCkvuCksOCkpCDgpK7gpYfgpIIg4KS44KSs4KS44KWHIOCkheCkmuCljeCkm+CkviDgpKrgpY3gpLDgpYvgpJ/gpYDgpKgg4KSq4KS+4KSJ4KSh4KSwIOCkleCljOCkqCDgpLjgpL4g4KS54KWIPyIsImxrIjoiYzVOU1RVb3RMbEVvS01vdlNjM01VeWpJTDA5SkxWSUFzakx6VWpJVFFZd01FQXNBIiwiYnMiOiJjNzJRendwQlFSVEdtLTJzck85cU5ySm1JVHVQZ1pYSXhkMmdTOWxLQ1dGcFE1STZJd25kMUMwMlBJUVhPSV9pekptRlVrckVadnJPdjlfNXpzaFF5Q3pDQ1dGblh0MVhSdWstQnhPRUpjVWhxN010YmprSVVJLW9pTHFEc0tIc0ZQWFlLaUpkRkhjUDBvbWNrX2tSVzg2RnpGTVdvY3Y0Z0ZuYzlRWnlTeUNFSWNMS1RyNnduM0tTbjYyUUN5RjloRDJ2Q1JDQTJnNThlVmM5ZlVnUFljYUF1ZDM4bGVHWUV5MjZ6WlpxLVBXVzY5VlVvOTR1dWI0aTVkVktYc0dJcWxIeUptUWxUbU5yaEt2bFBPeE5PUWQ4LWVXOV96emE0b21Id1FiR0VRSFRpYXBUX3MtcWlMZ0QiLCJpZCI6ImZjX0hlekVhcHZBTWQ2MXF0c1A2WVhGeVE0XzkifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVTm9TRVo0U0hkcFdTMUNaemhQVEdweFprZERORnBGUVZVMFYxWlJaamN0T0dWUVkzaGlTa1oxVm1jM1lUSnpaMEpKVldkd1YySXhkSHBUUTJ0a1dFMVdNSGwxYVhGamRXUm1iR04yT0U5RmNVczBRMEZHUmtsMlFSSVhTR1Y2UldGd2RrRk5aRFl4Y1hSelVEWlpXRVo1VVRRYUlrRkVjM0k1WmxGRmNFUXlhamRNYTFsNmMzaGpOSEZzZW1OVU5GRnpRbkZwV0VFIiwiZmN2IjoiMyIsImVpIjoiSGV6RWFwdkFNZDYxcXRzUDZZWEZ5UTQiLCJxYyI6ImMtTXlTVlF3TWpBd1VNaE9WVWpNUzBrc1VpaE9UQ29Hc3BPVE14SVZ5ak5TS3hVS2l2SkxValB6RkxJVFNfT0FzZ29aaVprQ3lyVzZvc3oyaXhpWk1qSUIiLCJxdWVzdGlvbiI6IuCkreCkvuCksOCkpCDgpK7gpYfgpIIg4KS44KSs4KS44KWHIOCkheCkmuCljeCkm%2BCkviDgpKrgpY3gpLDgpYvgpJ%2FgpYDgpKgg4KSq4KS%2B4KSJ4KSh4KSwIOCkleCljOCkqCDgpLjgpL4g4KS54KWIPyIsImxrIjoiYzVOU1RVb3RMbEVvS01vdlNjM01VeWpJTDA5SkxWSUFzakx6VWpJVFFZd01FQXNBIiwiYnMiOiJjNzJRendwQlFSVEdtLTJzck85cU5ySm1JVHVQZ1pYSXhkMmdTOWxLQ1dGcFE1STZJd25kMUMwMlBJUVhPSV9pekptRlVrckVadnJPdjlfNXpzaFF5Q3pDQ1dGblh0MVhSdWstQnhPRUpjVWhxN010YmprSVVJLW9pTHFEc0tIc0ZQWFlLaUpkRkhjUDBvbWNrX2tSVzg2RnpGTVdvY3Y0Z0ZuYzlRWnlTeUNFSWNMS1RyNnduM0tTbjYyUUN5RjloRDJ2Q1JDQTJnNThlVmM5ZlVnUFljYUF1ZDM4bGVHWUV5MjZ6WlpxLVBXVzY5VlVvOTR1dWI0aTVkVktYc0dJcWxIeUptUWxUbU5yaEt2bFBPeE5PUWQ4LWVXOV96emE0b21Id1FiR0VRSFRpYXBUX3MtcWlMZ0QiLCJpZCI6ImZjX0hlekVhcHZBTWQ2MXF0c1A2WVhGeVE0XzkifQ%3D%3D"
+      },
+      {
+        "question": "1 दिन में कितना व्हे प्रोटीन ले सकते हैं?",
+        "type": "ai_overview",
+        "page_token": "xehLHnicHdHbbpswAIBh7WV62XAImRKpqkbANAw5w_h8Mxk7h8YOuAkNDXd7lz3VXmCvsWov8OuT_l-_3Wtn_3z5exwGf13NZuM4Ph76_uB2j7o_z9T13umZVs61StvV4usifN7rp_yi1-ubTmviPc1Q0Nij2tHyaDKzbUPft8GyJEFC6glwEQTRjsH17jxcRCjLhoIbj5ZCMUA0GRo-mcoU_Z2E5jvLQ7vl_dy8wDO2RhKMPHPeMw6DBssKkWXOYxAJl6YM0M7Q1ItonFQAPbWSGhKEytKAhzqBkW-gLXFLUYU7SloOeEXlXBKX686nKg-3hpVvIgIfOBMBzo4EufTdcPSqiuu4w45pjG6UoB-4gPfaUYQ_8w2DmOTzRALgBBWxzk1aT06oKIQwBpU4oUFn7lMHt7JYqvZkrIhNWREzyRezZzifJANvIgjfTT5kkqErQRveFHSBGBiNBVBm4kNzNJFMSpbLhOBabSzIdbxJpAORdOjIp2-JcVToDPr6hJKmo1KdQ4KtjlChH_b69hQ__B_49HN_Hlb-0h_-ATQOqHI",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xehLHnicHdHbbpswAIBh7WV62XAImRKpqkbANAw5w_h8Mxk7h8YOuAkNDXd7lz3VXmCvsWov8OuT_l-_3Wtn_3z5exwGf13NZuM4Ph76_uB2j7o_z9T13umZVs61StvV4usifN7rp_yi1-ubTmviPc1Q0Nij2tHyaDKzbUPft8GyJEFC6glwEQTRjsH17jxcRCjLhoIbj5ZCMUA0GRo-mcoU_Z2E5jvLQ7vl_dy8wDO2RhKMPHPeMw6DBssKkWXOYxAJl6YM0M7Q1ItonFQAPbWSGhKEytKAhzqBkW-gLXFLUYU7SloOeEXlXBKX686nKg-3hpVvIgIfOBMBzo4EufTdcPSqiuu4w45pjG6UoB-4gPfaUYQ_8w2DmOTzRALgBBWxzk1aT06oKIQwBpU4oUFn7lMHt7JYqvZkrIhNWREzyRezZzifJANvIgjfTT5kkqErQRveFHSBGBiNBVBm4kNzNJFMSpbLhOBabSzIdbxJpAORdOjIp2-JcVToDPr6hJKmo1KdQ4KtjlChH_b69hQ__B_49HN_Hlb-0h_-ATQOqHI",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVTm9TRVo0U0hkcFdTMUNaemhQVEdweFprZERORnBGUVZVMFYxWlJaamN0T0dWUVkzaGlTa1oxVm1jM1lUSnpaMEpKVldkd1YySXhkSHBUUTJ0a1dFMVdNSGwxYVhGamRXUm1iR04yT0U5RmNVczBRMEZHUmtsMlFSSVhTR1Y2UldGd2RrRk5aRFl4Y1hSelVEWlpXRVo1VVRRYUlrRkVjM0k1WmxGRmNFUXlhamRNYTFsNmMzaGpOSEZzZW1OVU5GRnpRbkZwV0VFIiwiZmN2IjoiMyIsImVpIjoiSGV6RWFwdkFNZDYxcXRzUDZZWEZ5UTQiLCJxYyI6ImMtTXlTVlF3TWpBd1VNaE9WVWpNUzBrc1VpaE9UQ29Hc3BPVE14SVZ5ak5TS3hVS2l2SkxValB6RkxJVFNfT0FzZ29aaVprQ3lyVzZvc3oyaXhpWk1qSUIiLCJxdWVzdGlvbiI6IjEg4KSm4KS/4KSoIOCkruClh+CkgiDgpJXgpL/gpKTgpKjgpL4g4KS14KWN4KS54KWHIOCkquCljeCksOCli+Ckn+ClgOCkqCDgpLLgpYcg4KS44KSV4KSk4KWHIOCkueCliOCkgj8iLCJsayI6ImM1TktNMVI0c0dUWmd5WDdIeXhaQVdTdGU3QzBfY0dTSmlCcktsaHNDVkQ0d1pKOVFQN1dCMHQ3SHl6WkNaUUhjbGFCT1JzZUxPMS1zR1QtZzZVTkVNMmJJSkk3d0pxWFFEaEFEUjFBQXdFIiwiYnMiOiJjNzJRendwQlFSVEdtLTJzck85cU5ySm1JVHVQZ1pYSXhkMmdTOWxLQ1dGcFE1STZJd25kMUMwMlBJUVhPSV9pekptRlVrckVadnJPdjlfNXpzaFF5Q3pDQ1dGblh0MVhSdWstQnhPRUpjVWhxN010YmprSVVJLW9pTHFEc0tIc0ZQWFlLaUpkRkhjUDBvbWNrX2tSVzg2RnpGTVdvY3Y0Z0ZuYzlRWnlTeUNFSWNMS1RyNnduM0tTbjYyUUN5RjloRDJ2Q1JDQTJnNThlVmM5ZlVnUFljYUF1ZDM4bGVHWUV5MjZ6WlpxLVBXVzY5VlVvOTR1dWI0aTVkVktYc0dJcWxIeUptUWxUbU5yaEt2bFBPeE5PUWQ4LWVXOV96emE0b21Id1FiR0VRSFRpYXBUX3MtcWlMZ0QiLCJpZCI6ImZjX0hlekVhcHZBTWQ2MXF0c1A2WVhGeVE0XzkifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVTm9TRVo0U0hkcFdTMUNaemhQVEdweFprZERORnBGUVZVMFYxWlJaamN0T0dWUVkzaGlTa1oxVm1jM1lUSnpaMEpKVldkd1YySXhkSHBUUTJ0a1dFMVdNSGwxYVhGamRXUm1iR04yT0U5RmNVczBRMEZHUmtsMlFSSVhTR1Y2UldGd2RrRk5aRFl4Y1hSelVEWlpXRVo1VVRRYUlrRkVjM0k1WmxGRmNFUXlhamRNYTFsNmMzaGpOSEZzZW1OVU5GRnpRbkZwV0VFIiwiZmN2IjoiMyIsImVpIjoiSGV6RWFwdkFNZDYxcXRzUDZZWEZ5UTQiLCJxYyI6ImMtTXlTVlF3TWpBd1VNaE9WVWpNUzBrc1VpaE9UQ29Hc3BPVE14SVZ5ak5TS3hVS2l2SkxValB6RkxJVFNfT0FzZ29aaVprQ3lyVzZvc3oyaXhpWk1qSUIiLCJxdWVzdGlvbiI6IjEg4KSm4KS%2F4KSoIOCkruClh%2BCkgiDgpJXgpL%2FgpKTgpKjgpL4g4KS14KWN4KS54KWHIOCkquCljeCksOCli%2BCkn%2BClgOCkqCDgpLLgpYcg4KS44KSV4KSk4KWHIOCkueCliOCkgj8iLCJsayI6ImM1TktNMVI0c0dUWmd5WDdIeXhaQVdTdGU3QzBfY0dTSmlCcktsaHNDVkQ0d1pKOVFQN1dCMHQ3SHl6WkNaUUhjbGFCT1JzZUxPMS1zR1QtZzZVTkVNMmJJSkk3d0pxWFFEaEFEUjFBQXdFIiwiYnMiOiJjNzJRendwQlFSVEdtLTJzck85cU5ySm1JVHVQZ1pYSXhkMmdTOWxLQ1dGcFE1STZJd25kMUMwMlBJUVhPSV9pekptRlVrckVadnJPdjlfNXpzaFF5Q3pDQ1dGblh0MVhSdWstQnhPRUpjVWhxN010YmprSVVJLW9pTHFEc0tIc0ZQWFlLaUpkRkhjUDBvbWNrX2tSVzg2RnpGTVdvY3Y0Z0ZuYzlRWnlTeUNFSWNMS1RyNnduM0tTbjYyUUN5RjloRDJ2Q1JDQTJnNThlVmM5ZlVnUFljYUF1ZDM4bGVHWUV5MjZ6WlpxLVBXVzY5VlVvOTR1dWI0aTVkVktYc0dJcWxIeUptUWxUbU5yaEt2bFBPeE5PUWQ4LWVXOV96emE0b21Id1FiR0VRSFRpYXBUX3MtcWlMZ0QiLCJpZCI6ImZjX0hlekVhcHZBTWQ2MXF0c1A2WVhGeVE0XzkifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "D-f2-3iczVbbkqpGFP2AfEd4cRQUdcapok51IwJeRtE4HueFahtOgyAgoKhv51_yVXnMl6TBGzpDMpmHVNqi6cvufem9F8ufv7u25_zxy59WHAfRM8smSVIhvk9cs4L9FYuivYfZH74bhdj6ttm4ppCURKBqqqj2x_JrhGQnmswaDppJjOUKpscQV7A9JvI3ITZtQ8BW6K9MZr8VeAZHAseYtqCYBwkFWzAwmtV1HI2a8--dvVZnMmuCvkCRuaTO7JYRq7O0c37l23RSiSqmp8uwspOnW6TtR-s3rlLjanxlyKIVlQH_WYNApT-gAUIfsViOUMnPqEulJjeyRDvaybX2cSqR7NUr1Kaq0sk4SQf0Ge2WhzYGQCZnmUnhaSkfjwigdvKQZJpEUf1MQHl1pzi00wIplv3wrk6LuXDzeZYKdcFbQyIB4qgOyPXI7b7k52faxQom4EnxYRuCabHj9M4J6M0B54JroAVNgh0TnI3BqK0BiTUIrV6OXYT0VWVtbOFsEEZpUYu_tThfkhtewL-22nHNOOix73Ze0Y-X5JUr7zQWL6ic6yPDNHRL575l82qt2uBa_OPTQwYoHF0QFeURBRpemR84s3DIVfoVWD1jiRbBNdP5kNLV6UcxwrRwpIIsHg--OyaK8nVyuhRRAjIE8E6PuORSG5ekEYAToIDxrQdnS-I7LF3nUk74DAibnJRmpvJOt6VcjcFcuSn3saTNuV8gw7MtVT36egpBujOUxg2ldO98ScmdKpme8ammDhWx6-pRDb4GBn01DfumrNNN-nGRTncPLzHCU5_DUnoHVjpYph-HLvC7YJImWz1Kp8k9uSZad5lUC0AtOdTctBCjf9ukT306pTNo7jCQx46yUR439vBtdGgkgZM4Ie5zcSA37WRGPsaKv1r8O_rB_ydAXcjJP5JTMaDgZwAFU33vyemqL8tv-wyoIzkVA6p_BNSRnGCOnJSPyOkOUBKwr4DqjTNygqSAnL4AKFIMKHjp3wOq9zGgnCJAZQ7fAmpyQ05qATmdAfU1coJfI6cMX-bxdctUmyUpZCwFk1etsW8Fm3531AGkrIy2i9lu1PM64B8Z68cqfl4hw33QbeMZ1rrx3njQ6YL_bBrMWkClGsdxJccsIc9AYSlCi4iOMbZQKbHMfSkI_di0vZKDNh7dLVnIZlZu6AscagaLp53XnY7NQR0NaE0c1mSsDvX-vsXbnD4P3PUT33dn5aYzmGrjWXvOld_MxA7b-4aFms2luk7iRV0ZlFeKUh1Pn0YhH3BWwg_IZKrHI_KIJo3ulB8Ya44camQz6_Q9m_Db8fe4g7v7Xu0N4DnXGo59fenLAylzLBKG4yrqT_FLYCXMKsQCLY86AS8amKVFKc6BRv_CTBHFtJgATW4CTYI1Wi9MhJFuRluhvmjUzGrTNHiz1WjgKrMi8T4Qai0m8kKh-hcpWWCp",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=D-f2-3iczVbbkqpGFP2AfEd4cRQUdcapok51IwJeRtE4HueFahtOgyAgoKhv51_yVXnMl6TBGzpDMpmHVNqi6cvufem9F8ufv7u25_zxy59WHAfRM8smSVIhvk9cs4L9FYuivYfZH74bhdj6ttm4ppCURKBqqqj2x_JrhGQnmswaDppJjOUKpscQV7A9JvI3ITZtQ8BW6K9MZr8VeAZHAseYtqCYBwkFWzAwmtV1HI2a8--dvVZnMmuCvkCRuaTO7JYRq7O0c37l23RSiSqmp8uwspOnW6TtR-s3rlLjanxlyKIVlQH_WYNApT-gAUIfsViOUMnPqEulJjeyRDvaybX2cSqR7NUr1Kaq0sk4SQf0Ge2WhzYGQCZnmUnhaSkfjwigdvKQZJpEUf1MQHl1pzi00wIplv3wrk6LuXDzeZYKdcFbQyIB4qgOyPXI7b7k52faxQom4EnxYRuCabHj9M4J6M0B54JroAVNgh0TnI3BqK0BiTUIrV6OXYT0VWVtbOFsEEZpUYu_tThfkhtewL-22nHNOOix73Ze0Y-X5JUr7zQWL6ic6yPDNHRL575l82qt2uBa_OPTQwYoHF0QFeURBRpemR84s3DIVfoVWD1jiRbBNdP5kNLV6UcxwrRwpIIsHg--OyaK8nVyuhRRAjIE8E6PuORSG5ekEYAToIDxrQdnS-I7LF3nUk74DAibnJRmpvJOt6VcjcFcuSn3saTNuV8gw7MtVT36egpBujOUxg2ldO98ScmdKpme8ammDhWx6-pRDb4GBn01DfumrNNN-nGRTncPLzHCU5_DUnoHVjpYph-HLvC7YJImWz1Kp8k9uSZad5lUC0AtOdTctBCjf9ukT306pTNo7jCQx46yUR439vBtdGgkgZM4Ie5zcSA37WRGPsaKv1r8O_rB_ydAXcjJP5JTMaDgZwAFU33vyemqL8tv-wyoIzkVA6p_BNSRnGCOnJSPyOkOUBKwr4DqjTNygqSAnL4AKFIMKHjp3wOq9zGgnCJAZQ7fAmpyQ05qATmdAfU1coJfI6cMX-bxdctUmyUpZCwFk1etsW8Fm3531AGkrIy2i9lu1PM64B8Z68cqfl4hw33QbeMZ1rrx3njQ6YL_bBrMWkClGsdxJccsIc9AYSlCi4iOMbZQKbHMfSkI_di0vZKDNh7dLVnIZlZu6AscagaLp53XnY7NQR0NaE0c1mSsDvX-vsXbnD4P3PUT33dn5aYzmGrjWXvOld_MxA7b-4aFms2luk7iRV0ZlFeKUh1Pn0YhH3BWwg_IZKrHI_KIJo3ulB8Ya44camQz6_Q9m_Db8fe4g7v7Xu0N4DnXGo59fenLAylzLBKG4yrqT_FLYCXMKsQCLY86AS8amKVFKc6BRv_CTBHFtJgATW4CTYI1Wi9MhJFuRluhvmjUzGrTNHiz1WjgKrMi8T4Qai0m8kKh-hcpWWCp"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Whey Protein Under 2000",
+        "link": "https://www.amazon.in/whey-protein-under-2000/s?k=whey+protein+under+2000",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFb5QzXI0KjKGMkUIgUaRKXTN8CcSMDsD3zTVPngwHnl8RBcxXwdNmmPyv1KyTkRdvx3-eVqZBrta7B6Uki9ATd59fvmiW2d68GiOMCzI2J0repso3tod__6JE-qY4Uio8ZUYMxBWkFPKYcm_JwR634W3WEgrhAYVWcST6pDMWoA&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQFnoECCgQAQ&uoh=1",
+        "displayed_link": "https://www.amazon.in › whey-protein-under-2000 › k=...",
+        "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+        "snippet": "... Best Whey Protein Powder for Men & Women. 177. ₹150₹150 · See details · ALPHAPEAK NUTRITION Elite Whey 80% With Digestive Enzymes|24g Protein|Isolate As ...",
+        "snippet_highlighted_words": [
+          "Whey Protein"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.1
+            },
+            "extensions": [
+              "4.1",
+              "store rating (1.5K)",
+              "Free delivery"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "... Best Whey Protein Powder for Men & Women. 177. ₹150₹150 · See details · ALPHAPEAK NUTRITION Elite Whey 80% With Digestive Enzymes|24g Protein|Isolate As ...",
+            "source_info_link": "https://www.amazon.in/whey-protein-under-2000/s?k=whey+protein+under+2000",
+            "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZiNVF6WEkwS2pLR01rVUlnVWFSS1hUTjhDY1NNRHNEM3pUVlBuZ3dIbmw4UkJjeFh3ZE5tbVB5djFLeVRrUmR2eDMtZVZxWkJydGE3QjZVa2k5QVRkNTlmdm1pVzJkNjhHaU9NQ3pJMkowcmVwc28zdG9kX182SkUtcVk0VWlvOFpVWU14QldrRlBLWWNtX0p3UjYzNFczV0VncmhBWVZXY1NUNnBETVdvQRIEGgIIABqWChICCAAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPAJCCMQABgAIAAqLAoBYRXXd-A9GgJhbhoCw6AaA-CkhRoD4KSGGgPgpI8aBuCkleCkvhoD4KS-KhkKBDIwMDAVvLsTQBoBMhoJaXY7bjsyMDAwKgkKAmtlFQAAAAAqrAEKBWFuZGFyFQAAAAAaBGFuZGEaB2FuZHJvaWQaBWlubmVyGgZpbnNpZGUaCGludGVyaW9yGglpbnRlcmlvcnMaBXVuZGVyGgzgpIXgpILgpKHgpYcaD-CkheCkguCkoeClh-CksBoM4KSF4KSC4KSk4KSwGgzgpIXgpILgpKbgpLAaD-CkheCkqOCljeCkpuCksBoM4KSF4KSC4KSh4KS-GgppdjtwO2FuZGFyKkQKBXNhYnNlFQAAAAAaBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpTCgVhY2NoYRUAAAAAGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRVGw8xAGgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqVwoHcHJvdGVpbhW2edRAGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqJQoDaGFpFQAAAAAaAmhlGgJoaRoG4KS54KWIGgngpLngpYjgpIIywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RmI1UXpYSTBLaktHTWtVSWdVYVJLWFROOENjU01Ec0QzelRWUG5nd0hubDhSQmN4WHdkTm1tUHl2MUt5VGtSZHZ4My1lVnFaQnJ0YTdCNlVraTlBVGQ1OWZ2bWlXMmQ2OEdpT01DekkySjByZXBzbzN0b2RfXzZKRS1xWTRVaW84WlVZTXhCV2tGUEtZY21fSndSNjM0VzNXRWdyaEFZVldjU1Q2cERNV29BOiNXaGV5IFByb3RlaW4gVW5kZXIgMjAwMCAtIEFtYXpvbi5pbkLCAS4uLiBCZXN0IDxiPldoZXkgUHJvdGVpbjwvYj4gUG93ZGVyIGZvciBNZW4gJmFtcDsgV29tZW4uIDE3Ny4g4oK5MTUw4oK5MTUwICZtaWRkb3Q7IFNlZSBkZXRhaWxzICZtaWRkb3Q7IEFMUEhBUEVBSyBOVVRSSVRJT04gRWxpdGUgV2hleSA4MCUgV2l0aCBEaWdlc3RpdmUgRW56eW1lc3wyNGcgUHJvdGVpbnxJc29sYXRlIEFzJm5ic3A7Li4uSgJrZVIBMlIG4KSV4KS-UgbgpLngpYhSCeCkueCliOCkgiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZiNVF6WEkwS2pLR01rVUlnVWFSS1hUTjhDY1NNRHNEM3pUVlBuZ3dIbmw4UkJjeFh3ZE5tbVB5djFLeVRrUmR2eDMtZVZxWkJydGE3QjZVa2k5QVRkNTlmdm1pVzJkNjhHaU9NQ3pJMkowcmVwc28zdG9kX182SkUtcVk0VWlvOFpVWU14QldrRlBLWWNtX0p3UjYzNFczV0VncmhBWVZXY1NUNnBETVdvQRIEGgIIABqWChICCAAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPAJCCMQABgAIAAqLAoBYRXXd-A9GgJhbhoCw6AaA-CkhRoD4KSGGgPgpI8aBuCkleCkvhoD4KS-KhkKBDIwMDAVvLsTQBoBMhoJaXY7bjsyMDAwKgkKAmtlFQAAAAAqrAEKBWFuZGFyFQAAAAAaBGFuZGEaB2FuZHJvaWQaBWlubmVyGgZpbnNpZGUaCGludGVyaW9yGglpbnRlcmlvcnMaBXVuZGVyGgzgpIXgpILgpKHgpYcaD-CkheCkguCkoeClh-CksBoM4KSF4KSC4KSk4KSwGgzgpIXgpILgpKbgpLAaD-CkheCkqOCljeCkpuCksBoM4KSF4KSC4KSh4KS-GgppdjtwO2FuZGFyKkQKBXNhYnNlFQAAAAAaBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpTCgVhY2NoYRUAAAAAGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRVGw8xAGgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqVwoHcHJvdGVpbhW2edRAGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqJQoDaGFpFQAAAAAaAmhlGgJoaRoG4KS54KWIGgngpLngpYjgpIIywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RmI1UXpYSTBLaktHTWtVSWdVYVJLWFROOENjU01Ec0QzelRWUG5nd0hubDhSQmN4WHdkTm1tUHl2MUt5VGtSZHZ4My1lVnFaQnJ0YTdCNlVraTlBVGQ1OWZ2bWlXMmQ2OEdpT01DekkySjByZXBzbzN0b2RfXzZKRS1xWTRVaW84WlVZTXhCV2tGUEtZY21fSndSNjM0VzNXRWdyaEFZVldjU1Q2cERNV29BOiNXaGV5IFByb3RlaW4gVW5kZXIgMjAwMCAtIEFtYXpvbi5pbkLCAS4uLiBCZXN0IDxiPldoZXkgUHJvdGVpbjwvYj4gUG93ZGVyIGZvciBNZW4gJmFtcDsgV29tZW4uIDE3Ny4g4oK5MTUw4oK5MTUwICZtaWRkb3Q7IFNlZSBkZXRhaWxzICZtaWRkb3Q7IEFMUEhBUEVBSyBOVVRSSVRJT04gRWxpdGUgV2hleSA4MCUgV2l0aCBEaWdlc3RpdmUgRW56eW1lc3wyNGcgUHJvdGVpbnxJc29sYXRlIEFzJm5ic3A7Li4uSgJrZVIBMlIG4KSV4KS-UgbgpLngpYhSCeCkueCliOCkgiICEAFIAFgAaAA",
+        "source": "Amazon.in",
+        "read_more_link": "https://www.amazon.in/whey-protein-under-2000/s?k=whey+protein+under+2000#:~:text=Best%20Whey%20Protein%20Powder%20for,See%20details"
+      },
+      {
+        "position": 2,
+        "title": "Best Protein Under 2000₹ !!",
+        "link": "https://www.instagram.com/reel/DWLYjIMjgEl/?hl=en",
+        "displayed_link": "1.4K+ likes · 6 months ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjEc4i8Hj88nE-A8zN4OfrlbRRWfxFOMPqoTNZosaCilEhakCy-uG44g&s",
+        "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+        "snippet": "My personal recommendation is TRUEBASICS , COSMIX AND MILLE . March 22 · naturaltein_india's profile picture.",
+        "duration": "0:32",
+        "about_this_result": {
+          "source": {
+            "description": "My personal recommendation is TRUEBASICS , COSMIX AND MILLE . March 22 · naturaltein_india's profile picture.",
+            "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkpRdGlMSmpWbWdrTGRoNE5JTndYZjVBYmdrZUcxLXU0YnctWFd1aS1BT3hZMXowZ253TnZ4MW5QS3ZMejFRNHpsUm5wNl9kTnBpenBZbmNSQzJZaFhrOHBZNHNBaVRtN19jdF9YV0xCVXMxaU9ySnRYVHp1bGRFc2c1NFlWQmZUSEpJM0hqYTZ2ZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkpRdGlMSmpWbWdrTGRoNE5JTndYZjVBYmdrZUcxLXU0YnctWFd1aS1BT3hZMXowZ253TnZ4MW5QS3ZMejFRNHpsUm5wNl9kTnBpenBZbmNSQzJZaFhrOHBZNHNBaVRtN19jdF9YV0xCVXMxaU9ySnRYVHp1bGRFc2c1NFlWQmZUSEpJM0hqYTZ2ZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "Instagram · mindwithmuscle_"
+      },
+      {
+        "position": 3,
+        "title": "Best Whey Protein Under 2000 in India",
+        "link": "https://andwhey.com/best-whey-protein-under-2000-india/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAV5WuUOA-BS1gawoiKhjXnIWoNBpY9oP-2XIVhSDr0c0oQVkUzI-cz020FqqbMSfIDCedyQ8DTOT3Nn224Nnoqbp47NOLWIQuPh7GekEF3PX64OT06TOGu9tJM2YuJaZub3h7nmV9sGu76CFN5iw&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQFnoECCYQAQ&uoh=1",
+        "displayed_link": "https://andwhey.com › best-whey-protein-under-2000-i...",
+        "favicon": "https://serpapi.com/images/i/UklGRoQBAABXRUJQVlA4IHgBAABQBwCdASocABwAPtEwtFooIigoGAEAGglkALEBABW53qMgOfi7-bd_p6IA585WA2qhRRDQ29XrJ7Mjqha9i62Km1QAAP72CdOaw_jDBapB-CT_FNTS_ycdvL2HfOeMDXx35k-_iQuJB7853yzOoEQs9v0w4ECbKgTWYsSzOfQYCUFrpkEhy4pwKPhA4iDPrUY247NjfIT9SAS7D3GeMH46f_Kl81HEkQYpzgQQqqUQqeOj1oFVutS9d_9MdG3KaMkc9raP5NsY_-JK-KQPlaObYo-6nElsIq_Owo7O-ATH6KwnYvzW1yKe4MGueb6vEBm1Zpez_3D63oPrrxPdyVz7wo1ObPrFtZ-Nk63SO0cH8FE1sli_VyylhpR59_pbFlW6GJ9WJ8b2pcK5NI_6Af3xd9oUSMxdRk2FUU0bZTp6BPJo-BuA8Is2yt3xv-1LabHLEDlc0lb2F-XOCWC-M_29OmfTZkvRrajYdmR0hEfmfYpHcLtIAAAA.webp",
+        "snippet": "Ranking the Best Whey Protein Under 2000 India Market Edition · Nakpro Gold Whey Protein: · AS-IT-IS Whey Protein Unflavoured: · MuscleBlaze Clean Raw Whey Protein ...",
+        "snippet_highlighted_words": [
+          "Nakpro Gold Whey Protein"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Ranking the Best Whey Protein Under 2000 India Market Edition · Nakpro Gold Whey Protein: · AS-IT-IS Whey Protein Unflavoured: · MuscleBlaze Clean Raw Whey Protein ...",
+            "source_info_link": "https://andwhey.com/best-whey-protein-under-2000-india/",
+            "icon": "https://serpapi.com/images/i/UklGRoQBAABXRUJQVlA4IHgBAABQBwCdASocABwAPtEwtFooIigoGAEAGglkALEBABW53qMgOfi7-bd_p6IA585WA2qhRRDQ29XrJ7Mjqha9i62Km1QAAP72CdOaw_jDBapB-CT_FNTS_ycdvL2HfOeMDXx35k-_iQuJB7853yzOoEQs9v0w4ECbKgTWYsSzOfQYCUFrpkEhy4pwKPhA4iDPrUY247NjfIT9SAS7D3GeMH46f_Kl81HEkQYpzgQQqqUQqeOj1oFVutS9d_9MdG3KaMkc9raP5NsY_-JK-KQPlaObYo-6nElsIq_Owo7O-ATH6KwnYvzW1yKe4MGueb6vEBm1Zpez_3D63oPrrxPdyVz7wo1ObPrFtZ-Nk63SO0cH8FE1sli_VyylhpR59_pbFlW6GJ9WJ8b2pcK5NI_6Af3xd9oUSMxdRk2FUU0bZTp6BPJo-BuA8Is2yt3xv-1LabHLEDlc0lb2F-XOCWC-M_29OmfTZkvRrajYdmR0hEfmfYpHcLtIAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVjVXdVVPQS1CUzFnYXdvaUtoalhuSVdvTkJwWTlvUC0yWElWaFNEcjBjMG9RVmtVekktY3owMjBGcXFiTVNmSURDZWR5UThEVE9UM05uMjI0Tm5vcWJwNDdOT0xXSVF1UGg3R2VrRUYzUFg2NE9UMDZUT0d1OXRKTTJZdUphWnViM2g3bm1WOXNHdTc2Q0ZONWl3EgQaAggAGqYKEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQIIKCCMQABgAIAAqLAoBYRXtm3BAGgJhbhoCw6AaA-CkhRoD4KSGGgPgpI8aBuCkleCkvhoD4KS-KhkKBDIwMDAV1N3FQBoBMhoJaXY7bjsyMDAwKgkKAmtlFQAAAAAqrAEKBWFuZGFyFQAAAAAaBGFuZGEaB2FuZHJvaWQaBWlubmVyGgZpbnNpZGUaCGludGVyaW9yGglpbnRlcmlvcnMaBXVuZGVyGgzgpIXgpILgpKHgpYcaD-CkheCkguCkoeClh-CksBoM4KSF4KSC4KSk4KSwGgzgpIXgpILgpKbgpLAaD-CkheCkqOCljeCkpuCksBoM4KSF4KSC4KSh4KS-GgppdjtwO2FuZGFyKkQKBXNhYnNlFQAAAAAaBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpTCgVhY2NoYRUAAAAAGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRU6K_pAGgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqVwoHcHJvdGVpbhVPWgNBGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqJQoDaGFpFQAAAAAaAmhlGgJoaRoG4KS54KWIGgngpLngpYjgpIIyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWNVd1VU9BLUJTMWdhd29pS2hqWG5JV29OQnBZOW9QLTJYSVZoU0RyMGMwb1FWa1V6SS1jejAyMEZxcWJNU2ZJRENlZHlROERUT1QzTm4yMjRObm9xYnA0N05PTFdJUXVQaDdHZWtFRjNQWDY0T1QwNlRPR3U5dEpNMll1SmFadWIzaDdubVY5c0d1NzZDRk41aXc6SEJlc3QgPGI-V2hleSBQcm90ZWluPC9iPiBVbmRlciA8Yj4yMDAwPC9iPiBJbmRpYSAoMjAyNiBMYWItVGVzdGVkIEd1aWRlKULIAVJhbmtpbmcgdGhlIEJlc3QgV2hleSBQcm90ZWluIFVuZGVyIDIwMDAgSW5kaWEgTWFya2V0IEVkaXRpb24gJm1pZGRvdDsgPGI-TmFrcHJvIEdvbGQgV2hleSBQcm90ZWluPC9iPjogJm1pZGRvdDsgQVMtSVQtSVMgV2hleSBQcm90ZWluIFVuZmxhdm91cmVkOiAmbWlkZG90OyBNdXNjbGVCbGF6ZSBDbGVhbiBSYXcgV2hleSBQcm90ZWluJm5ic3A7Li4uSgJrZVIBMlIG4KSV4KS-UgbgpLngpYhSCeCkueCliOCkgiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVjVXdVVPQS1CUzFnYXdvaUtoalhuSVdvTkJwWTlvUC0yWElWaFNEcjBjMG9RVmtVekktY3owMjBGcXFiTVNmSURDZWR5UThEVE9UM05uMjI0Tm5vcWJwNDdOT0xXSVF1UGg3R2VrRUYzUFg2NE9UMDZUT0d1OXRKTTJZdUphWnViM2g3bm1WOXNHdTc2Q0ZONWl3EgQaAggAGqYKEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQIIKCCMQABgAIAAqLAoBYRXtm3BAGgJhbhoCw6AaA-CkhRoD4KSGGgPgpI8aBuCkleCkvhoD4KS-KhkKBDIwMDAV1N3FQBoBMhoJaXY7bjsyMDAwKgkKAmtlFQAAAAAqrAEKBWFuZGFyFQAAAAAaBGFuZGEaB2FuZHJvaWQaBWlubmVyGgZpbnNpZGUaCGludGVyaW9yGglpbnRlcmlvcnMaBXVuZGVyGgzgpIXgpILgpKHgpYcaD-CkheCkguCkoeClh-CksBoM4KSF4KSC4KSk4KSwGgzgpIXgpILgpKbgpLAaD-CkheCkqOCljeCkpuCksBoM4KSF4KSC4KSh4KS-GgppdjtwO2FuZGFyKkQKBXNhYnNlFQAAAAAaBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpTCgVhY2NoYRUAAAAAGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRU6K_pAGgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqVwoHcHJvdGVpbhVPWgNBGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqJQoDaGFpFQAAAAAaAmhlGgJoaRoG4KS54KWIGgngpLngpYjgpIIyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWNVd1VU9BLUJTMWdhd29pS2hqWG5JV29OQnBZOW9QLTJYSVZoU0RyMGMwb1FWa1V6SS1jejAyMEZxcWJNU2ZJRENlZHlROERUT1QzTm4yMjRObm9xYnA0N05PTFdJUXVQaDdHZWtFRjNQWDY0T1QwNlRPR3U5dEpNMll1SmFadWIzaDdubVY5c0d1NzZDRk41aXc6SEJlc3QgPGI-V2hleSBQcm90ZWluPC9iPiBVbmRlciA8Yj4yMDAwPC9iPiBJbmRpYSAoMjAyNiBMYWItVGVzdGVkIEd1aWRlKULIAVJhbmtpbmcgdGhlIEJlc3QgV2hleSBQcm90ZWluIFVuZGVyIDIwMDAgSW5kaWEgTWFya2V0IEVkaXRpb24gJm1pZGRvdDsgPGI-TmFrcHJvIEdvbGQgV2hleSBQcm90ZWluPC9iPjogJm1pZGRvdDsgQVMtSVQtSVMgV2hleSBQcm90ZWluIFVuZmxhdm91cmVkOiAmbWlkZG90OyBNdXNjbGVCbGF6ZSBDbGVhbiBSYXcgV2hleSBQcm90ZWluJm5ic3A7Li4uSgJrZVIBMlIG4KSV4KS-UgbgpLngpYhSCeCkueCliOCkgiICEAFIAFgAaAA",
+        "source": "AndWhey",
+        "read_more_link": "https://andwhey.com/best-whey-protein-under-2000-india/#:~:text=Ranking%20the%20Best%20Whey%20Protein,Under%202000%20India%20Market%20Edition&text=Nakpro%20Gold%20Whey%20Protein%3A%20A,a%20dependable%20amino%20acid%20distribution.&text=AS%2DIT%2DIS%20Whey%20Protein%20Unflavoured%3A%20A,baseline%20for%20clean%20muscle%20recovery.&text=MuscleBlaze%20Clean%20Raw%20Whey%20Protein%3A,or%20thickeners%20in%20their%20shakes."
+      },
+      {
+        "position": 4,
+        "title": "Top Whey Protein Under ₹2000 – Trusted & Lab-Certified",
+        "link": "https://beastlife.in/collections/best-whey-protein-under-2000?srsltid=AU7gw4VyIitryBRIO_tqaCcHmaXe3OlHF120Lk-f8SiERmsQtALzc3C-",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuQEB6zswFWpKGy4KTt77dbCgSzVfNZKJ7pyKhhHNEuWl1jgVVEJsj2bDkd-1rYkhnufIrX-1a6aikS6RFsYmXk9NW2emNszEzJTDNenWKmWcUAv3jP1R1wWEVPvvYe_7llSzhVZvuaDjJiVQDjbrN9tXPhre7Keyb2G_GVfZkq2D_nwzdsR7S8eg1C0I3XJebHrQ7UooEkktm6a5oQugff8u1x1m7duOli6HDiwcqf4FxI4c2gNY17lKyQ&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQFnoECC0QAQ&uoh=1",
+        "displayed_link": "https://beastlife.in › collections › best-whey-protein-und...",
+        "favicon": "https://serpapi.com/images/i/UklGRtYAAABXRUJQVlA4IMoAAAAQBQCdASocABwAPtEwtFooIigoGAEAGglpABFAHT-Qb9TAqleow2kGtzQfVrZv5AAAAP72Acdmppn-tNjIM-2FdBMVwi8Xp-2WbWYOLg489BWJdz2Iw7FtMSbQ85OzdzUQfOfP-ubcL3axGaa2PS5bFx_EfzjDa7PQs0zkyMG15wR5fovr3T-M0WcC8mX8efsmnCx47TvoCzQKp0T5HioD-0Gn-dTPFpsdRNImoSHyv7gxv8VqO30RPuUv_54uM824fSsqEAKAAAAA.webp",
+        "snippet": "1. BeastLife Pro Concentrate Whey Protein. Size: 1kg; Protein per Scoop: 24g; BCAAs: 5.3g; Flavors: Rich Chocolate, Mango, Kesar Pista · 2. BeastLife Whey ...",
+        "snippet_highlighted_words": [
+          "BeastLife Pro Concentrate Whey Protein"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "1. BeastLife Pro Concentrate Whey Protein. Size: 1kg; Protein per Scoop: 24g; BCAAs: 5.3g; Flavors: Rich Chocolate, Mango, Kesar Pista · 2. BeastLife Whey ...",
+            "source_info_link": "https://beastlife.in/collections/best-whey-protein-under-2000?srsltid=AU7gw4VyIitryBRIO_tqaCcHmaXe3OlHF120Lk-f8SiERmsQtALzc3C-",
+            "icon": "https://serpapi.com/images/i/UklGRtYAAABXRUJQVlA4IMoAAAAQBQCdASocABwAPtEwtFooIigoGAEAGglpABFAHT-Qb9TAqleow2kGtzQfVrZv5AAAAP72Acdmppn-tNjIM-2FdBMVwi8Xp-2WbWYOLg489BWJdz2Iw7FtMSbQ85OzdzUQfOfP-ubcL3axGaa2PS5bFx_EfzjDa7PQs0zkyMG15wR5fovr3T-M0WcC8mX8efsmnCx47TvoCzQKp0T5HioD-0Gn-dTPFpsdRNImoSHyv7gxv8VqO30RPuUv_54uM824fSsqEAKAAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CogCL2dvdG8_dXJsPUNBRVN1UUVCNnpzd0ZXcEtHeTRLVHQ3N2RiQ2dTelZmTlpLSjdweUtoaEhORXVXbDFqZ1ZWRUpzajJiRGtkLTFyWWtobnVmSXJYLTFhNmFpa1M2UkZzWW1YazlOVzJlbU5zekV6SlRETmVuV0ttV2NVQXYzalAxUjF3V0VWUHZ2WWVfN2xsU3poVlp2dWFEakppVlFEamJyTjl0WFBocmU3S2V5YjJHX0dWZlprcTJEX253emRzUjdTOGVnMUMwSTNYSmViSHJRN1Vvb0Vra3RtNmE1b1F1Z2ZmOHUxeDFtN2R1T2xpNkhEaXdjcWY0RnhJNGMyZ05ZMTdsS3lREgQaAggAGpsKEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPcJCCMQABgAIAAqLAoBYRVtToY_GgJhbhoCw6AaA-CkhRoD4KSGGgPgpI8aBuCkleCkvhoD4KS-KhkKBDIwMDAVHqSXQBoBMhoJaXY7bjsyMDAwKgkKAmtlFQAAAAAqrAEKBWFuZGFyFQAAAAAaBGFuZGEaB2FuZHJvaWQaBWlubmVyGgZpbnNpZGUaCGludGVyaW9yGglpbnRlcmlvcnMaBXVuZGVyGgzgpIXgpILgpKHgpYcaD-CkheCkguCkoeClh-CksBoM4KSF4KSC4KSk4KSwGgzgpIXgpILgpKbgpLAaD-CkheCkqOCljeCkpuCksBoM4KSF4KSC4KSh4KS-GgppdjtwO2FuZGFyKkQKBXNhYnNlFQAAAAAaBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpTCgVhY2NoYRUAAAAAGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRXqkshAGgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqVwoHcHJvdGVpbhUXANNAGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqJQoDaGFpFQAAAAAaAmhlGgJoaRoG4KS54KWIGgngpLngpYjgpIIysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWWFlrc1I4cm5MM3hOMDVaSlk0OVQtNHZrQ29wLWUzVUhmdk9PYUswb2tDdzhlTXNFM0J0N3FydW9DWlEzbzZ2VUVLOVROdnh3dFdJZlJ6emlMU2x3MHd2TXlFeDFEbXV5d3dhV0lYWHk0RGZMWE52RVQtSkREdlNQOG44eG13SHF5LWo4UGlBU2RjNGZKeUJwQms1WWZfbG5kQTpMVG9wIDxiPldoZXkgUHJvdGVpbjwvYj4gVW5kZXIg4oK5PGI-MjAwMDwvYj4g4oCTIFRydXN0ZWQgJmFtcDsgTGFiLUNlcnRpZmllZEKxATEuIDxiPkJlYXN0TGlmZSBQcm8gQ29uY2VudHJhdGUgV2hleSBQcm90ZWluPC9iPi4gU2l6ZTogMWtnOyBQcm90ZWluIHBlciBTY29vcDogMjRnOyBCQ0FBczogNS4zZzsgRmxhdm9yczogUmljaCBDaG9jb2xhdGUsIE1hbmdvLCBLZXNhciBQaXN0YSAmbWlkZG90OyAyLiBCZWFzdExpZmUgV2hleSZuYnNwOy4uLkoCa2VSBuCkueCliFIG4KSV4KS-UgEyUgngpLngpYjgpIIiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CogCL2dvdG8_dXJsPUNBRVN1UUVCNnpzd0ZXcEtHeTRLVHQ3N2RiQ2dTelZmTlpLSjdweUtoaEhORXVXbDFqZ1ZWRUpzajJiRGtkLTFyWWtobnVmSXJYLTFhNmFpa1M2UkZzWW1YazlOVzJlbU5zekV6SlRETmVuV0ttV2NVQXYzalAxUjF3V0VWUHZ2WWVfN2xsU3poVlp2dWFEakppVlFEamJyTjl0WFBocmU3S2V5YjJHX0dWZlprcTJEX253emRzUjdTOGVnMUMwSTNYSmViSHJRN1Vvb0Vra3RtNmE1b1F1Z2ZmOHUxeDFtN2R1T2xpNkhEaXdjcWY0RnhJNGMyZ05ZMTdsS3lREgQaAggAGpsKEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPcJCCMQABgAIAAqLAoBYRVtToY_GgJhbhoCw6AaA-CkhRoD4KSGGgPgpI8aBuCkleCkvhoD4KS-KhkKBDIwMDAVHqSXQBoBMhoJaXY7bjsyMDAwKgkKAmtlFQAAAAAqrAEKBWFuZGFyFQAAAAAaBGFuZGEaB2FuZHJvaWQaBWlubmVyGgZpbnNpZGUaCGludGVyaW9yGglpbnRlcmlvcnMaBXVuZGVyGgzgpIXgpILgpKHgpYcaD-CkheCkguCkoeClh-CksBoM4KSF4KSC4KSk4KSwGgzgpIXgpILgpKbgpLAaD-CkheCkqOCljeCkpuCksBoM4KSF4KSC4KSh4KS-GgppdjtwO2FuZGFyKkQKBXNhYnNlFQAAAAAaBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpTCgVhY2NoYRUAAAAAGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRXqkshAGgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqVwoHcHJvdGVpbhUXANNAGhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqJQoDaGFpFQAAAAAaAmhlGgJoaRoG4KS54KWIGgngpLngpYjgpIIysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWWFlrc1I4cm5MM3hOMDVaSlk0OVQtNHZrQ29wLWUzVUhmdk9PYUswb2tDdzhlTXNFM0J0N3FydW9DWlEzbzZ2VUVLOVROdnh3dFdJZlJ6emlMU2x3MHd2TXlFeDFEbXV5d3dhV0lYWHk0RGZMWE52RVQtSkREdlNQOG44eG13SHF5LWo4UGlBU2RjNGZKeUJwQms1WWZfbG5kQTpMVG9wIDxiPldoZXkgUHJvdGVpbjwvYj4gVW5kZXIg4oK5PGI-MjAwMDwvYj4g4oCTIFRydXN0ZWQgJmFtcDsgTGFiLUNlcnRpZmllZEKxATEuIDxiPkJlYXN0TGlmZSBQcm8gQ29uY2VudHJhdGUgV2hleSBQcm90ZWluPC9iPi4gU2l6ZTogMWtnOyBQcm90ZWluIHBlciBTY29vcDogMjRnOyBCQ0FBczogNS4zZzsgRmxhdm9yczogUmljaCBDaG9jb2xhdGUsIE1hbmdvLCBLZXNhciBQaXN0YSAmbWlkZG90OyAyLiBCZWFzdExpZmUgV2hleSZuYnNwOy4uLkoCa2VSBuCkueCliFIG4KSV4KS-UgEyUgngpLngpYjgpIIiAhABSABYAGgA",
+        "source": "Beastlife",
+        "read_more_link": "https://beastlife.in/collections/best-whey-protein-under-2000?srsltid=AU7gw4VyIitryBRIO_tqaCcHmaXe3OlHF120Lk-f8SiERmsQtALzc3C-#:~:text=1.%20BeastLife%20Pro%20Concentrate%20Whey,Rich%20Chocolate%2C%20Mango%2C%20Kesar%20Pista&text=2.%20BeastLife%20Whey%20Protein%20Isolate,1kg"
+      },
+      {
+        "position": 5,
+        "title": "भारत में ₹2000 से कम कीमत वाले सर्वश्रेष्ठ व्हे प्रोटीन (2026)",
+        "link": "https://translate.google.com/translate?u=https://valuelens.in/best-whey-protein-under-2000-india&hl=hi&sl=en&tl=hi&client=srp",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuAEB6zswFdLfJi0noENTmdX6wgKT245WPvX8cMj5eLAUvoTzqvtDBUDYVGZtGyUBgtSnO7YH8RnN06k3qawMXYhRjvG_FBzTYuCyDcKV1gXP_rsghsGTqDQDGx0ePpPN-U5LWQShv1raUXeJ0qHCqnpa2xhZmK0NWH_xrxiyYEuw6Je_-1cl2CiNK9iKwDYffq-cHJSeQaq3ojzoVAGP4hpNb4r5CKlbWtx3n1rsDGUMEn2mKnmu3NFG&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQFnoECCcQAQ&uoh=1",
+        "displayed_link": "https://valuelens.in › best-whey-protein-under-2000-india",
+        "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAABQBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0zaHtBCA_gHLxcACx_8L8FGA8qjYBAPnxUPwH-uqXyUAD-bMnxE3nqu-qCFTFME1Y_JlNhp7qA6gEhwv4TnCNhzJ7IlntPD5ANhS4BDN_teT9kc4vMq21zaoG70_4uZ-Ze77ujk3209estsxFtM81j_fuqfrBrfcRyQzVWenxu317_HCxf3SVhV5uLorCR3IWiH8Wz9KvLb39k1cNzci5tHYXuXyneAVDyXfr8xIEsovkWOwOLEzOwaS0sDvsJwA3R6WMzS3I55ycgpTm7j6lIIvbqAAA.webp",
+        "snippet": "एज़-इट-इज़ वन व्हे प्रोटीन कॉन्सेंट्रेट ... प्रोटीन की कीमत ₹4.19 प्रति ग्राम है। ... अगर आप ...Read more",
+        "snippet_highlighted_words": [
+          "एज़-इट-इज़ वन व्हे प्रोटीन कॉन्सेंट्रेट"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "एज़-इट-इज़ वन व्हे प्रोटीन कॉन्सेंट्रेट ... प्रोटीन की कीमत ₹4.19 प्रति ग्राम है। ... अगर आप ...",
+            "source_info_link": "https://translate.google.com/translate?u=https://valuelens.in/best-whey-protein-under-2000-india&hl=hi&sl=en&tl=hi&client=srp",
+            "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAABQBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0zaHtBCA_gHLxcACx_8L8FGA8qjYBAPnxUPwH-uqXyUAD-bMnxE3nqu-qCFTFME1Y_JlNhp7qA6gEhwv4TnCNhzJ7IlntPD5ANhS4BDN_teT9kc4vMq21zaoG70_4uZ-Ze77ujk3209estsxFtM81j_fuqfrBrfcRyQzVWenxu317_HCxf3SVhV5uLorCR3IWiH8Wz9KvLb39k1cNzci5tHYXuXyneAVDyXfr8xIEsovkWOwOLEzOwaS0sDvsJwA3R6WMzS3I55ycgpTm7j6lIIvbqAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVkgtOFJ2WEtuT0FFbTlyTEJ4MF9MeUZsSmhzZ2ZyclEtZXhzbnQzbkg0dkE5ZFI1NUtwTGlrU2lUVXVrVUY4QkpOME9RM3NJU0sxMzB5Y0VxWlVfZjN4VzJyWWdIeFktMk93Sks5TFo1QkFac0ZxMlNtZVRUMklDcmVoNXpXemg4MEJyUUdMWGRBVUdMaFhGRHVREgQaAggAGoMMEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQN8LCCMQABgAIAAqLAoBYRUAAAAAGgJhbhoCw6AaA-CkhRoD4KSGGgPgpI8aBuCkleCkvhoD4KS-KhkKBDIwMDAV20qCQBoBMhoJaXY7bjsyMDAwKgkKAmtlFQAAAAAqrAEKBWFuZGFyFQAAAAAaBGFuZGEaB2FuZHJvaWQaBWlubmVyGgZpbnNpZGUaCGludGVyaW9yGglpbnRlcmlvcnMaBXVuZGVyGgzgpIXgpILgpKHgpYcaD-CkheCkguCkoeClh-CksBoM4KSF4KSC4KSk4KSwGgzgpIXgpILgpKbgpLAaD-CkheCkqOCljeCkpuCksBoM4KSF4KSC4KSh4KS-GgppdjtwO2FuZGFyKkQKBXNhYnNlFQAAAAAaBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpTCgVhY2NoYRUAAAAAGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRUAAAA_GgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqVwoHcHJvdGVpbhUAAAA_GhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqJQoDaGFpFQAAAAAaAmhlGgJoaRoG4KS54KWIGgngpLngpYjgpIIyhgIvZ290bz91cmw9Q0FFU3VBRUI2enN3RmRMZkppMG5vRU5UbWRYNndnS1QyNDVXUHZYOGNNajVlTEFVdm9UenF2dERCVURZVkdadEd5VUJndFNuTzdZSDhSbk4wNmszcWF3TVhZaFJqdkdfRkJ6VFl1Q3lEY0tWMWdYUF9yc2doc0dUcURRREd4MGVQcFBOLVU1TFdRU2h2MXJhVVhlSjBxSENxbnBhMnhoWm1LME5XSF94cnhpeVlFdXc2SmVfLTFjbDJDaU5LOWlLd0RZZmZxLWNISlNlUWFxM29qem9WQUdQNGhwTmI0cjVDS2xiV3R4M24xcnNER1VNRW4ybUtubXUzTkZHOqAB4KSt4KS-4KSw4KSkIOCkruClh-CkgiDigrk8Yj4yMDAwPC9iPiDgpLjgpYcg4KSV4KSuIOCkleClgOCkruCkpCDgpLXgpL7gpLLgpYcg4KS44KSw4KWN4KS14KS24KWN4KSw4KWH4KS34KWN4KSgIDxiPuCkteCljeCkueClhzwvYj4g4KSq4KWN4KSw4KWL4KSf4KWA4KSoICgyMDI2KULuATxiPuCkj-CknOCkvC3gpIfgpJ8t4KSH4KSc4KS8IOCkteCkqCDgpLXgpY3gpLngpYcg4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCkleClieCkqOCljeCkuOClh-CkguCkn-CljeCksOClh-CknzwvYj4gLi4uIOCkquCljeCksOCli-Ckn-ClgOCkqCDgpJXgpYAg4KSV4KWA4KSu4KSkIOKCuTQuMTkg4KSq4KWN4KSw4KSk4KS_IOCkl-CljeCksOCkvuCkriDgpLngpYjgpaQgLi4uIOCkheCkl-CksCDgpIbgpKombmJzcDsuLi5KAmtlUgEyUgbgpJXgpL5SBuCkueCliFIJ4KS54KWI4KSCIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVkgtOFJ2WEtuT0FFbTlyTEJ4MF9MeUZsSmhzZ2ZyclEtZXhzbnQzbkg0dkE5ZFI1NUtwTGlrU2lUVXVrVUY4QkpOME9RM3NJU0sxMzB5Y0VxWlVfZjN4VzJyWWdIeFktMk93Sks5TFo1QkFac0ZxMlNtZVRUMklDcmVoNXpXemg4MEJyUUdMWGRBVUdMaFhGRHVREgQaAggAGoMMEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQN8LCCMQABgAIAAqLAoBYRUAAAAAGgJhbhoCw6AaA-CkhRoD4KSGGgPgpI8aBuCkleCkvhoD4KS-KhkKBDIwMDAV20qCQBoBMhoJaXY7bjsyMDAwKgkKAmtlFQAAAAAqrAEKBWFuZGFyFQAAAAAaBGFuZGEaB2FuZHJvaWQaBWlubmVyGgZpbnNpZGUaCGludGVyaW9yGglpbnRlcmlvcnMaBXVuZGVyGgzgpIXgpILgpKHgpYcaD-CkheCkguCkoeClh-CksBoM4KSF4KSC4KSk4KSwGgzgpIXgpILgpKbgpLAaD-CkheCkqOCljeCkpuCksBoM4KSF4KSC4KSh4KS-GgppdjtwO2FuZGFyKkQKBXNhYnNlFQAAAAAaBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpTCgVhY2NoYRUAAAAAGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRUAAAA_GgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqVwoHcHJvdGVpbhUAAAA_GhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqJQoDaGFpFQAAAAAaAmhlGgJoaRoG4KS54KWIGgngpLngpYjgpIIyhgIvZ290bz91cmw9Q0FFU3VBRUI2enN3RmRMZkppMG5vRU5UbWRYNndnS1QyNDVXUHZYOGNNajVlTEFVdm9UenF2dERCVURZVkdadEd5VUJndFNuTzdZSDhSbk4wNmszcWF3TVhZaFJqdkdfRkJ6VFl1Q3lEY0tWMWdYUF9yc2doc0dUcURRREd4MGVQcFBOLVU1TFdRU2h2MXJhVVhlSjBxSENxbnBhMnhoWm1LME5XSF94cnhpeVlFdXc2SmVfLTFjbDJDaU5LOWlLd0RZZmZxLWNISlNlUWFxM29qem9WQUdQNGhwTmI0cjVDS2xiV3R4M24xcnNER1VNRW4ybUtubXUzTkZHOqAB4KSt4KS-4KSw4KSkIOCkruClh-CkgiDigrk8Yj4yMDAwPC9iPiDgpLjgpYcg4KSV4KSuIOCkleClgOCkruCkpCDgpLXgpL7gpLLgpYcg4KS44KSw4KWN4KS14KS24KWN4KSw4KWH4KS34KWN4KSgIDxiPuCkteCljeCkueClhzwvYj4g4KSq4KWN4KSw4KWL4KSf4KWA4KSoICgyMDI2KULuATxiPuCkj-CknOCkvC3gpIfgpJ8t4KSH4KSc4KS8IOCkteCkqCDgpLXgpY3gpLngpYcg4KSq4KWN4KSw4KWL4KSf4KWA4KSoIOCkleClieCkqOCljeCkuOClh-CkguCkn-CljeCksOClh-CknzwvYj4gLi4uIOCkquCljeCksOCli-Ckn-ClgOCkqCDgpJXgpYAg4KSV4KWA4KSu4KSkIOKCuTQuMTkg4KSq4KWN4KSw4KSk4KS_IOCkl-CljeCksOCkvuCkriDgpLngpYjgpaQgLi4uIOCkheCkl-CksCDgpIbgpKombmJzcDsuLi5KAmtlUgEyUgbgpJXgpL5SBuCkueCliFIJ4KS54KWI4KSCIgIQAUgAWABoAA",
+        "source": "valuelens.in",
+        "read_more_link": "https://translate.google.com/translate?u=https://valuelens.in/best-whey-protein-under-2000-india&hl=hi&sl=en&tl=hi&client=srp#:~:text=%E0%A4%8F%E0%A4%9C%E0%A4%BC%2D%E0%A4%87%E0%A4%9F%2D%E0%A4%87%E0%A4%9C%E0%A4%BC%20%E0%A4%B5%E0%A4%A8%20%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8%20%E0%A4%95%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9F&text=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8%20%E0%A4%95%E0%A5%80%20%E0%A4%95%E0%A5%80%E0%A4%AE%E0%A4%A4%20%E2%82%B94.19%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF,%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%20%E0%A4%B9%E0%A5%88%E0%A5%A4&text=%E0%A4%85%E0%A4%97%E0%A4%B0%20%E0%A4%86%E0%A4%AA%20%E0%A4%AC%E0%A4%BF%E0%A4%A8%E0%A4%BE%20%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%B5%E0%A4%B0%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE,ONE%20%E0%A4%8F%E0%A4%95%20%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE%20%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%20%E0%A4%B9%E0%A5%88%E0%A5%A4"
+      },
+      {
+        "position": 6,
+        "title": "Buy Whey Protein Under 2000 Online",
+        "link": "https://www.nykaa.com/dp/whey-protein-under-2000",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVihK-NgI2VEPg0ckwl2e-L0iG8rUZ42E45wL9BB5Ld_YFY4drzvFWOTv0vbVri1ZWDy7wN1iK2xEaxLxwk1u4FdvwALeC228YDTepfdCNLPoMjDU0FCoJs1Pyy1iRTy5JL0hX0zuH&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQFnoECCoQAQ&uoh=1",
+        "displayed_link": "https://www.nykaa.com › whey-protein-under-2000",
+        "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACQBQCdASogACAAPtFAtFooIqgoFAEAGglsAKwvoJ9VIj40Qg4OzRDP7PDzU9YQjQhUY4mrAAD--lUxqIF0mpwhu20OjpvMvq0-nVdXmJ4zIPbSP2RZy5ZM96YyULpf-7NI31C8fxukmbYGSnPs3NtCk8m8VFKNTiTI9wf6FTTrAiexvvBCihelSQ1iV8IydU7blCNLJA_JdaT8qZqG4yAYPsHZX2bRL8LgF3ids-1GWNVg5fwg7AwYh8tfvpvZQPnoi2RDjHeniVBJ_4_4PJfEY0-iXAyZvQdgA3XgLhvTT46qquDixUz1Blaiihyn3iwcF3NamkmmNX-XoR7b6_DqgAA.webp",
+        "snippet": "Buy Whey Protein Under 2000 Online ; NAKPRO Impact Whey Protein Powder - Double Rich Chocolate · Impact Whey Protein Powder - Double Rich Chocolate. ₹2600 ...",
+        "snippet_highlighted_words": [
+          "NAKPRO Impact Whey Protein Powder"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.7,
+              "store_rating": 406
+            },
+            "extensions": [
+              "4.7",
+              "store rating (406)",
+              "Free delivery"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Buy Whey Protein Under 2000 Online ; NAKPRO Impact Whey Protein Powder - Double Rich Chocolate · Impact Whey Protein Powder - Double Rich Chocolate. ₹2600 ...",
+            "source_info_link": "https://www.nykaa.com/dp/whey-protein-under-2000",
+            "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACQBQCdASogACAAPtFAtFooIqgoFAEAGglsAKwvoJ9VIj40Qg4OzRDP7PDzU9YQjQhUY4mrAAD--lUxqIF0mpwhu20OjpvMvq0-nVdXmJ4zIPbSP2RZy5ZM96YyULpf-7NI31C8fxukmbYGSnPs3NtCk8m8VFKNTiTI9wf6FTTrAiexvvBCihelSQ1iV8IydU7blCNLJA_JdaT8qZqG4yAYPsHZX2bRL8LgF3ids-1GWNVg5fwg7AwYh8tfvpvZQPnoi2RDjHeniVBJ_4_4PJfEY0-iXAyZvQdgA3XgLhvTT46qquDixUz1Blaiihyn3iwcF3NamkmmNX-XoR7b6_DqgAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVmloSy1OZ0kyVkVQZzBja3dsMmUtTDBpRzhyVVo0MkU0NXdMOUJCNUxkX1lGWTRkcnp2RldPVHYwdmJWcmkxWldEeTd3TjFpSzJ4RWF4THh3azF1NEZkdndBTGVDMjI4WURUZXBmZENOTFBvTWpEVTBGQ29KczFQeXkxaVJUeTVKTDBoWDB6dUgSBBoCCAAa9wkSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA0wkIIxAAGAAgACosCgFhFcGBhj4aAmFuGgLDoBoD4KSFGgPgpIYaA-CkjxoG4KSV4KS-GgPgpL4qGQoEMjAwMBV6qplAGgEyGglpdjtuOzIwMDAqCQoCa2UVAAAAACqsAQoFYW5kYXIVAAAAABoEYW5kYRoHYW5kcm9pZBoFaW5uZXIaBmluc2lkZRoIaW50ZXJpb3IaCWludGVyaW9ycxoFdW5kZXIaDOCkheCkguCkoeClhxoP4KSF4KSC4KSh4KWH4KSwGgzgpIXgpILgpKTgpLAaDOCkheCkguCkpuCksBoP4KSF4KSo4KWN4KSm4KSwGgzgpIXgpILgpKHgpL4aCml2O3A7YW5kYXIqRAoFc2Fic2UVAAAAABoGc2FiYXNlGgbgpLjgpKwaDOCkuOCkrOCkuOClhxoM4KS44KSs4KS44KS-GgppdjtwO3NhYnNlKlMKBWFjY2hhFQAAAAAaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoFYWNoaGEaBGJlc3QaBGdvb2QaD-CkheCkmuCljeCkm-CkvhoKaXY7cDthY2NoYSpSCgR3aGV5FXAi50AaCeCkteCkvuCkiBoG4KS14KWHGgzgpLXgpY3gpLngpYcaC3doZXlwcm90ZWluGgzgpLXgpY3gpLngpL4aCWl2O3A7d2hleSpXCgdwcm90ZWluFcbDBUEaFeCkquCljeCksOCkpeCkv-CkqOClhxoLd2hleXByb3RlaW4aFeCkquCljeCksOCkpeCkv-CkqOCkvhoMaXY7cDtwcm90ZWluKlsKBGthdW4VAAAAABoDa29uGgRrb3VuGgngpJXgpL_gpLgaD-CkleCkv-CkuOCkqOClhxoJ4KSV4KWL4KSjGgngpJXgpYzgpKgaBmthdW5zYRoJaXY7cDtrYXVuKkcKAnNhFQAAAAAaDHNvdXRoIGFmcmljYRoG4KSP4KS4GgngpI_gpLjgpI8aA-CkuBoG4KS44KS-GgbgpLjgpYAaBmthdW5zYSolCgNoYWkVAAAAABoCaGUaAmhpGgbgpLngpYgaCeCkueCliOCkgjKeAS9nb3RvP3VybD1DQUVTYXdIck96QVZpaEstTmdJMlZFUGcwY2t3bDJlLUwwaUc4clVaNDJFNDV3TDlCQjVMZF9ZRlk0ZHJ6dkZXT1R2MHZiVnJpMVpXRHk3d04xaUsyeEVheEx4d2sxdTRGZHZ3QUxlQzIyOFlEVGVwZmRDTkxQb01qRFUwRkNvSnMxUHl5MWlSVHk1SkwwaFgwenVIOjhCdXkgPGI-V2hleSBQcm90ZWluPC9iPiBVbmRlciA8Yj4yMDAwPC9iPiBPbmxpbmUgLSBOeWthYUKzAUJ1eSBXaGV5IFByb3RlaW4gVW5kZXIgMjAwMCBPbmxpbmUgOyA8Yj5OQUtQUk8gSW1wYWN0IFdoZXkgUHJvdGVpbiBQb3dkZXI8L2I-IC0gRG91YmxlIFJpY2ggQ2hvY29sYXRlICZtaWRkb3Q7IEltcGFjdCBXaGV5IFByb3RlaW4gUG93ZGVyIC0gRG91YmxlIFJpY2ggQ2hvY29sYXRlLiDigrkyNjAwJm5ic3A7Li4uSgJrZVIJ4KS54KWI4KSCUgbgpLngpYhSBuCkleCkvlIBMiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVmloSy1OZ0kyVkVQZzBja3dsMmUtTDBpRzhyVVo0MkU0NXdMOUJCNUxkX1lGWTRkcnp2RldPVHYwdmJWcmkxWldEeTd3TjFpSzJ4RWF4THh3azF1NEZkdndBTGVDMjI4WURUZXBmZENOTFBvTWpEVTBGQ29KczFQeXkxaVJUeTVKTDBoWDB6dUgSBBoCCAAa9wkSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA0wkIIxAAGAAgACosCgFhFcGBhj4aAmFuGgLDoBoD4KSFGgPgpIYaA-CkjxoG4KSV4KS-GgPgpL4qGQoEMjAwMBV6qplAGgEyGglpdjtuOzIwMDAqCQoCa2UVAAAAACqsAQoFYW5kYXIVAAAAABoEYW5kYRoHYW5kcm9pZBoFaW5uZXIaBmluc2lkZRoIaW50ZXJpb3IaCWludGVyaW9ycxoFdW5kZXIaDOCkheCkguCkoeClhxoP4KSF4KSC4KSh4KWH4KSwGgzgpIXgpILgpKTgpLAaDOCkheCkguCkpuCksBoP4KSF4KSo4KWN4KSm4KSwGgzgpIXgpILgpKHgpL4aCml2O3A7YW5kYXIqRAoFc2Fic2UVAAAAABoGc2FiYXNlGgbgpLjgpKwaDOCkuOCkrOCkuOClhxoM4KS44KSs4KS44KS-GgppdjtwO3NhYnNlKlMKBWFjY2hhFQAAAAAaBGFjaGEaBmFjaGNoYRoHYWNoY2hoYRoFYWNoaGEaBGJlc3QaBGdvb2QaD-CkheCkmuCljeCkm-CkvhoKaXY7cDthY2NoYSpSCgR3aGV5FXAi50AaCeCkteCkvuCkiBoG4KS14KWHGgzgpLXgpY3gpLngpYcaC3doZXlwcm90ZWluGgzgpLXgpY3gpLngpL4aCWl2O3A7d2hleSpXCgdwcm90ZWluFcbDBUEaFeCkquCljeCksOCkpeCkv-CkqOClhxoLd2hleXByb3RlaW4aFeCkquCljeCksOCkpeCkv-CkqOCkvhoMaXY7cDtwcm90ZWluKlsKBGthdW4VAAAAABoDa29uGgRrb3VuGgngpJXgpL_gpLgaD-CkleCkv-CkuOCkqOClhxoJ4KSV4KWL4KSjGgngpJXgpYzgpKgaBmthdW5zYRoJaXY7cDtrYXVuKkcKAnNhFQAAAAAaDHNvdXRoIGFmcmljYRoG4KSP4KS4GgngpI_gpLjgpI8aA-CkuBoG4KS44KS-GgbgpLjgpYAaBmthdW5zYSolCgNoYWkVAAAAABoCaGUaAmhpGgbgpLngpYgaCeCkueCliOCkgjKeAS9nb3RvP3VybD1DQUVTYXdIck96QVZpaEstTmdJMlZFUGcwY2t3bDJlLUwwaUc4clVaNDJFNDV3TDlCQjVMZF9ZRlk0ZHJ6dkZXT1R2MHZiVnJpMVpXRHk3d04xaUsyeEVheEx4d2sxdTRGZHZ3QUxlQzIyOFlEVGVwZmRDTkxQb01qRFUwRkNvSnMxUHl5MWlSVHk1SkwwaFgwenVIOjhCdXkgPGI-V2hleSBQcm90ZWluPC9iPiBVbmRlciA8Yj4yMDAwPC9iPiBPbmxpbmUgLSBOeWthYUKzAUJ1eSBXaGV5IFByb3RlaW4gVW5kZXIgMjAwMCBPbmxpbmUgOyA8Yj5OQUtQUk8gSW1wYWN0IFdoZXkgUHJvdGVpbiBQb3dkZXI8L2I-IC0gRG91YmxlIFJpY2ggQ2hvY29sYXRlICZtaWRkb3Q7IEltcGFjdCBXaGV5IFByb3RlaW4gUG93ZGVyIC0gRG91YmxlIFJpY2ggQ2hvY29sYXRlLiDigrkyNjAwJm5ic3A7Li4uSgJrZVIJ4KS54KWI4KSCUgbgpLngpYhSBuCkleCkvlIBMiICEAFIAFgAaAA",
+        "source": "Nykaa",
+        "read_more_link": "https://www.nykaa.com/dp/whey-protein-under-2000#:~:text=Buy%20Whey%20Protein%20Under%202000,Online&text=NAKPRO&text=Impact%20Whey%20Protein%20Powder%20%2D,%E2%82%B92600%E2%82%B9153441%25%20Off"
+      },
+      {
+        "position": 7,
+        "title": "भारत में सबसे अच्छा व्हे प्रोटीन पाउडर कौन सा है? - Quora",
+        "link": "https://hi.quora.com/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE-%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87-1",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwIB6zswFflAdTOuQUe0RglNwBbeSQL7gYr5VIPxkq_iPdgqtT8qs4YndFIPq3ZDCWgt_yKh98GhAoj7ckd7t9Vw4bj4DDFxbIHq_FXzX5a3RyLLuZ4LbbYj1Dn6c6sK4xhdI758B1116L2s_oOvzJhJlFf4LDwiGkIMx8HnisvUXLGDLBrsXOCUD5fkFlREdsSPgUgfC7OyJ4LZgZkBco0RoI1CVQIIX8prizBL914Pwl2VWBLa1OUS9Yx9O97AdHza20DEEMUo5s9Hb-BT43Ersz7pxJrP5Nb3niWeiwkQ6w3T3rh74f2aqn0KLhIALoRgxVkhgahHACpzDDRgHmay90JBhafdcZV8_2o&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQFnoECC8QAQ&uoh=1",
+        "displayed_link": "40+ answers · 7 years ago",
+        "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+        "snippet": "भारत में सबसे अच्छा व्हे प्रोटीन पाउडर कौन सा है?",
+        "about_this_result": {
+          "source": {
+            "description": "ऑप्टिमम न्यूट्रिशन 100% व्हे स्टेन्डर्ड (Optimum Nutrition(ON) 100% Whey Gold Standard) · मसल ब्लेज ...",
+            "source_info_link": "https://hi.quora.com/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE-%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87-1",
+            "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvUCL2dvdG8_dXJsPUNBRVNpd0lCNnpzd0ZmbEFkVE91UVVlMFJnbE53QmJlU1FMN2dZcjVWSVB4a3FfaVBkZ3F0VDhxczRZbmRGSVBxM1pEQ1dndF95S2g5OEdoQW9qN2NrZDd0OVZ3NGJqNERERnhiSUhxX0ZYelg1YTNSeUxMdVo0TGJiWWoxRG42YzZzSzR4aGRJNzU4QjExMTZMMnNfb092ekpoSmxGZjRMRHdpR2tJTXg4SG5pc3ZVWExHRExCcnNYT0NVRDVma0ZsUkVkc1NQZ1VnZkM3T3lKNExaZ1prQmNvMFJvSTFDVlFJSVg4cHJpekJMOTE0UHdsMlZXQkxhMU9VUzlZeDlPOTdBZEh6YTIwREVFTVVvNXM5SGItQlQ0M0Vyc3o3cHhKclA1TmIzbmlXZWl3a1E2dzNUM3JoNzRmMmFxbjBLTGhJQUxvUmd4VmtoZ2FoSEFDcHpERFJnSG1heTkwSkJoYWZkY1pWOF8ybxIEGgIIABrBDBIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkCdDAgjEAAYACAAKiwKAWEVf7fUPRoCYW4aAsOgGgPgpIUaA-CkhhoD4KSPGgbgpJXgpL4aA-CkvioZCgQyMDAwFapWXT4aATIaCWl2O247MjAwMCoJCgJrZRUAAAAAKqwBCgVhbmRhchUAAAAAGgRhbmRhGgdhbmRyb2lkGgVpbm5lchoGaW5zaWRlGghpbnRlcmlvchoJaW50ZXJpb3JzGgV1bmRlchoM4KSF4KSC4KSh4KWHGg_gpIXgpILgpKHgpYfgpLAaDOCkheCkguCkpOCksBoM4KSF4KSC4KSm4KSwGg_gpIXgpKjgpY3gpKbgpLAaDOCkheCkguCkoeCkvhoKaXY7cDthbmRhcipECgVzYWJzZRVF7WE9GgZzYWJhc2UaBuCkuOCkrBoM4KS44KSs4KS44KWHGgzgpLjgpKzgpLjgpL4aCml2O3A7c2Fic2UqUwoFYWNjaGEVAAAAABoEYWNoYRoGYWNoY2hhGgdhY2hjaGhhGgVhY2hoYRoEYmVzdBoEZ29vZBoP4KSF4KSa4KWN4KSb4KS-GgppdjtwO2FjY2hhKlIKBHdoZXkVQv2gPxoJ4KS14KS-4KSIGgbgpLXgpYcaDOCkteCljeCkueClhxoLd2hleXByb3RlaW4aDOCkteCljeCkueCkvhoJaXY7cDt3aGV5KlcKB3Byb3RlaW4VYtyoPxoV4KSq4KWN4KSw4KSl4KS_4KSo4KWHGgt3aGV5cHJvdGVpbhoV4KSq4KWN4KSw4KSl4KS_4KSo4KS-GgxpdjtwO3Byb3RlaW4qWwoEa2F1bhUAAAAAGgNrb24aBGtvdW4aCeCkleCkv-CkuBoP4KSV4KS_4KS44KSo4KWHGgngpJXgpYvgpKMaCeCkleCljOCkqBoGa2F1bnNhGglpdjtwO2thdW4qRwoCc2EVAAAAABoMc291dGggYWZyaWNhGgbgpI_gpLgaCeCkj-CkuOCkjxoD4KS4GgbgpLjgpL4aBuCkuOClgBoGa2F1bnNhKiUKA2hhaRUAAAAAGgJoZRoCaGkaBuCkueCliBoJ4KS54KWI4KSCMvUCL2dvdG8_dXJsPUNBRVNpd0lCNnpzd0ZmbEFkVE91UVVlMFJnbE53QmJlU1FMN2dZcjVWSVB4a3FfaVBkZ3F0VDhxczRZbmRGSVBxM1pEQ1dndF95S2g5OEdoQW9qN2NrZDd0OVZ3NGJqNERERnhiSUhxX0ZYelg1YTNSeUxMdVo0TGJiWWoxRG42YzZzSzR4aGRJNzU4QjExMTZMMnNfb092ekpoSmxGZjRMRHdpR2tJTXg4SG5pc3ZVWExHRExCcnNYT0NVRDVma0ZsUkVkc1NQZ1VnZkM3T3lKNExaZ1prQmNvMFJvSTFDVlFJSVg4cHJpekJMOTE0UHdsMlZXQkxhMU9VUzlZeDlPOTdBZEh6YTIwREVFTVVvNXM5SGItQlQ0M0Vyc3o3cHhKclA1TmIzbmlXZWl3a1E2dzNUM3JoNzRmMmFxbjBLTGhJQUxvUmd4VmtoZ2FoSEFDcHpERFJnSG1heTkwSkJoYWZkY1pWOF8ybzqVAeCkreCkvuCksOCkpCDgpK7gpYfgpIIgPGI-4KS44KSs4KS44KWHIOCkheCkmuCljeCkm-CkviDgpLXgpY3gpLngpYc8L2I-IOCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSV4KWM4KSoIDxiPuCkuOCkvjwvYj4g4KS54KWIPyAtIFF1b3JhQsgBPGI-4KSR4KSq4KWN4KSf4KS_4KSu4KSuIOCkqOCljeCkr-ClguCkn-CljeCksOCkv-CktuCkqCAxMDAlIOCkteCljeCkueClhyDgpLjgpY3gpJ_gpYfgpKjgpY3gpKHgpLDgpY08L2I-4KShIChPcHRpbXVtIE51dHJpdGlvbihPTikgMTAwJSBXaGV5IEdvbGQgU3RhbmRhcmQpICZtaWRkb3Q7IOCkruCkuOCksiDgpKzgpY3gpLLgpYfgpJwmbmJzcDsuLi5KAmtlUgngpLngpYjgpIJSBuCkueCliFIG4KSV4KS-UgEyIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvUCL2dvdG8_dXJsPUNBRVNpd0lCNnpzd0ZmbEFkVE91UVVlMFJnbE53QmJlU1FMN2dZcjVWSVB4a3FfaVBkZ3F0VDhxczRZbmRGSVBxM1pEQ1dndF95S2g5OEdoQW9qN2NrZDd0OVZ3NGJqNERERnhiSUhxX0ZYelg1YTNSeUxMdVo0TGJiWWoxRG42YzZzSzR4aGRJNzU4QjExMTZMMnNfb092ekpoSmxGZjRMRHdpR2tJTXg4SG5pc3ZVWExHRExCcnNYT0NVRDVma0ZsUkVkc1NQZ1VnZkM3T3lKNExaZ1prQmNvMFJvSTFDVlFJSVg4cHJpekJMOTE0UHdsMlZXQkxhMU9VUzlZeDlPOTdBZEh6YTIwREVFTVVvNXM5SGItQlQ0M0Vyc3o3cHhKclA1TmIzbmlXZWl3a1E2dzNUM3JoNzRmMmFxbjBLTGhJQUxvUmd4VmtoZ2FoSEFDcHpERFJnSG1heTkwSkJoYWZkY1pWOF8ybxIEGgIIABrBDBIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkCdDAgjEAAYACAAKiwKAWEVf7fUPRoCYW4aAsOgGgPgpIUaA-CkhhoD4KSPGgbgpJXgpL4aA-CkvioZCgQyMDAwFapWXT4aATIaCWl2O247MjAwMCoJCgJrZRUAAAAAKqwBCgVhbmRhchUAAAAAGgRhbmRhGgdhbmRyb2lkGgVpbm5lchoGaW5zaWRlGghpbnRlcmlvchoJaW50ZXJpb3JzGgV1bmRlchoM4KSF4KSC4KSh4KWHGg_gpIXgpILgpKHgpYfgpLAaDOCkheCkguCkpOCksBoM4KSF4KSC4KSm4KSwGg_gpIXgpKjgpY3gpKbgpLAaDOCkheCkguCkoeCkvhoKaXY7cDthbmRhcipECgVzYWJzZRVF7WE9GgZzYWJhc2UaBuCkuOCkrBoM4KS44KSs4KS44KWHGgzgpLjgpKzgpLjgpL4aCml2O3A7c2Fic2UqUwoFYWNjaGEVAAAAABoEYWNoYRoGYWNoY2hhGgdhY2hjaGhhGgVhY2hoYRoEYmVzdBoEZ29vZBoP4KSF4KSa4KWN4KSb4KS-GgppdjtwO2FjY2hhKlIKBHdoZXkVQv2gPxoJ4KS14KS-4KSIGgbgpLXgpYcaDOCkteCljeCkueClhxoLd2hleXByb3RlaW4aDOCkteCljeCkueCkvhoJaXY7cDt3aGV5KlcKB3Byb3RlaW4VYtyoPxoV4KSq4KWN4KSw4KSl4KS_4KSo4KWHGgt3aGV5cHJvdGVpbhoV4KSq4KWN4KSw4KSl4KS_4KSo4KS-GgxpdjtwO3Byb3RlaW4qWwoEa2F1bhUAAAAAGgNrb24aBGtvdW4aCeCkleCkv-CkuBoP4KSV4KS_4KS44KSo4KWHGgngpJXgpYvgpKMaCeCkleCljOCkqBoGa2F1bnNhGglpdjtwO2thdW4qRwoCc2EVAAAAABoMc291dGggYWZyaWNhGgbgpI_gpLgaCeCkj-CkuOCkjxoD4KS4GgbgpLjgpL4aBuCkuOClgBoGa2F1bnNhKiUKA2hhaRUAAAAAGgJoZRoCaGkaBuCkueCliBoJ4KS54KWI4KSCMvUCL2dvdG8_dXJsPUNBRVNpd0lCNnpzd0ZmbEFkVE91UVVlMFJnbE53QmJlU1FMN2dZcjVWSVB4a3FfaVBkZ3F0VDhxczRZbmRGSVBxM1pEQ1dndF95S2g5OEdoQW9qN2NrZDd0OVZ3NGJqNERERnhiSUhxX0ZYelg1YTNSeUxMdVo0TGJiWWoxRG42YzZzSzR4aGRJNzU4QjExMTZMMnNfb092ekpoSmxGZjRMRHdpR2tJTXg4SG5pc3ZVWExHRExCcnNYT0NVRDVma0ZsUkVkc1NQZ1VnZkM3T3lKNExaZ1prQmNvMFJvSTFDVlFJSVg4cHJpekJMOTE0UHdsMlZXQkxhMU9VUzlZeDlPOTdBZEh6YTIwREVFTVVvNXM5SGItQlQ0M0Vyc3o3cHhKclA1TmIzbmlXZWl3a1E2dzNUM3JoNzRmMmFxbjBLTGhJQUxvUmd4VmtoZ2FoSEFDcHpERFJnSG1heTkwSkJoYWZkY1pWOF8ybzqVAeCkreCkvuCksOCkpCDgpK7gpYfgpIIgPGI-4KS44KSs4KS44KWHIOCkheCkmuCljeCkm-CkviDgpLXgpY3gpLngpYc8L2I-IOCkquCljeCksOCli-Ckn-ClgOCkqCDgpKrgpL7gpIngpKHgpLAg4KSV4KWM4KSoIDxiPuCkuOCkvjwvYj4g4KS54KWIPyAtIFF1b3JhQsgBPGI-4KSR4KSq4KWN4KSf4KS_4KSu4KSuIOCkqOCljeCkr-ClguCkn-CljeCksOCkv-CktuCkqCAxMDAlIOCkteCljeCkueClhyDgpLjgpY3gpJ_gpYfgpKjgpY3gpKHgpLDgpY08L2I-4KShIChPcHRpbXVtIE51dHJpdGlvbihPTikgMTAwJSBXaGV5IEdvbGQgU3RhbmRhcmQpICZtaWRkb3Q7IOCkruCkuOCksiDgpKzgpY3gpLLgpYfgpJwmbmJzcDsuLi5KAmtlUgngpLngpYjgpIJSBuCkueCliFIG4KSV4KS-UgEyIgIQAUgAWABoAA",
+        "source": "Quora"
+      },
+      {
+        "position": 8,
+        "title": "भारत में ₹2000 से कम कीमत में सर्वश्रेष्ठ व्हे प्रोटीन",
+        "link": "https://translate.google.com/translate?u=https://nutrabox.in/blogs/health-blog/best-whey-protein-under-2000-in-india-nutrabox-alpha-whey&hl=hi&sl=en&tl=hi&client=srp&srsltid=AU7gw4UYzbDOsq6LNFqn9XITsD2ecub8JzplzJ-CNurcpE5YjYKuVyS0",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogIB6zswFS5Doq0-bqnTvb46LBrq7S7tfskSOPMGSBN9BhgE39ASd11sHyyVp_HR56JaLq9jHJTta5Qs2n6LQ_S3-Y9_si-kpgdo1213Mmq_DXCUXGRj3a7EZB0E7kiW4DIupGfq2OlfFkvSwOJbhxv2ivvou8HWMSKKZNKvy4yz-Y0_BX82QdOnO8wWtzNO6SnvUaB-kdMCLEV3SEztDUTeZ-XLMfDugkHX3R8SE_hkdqBrwMxCK09ErKb7R-mVbSXKTJ1x6w3widfdipEM1UN2QyQ166EVTUXhzigMTSLnagmWk0nNNlA6QdZ4r2YAUCM0TuGFjrx_bFZvwQXpPjy07NjttI0hF7HfhHT9jFZVmUVPDaWp1VqUN5OzuXf8ZCEOVw&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQFnoECCkQAQ&uoh=1",
+        "displayed_link": "https://nutrabox.in › Health and Fitness Goals",
+        "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALEUgjl6bSSImF_sE266AHaEvbmA5ClRjsXhw1y-4gAA_vYHUkN4KD2fQn_i660lAzlcM0hhrpmBrRlTSleHG-OC5UgoBDnIzTKXDiUl3mtkzTG6f_qaf7YrePgG-hkq_sPrbaRc1sBqMLjKoek9MFqO2-kgllsxAfP8ZFtBWup-HwZ9SUUXS9HpCmv0gwhsQF1D3ptVdZFtSfy5lfTBybgwNnSduRSlnce-k7bb-_ka4jEXUshgnD2_Cx_BLxjtkzwQT_5TJOqPPMU60UiQ_pmL7kI26nx3jifUf36ryu_oV7oOAAAA.webp",
+        "date": "17 Nov 2025",
+        "snippet": "भारत में ₹2000 से कम कीमत में सर्वश्रेष्ठ व्हे प्रोटीन — न्यूट्राबॉक्स अल्फा व्हे.Read more",
+        "snippet_highlighted_words": [
+          "न्यूट्राबॉक्स अल्फा व्हे"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "भारत में ₹2000 से कम कीमत में सर्वश्रेष्ठ व्हे प्रोटीन — न्यूट्राबॉक्स अल्फा व्हे.",
+            "source_info_link": "https://translate.google.com/translate?u=https://nutrabox.in/blogs/health-blog/best-whey-protein-under-2000-in-india-nutrabox-alpha-whey&hl=hi&sl=en&tl=hi&client=srp&srsltid=AU7gw4UYzbDOsq6LNFqn9XITsD2ecub8JzplzJ-CNurcpE5YjYKuVyS0",
+            "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALEUgjl6bSSImF_sE266AHaEvbmA5ClRjsXhw1y-4gAA_vYHUkN4KD2fQn_i660lAzlcM0hhrpmBrRlTSleHG-OC5UgoBDnIzTKXDiUl3mtkzTG6f_qaf7YrePgG-hkq_sPrbaRc1sBqMLjKoek9MFqO2-kgllsxAfP8ZFtBWup-HwZ9SUUXS9HpCmv0gwhsQF1D3ptVdZFtSfy5lfTBybgwNnSduRSlnce-k7bb-_ka4jEXUshgnD2_Cx_BLxjtkzwQT_5TJOqPPMU60UiQ_pmL7kI26nx3jifUf36ryu_oV7oOAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZjX3prcVd4bE9TaG1IUHhwNDg0ZEJzcVB5cnZFZlpYNHJDWkRmZE9qb2VlWXB4ZV9kSWVfZHVyZ3pmc2NEVVh2MnRWSnVHcTJnelM1dnZ6bnJDOFB0UDVkNkVWSDRwcUpBNnlRN0xMMXlEVlF5eDZFaGZLQnFVRVp6NzhtV0ctSnRRUzU4d2pjMVhDR1hxZEpscmlkTUdPeU9PRGZwWktNc09LYUg0akVXNFpubmpFWmFUZkVDaUdkUHFBLS1HSnc2eHhUZ2JvEgQaAggAGqYMEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQIIMCCMQABgAIAAqLAoBYRUAAAAAGgJhbhoCw6AaA-CkhRoD4KSGGgPgpI8aBuCkleCkvhoD4KS-KhkKBDIwMDAVNipOQBoBMhoJaXY7bjsyMDAwKgkKAmtlFQAAAAAqrAEKBWFuZGFyFQAAAAAaBGFuZGEaB2FuZHJvaWQaBWlubmVyGgZpbnNpZGUaCGludGVyaW9yGglpbnRlcmlvcnMaBXVuZGVyGgzgpIXgpILgpKHgpYcaD-CkheCkguCkoeClh-CksBoM4KSF4KSC4KSk4KSwGgzgpIXgpILgpKbgpLAaD-CkheCkqOCljeCkpuCksBoM4KSF4KSC4KSh4KS-GgppdjtwO2FuZGFyKkQKBXNhYnNlFQAAAAAaBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpTCgVhY2NoYRUAAAAAGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRXATJ0_GgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqVwoHcHJvdGVpbhUAAAA_GhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqJQoDaGFpFQAAAAAaAmhlGgJoaRoG4KS54KWIGgngpLngpYjgpIIyvQIvZ290bz91cmw9Q0FFUzRRRUI2enN3RlhsVWpLQzRqTVF1QXJGa09ueTFXNnpqVUdYQWpwV1BDSlhJMjVMY09idklJVDI3Z29EWnJHanFoazFzaEdVV2JQSXZkYXRwbGp1c3NDVHhPejhSZldZek50bTZzV0pTTUtLNUJaVjdMdGw0bmxLSkhqTEd0Q21BaE1WTmlseHdrei11QUlvUkxJd3ZDTk5FaHdaUnkwOFR1SS01QjBrZjdKbVdBc3l1eEM4WGtiSnVqWVdiTlhtUFhjRklONVJiNzVtZGZCMW5jTElFQXQ3YnQ1RTB5N20yTGRkS05FamZQUlhoc0xRQVRJS2tCTmVrTzJNY2pjbTdlOUVFT19jd01LbmVOOVNLVkFyYXZQRXJWc1RTWkV4MkdsbzMyWGVXelo2aG5pazqhAeCkreCkvuCksOCkpCDgpK7gpYfgpIIg4oK5PGI-MjAwMDwvYj4g4KS44KWHIOCkleCkriDgpJXgpYDgpK7gpKQg4KSu4KWH4KSCIOCkuOCksOCljeCkteCktuCljeCksOClh-Ckt-CljeCkoCA8Yj7gpLXgpY3gpLngpYc8L2I-IOCkquCljeCksOCli-Ckn-ClgOCkqCAtIE51dHJhYm94QtkB4KSt4KS-4KSw4KSkIOCkruClh-CkgiDigrkyMDAwIOCkuOClhyDgpJXgpK4g4KSV4KWA4KSu4KSkIOCkruClh-CkgiDgpLjgpLDgpY3gpLXgpLbgpY3gpLDgpYfgpLfgpY3gpKAg4KS14KWN4KS54KWHIOCkquCljeCksOCli-Ckn-ClgOCkqCDigJQgPGI-4KSo4KWN4KSv4KWC4KSf4KWN4KSw4KS-4KSs4KWJ4KSV4KWN4KS4IOCkheCksuCljeCkq-CkviDgpLXgpY3gpLngpYc8L2I-LkoCa2VSCeCkueCliOCkglIG4KS54KWIUgbgpJXgpL5SATIiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZjX3prcVd4bE9TaG1IUHhwNDg0ZEJzcVB5cnZFZlpYNHJDWkRmZE9qb2VlWXB4ZV9kSWVfZHVyZ3pmc2NEVVh2MnRWSnVHcTJnelM1dnZ6bnJDOFB0UDVkNkVWSDRwcUpBNnlRN0xMMXlEVlF5eDZFaGZLQnFVRVp6NzhtV0ctSnRRUzU4d2pjMVhDR1hxZEpscmlkTUdPeU9PRGZwWktNc09LYUg0akVXNFpubmpFWmFUZkVDaUdkUHFBLS1HSnc2eHhUZ2JvEgQaAggAGqYMEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQIIMCCMQABgAIAAqLAoBYRUAAAAAGgJhbhoCw6AaA-CkhRoD4KSGGgPgpI8aBuCkleCkvhoD4KS-KhkKBDIwMDAVNipOQBoBMhoJaXY7bjsyMDAwKgkKAmtlFQAAAAAqrAEKBWFuZGFyFQAAAAAaBGFuZGEaB2FuZHJvaWQaBWlubmVyGgZpbnNpZGUaCGludGVyaW9yGglpbnRlcmlvcnMaBXVuZGVyGgzgpIXgpILgpKHgpYcaD-CkheCkguCkoeClh-CksBoM4KSF4KSC4KSk4KSwGgzgpIXgpILgpKbgpLAaD-CkheCkqOCljeCkpuCksBoM4KSF4KSC4KSh4KS-GgppdjtwO2FuZGFyKkQKBXNhYnNlFQAAAAAaBnNhYmFzZRoG4KS44KSsGgzgpLjgpKzgpLjgpYcaDOCkuOCkrOCkuOCkvhoKaXY7cDtzYWJzZSpTCgVhY2NoYRUAAAAAGgRhY2hhGgZhY2hjaGEaB2FjaGNoaGEaBWFjaGhhGgRiZXN0GgRnb29kGg_gpIXgpJrgpY3gpJvgpL4aCml2O3A7YWNjaGEqUgoEd2hleRXATJ0_GgngpLXgpL7gpIgaBuCkteClhxoM4KS14KWN4KS54KWHGgt3aGV5cHJvdGVpbhoM4KS14KWN4KS54KS-GglpdjtwO3doZXkqVwoHcHJvdGVpbhUAAAA_GhXgpKrgpY3gpLDgpKXgpL_gpKjgpYcaC3doZXlwcm90ZWluGhXgpKrgpY3gpLDgpKXgpL_gpKjgpL4aDGl2O3A7cHJvdGVpbipbCgRrYXVuFQAAAAAaA2tvbhoEa291bhoJ4KSV4KS_4KS4Gg_gpJXgpL_gpLjgpKjgpYcaCeCkleCli-CkoxoJ4KSV4KWM4KSoGgZrYXVuc2EaCWl2O3A7a2F1bipHCgJzYRUAAAAAGgxzb3V0aCBhZnJpY2EaBuCkj-CkuBoJ4KSP4KS44KSPGgPgpLgaBuCkuOCkvhoG4KS44KWAGgZrYXVuc2EqJQoDaGFpFQAAAAAaAmhlGgJoaRoG4KS54KWIGgngpLngpYjgpIIyvQIvZ290bz91cmw9Q0FFUzRRRUI2enN3RlhsVWpLQzRqTVF1QXJGa09ueTFXNnpqVUdYQWpwV1BDSlhJMjVMY09idklJVDI3Z29EWnJHanFoazFzaEdVV2JQSXZkYXRwbGp1c3NDVHhPejhSZldZek50bTZzV0pTTUtLNUJaVjdMdGw0bmxLSkhqTEd0Q21BaE1WTmlseHdrei11QUlvUkxJd3ZDTk5FaHdaUnkwOFR1SS01QjBrZjdKbVdBc3l1eEM4WGtiSnVqWVdiTlhtUFhjRklONVJiNzVtZGZCMW5jTElFQXQ3YnQ1RTB5N20yTGRkS05FamZQUlhoc0xRQVRJS2tCTmVrTzJNY2pjbTdlOUVFT19jd01LbmVOOVNLVkFyYXZQRXJWc1RTWkV4MkdsbzMyWGVXelo2aG5pazqhAeCkreCkvuCksOCkpCDgpK7gpYfgpIIg4oK5PGI-MjAwMDwvYj4g4KS44KWHIOCkleCkriDgpJXgpYDgpK7gpKQg4KSu4KWH4KSCIOCkuOCksOCljeCkteCktuCljeCksOClh-Ckt-CljeCkoCA8Yj7gpLXgpY3gpLngpYc8L2I-IOCkquCljeCksOCli-Ckn-ClgOCkqCAtIE51dHJhYm94QtkB4KSt4KS-4KSw4KSkIOCkruClh-CkgiDigrkyMDAwIOCkuOClhyDgpJXgpK4g4KSV4KWA4KSu4KSkIOCkruClh-CkgiDgpLjgpLDgpY3gpLXgpLbgpY3gpLDgpYfgpLfgpY3gpKAg4KS14KWN4KS54KWHIOCkquCljeCksOCli-Ckn-ClgOCkqCDigJQgPGI-4KSo4KWN4KSv4KWC4KSf4KWN4KSw4KS-4KSs4KWJ4KSV4KWN4KS4IOCkheCksuCljeCkq-CkviDgpLXgpY3gpLngpYc8L2I-LkoCa2VSCeCkueCliOCkglIG4KS54KWIUgbgpJXgpL5SATIiAhABSABYAGgA",
+        "source": "Nutrabox India",
+        "read_more_link": "https://translate.google.com/translate?u=https://nutrabox.in/blogs/health-blog/best-whey-protein-under-2000-in-india-nutrabox-alpha-whey&hl=hi&sl=en&tl=hi&client=srp&srsltid=AU7gw4UYzbDOsq6LNFqn9XITsD2ecub8JzplzJ-CNurcpE5YjYKuVyS0#:~:text=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E2%82%B92000%20%E0%A4%B8%E0%A5%87%20%E0%A4%95%E0%A4%AE,%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8%20%E2%80%94%20%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AC%E0%A5%89%E0%A4%95%E0%A5%8D%E0%A4%B8%20%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AB%E0%A4%BE%20%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Whey Protein under 2000 1kg",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&q=Whey+Protein+under+2000+1kg&sa=X&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ1QJ6BAhIEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Whey+Protein+under+2000+1kg"
+      },
+      {
+        "block_position": 1,
+        "query": "Best protein under 2000 1kg",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&q=Best+protein+under+2000+1kg&sa=X&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ1QJ6BAhKEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Best+protein+under+2000+1kg"
+      },
+      {
+        "block_position": 1,
+        "query": "Best Whey Protein under 2000 2kg",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&q=Best+Whey+Protein+under+2000+2kg&sa=X&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ1QJ6BAhJEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Best+Whey+Protein+under+2000+2kg"
+      },
+      {
+        "block_position": 1,
+        "query": "Best Trustified Whey Protein under 2000",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&q=Best+Trustified+Whey+Protein+under+2000&sa=X&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ1QJ6BAhNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Best+Trustified+Whey+Protein+under+2000"
+      },
+      {
+        "block_position": 1,
+        "query": "Best isolate Protein under 2000",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&q=Best+isolate+Protein+under+2000&sa=X&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Best+isolate+Protein+under+2000"
+      },
+      {
+        "block_position": 1,
+        "query": "Best whey protein powder under 2000",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&q=Best+whey+protein+powder+under+2000&sa=X&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ1QJ6BAhMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=Best+whey+protein+powder+under+2000"
+      },
+      {
+        "block_position": 1,
+        "query": "NATURALTEIN Whey Protein under 2,000",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&q=NATURALTEIN+Whey+Protein+under+2,000&sa=X&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ1QJ6BAhOEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=NATURALTEIN+Whey+Protein+under+2%2C000"
+      },
+      {
+        "block_position": 1,
+        "query": "NATURALTEIN Whey Protein 1kg under 2,000",
+        "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&q=NATURALTEIN+Whey+Protein+1kg+under+2,000&sa=X&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ1QJ6BAhHEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=NATURALTEIN+Whey+Protein+1kg+under+2%2C000"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&ei=HezEapvAMd61qtsP6YXFyQ4&start=10&sa=N&sstk=AS6-VmLLStpcRwXFwQMyRwwdqHDR-3ZvATCpkgEiG8lDiKYNqs-IiS89MJP5gmR-HsdNn2ubo1w8JPGWZKv_3JOguZz9Rv6dB6t_yw&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ8NMDegQIPRAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&ei=HezEapvAMd61qtsP6YXFyQ4&start=10&sa=N&sstk=AS6-VmLLStpcRwXFwQMyRwwdqHDR-3ZvATCpkgEiG8lDiKYNqs-IiS89MJP5gmR-HsdNn2ubo1w8JPGWZKv_3JOguZz9Rv6dB6t_yw&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ8tMDegQIPRAE",
+        "3": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&ei=HezEapvAMd61qtsP6YXFyQ4&start=20&sa=N&sstk=AS6-VmLLStpcRwXFwQMyRwwdqHDR-3ZvATCpkgEiG8lDiKYNqs-IiS89MJP5gmR-HsdNn2ubo1w8JPGWZKv_3JOguZz9Rv6dB6t_yw&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ8tMDegQIPRAG",
+        "4": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&ei=HezEapvAMd61qtsP6YXFyQ4&start=30&sa=N&sstk=AS6-VmLLStpcRwXFwQMyRwwdqHDR-3ZvATCpkgEiG8lDiKYNqs-IiS89MJP5gmR-HsdNn2ubo1w8JPGWZKv_3JOguZz9Rv6dB6t_yw&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ8tMDegQIPRAI",
+        "5": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&ei=HezEapvAMd61qtsP6YXFyQ4&start=40&sa=N&sstk=AS6-VmLLStpcRwXFwQMyRwwdqHDR-3ZvATCpkgEiG8lDiKYNqs-IiS89MJP5gmR-HsdNn2ubo1w8JPGWZKv_3JOguZz9Rv6dB6t_yw&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ8tMDegQIPRAK",
+        "6": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&ei=HezEapvAMd61qtsP6YXFyQ4&start=50&sa=N&sstk=AS6-VmLLStpcRwXFwQMyRwwdqHDR-3ZvATCpkgEiG8lDiKYNqs-IiS89MJP5gmR-HsdNn2ubo1w8JPGWZKv_3JOguZz9Rv6dB6t_yw&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ8tMDegQIPRAM",
+        "7": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&ei=HezEapvAMd61qtsP6YXFyQ4&start=60&sa=N&sstk=AS6-VmLLStpcRwXFwQMyRwwdqHDR-3ZvATCpkgEiG8lDiKYNqs-IiS89MJP5gmR-HsdNn2ubo1w8JPGWZKv_3JOguZz9Rv6dB6t_yw&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ8tMDegQIPRAO",
+        "8": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&ei=HezEapvAMd61qtsP6YXFyQ4&start=70&sa=N&sstk=AS6-VmLLStpcRwXFwQMyRwwdqHDR-3ZvATCpkgEiG8lDiKYNqs-IiS89MJP5gmR-HsdNn2ubo1w8JPGWZKv_3JOguZz9Rv6dB6t_yw&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ8tMDegQIPRAQ",
+        "9": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&ei=HezEapvAMd61qtsP6YXFyQ4&start=80&sa=N&sstk=AS6-VmLLStpcRwXFwQMyRwwdqHDR-3ZvATCpkgEiG8lDiKYNqs-IiS89MJP5gmR-HsdNn2ubo1w8JPGWZKv_3JOguZz9Rv6dB6t_yw&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ8tMDegQIPRAS",
+        "10": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnsghWZNYqfgcCKDr0bKjXk1F0zmDQ:1791290397818&ei=HezEapvAMd61qtsP6YXFyQ4&start=90&sa=N&sstk=AS6-VmLLStpcRwXFwQMyRwwdqHDR-3ZvATCpkgEiG8lDiKYNqs-IiS89MJP5gmR-HsdNn2ubo1w8JPGWZKv_3JOguZz9Rv6dB6t_yw&ved=2ahUKEwjbwufetKWXAxXemmoFHelCMekQ8tMDegQIPRAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Delhi%2C+India&q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&start=90"
+      }
+    }
+  }
+}

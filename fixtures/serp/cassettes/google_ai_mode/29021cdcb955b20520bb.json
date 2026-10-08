@@ -1,0 +1,170 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "कौन सा प्रोटीन पाउडर सबसे अच्छा है",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "hi",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:37:40+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb8e32a8e3ab07f87303",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/loyKt_Ti-Bn7qXlyoo5v5QOqgbGaV5QunWPWJ1MKoDc/6ac4eb8e32a8e3ab07f87303.json",
+      "markdown_endpoint": "https://serpapi.com/searches/loyKt_Ti-Bn7qXlyoo5v5QOqgbGaV5QunWPWJ1MKoDc/6ac4eb8e32a8e3ab07f87303.md",
+      "created_at": "2026-10-06 12:37:34 UTC",
+      "processed_at": "2026-10-06 12:37:34 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&udm=50&gl=in&hl=hi&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/loyKt_Ti-Bn7qXlyoo5v5QOqgbGaV5QunWPWJ1MKoDc/6ac4eb8e32a8e3ab07f87303.html",
+      "prettify_html_file": "https://serpapi.com/searches/loyKt_Ti-Bn7qXlyoo5v5QOqgbGaV5QunWPWJ1MKoDc/6ac4eb8e32a8e3ab07f87303.prettify",
+      "total_time_taken": 6.31
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "कौन सा प्रोटीन पाउडर सबसे अच्छा है",
+      "hl": "hi",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "सबसे अच्छा प्रोटीन पाउडर इस बात पर निर्भर करता है कि आपका लक्ष्य (Goal) क्या है, आपका बजट कितना है और आपकी डाइटरी ज़रूरतें क्या हैं। बाजार में कई बेहतरीन ब्रांड्स उपलब्ध हैं, जिन्हें उनकी शुद्धता और गुणवत्ता के आधार पर निम्नलिखित श्रेणियों में बांटा गया है:",
+        "snippet_highlighted_words": [
+          "सबसे अच्छा प्रोटीन पाउडर इस बात पर निर्भर करता है कि आपका लक्ष्य (Goal) क्या है, आपका बजट कितना है और आपकी डाइटरी ज़रूरतें क्या हैं"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "1. इंटरनेशनल और प्रीमियम ब्रांड्स (Best International Brands)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey: यह दुनिया भर में सबसे लोकप्रिय और भरोसेमंद बेंचमार्क है। इसमें उच्च गुणवत्ता वाला व्हे प्रोटीन कॉन्सेंट्रेट और आइसोलेट मिलता है, जो मांसपेशियों की रिकवरी के लिए बेहतरीन है।",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Isopure Low Carb / Zero Carb Whey Isolate: यदि आप बिना अतिरिक्त फैट और कार्ब्स के शुद्ध प्रोटीन चाहते हैं (विशेषकर वजन घटाने या लीन मास के लिए), तो Isopure Protein on Amazon एक शानदार विकल्प है।",
+            "snippet_links": [
+              {
+                "text": "Isopure Protein on Amazon",
+                "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. भारतीय और भरोसेमंद ब्रांड्स (Best Indian & Value Brands)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "MuscleBlaze Biozyme Iso-Zero / Performance Whey: यह भारत के सबसे लोकप्रिय ब्रांड्स में से एक है। इसे खासकर भारतीय पाचन तंत्र को ध्यान में रखकर बनाया गया है ताकि पेट से जुड़ी कोई असुविधा न हो।",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "The Whole Truth Raw Whey Protein: अगर आप बिना किसी आर्टिफिशियल फ्लेवर, स्वीटिनर या केमिकल वाला बिल्कुल शुद्ध और साफ-सुथरा (Clean-label) प्रोटीन चाहते हैं, तो यह सबसे अच्छे विकल्पों में से एक है।",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "AS-IT-IS Nutrition / NAKPRO: यदि आप कम बजट में बिना फ्लेवर वाला (Unflavoured) रॉ व्हे प्रोटीन ढूंढ रहे हैं, तो HealthKart Clean Whey Rankings के अनुसार ये बजट-फ्रेंडली और भरोसेमंद विकल्प हैं।",
+            "snippet_links": [
+              {
+                "text": "HealthKart Clean Whey Rankings",
+                "link": "https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/?srsltid=AU7gw4WQ3athHUNeOTmZL7BegAil03TWQfXwaBqe4hflq8crNW3GHW36"
+              }
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "आपके लिए कौन सा सही रहेगा? चुनाव कैसे करें:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "मांसपेशियां बढ़ाने (Muscle Building) के लिए: Optimum Nutrition Gold Standard या MuscleBlaze Biozyme लें।"
+          },
+          {
+            "snippet": "वजन घटाने (Weight Loss) या लीन बॉडी के लिए: व्हे प्रोटीन आइसोलेट (जैसे Isopure या Nutrabay Isolate) चुनें।",
+            "snippet_links": [
+              {
+                "text": "Nutrabay Isolate",
+                "link": "https://nutrabay.com/product-category/bodybuilding/proteins/whey-proteins/"
+              }
+            ]
+          },
+          {
+            "snippet": "कम बजट के लिए: AS-IT-IS या NAKPRO का रॉ व्हे (Raw Whey) ट्राई करें।",
+            "reference_indexes": [
+              0,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "सही चुनाव करने में मदद के लिए कृपया मुझे बताएं:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "आपका मुख्य लक्ष्य क्या है? (मांसपेशियां बढ़ाना, वजन घटाना या सिर्फ डेली प्रोटीन पूरा करना)"
+          },
+          {
+            "snippet": "क्या आपको कोई पाचन समस्या (जैसे लैक्टोज इंटॉलरेंस) है?"
+          },
+          {
+            "snippet": "आपका बजट लगभग कितना है?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Top 7 Cleanest Whey Proteins in India (2026) - HealthKart",
+        "link": "https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/?srsltid=AU7gw4WQ3athHUNeOTmZL7BegAil03TWQfXwaBqe4hflq8crNW3GHW36",
+        "snippet": "AS-IT-IS ONE Whey Protein Concentrate (Unflavoured) NAKPRO Gold Clean Raw Whey Protein Concentrate (Unflavoured) Overall Score: 7.85/10.",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTG69IacZ0eMAAWJrzptzqlAdwHDUTdNnwsBsFc9_zwwdvVf8LZaobcJvqeAkaftEGyJg_Q9HWGvgy7mQoCiEzXsKZpBpBnvdWGnjyZ"
+      },
+      {
+        "index": 1,
+        "title": "Buy Whey Protein in India 2026 | Original Products - Nutrabay",
+        "link": "https://nutrabay.com/product-category/bodybuilding/proteins/whey-proteins/",
+        "snippet": "This low-carb, low-fat, and high-protein formulation provides 25 g of pure whey isolate. It is one of the best protein powders for weight loss. provides 25 grams o...",
+        "source": "Nutrabay",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://nutrabay.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-eW2gjgcmaR6bCpHLYm3vC0DBI98uc_j6eiCJRFlkt_BM_o99bgXj2BKJA7uKTZGTxImCgwFkPNtM-RRdLpLlPOOG41SR4nvrF_BZ"
+      }
+    ],
+    "reconstructed_markdown": "सबसे अच्छा प्रोटीन पाउडर इस बात पर निर्भर करता है कि आपका लक्ष्य \\(Goal\\) क्या है, आपका बजट कितना है और आपकी डाइटरी ज़रूरतें क्या हैं। बाजार में कई बेहतरीन ब्रांड्स उपलब्ध हैं, जिन्हें उनकी शुद्धता और गुणवत्ता के आधार पर निम्नलिखित श्रेणियों में बांटा गया है:\n\n### 1. इंटरनेशनल और प्रीमियम ब्रांड्स \\(Best International Brands\\)\n\n- Optimum Nutrition \\(ON\\) Gold Standard 100% Whey: यह दुनिया भर में सबसे लोकप्रिय और भरोसेमंद बेंचमार्क है। इसमें उच्च गुणवत्ता वाला व्हे प्रोटीन कॉन्सेंट्रेट और आइसोलेट मिलता है, जो मांसपेशियों की रिकवरी के लिए बेहतरीन है। [0]\n- Isopure Low Carb / Zero Carb Whey Isolate: यदि आप बिना अतिरिक्त फैट और कार्ब्स के शुद्ध प्रोटीन चाहते हैं \\(विशेषकर वजन घटाने या लीन मास के लिए\\), तो [Isopure Protein on Amazon](https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031) एक शानदार विकल्प है।\n\n### 2. भारतीय और भरोसेमंद ब्रांड्स \\(Best Indian & Value Brands\\)\n\n- MuscleBlaze Biozyme Iso\\-Zero / Performance Whey: यह भारत के सबसे लोकप्रिय ब्रांड्स में से एक है। इसे खासकर भारतीय पाचन तंत्र को ध्यान में रखकर बनाया गया है ताकि पेट से जुड़ी कोई असुविधा न हो। [0]\n- The Whole Truth Raw Whey Protein: अगर आप बिना किसी आर्टिफिशियल फ्लेवर, स्वीटिनर या केमिकल वाला बिल्कुल शुद्ध और साफ\\-सुथरा \\(Clean\\-label\\) प्रोटीन चाहते हैं, तो यह सबसे अच्छे विकल्पों में से एक है। [0]\n- AS\\-IT\\-IS Nutrition / NAKPRO: यदि आप कम बजट में बिना फ्लेवर वाला \\(Unflavoured\\) रॉ व्हे प्रोटीन ढूंढ रहे हैं, तो [HealthKart Clean Whey Rankings](https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/?srsltid=AU7gw4WQ3athHUNeOTmZL7BegAil03TWQfXwaBqe4hflq8crNW3GHW36) के अनुसार ये बजट\\-फ्रेंडली और भरोसेमंद विकल्प हैं। [0]\n\n### आपके लिए कौन सा सही रहेगा? चुनाव कैसे करें:\n\n- मांसपेशियां बढ़ाने \\(Muscle Building\\) के लिए: Optimum Nutrition Gold Standard या MuscleBlaze Biozyme लें।\n- वजन घटाने \\(Weight Loss\\) या लीन बॉडी के लिए: व्हे प्रोटीन आइसोलेट \\(जैसे Isopure या [Nutrabay Isolate](https://nutrabay.com/product-category/bodybuilding/proteins/whey-proteins/)\\) चुनें।\n- कम बजट के लिए: AS\\-IT\\-IS या NAKPRO का रॉ व्हे \\(Raw Whey\\) ट्राई करें। [0] [1]\n\nसही चुनाव करने में मदद के लिए कृपया मुझे बताएं:\n\n- आपका मुख्य लक्ष्य क्या है? \\(मांसपेशियां बढ़ाना, वजन घटाना या सिर्फ डेली प्रोटीन पूरा करना\\)\n- क्या आपको कोई पाचन समस्या \\(जैसे लैक्टोज इंटॉलरेंस\\) है?\n- आपका बजट लगभग कितना है?\n\n\n### References\n\n[0] [Top 7 Cleanest Whey Proteins in India \\(2026\\) \\- HealthKart](https://www.google.com/goto?url=CAES9QEB6zswFfCaUnkax2oQlw-p2XuYGlhw0bMqp-CpL031H3nfen3uQJTHylMgfpoUO3k-DCQBKw44wIK8Q6kPHl4Oosc3mfTLruZNVq8v1-DGIfpc66Jt7xbIJtfiZJkU-R2gj1KlH8dBxmyKwvikB2fQBnZprIJKxa2Ghe9z_RSU-IHd6q2LBrk7ECAd2ybMuCP8ZJES27SqzRZPtjzwuvnOxngRwGk6uBInh1eLs7FxrbGfjWnX93r1nzlg1dOCS3H_v9yqJBcEJ6EMdnR6OcSrTC3SX-ubjUXQiT1gisgBKZRDdplKhROZlbWaE1zfarF5yS7n1Q) — AS\\-IT\\-IS ONE Whey Protein Concentrate \\(Unflavoured\\) NAKPRO Gold Clean Raw Whey Protein Concentrate \\(Unflavoured\\) Overall Score: 7.85/10.\n\n[1] [Buy Whey Protein in India 2026 \\| Original Products \\- Nutrabay](https://www.google.com/goto?url=CAEShQEB6zswFYSp0m4PPBLgmDCBOf9hRKNl1cUBHgY-8IhM6zixLwWVDu470U8dbqlkVHX9X2zyV3eNsDaQsxuO8b09ZSlJKtgaLSRj1nXDUJ4_7dtPVMui6y-ni8DEJXNcb6G5E09ynQHFuR2XoNKd9I97MKLivp7bnAcZdmCPX2hQr5b0vjhb) — This low\\-carb, low\\-fat, and high\\-protein formulation provides 25 g of pure whey isolate. It is one of the best protein powders for weight loss. provides 25 grams o...\n"
+  }
+}

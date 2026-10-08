@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Check Brand Finds</title>
+  <link rel="stylesheet" href="/styles.css?v=3">
+  <style>
+    .card { background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px; padding: 18px; margin-top: 16px; }
+    .card.done { border-color: var(--accent); }
+    .meta { font-size: .82rem; color: var(--muted); }
+    .q { font-weight: 600; margin: 4px 0 10px; }
+    .answer { white-space: pre-wrap; font-size: .95rem; line-height: 1.7; max-height: 380px; overflow: auto;
+      border: 1px solid var(--grid); border-radius: 8px; padding: 12px; background: var(--page); }
+    mark { background: #ffe58a; color: #0b0b0b; border-radius: 3px; padding: 0 2px; }
+    mark.wrong { background: #ffc9c9; text-decoration: line-through; }
+    mark.right { background: #b2f2bb; }
+    .finds { display: grid; gap: 6px; margin-top: 12px; }
+    .find { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: .92rem; }
+    .find b { min-width: 150px; }
+    .find label { display: inline-flex; gap: 4px; align-items: center; cursor: pointer; padding: 4px 10px;
+      border: 1px solid var(--border); border-radius: 999px; }
+    .find input { accent-color: var(--accent); }
+    .other { margin-top: 12px; display: grid; gap: 6px; font-size: .9rem; }
+    .other input[type=text] { font: inherit; padding: 8px; border: 1px solid var(--border); border-radius: 8px;
+      background: var(--surface-1); color: var(--text-primary); }
+    .bar { position: sticky; top: 0; z-index: 5; background: var(--page); padding: 10px 0; display: flex; gap: 12px;
+      align-items: center; flex-wrap: wrap; border-bottom: 1px solid var(--grid); }
+    button { font: 600 .95rem system-ui, sans-serif; padding: 8px 16px; border-radius: 8px; border: 0; cursor: pointer;
+      background: var(--accent); color: #fff; }
+    button:focus-visible { outline: 2px solid var(--text-primary); outline-offset: 2px; }
+    .done-count { font-size: .85rem; color: var(--text-secondary); }
+    .how { color: var(--text-secondary); font-size: .95rem; max-width: 70ch; }
+    .how li { margin: 4px 0; }
+  </style>
+</head>
+<body>
+<div class="viz-root">
+  <p class="eyebrow">ShelfRadar · accuracy check · no brand knowledge needed</p>
+  <h1>Did the tool spot the right brand names?</h1>
+  <ol class="how">
+    <li>In each answer, the words the tool counted as a brand are <mark>highlighted in yellow</mark>.</li>
+    <li>For each highlight, click <b>Right</b> if that word is used as a product or brand name there,
+      or <b>Wrong</b> if it is an ordinary word (for example "atom" meaning a tiny particle).</li>
+    <li>Glance through the answer. If you see another product or company name that is <i>not</i> highlighted,
+      type it in the box (for example: Ultimate Nutrition, Biozyme). If you see none, tick "Nothing else".</li>
+    <li>When the counter says 30 of 30, press <b>Save</b>.</li>
+  </ol>
+  <div class="bar">
+    <button id="save" type="button">Save</button>
+    <span id="progress" class="done-count" role="status"></span>
+  </div>
+  <div id="cards"></div>
+</div>
+<script src="/label.js?v=2"></script>
+</body>
+</html>

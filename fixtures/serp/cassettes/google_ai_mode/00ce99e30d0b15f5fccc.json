@@ -1,0 +1,197 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:39:31+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebf5d58a7a3d58a7bdc0",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/qgrTHYP_qZu9XGeUJfi1Tc-dXuv8aVnXBoLEXyp_v9g/6ac4ebf5d58a7a3d58a7bdc0.json",
+      "markdown_endpoint": "https://serpapi.com/searches/qgrTHYP_qZu9XGeUJfi1Tc-dXuv8aVnXBoLEXyp_v9g/6ac4ebf5d58a7a3d58a7bdc0.md",
+      "created_at": "2026-10-06 12:39:17 UTC",
+      "processed_at": "2026-10-06 12:39:17 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&udm=50&gl=in&hl=en&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/qgrTHYP_qZu9XGeUJfi1Tc-dXuv8aVnXBoLEXyp_v9g/6ac4ebf5d58a7a3d58a7bdc0.html",
+      "prettify_html_file": "https://serpapi.com/searches/qgrTHYP_qZu9XGeUJfi1Tc-dXuv8aVnXBoLEXyp_v9g/6ac4ebf5d58a7a3d58a7bdc0.prettify",
+      "total_time_taken": 13.99
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "2000 rupaye ke andar sabse acche aur bharosemand whey protein options me se FUELONE Impact Whey Protein Blend aur Atoms/As-It-Is ke budget variants sabse behtareen maane jaate hain.",
+        "snippet_highlighted_words": [
+          "2000 rupaye ke andar sabse acche aur bharosemand whey protein options me se FUELONE Impact Whey Protein Blend aur Atoms/As-It-Is ke budget variants sabse behtareen maane jaate hain"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Agar aapka budget 2000 rupaye tak ka hai, toh aapko aam taur par 1kg ki packing me whey protein blend ya concentrate milta hai. Niche kuch top budget options diye gaye hain jo quality aur price ke lihaz se acche hain:",
+        "reference_indexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "FUELONE Impact Whey Protein Blend (1kg): Iski keemat lagbhag ₹1,400 se ₹1,600 ke beech hoti hai. Isme prati scoop lagbhag 23g protein aur acchi matra me BCAA milta hai, jo budget users ke liye ek accha विकल्प hai.",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Atom Power Protein / Beginners Whey: Ye bhi ₹1,600 se ₹1,800 ki range me mil jata hai aur beginners ke liye ek sasta aur prabhavi vikalp hai."
+          },
+          {
+            "snippet": "As-It-Is Nutrition Whey Protein Concentrate: Kai baar sales ya discounts ke dauran unflavoured 1kg pack is range ke aas-paas mil jata hai, jo ki lab-tested aur pure hota hai.",
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Budget Whey Protein Ki Tulna"
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "Utpad (Product)",
+            "Anumanit Keemat (1kg)",
+            "Prati Scoop Protein",
+            "Visheshata (Key Feature)"
+          ],
+          [
+            "FuelOne Impact Blend",
+            "₹1,400 - ₹1,600",
+            "23 grams",
+            "Budget-friendly, accha BCAA profile"
+          ],
+          [
+            "Atom Power Whey",
+            "₹1,600 - ₹1,800",
+            "20-22 grams",
+            "Beginners ke liye uchit"
+          ]
+        ],
+        "detailed": [
+          [
+            {
+              "snippet": "Utpad (Product)"
+            },
+            {
+              "snippet": "Anumanit Keemat (1kg)"
+            },
+            {
+              "snippet": "Prati Scoop Protein"
+            },
+            {
+              "snippet": "Visheshata (Key Feature)"
+            }
+          ],
+          [
+            {
+              "snippet": "FuelOne Impact Blend"
+            },
+            {
+              "snippet": "₹1,400 - ₹1,600"
+            },
+            {
+              "snippet": "23 grams"
+            },
+            {
+              "snippet": "Budget-friendly, accha BCAA profile"
+            }
+          ],
+          [
+            {
+              "snippet": "Atom Power Whey"
+            },
+            {
+              "snippet": "₹1,600 - ₹1,800"
+            },
+            {
+              "snippet": "20-22 grams"
+            },
+            {
+              "snippet": "Beginners ke liye uchit"
+            }
+          ]
+        ],
+        "formatted": [
+          {
+            "utpad_product": "FuelOne Impact Blend",
+            "anumanit_keemat_1kg": "₹1,400 - ₹1,600",
+            "prati_scoop_protein": "23 grams",
+            "visheshata_key_feature": "Budget-friendly, accha BCAA profile"
+          },
+          {
+            "utpad_product": "Atom Power Whey",
+            "anumanit_keemat_1kg": "₹1,600 - ₹1,800",
+            "prati_scoop_protein": "20-22 grams",
+            "visheshata_key_feature": "Beginners ke liye uchit"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Agar aap batana chahein ki aapka primary goal kya hai (jaise muscle building ya weight loss) aur kya aapko flavoured ya unflavoured protein chahiye, toh main aapko aur bhi sahi sujhav de sakta hoon."
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Whey Protein Under 2000",
+        "link": "https://www.amazon.in/whey-protein-under-2000/s?k=whey+protein+under+2000",
+        "snippet": "FUELONE Impact Whey Protein Blend, Chocolate, 1kg (2.2lbs) 23g Protein per Scoop | 4.71g BCAA, 3.21g Glutamic Acid Options: 1 size, 2 flavours ₹1,599(₹159.90/100.",
+        "source": "Amazon.in",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9fgIW3wxMfc5q6DZdG1QCbCkoxx_93hfvBHzQ5fCSMMIctOmO5zrFLdG4gRkyIYPnFE-zIYPs_SLOmvZSg0eQwMm3g12fODiJBSdW"
+      },
+      {
+        "index": 1,
+        "title": "Buy Best Whey Protein Under 2000 at Lowest Prices - HyugaLife",
+        "link": "https://hyugalife.com/product-category/best-whey-protein-under-2000?srsltid=AU7gw4UK1nyMhHmA6EtB-Mp31vPrK1WpSmyIiOqT9MLZfb9Sy7JIPbjV",
+        "snippet": "best whey protein under 2000. 25 Servings | 25g Protein. ₹4999 47% OFF. ONE Whey Protein Concentrate I 28g Protein per Serve, Unflavoured. for All Ages Adults. Ser...",
+        "source": "HyugaLife",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hyugalife.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKA2nMnM4SguBsrZ-lsN7_vvFNJ9JUsF626LiLJ4WAkGDmGYxNIWNlehSIa3bbN94q2E1p5qhsLF0ivjrUdISW0x8D2KLKzgvkCo9L"
+      },
+      {
+        "index": 2,
+        "title": "भारत में ₹2000 से कम कीमत वाले सर्वश्रेष्ठ व्हे प्रोटीन (2026)",
+        "link": "https://translate.google.com/translate?u=https://valuelens.in/best-whey-protein-under-2000-india&hl=hi&sl=en&tl=hi&client=sge",
+        "snippet": "₹4.44 | ₹1,849 | … मिश्रण, 76% प्रोटीन | 544 ग्राम | विश्वसनीय",
+        "source": "valuelens.in",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://valuelens.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJWkl0cV1eUTLM7J_VttRk8UX75ujpNzcm-Yg1bQLCni3Dr8pE_f5Lg8I7lJcY8DWMpdd5bg2bPoZ5ZZU63lhJf7OB0_8cAUDb-ClF"
+      }
+    ],
+    "reconstructed_markdown": "2000 rupaye ke andar sabse acche aur bharosemand whey protein options me se FUELONE Impact Whey Protein Blend aur Atoms/As\\-It\\-Is ke budget variants sabse behtareen maane jaate hain. [0] [1]\n\nAgar aapka budget 2000 rupaye tak ka hai, toh aapko aam taur par 1kg ki packing me whey protein blend ya concentrate milta hai. Niche kuch top budget options diye gaye hain jo quality aur price ke lihaz se acche hain: [0] [2]\n\n- FUELONE Impact Whey Protein Blend \\(1kg\\): Iski keemat lagbhag ₹1,400 se ₹1,600 ke beech hoti hai. Isme prati scoop lagbhag 23g protein aur acchi matra me BCAA milta hai, jo budget users ke liye ek accha विकल्प hai. [0]\n- Atom Power Protein / Beginners Whey: Ye bhi ₹1,600 se ₹1,800 ki range me mil jata hai aur beginners ke liye ek sasta aur prabhavi vikalp hai.\n- As\\-It\\-Is Nutrition Whey Protein Concentrate: Kai baar sales ya discounts ke dauran unflavoured 1kg pack is range ke aas\\-paas mil jata hai, jo ki lab\\-tested aur pure hota hai. [1]\n\n### Budget Whey Protein Ki Tulna\n\n| Utpad \\(Product\\) | Anumanit Keemat \\(1kg\\) | Prati Scoop Protein | Visheshata \\(Key Feature\\) |\n| --- | --- | --- | --- |\n| FuelOne Impact Blend | ₹1,400 \\- ₹1,600 | 23 grams | Budget\\-friendly, accha BCAA profile |\n| Atom Power Whey | ₹1,600 \\- ₹1,800 | 20\\-22 grams | Beginners ke liye uchit |\n\nAgar aap batana chahein ki aapka primary goal kya hai \\(jaise muscle building ya weight loss\\) aur kya aapko flavoured ya unflavoured protein chahiye, toh main aapko aur bhi sahi sujhav de sakta hoon.\n\n\n### References\n\n[0] [Whey Protein Under 2000](https://www.google.com/goto?url=CAEShAEB6zswFeon_XpbXz-NfpBHgWDerS-vhz0EtYvBG4SstHukDgbuu5tTH3jCg77HFaSY_SB53Tg9aoO7ZgfRwGraC9teYINjKChMwRSHf8KwC2Kc4K-Zkkf8B8aGQGpM6MT-W3no8L5VGyuRmLfmsIFJBFFsBWy99s0JN_t5VbNdVww26MU) — FUELONE Impact Whey Protein Blend, Chocolate, 1kg \\(2.2lbs\\) 23g Protein per Scoop \\| 4.71g BCAA, 3.21g Glutamic Acid Options: 1 size, 2 flavours ₹1,599\\(₹159.90/100.\n\n[1] [Buy Best Whey Protein Under 2000 at Lowest Prices \\- HyugaLife](https://www.google.com/goto?url=CAESwAEB6zswFYOu-zqqAMTIANb9TNBW-II9_Mimq2o3pwH46gpEKj4rOm48oQBnlAU4a5DfWSce8pYPsNJH2--6v90x1F1hBq6vVBbwB7nkGlf9s07-TDfswi_ap0tA7D5r6WQQhPbKjXw8cwhcY_OvDNcQzGazcN6tjFSVLtvLRyAGAp4n_Q276e-yonOoHBjQ1ewcGjjLjIiQJXF8o8CM0QgSmhmnli_Be_uDEJ-lhpuFIu67Xo-wrHlLJ1fyIyZr80w) — best whey protein under 2000. 25 Servings \\| 25g Protein. ₹4999 47% OFF. ONE Whey Protein Concentrate I 28g Protein per Serve, Unflavoured. for All Ages Adults. Ser...\n\n[2] [भारत में ₹2000 से कम कीमत वाले सर्वश्रेष्ठ व्हे प्रोटीन \\(2026\\)](https://www.google.com/goto?url=CAESuAEB6zswFbjEQIrYfDXrgLJg1-ipucR6SP5wRGlD1l9wCUKCcWJy1twDqvOtp2-5-G0UQw6r8qbXs2gHy7T8uqV628yWKxy-p4aaUDAXioprXOxzHblrrU1FojrmZJp_4FC4Q0KUaSmDLJCggyfUZ-tU5PnGCNl_XnAAwIhzpf2OydW3lurNBrUKrIbrS6Tc1H4r9lK3LpUXKHb9sxZyxbxAwqmhKgZHOjV2prTgTfxzkS3vzfuZ7Dku) — ₹4.44 \\| ₹1,849 \\| … मिश्रण, 76% प्रोटीन \\| 544 ग्राम \\| विश्वसनीय\n"
+  }
+}

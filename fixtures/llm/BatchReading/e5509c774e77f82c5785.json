@@ -1,0 +1,235 @@
+{
+  "readings": [
+    {
+      "answer_id": "q4|ai_overview|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition Gold Standard 100% Whey and MuscleBlaze Biozyme Performance Whey are the top-rated protein powders in India for muscle gain."
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "Optimum Nutrition Gold Standard 100% Whey and MuscleBlaze Biozyme Performance Whey are the top-rated protein powders in India for muscle gain."
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "neutral",
+          "quote": "Avvatar Isorich Whey Protein:"
+        },
+        {
+          "brand": "Nutrabay",
+          "stance": "neutral",
+          "quote": "Nutrabay Gold 100% Whey Protein Isolate:"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q4|ai_overview|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "The MuscleBlaze Biozyme Whey Protein and Optimum Nutrition (ON) Gold Standard 100% Whey are the top-rated protein powders for muscle gain in India."
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "The MuscleBlaze Biozyme Whey Protein and Optimum Nutrition (ON) Gold Standard 100% Whey are the top-rated protein powders for muscle gain in India."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "For Tight Budgets: Choose AS-IT-IS or Nakpro for affordable whey concentrate."
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "For Tight Budgets: Choose AS-IT-IS or Nakpro for affordable whey concentrate."
+        },
+        {
+          "brand": "GNC",
+          "stance": "recommended",
+          "quote": "Choose a whey isolate like MuscleBlaze Biozyme Iso Zero or GNC Amp Pure Isolate"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Nakpro",
+          "product": "Nakpro Impact Whey Protein",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "Nakpro Impact Whey Protein: A cost-effective blend of isolate and concentrate offering 24g of protein per serving."
+        }
+      ]
+    },
+    {
+      "answer_id": "q4|copilot|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "सर्वश्रेष्ठ कुल मिलाकर: Optimum Nutrition Gold Standard Whey 1"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "भारत में बेस्ट भारतीय ब्रांड: MuscleBlaze Biozyme 1"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "recommended",
+          "quote": "दुबली मांसपेशियों के लिए: Avvatar Absolute Whey 1"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "वजन घटाने के लिए: Isopure Zero Carb 1"
+        },
+        {
+          "brand": "OZiva",
+          "stance": "recommended",
+          "quote": "वेगन के लिए: OZiva Plant Protein 1"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "Optimum Nutrition Gold Standard Whey — दुनिया के सबसे भरोसेमंद सप्लीमेंट्स में से एक, 24g प्रोटीन, तेज़ पाचन, उच्च BCAA 1"
+        },
+        {
+          "brand": "GNC",
+          "stance": "recommended",
+          "quote": "शुरुआती | MuscleBlaze Biozyme, GNC Pro Performance | 1"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "Optimum Nutrition Gold Standard Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "Optimum Nutrition Gold Standard Whey — दुनिया के सबसे भरोसेमंद सप्लीमेंट्स में से एक, 24g प्रोटीन"
+        },
+        {
+          "brand": "Avvatar",
+          "product": "Avvatar Absolute Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "28g",
+          "quote": "Avvatar Absolute Whey — 28g प्रोटीन, दुबली मांसपेशियों के लिए श्रेष्ठ"
+        }
+      ]
+    },
+    {
+      "answer_id": "q4|copilot|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "कुल मिलाकर बेस्ट: ON Gold Standard Whey 1"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "भारत में बेस्ट ब्रांड: MuscleBlaze Biozyme 1"
+        },
+        {
+          "brand": "Avvatar",
+          "stance": "recommended",
+          "quote": "मसल गेन: Avvatar Absolute Whey 1"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "वजन घटाना: Isopure Zero Carb 1"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "ON Gold Standard Whey को विशेषज्ञों द्वारा “कुल मिलाकर बेस्ट” माना गया है क्योंकि इसमें 24g प्रोटीन, 5.5g BCAA, तेज़ पाचन और उच्च गुणवत्ता की सामग्री मिलती है ।"
+        },
+        {
+          "brand": "OZiva",
+          "stance": "recommended",
+          "quote": "वेगन: Oziva Plant Protein 1"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "ON Gold Standard Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "ON Gold Standard Whey — 24g प्रोटीन, 5.5g BCAA, तेज़ पाचन"
+        },
+        {
+          "brand": "Avvatar",
+          "product": "Avvatar Absolute Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "28g",
+          "quote": "Avvatar Absolute Whey — 28g प्रोटीन, उच्च BCAA, कम फैट"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Biozyme Performance Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "MuscleBlaze Biozyme Performance Whey — बेहतर पाचन, 25g प्रोटीन, क्लिनिकली टेस्टेड"
+        },
+        {
+          "brand": "Isopure",
+          "product": "Isopure Zero Carb",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "Isopure Zero Carb — 25g प्रोटीन, 0 कार्ब, 0 शुगर"
+        },
+        {
+          "brand": "Isopure",
+          "product": "Isopure Zero Carb",
+          "attribute": "sugar_g",
+          "value": "0",
+          "quote": "Isopure Zero Carb — 25g प्रोटीन, 0 कार्ब, 0 शुगर"
+        },
+        {
+          "brand": "OZiva",
+          "product": "Oziva Plant Protein",
+          "attribute": "protein_per_serving_g",
+          "value": "25g",
+          "quote": "Oziva Plant Protein | 25g | वेगन / डेयरी‑फ्री | 1"
+        }
+      ]
+    },
+    {
+      "answer_id": "q4|copilot|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "लेकिन गुणवत्ता के आधार पर ON Gold Standard, Prostar, और Isopure सबसे भरोसेमंद विकल्प हैं"
+        },
+        {
+          "brand": "Ultimate Nutrition",
+          "stance": "recommended",
+          "quote": "लेकिन गुणवत्ता के आधार पर ON Gold Standard, Prostar, और Isopure सबसे भरोसेमंद विकल्प हैं"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "लेकिन गुणवत्ता के आधार पर ON Gold Standard, Prostar, और Isopure सबसे भरोसेमंद विकल्प हैं"
+        },
+        {
+          "brand": "Dymatize",
+          "stance": "recommended",
+          "quote": "Budget-friendly | Prostar, Dymatize"
+        },
+        {
+          "brand": "MuscleTech",
+          "stance": "recommended",
+          "quote": "Fast muscle gain | Muscletech Nitrotech"
+        }
+      ],
+      "claims": []
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" width="960" height="560" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="14">
+  <title>ShelfRadar architecture</title>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#52514e"/>
+    </marker>
+    <style>
+      .box { fill: #ffffff; stroke: #c3c2b7; stroke-width: 1.5; rx: 8; }
+      .key { fill: #e7f0fc; stroke: #2a78d6; stroke-width: 1.5; rx: 8; }
+      .h { font-weight: 700; fill: #0b0b0b; }
+      .t { fill: #52514e; font-size: 12.5px; }
+      .zone { fill: #f6f6f3; stroke: #e1e0d9; rx: 12; }
+      .zt { fill: #898781; font-size: 12px; letter-spacing: .06em; }
+      line, path.l { stroke: #52514e; stroke-width: 1.5; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect width="960" height="560" fill="#fcfcfb"/>
+
+  <rect class="zone" x="16" y="16" width="250" height="528"/>
+  <text class="zt" x="30" y="38">SERPAPI (LIVE OR TAPED)</text>
+  <rect class="box" x="32" y="56" width="218" height="58"/>
+  <text class="h" x="44" y="80">google + google_ai_overview</text>
+  <text class="t" x="44" y="100">AI Overview, organic top 10, PAA</text>
+  <rect class="box" x="32" y="126" width="218" height="46"/>
+  <text class="h" x="44" y="154">google_ai_mode</text>
+  <rect class="box" x="32" y="184" width="218" height="46"/>
+  <text class="h" x="44" y="212">bing_copilot</text>
+  <rect class="box" x="32" y="242" width="218" height="58"/>
+  <text class="h" x="44" y="266">google_autocomplete</text>
+  <text class="t" x="44" y="286">real buying questions</text>
+  <rect class="box" x="32" y="312" width="218" height="58"/>
+  <text class="h" x="44" y="336">locations · account</text>
+  <text class="t" x="44" y="356">validate cities · credits left (free)</text>
+  <text class="t" x="32" y="400">location=Mumbai / Delhi · gl=in</text>
+  <text class="t" x="32" y="418">hl=en / hi · no_cache=true</text>
+  <text class="t" x="32" y="436">questions in English, Hindi, Hinglish</text>
+  <text class="t" x="32" y="454">each cell asked repeatedly</text>
+
+  <rect class="key" x="300" y="56" width="200" height="110"/>
+  <text class="h" x="314" y="80">SerpClient</text>
+  <text class="t" x="314" y="102">cassettes: record / replay</text>
+  <text class="t" x="314" y="120">credit budget + pre-flight</text>
+  <text class="t" x="314" y="138">1 retry · key scrubbing</text>
+  <text class="t" x="314" y="156">concurrency limit 5</text>
+  <line x1="250" y1="160" x2="298" y2="120"/>
+
+  <rect class="box" x="300" y="196" width="200" height="74"/>
+  <text class="h" x="314" y="220">Engine adapters</text>
+  <text class="t" x="314" y="240">4 dialects → one AIAnswer</text>
+  <text class="t" x="314" y="258">ok / no_ai_block / error</text>
+  <line x1="400" y1="166" x2="400" y2="194"/>
+
+  <rect class="key" x="300" y="300" width="200" height="110"/>
+  <text class="h" x="314" y="324">Analyzer (no LLM)</text>
+  <text class="t" x="314" y="346">brand mentions, order</text>
+  <text class="t" x="314" y="364">cited sites + type, translated</text>
+  <text class="t" x="314" y="382">Wilson 95% ranges, tiers</text>
+  <text class="t" x="314" y="400">gaps: citation, organic, top 10</text>
+  <line x1="400" y1="270" x2="400" y2="298"/>
+
+  <rect class="box" x="300" y="440" width="200" height="90"/>
+  <text class="h" x="314" y="464">Fact-check (Gemini)</text>
+  <text class="t" x="314" y="484">stance + product claims</text>
+  <text class="t" x="314" y="502">every quote verified verbatim</text>
+  <text class="t" x="314" y="520">replies taped for replay</text>
+  <line x1="400" y1="410" x2="400" y2="438"/>
+
+  <rect class="box" x="540" y="196" width="170" height="74"/>
+  <text class="h" x="554" y="220">SQLite</text>
+  <text class="t" x="554" y="240">runs · answers</text>
+  <text class="t" x="554" y="258">fact-checks</text>
+  <line x1="500" y1="233" x2="538" y2="233"/>
+
+  <rect class="box" x="540" y="300" width="170" height="74"/>
+  <text class="h" x="554" y="324">Report</text>
+  <text class="t" x="554" y="344">recomputed on read</text>
+  <text class="t" x="554" y="362">never stored stale</text>
+  <line x1="625" y1="270" x2="625" y2="298"/>
+  <line x1="500" y1="485" x2="580" y2="376"/>
+
+  <rect class="zone" x="740" y="16" width="204" height="528"/>
+  <text class="zt" x="754" y="38">OUTPUTS</text>
+  <rect class="box" x="756" y="56" width="172" height="74"/>
+  <text class="h" x="768" y="80">Dashboard</text>
+  <text class="t" x="768" y="100">FastAPI + one page</text>
+  <text class="t" x="768" y="118">replay-only, 0 credits</text>
+  <rect class="box" x="756" y="146" width="172" height="74"/>
+  <text class="h" x="768" y="170">MCP server</text>
+  <text class="t" x="768" y="190">Claude / Cursor tools</text>
+  <text class="t" x="768" y="208">brand_visibility …</text>
+  <rect class="box" x="756" y="236" width="172" height="74"/>
+  <text class="h" x="768" y="260">docs/report.md</text>
+  <text class="t" x="768" y="280">findings with n and</text>
+  <text class="t" x="768" y="298">ranges, limits</text>
+  <rect class="box" x="756" y="326" width="172" height="58"/>
+  <text class="h" x="768" y="350">CSV export</text>
+  <text class="t" x="768" y="370">one row per answer</text>
+  <rect class="box" x="756" y="400" width="172" height="74"/>
+  <text class="h" x="768" y="424">docs/eval.md</text>
+  <text class="t" x="768" y="444">human check: precision</text>
+  <text class="t" x="768" y="462">and recall</text>
+  <path class="l" d="M710 337 C 730 337, 730 93, 754 93"/>
+  <path class="l" d="M710 337 C 730 337, 730 183, 754 183"/>
+  <path class="l" d="M710 337 C 730 337, 730 273, 754 273"/>
+  <path class="l" d="M710 337 C 730 337, 730 355, 754 355"/>
+</svg>

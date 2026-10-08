@@ -1,0 +1,355 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "sabse achha whey protein kaun sa hai",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:35:25+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eadfa973c46d10419b28",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/QQ1rkKs0jGbdjR5emQtl6nc77ajJz3vNgtmmokMKO_Q/6ac4eadfa973c46d10419b28.json",
+      "markdown_endpoint": "https://serpapi.com/searches/QQ1rkKs0jGbdjR5emQtl6nc77ajJz3vNgtmmokMKO_Q/6ac4eadfa973c46d10419b28.md",
+      "created_at": "2026-10-06 12:34:39 UTC",
+      "processed_at": "2026-10-06 12:34:39 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=sabse+achha+whey+protein+kaun+sa+hai&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/QQ1rkKs0jGbdjR5emQtl6nc77ajJz3vNgtmmokMKO_Q/6ac4eadfa973c46d10419b28.html",
+      "total_time_taken": 46.6
+    },
+    "search_parameters": {
+      "q": "sabse achha whey protein kaun sa hai",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "वेब‑रिज़ल्ट के आधार पर Optimum Nutrition (ON) Gold Standard Whey और Ultimate Nutrition Prostar Whey सबसे भरोसेमंद और उच्च‑गुणवत्ता वाले विकल्प माने जाते हैं।",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "संक्षिप्त उत्तर: वेब‑रिज़ल्ट में भारत के टॉप व्हे प्रोटीन में ON Gold Standard, Ultimate Nutrition Prostar, Isopure Low Carb, Dymatize Elite Whey, और Muscletech Nitrotech को सबसे अच्छा बताया गया है MensXP । साथ ही, एक अच्छे व्हे की पहचान—प्रति स्कूप 24g प्रोटीन, 75–80% प्रोटीन, कम शुगर/फिलर, और FSSAI/GMP प्रमाणन—को सबसे महत्वपूर्ण माना गया है ।",
+        "snippet_highlighted_words": [
+          "संक्षिप्त उत्तर:",
+          "ON Gold Standard",
+          "Ultimate Nutrition Prostar",
+          "Isopure Low Carb",
+          "Dymatize Elite Whey",
+          "Muscletech Nitrotech",
+          "प्रति स्कूप 24g प्रोटीन",
+          "75–80% प्रोटीन",
+          "कम शुगर/फिलर",
+          "FSSAI/GMP प्रमाणन"
+        ],
+        "reference_indexes": [
+          0,
+          2
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "⭐ वेब‑रिज़ल्ट के अनुसार टॉप व्हे प्रोटीन",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "नीचे दिए गए ब्रांड सबसे अधिक सुझाए गए हैं:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard Whey प्रति स्कूप 24g प्रोटीन, सिर्फ़ 1g फैट, 1g शुगर, और 5.5g BCAA — इसे “सबसे अच्छा” बताया गया है 1 ।",
+            "snippet_highlighted_words": [
+              "Optimum Nutrition (ON) Gold Standard Whey",
+              "24g प्रोटीन",
+              "1g फैट",
+              "1g शुगर"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Ultimate Nutrition Prostar Whey प्रति स्कूप 25g प्रोटीन (83% प्रोटीन), 6g BCAA — हाई‑क्वालिटी आइसोलेट+कंसन्ट्रेट ब्लेंड 1 ।",
+            "snippet_highlighted_words": [
+              "Ultimate Nutrition Prostar Whey",
+              "25g प्रोटीन"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Isopure Low Carb Whey Isolate 100% आइसोलेट, प्रति स्कूप 25g प्रोटीन, लैक्टोज‑फ्री और ग्लूटेन‑फ्री — कटिंग/फैट‑लॉस के लिए बढ़िया 1 ।",
+            "snippet_highlighted_words": [
+              "Isopure Low Carb Whey Isolate",
+              "25g प्रोटीन"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Dymatize Elite Whey प्रति स्कूप 25g प्रोटीन, अच्छा अमीनो प्रोफाइल — मिक्सिंग और डाइजेशन अच्छा 1 ।",
+            "snippet_highlighted_words": [
+              "Dymatize Elite Whey",
+              "25g प्रोटीन"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "Muscletech Nitrotech प्रति स्कूप 30g प्रोटीन + क्रिएटिन — फास्ट मसल‑गैन के लिए उपयोगी 1 ।",
+            "snippet_highlighted_words": [
+              "Muscletech Nitrotech",
+              "30g प्रोटीन"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ “सबसे अच्छा व्हे” कैसे पहचानें? (वेब‑रिज़ल्ट के अनुसार)",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "iMuscles की गाइड के अनुसार एक अच्छा व्हे प्रोटीन इन मानकों पर खरा उतरता है :",
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रोटीन प्रति स्कूप: 20–25g",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रति स्कूप: 20–25g"
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत: 75–80%",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रतिशत: 75–80%"
+            ]
+          },
+          {
+            "snippet": "कम शुगर और कम फिलर",
+            "snippet_highlighted_words": [
+              "कम शुगर और कम फिलर"
+            ]
+          },
+          {
+            "snippet": "अच्छा BCAA/EAA प्रोफाइल",
+            "snippet_highlighted_words": [
+              "अच्छा BCAA/EAA प्रोफाइल"
+            ]
+          },
+          {
+            "snippet": "FSSAI/GMP प्रमाणन + बैच वेरिफिकेशन",
+            "snippet_highlighted_words": [
+              "FSSAI/GMP प्रमाणन + बैच वेरिफिकेशन"
+            ]
+          },
+          {
+            "snippet": "जल्दी घुलने वाला और साफ़ लेबल",
+            "snippet_highlighted_words": [
+              "जल्दी घुलने वाला और साफ़ लेबल"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "अगर किसी व्हे में प्रति स्कूप सिर्फ़ 12–15g प्रोटीन है, तो वह “सस्ता लेकिन खराब वैल्यू” माना जाता है ।",
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📌 Amazon पर सबसे ज़्यादा बिकने वाले व्हे प्रोटीन",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Amazon बेस्ट‑सेलर लिस्ट में ये सबसे लोकप्रिय हैं :",
+        "reference_indexes": [
+          3
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "MuscleBlaze Biozyme Whey"
+          },
+          {
+            "snippet": "NAKPRO Impact Whey"
+          },
+          {
+            "snippet": "The Whole Truth Whey"
+          },
+          {
+            "snippet": "ON Gold Standard Whey"
+          },
+          {
+            "snippet": "Isopure Whey Isolate"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "ये लोकप्रियता और भरोसे के आधार पर अच्छे विकल्प माने जाते हैं।"
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ किसे चुनें? (आपके लक्ष्य के अनुसार)",
+        "level": 3
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "Lean muscle / Fat loss",
+            "Isopure Low Carb, ON Gold Standard"
+          ],
+          [
+            "Budget + Quality",
+            "NAKPRO Impact, The Whole Truth Whey"
+          ],
+          [
+            "Fast muscle gain",
+            "Muscletech Nitrotech (Creatine blend)"
+          ],
+          [
+            "High purity",
+            "Isopure Isolate, The Whole Truth Isolate"
+          ]
+        ],
+        "headers": [
+          "लक्ष्य",
+          "बेहतर विकल्प"
+        ],
+        "formatted": [
+          {
+            "लक्ष्य": "Lean muscle / Fat loss",
+            "बेहतर_विकल्प": "Isopure Low Carb, ON Gold Standard"
+          },
+          {
+            "लक्ष्य": "Budget + Quality",
+            "बेहतर_विकल्प": "NAKPRO Impact, The Whole Truth Whey"
+          },
+          {
+            "लक्ष्य": "Fast muscle gain",
+            "बेहतर_विकल्प": "Muscletech Nitrotech (Creatine blend)"
+          },
+          {
+            "लक्ष्य": "High purity",
+            "बेहतर_विकल्प": "Isopure Isolate, The Whole Truth Isolate"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "🔍 अगला कदम",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "snippet": "क्या आप मसल गेन, फैट लॉस, या जनरल फिटनेस के लिए व्हे ढूंढ रहे हैं? आपका लक्ष्य बताएं, मैं आपके लिए सबसे उपयुक्त विकल्प चुनकर दे दूँ।",
+        "snippet_highlighted_words": [
+          "मसल गेन",
+          "फैट लॉस",
+          "जनरल फिटनेस"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे ... - MensXP",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "हाई क्वालिटी के 'कंप्‍लीट प्रोटीन' को व्हे प्रोटीन (whey protein) कहते हैं। इसमें काफी सारे अमीनो एसिड्स होते हैं, जैसे - ब्रांच्ड एमीनो एसिड्स (Branched Amino Acids), ग्लूटामिन (Glutamins),...",
+        "source": "MensXP"
+      },
+      {
+        "index": 1,
+        "title": "प्रोटीन पाउडर के फायदे, लेने का समय, खुराक और बेस्ट प्रोटीन पाउडर ...",
+        "link": "https://www.myupchar.com/fitness/protein-powder",
+        "snippet": "Protein powder benefits, dosage in Hindi. आइये जानते हैं प्रोटीन पाउडर के बारे में विस्तार से - प्रोटीन पाउडर के फायदे, लेने का समय, खुराक और बेस्ट प्रोटीन पाउडर",
+        "source": "myUpchar"
+      },
+      {
+        "index": 2,
+        "title": "भारत में सबसे अच्छा व्हे प्रोटीन कैसे चुनें और कीमत",
+        "link": "https://imuscles.in/blogs/weight-gainer/whey-sabse-achha-aur-kimat",
+        "snippet": "इसलिए हमेशा लेबल पर ‘Protein per serving’ और ‘serving size (scoop)’ देखें। एक अच्छा व्हे प्रति 30–33g स्कूप में लगभग 24g प्रोटीन देता है — यानी लगभग 75–80% प्रोटीन। अगर यह अनुपात बहुत कम है, तो प्रोडक्ट अच्छा सौदा नहीं है, चाहे कीमत कितनी भी कम क्यों न हो।",
+        "source": "imuscles.in"
+      },
+      {
+        "index": 3,
+        "title": "Amazon.in सर्वाधिक बिकने वाले: व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "MuscleBlaze बायोजाइम परफॉर्मेंस व्हे प्रोटीन पीआर (चॉकलेट फज, 1 किग्रा/2.2 एलबी) 30 ग्राम प्रोटीन के साथ, 3 ग्राम क्रिएटिन मोनोहाइड्रेट और 50 ...",
+        "source": "www.amazon.in"
+      },
+      {
+        "index": 4,
+        "title": "व्हे प्रोटीन क्या है? फायदे, साइड एफ़ेक्ट, खुराक, कीमत | Whey Protein in ...",
+        "link": "https://healthygk.com/%e0%a4%b5%e0%a5%8d%e0%a4%b9%e0%a5%87-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%8b%e0%a4%9f%e0%a5%80%e0%a4%a8-%e0%a4%95%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%b9%e0%a5%88-%e0%a4%ab%e0%a4%be%e0%a4%af%e0%a4%a6/",
+        "snippet": "इस लेख में आपको Whey Protein के बारे में जानकारी हिन्दी में देंगे। जिसमें हम Whey Protein कैसे बनाता है, प्रकार, फायदे, उपयोग, साइड एफ़ेक्ट्स, सावधानी ...",
+        "source": "HGK - Your GK Dose"
+      },
+      {
+        "index": 5,
+        "title": "व्हे प्रोटीन पाउडर का सही प्रकार से सेवन कैसे करें - HealthKart",
+        "link": "https://www.healthkart.com/connect/right-use-of-whey-protein-powder-in-hind/",
+        "snippet": "कुछ एक्सपर्ट्स मानते हैं कि व्हे प्रोटीन सप्लीमेंट मसल्स बनाने और वजन कम करने में काफी हद तक सहायक होते हैं। व्हे प्रोटीन एक ऐसा सप्लीमेंट है जिसे सभी जिम टीचर्स और एक्सपर्ट भी यूज करने की सलाह देते हैं। अक्सर यंगस्टर्स भी जिम या वर्क आउट के बाद व्हे प्रोटीन पीना ज़्यादा पसंद करते हैं। सिर्फ दिखाने के लिए नहीं बल्कि व्हे प्रोटीन पीने के बहुत से ...",
+        "source": "HealthKart"
+      },
+      {
+        "index": 6,
+        "title": "वेट लॉस के लिए प्रोटीन पाउडर,- Weight loss ke liye protein powder ...",
+        "link": "https://www.healthshots.com/hindi/healthy-eating/5-best-protein-powder-options-to-lose-weight-in-a-healthy-way/",
+        "snippet": "कैलोरी सेवन को कम करने और चयापचय दर को बढ़ाने में प्रोटीन पाउडर बेहद फायदेमंद साबित होता है। इसके सेवन से वजन घटाने के अलावा मसल्स की मज़बूती भी बढ़ जाती है। साथ ही टिशूज़ की मरम्मत व एंजाइम और हार्मोन बनाने में मदद मिलती हैं।.",
+        "source": "HealthShots"
+      },
+      {
+        "index": 7,
+        "title": "वजन बढ़ाने के लिए बेस्ट प्रोटीन पाउडर – Best Protein Powder For Weight ...",
+        "link": "https://www.healthunbox.com/best-protein-powder-for-weight-gain-in-hindi/",
+        "snippet": "वैसे तो आजकल बाजार में बहुत से प्रोटीन पाउडर उपलब्ध है परन्तु क्या आप जानते है की आपका वजन बढ़ाने के लिए सबसे बेस्ट प्रोटीन सप्लीमेंट कौन सा है। अगर आप नहीं जानते तो आपको चिंता करने की जरुरत नहीं है आज हम आपको इंडिया में मिलने वाले बेस्ट प्रोटीन पाउडर के बारे में बतायेंगे और साथ में जानेंगे उनकी प्राइस भी ताकि आप अपने बजट के अनुसार प्रोटीन सप्लीम...",
+        "source": "Healthunbox"
+      },
+      {
+        "index": 8,
+        "title": "sabse achcha protein kaun sa hai - YouTube",
+        "link": "https://www.youtube.com/watch?v=Roezsz0Bja4",
+        "snippet": "sabse achcha protein kaun sa hai kaunsa protein le protein powder kaunsa khayen whey protein kaise lena chahiye whey protein kahan se le protein powder kaise lena chahiye kya zyada...",
+        "source": "YouTube"
+      },
+      {
+        "index": 9,
+        "title": "Whey Protein Kya Hota Hai? फायदे, Types, कैसे बनता है और कितना लेना चाहिए",
+        "link": "https://akhilfit.com/whey-protein-kya-hota-hai/",
+        "snippet": "“Whey Protein कोई magic powder नहीं है। यह दूध से प्राप्त एक high-quality protein source है, जो आपकी daily protein requirement पूरी करने में मदद कर सकता है। अगर भोजन से पर्याप्त protein नहीं मिल पा रहा है, तो whey एक convenient और practical option हो सकता है।” इस guide में आप जानेंगे:",
+        "source": "akhilfit.com"
+      },
+      {
+        "index": 10,
+        "title": "व्हे प्रोटीन क्या है और इसे कौन-कौन ले सकता है? प्रोफेशनल बॉडीबिल्डर ने ...",
+        "link": "https://www.aajtak.in/lifestyle/food/story/whey-protein-benefits-usage-process-who-can-consume-tvism-dskc-2383207-2025-11-12",
+        "snippet": "कुछ समय पहले प्रोफेशनल बॉडीबिल्डर यतिंदर सिंह ने एक पॉडकास्ट में बताया था कि व्हे प्रोटीन कैसे बनता है और इसे कौन-कौन ले सकता है. तो आइए इस बारे में जान लेते हैं...",
+        "source": "www.aajtak.in"
+      }
+    ]
+  }
+}

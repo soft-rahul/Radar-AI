@@ -1,0 +1,129 @@
+{
+  "readings": [
+    {
+      "answer_id": "q3|ai_mode|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "neutral",
+          "quote": "Optimum Nutrition (ON) Gold Standard 100% Whey"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "neutral",
+          "quote": "MuscleBlaze Beginner's Whey Protein"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Nakpro aur AS-IT-IS bahut acche budget options hain."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "Nakpro aur AS-IT-IS bahut acche budget options hain."
+        },
+        {
+          "brand": "MyProtein",
+          "stance": "neutral",
+          "quote": "Myprotein Impact Whey Protein"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q3|ai_mode|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "Why it's great for beginners: MuscleBlaze is one of India's leading home-grown brands."
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "neutral",
+          "quote": "Optimum Nutrition (ON) Gold Standard 100% Whey"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Nakpro offers an incredible protein-per-rupee ratio without sacrificing basic quality."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "neutral",
+          "quote": "AS-IT-IS Nutrition ATOM Beginners Whey"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q3|ai_mode|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "Top recommended brands include MuscleBlaze"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "Top recommended brands include MuscleBlaze, Optimum Nutrition (ON), and Nakpro."
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "Top recommended brands include MuscleBlaze, Optimum Nutrition (ON), and Nakpro."
+        },
+        {
+          "brand": "Isopure",
+          "stance": "recommended",
+          "quote": "Whey Protein Isolate (like Isopure"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q3|ai_overview|delhi-hi|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "सबसे अच्छा व्हे प्रोटीन Optimum Nutrition (ON) Gold Standard 100% Whey"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "सबसे अच्छा व्हे प्रोटीन Optimum Nutrition (ON) Gold Standard 100% Whey और MuscleBlaze Biozyme Whey माने जाते हैं।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "शुरुआती और छात्रों के लिए एक किफायती विकल्प है।"
+        }
+      ],
+      "claims": []
+    },
+    {
+      "answer_id": "q3|ai_overview|delhi-hi|1",
+      "stances": [
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Biozyme Whey और Optimum Nutrition (ON) Gold Standard 100% Whey सबसे अच्छे और भरोसेमंद व्हे प्रोटीन माने जाते हैं।"
+        },
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Biozyme Whey और Optimum Nutrition (ON) Gold Standard 100% Whey सबसे अच्छे और भरोसेमंद व्हे प्रोटीन माने जाते हैं।"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "शुरुआती लोगों के लिए एक किफायती और शुद्ध विकल्प है।"
+        }
+      ],
+      "claims": []
+    }
+  ]
+}

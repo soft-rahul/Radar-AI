@@ -1,0 +1,341 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "2000 रुपये के अंदर सबसे अच्छा व्हे प्रोटीन कौन सा है",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:39:37+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebf871ff8ce342a881fa",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/QF84GHj4uIZ7qRlR0wrL4YoMgY7v-40DoSjzVWSZkbg/6ac4ebf871ff8ce342a881fa.json",
+      "markdown_endpoint": "https://serpapi.com/searches/QF84GHj4uIZ7qRlR0wrL4YoMgY7v-40DoSjzVWSZkbg/6ac4ebf871ff8ce342a881fa.md",
+      "created_at": "2026-10-06 12:39:20 UTC",
+      "processed_at": "2026-10-06 12:39:20 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=2000+%E0%A4%B0%E0%A5%81%E0%A4%AA%E0%A4%AF%E0%A5%87+%E0%A4%95%E0%A5%87+%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/QF84GHj4uIZ7qRlR0wrL4YoMgY7v-40DoSjzVWSZkbg/6ac4ebf871ff8ce342a881fa.html",
+      "total_time_taken": 16.64
+    },
+    "search_parameters": {
+      "q": "2000 रुपये के अंदर सबसे अच्छा व्हे प्रोटीन कौन सा है",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "2000 रुपये के अंदर सबसे भरोसेमंद और वैल्यू‑फॉर‑मनी व्हे प्रोटीन विकल्पों में NAKPRO, AS-IT-IS और MuscleBlaze Raw Whey प्रमुख हैं, क्योंकि ये बिना मिलावट, हाई प्रोटीन और बजट‑फ्रेंडली हैं।",
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "नीचे दिए गए सभी विकल्प वेब परिणामों में Amazon बेस्ट‑सेलर या लोकप्रिय लिस्टिंग में शामिल हैं ।",
+        "snippet_highlighted_words": [
+          "नीचे दिए गए सभी विकल्प वेब परिणामों में Amazon बेस्ट‑सेलर या लोकप्रिय लिस्टिंग में शामिल हैं"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "⭐ 2000 रुपये के अंदर टॉप 3 व्हे प्रोटीन (बेस्ट वैल्यू)",
+        "level": 2
+      },
+      {
+        "type": "heading",
+        "snippet": "1) NAKPRO Whey Protein (Impact / Gold / Perform)",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "NAKPRO Whey Protein (Impact / Gold / Perform)"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "24g प्रोटीन प्रति स्कूप (वैरिएंट पर निर्भर)",
+            "snippet_highlighted_words": [
+              "24g प्रोटीन प्रति स्कूप"
+            ]
+          },
+          {
+            "snippet": "कंसन्ट्रेट + आइसोलेट ब्लेंड 1",
+            "snippet_highlighted_words": [
+              "कंसन्ट्रेट + आइसोलेट ब्लेंड"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "कोई मिलावट नहीं, पाचन एंजाइम शामिल",
+            "snippet_highlighted_words": [
+              "कोई मिलावट नहीं"
+            ]
+          },
+          {
+            "snippet": "बजट में सबसे ज़्यादा खरीदा जाने वाला ब्रांड किसके लिए: शुरुआती और इंटरमीडिएट जिम यूज़र्स",
+            "snippet_highlighted_words": [
+              "किसके लिए:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2) AS-IT-IS Whey Protein (Concentrate 80%)",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "AS-IT-IS Whey Protein (Concentrate 80%)"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "27g प्रोटीन प्रति स्कूप 1",
+            "snippet_highlighted_words": [
+              "27g प्रोटीन प्रति स्कूप"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "अनफ्लेवर्ड, बिना शुगर/फिलर्स",
+            "snippet_highlighted_words": [
+              "अनफ्लेवर्ड"
+            ]
+          },
+          {
+            "snippet": "पचाने में आसान, क्लीन प्रोटीन किसके लिए: जो शुद्ध, बिना फ्लेवर वाला प्रोटीन चाहते हैं",
+            "snippet_highlighted_words": [
+              "किसके लिए:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3) MuscleBlaze Raw Whey (Concentrate / Isolate)",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "MuscleBlaze Raw Whey (Concentrate / Isolate)"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "24–27g प्रोटीन प्रति स्कूप (वैरिएंट पर निर्भर) 1",
+            "snippet_highlighted_words": [
+              "24–27g प्रोटीन प्रति स्कूप"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "अनफ्लेवर्ड, क्लीन और लाइट"
+          },
+          {
+            "snippet": "भारत में सबसे लोकप्रिय फिटनेस ब्रांडों में से एक किसके लिए: भरोसेमंद ब्रांड + बजट में क्लीन प्रोटीन",
+            "snippet_highlighted_words": [
+              "किसके लिए:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📌 तुलना तालिका (2000 रुपये के अंदर)",
+        "level": 2
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "NAKPRO Impact/Gold",
+            "~24g",
+            "कंसन्ट्रेट/आइसोलेट",
+            "बजट में सबसे लोकप्रिय, पाचन एंजाइम",
+            "1"
+          ],
+          [
+            "AS-IT-IS Concentrate 80%",
+            "27g",
+            "कंसन्ट्रेट",
+            "अनफ्लेवर्ड, क्लीन",
+            "1"
+          ],
+          [
+            "MuscleBlaze Raw Whey",
+            "24–27g",
+            "कंसन्ट्रेट/आइसोलेट",
+            "हल्का, पचाने में आसान",
+            "1"
+          ]
+        ],
+        "headers": [
+          "ब्रांड",
+          "प्रोटीन प्रति स्कूप",
+          "प्रकार",
+          "खासियत",
+          "स्रोत"
+        ],
+        "formatted": [
+          {
+            "ब्रांड": "NAKPRO Impact/Gold",
+            "प्रोटीन_प्रति_स्कूप": "~24g",
+            "प्रकार": "कंसन्ट्रेट/आइसोलेट",
+            "खासियत": "बजट में सबसे लोकप्रिय, पाचन एंजाइम",
+            "स्रोत": "1"
+          },
+          {
+            "ब्रांड": "AS-IT-IS Concentrate 80%",
+            "प्रोटीन_प्रति_स्कूप": "27g",
+            "प्रकार": "कंसन्ट्रेट",
+            "खासियत": "अनफ्लेवर्ड, क्लीन",
+            "स्रोत": "1"
+          },
+          {
+            "ब्रांड": "MuscleBlaze Raw Whey",
+            "प्रोटीन_प्रति_स्कूप": "24–27g",
+            "प्रकार": "कंसन्ट्रेट/आइसोलेट",
+            "खासियत": "हल्का, पचाने में आसान",
+            "स्रोत": "1"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "🧭 आपकी जरूरत के अनुसार कौन सा लें?",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "मसल रिकवरी + बजट: NAKPRO",
+            "snippet_highlighted_words": [
+              "मसल रिकवरी + बजट:"
+            ]
+          },
+          {
+            "snippet": "क्लीन, बिना फ्लेवर वाला प्रोटीन: AS-IT-IS",
+            "snippet_highlighted_words": [
+              "क्लीन, बिना फ्लेवर वाला प्रोटीन:"
+            ]
+          },
+          {
+            "snippet": "ब्रांड ट्रस्ट + क्लीन प्रोटीन: MuscleBlaze Raw Whey",
+            "snippet_highlighted_words": [
+              "ब्रांड ट्रस्ट + क्लीन प्रोटीन:"
+            ]
+          },
+          {
+            "snippet": "लैक्टोज सेंसिटिव: आइसोलेट वैरिएंट चुनें (NAKPRO Isolate / MB Iso-Zero) 1",
+            "snippet_highlighted_words": [
+              "लैक्टोज सेंसिटिव:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ निष्कर्ष",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "2000 रुपये के अंदर सबसे संतुलित और भरोसेमंद विकल्प NAKPRO और AS-IT-IS हैं, क्योंकि ये बिना मिलावट, हाई प्रोटीन और बजट‑फ्रेंडली हैं। MuscleBlaze Raw Whey भी एक सुरक्षित और लोकप्रिय विकल्प है।",
+        "snippet_highlighted_words": [
+          "2000 रुपये के अंदर सबसे संतुलित और भरोसेमंद विकल्प NAKPRO और AS-IT-IS हैं"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "क्या आप चाहेंगे कि मैं आपके बजट और फिटनेस गोल के हिसाब से एक पर्सनलाइज्ड विकल्प सुझाऊँ?",
+        "snippet_highlighted_words": [
+          "पर्सनलाइज्ड"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Amazon.in सर्वाधिक बिकने वाले: व्हे प्रोटीन में सबसे लोकप्रिय आइटम",
+        "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+        "snippet": "Amazon पर सर्वाधिक बिकने वाले सेल्स पर आधारित हमारे सबसे लोकप्रिय प्रोडक्ट. नियमित अपडेट होने वाली.",
+        "source": "www.amazon.in"
+      },
+      {
+        "index": 1,
+        "title": "गलत प्रोटीन पाउडर खरीदकर बर्बाद कर रहे हैं पैसे? समझें व्हे, पी या सोया ...",
+        "link": "https://www.jagran.com/lifestyle/food-news-wasting-money-on-the-wrong-protein-powder-whey-vs-pea-vs-soy-how-to-choose-the-best-one-for-your-body-40307378.html",
+        "snippet": "क्यों है खास: यह शरीर में बहुत आहिस्ता-आहिस्ता पचता है और कई घंटों तक आपके खून में अमीनो एसिड पहुंचाता रहता है। इससे आपकी मसल्स ब्रेकडाउन से बचती हैं। व्हे के मुकाबले इसमें सिर्फ 'लाइसिन' नाम के अमीनो एसिड की कमी होती है। इसे रात को सोने से पहले या दो मील्स के बीच में लेना सबसे समझदारी का काम है।",
+        "source": "Dainik Jagran"
+      },
+      {
+        "index": 2,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "इसलिए आज मैं आपको बता रहा हूं, भारत में कौन से 5 ऐसे व्हे प्रोटीन हैं जो ...",
+        "source": "MensXP"
+      },
+      {
+        "index": 3,
+        "title": "महिलाओं के लिए सबसे अच्छा प्रोटीन पाउडर कौन सा होता है?",
+        "link": "https://healthvichaar.com/best-protein-powder-mahilaon-ke-liye/",
+        "snippet": "जो लोग शाकाहारी और वेगन होते है उनके लिए यह बेस्ट है इसमें फाइबर सहित अन्य पोषक तत्व भी प्राप्त हो सकते है।",
+        "source": "healthvichaar.com"
+      },
+      {
+        "index": 4,
+        "title": "सही प्रोटीन पाउडर (Protein Powder) का चयन: आपके लिए सबसे अच्छा क्या है?",
+        "link": "https://webmedy.com/blog/hi/picking-right-protein-powder/",
+        "snippet": "मांसपेशियों को बढ़ाने के लिए, व्हे प्रोटीन को अक्सर इसके उच्च जैविक मूल्य और तेजी से पचने के कारण सबसे अच्छा माना जाता है। व्हे ...",
+        "source": "Webmedy"
+      },
+      {
+        "index": 5,
+        "title": "10 बेस्ट प्रोटीन पाउडर इन इंडिया विथ प्राइस – 10 Best protein powders ...",
+        "link": "https://www.healthunbox.com/10-best-protein-powders-in-india-in-hindi/",
+        "snippet": "यदि आपका लक्ष्य वजन बढ़ाना है, तो व्हे प्रोटीन आपके लिए एकदम सही होगा। यह मांसपेशियों के निर्माण कर वजन बढ़ाने में मदद करता है। विषय ...",
+        "source": "Healthunbox"
+      },
+      {
+        "index": 6,
+        "title": "व्हे, प्लांट और यीस्ट प्रोटीन: कौन सा बेहतर है?",
+        "link": "https://zeelabpharmacy.com/hi/blog/whey-vs-plant-vs-yeast-protein",
+        "snippet": "इस लेख में हम व्हे प्रोटीन, प्लांट प्रोटीन और यीस्ट प्रोटीन की तुलना करेंगे और इनके बीच के जरूरी अंतर समझेंगे, ताकि आप अपनी पोषण ...",
+        "source": "ZEELAB Pharmacy"
+      },
+      {
+        "index": 7,
+        "title": "प्रोटीन वाले फूड्स: शाकाहारी और नॉन-वेज स्रोत (पूरी लिस्ट)",
+        "link": "https://imuscles.in/blogs/weight-gainer/protein-wale-foods",
+        "snippet": "प्रोटीन बढ़ाना महँगा होना ज़रूरी नहीं। भारत में सबसे किफ़ायती हाई-प्रोटीन विकल्प हैं — अंडे, सोया चंक्स, दालें, चना, मूँगफली, सत्तू ...",
+        "source": "imuscles.in"
+      },
+      {
+        "index": 8,
+        "title": "अंडा, पनीर या व्हे प्रोटीन, आपकी जेब और सेहत के लिए कौन है सबसे बेस्ट ...",
+        "link": "https://ndtv.in/food/eggs-vs-paneer-vs-whey-how-much-protein-is-needed-daily-and-how-much-we-are-consuming-11854971",
+        "snippet": "आपके डिब्बे का प्रोटीन कहीं आपकी सेहत खराब तो नहीं कर रहा? जानिए रोजाना कितना प्रोटीन चाहिए और हम कितना खा रहे हैं?",
+        "source": "NDTV India"
+      },
+      {
+        "index": 9,
+        "title": "Sabse Jyada Protein Kisme Hota Hai? Top 25 High Protein Foods List",
+        "link": "https://www.healthkasathi.com/blog/sabse-jyada-protein-kisme-hota-hai",
+        "snippet": "तो यहाँ देखें 25 High Protein Foods की पूरी लिस्ट (Veg & Non-Veg)। जानें शाकाहारी और मांसाहारी में सबसे ज्यादा प्रोटीन किसमें पाया जाता है।",
+        "source": "healthkasathi.com"
+      }
+    ]
+  }
+}

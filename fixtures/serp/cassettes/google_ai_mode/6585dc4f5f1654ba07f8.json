@@ -1,0 +1,254 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "best whey protein brands in india",
+      "location": "Mumbai, Maharashtra, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:35:23+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb08410cda7d696a3062",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/tX5uifaXcF6nwOe7Avo0E63UOduXQUmRVWPwazg-yt0/6ac4eb08410cda7d696a3062.json",
+      "markdown_endpoint": "https://serpapi.com/searches/tX5uifaXcF6nwOe7Avo0E63UOduXQUmRVWPwazg-yt0/6ac4eb08410cda7d696a3062.md",
+      "created_at": "2026-10-06 12:35:20 UTC",
+      "processed_at": "2026-10-06 12:35:20 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=best+whey+protein+brands+in+india&udm=50&gl=in&hl=en&uule=w+CAIQICIYTXVtYmFpLE1haGFyYXNodHJhLEluZGlh",
+      "raw_html_file": "https://serpapi.com/searches/tX5uifaXcF6nwOe7Avo0E63UOduXQUmRVWPwazg-yt0/6ac4eb08410cda7d696a3062.html",
+      "prettify_html_file": "https://serpapi.com/searches/tX5uifaXcF6nwOe7Avo0E63UOduXQUmRVWPwazg-yt0/6ac4eb08410cda7d696a3062.prettify",
+      "total_time_taken": 2.56
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "best whey protein brands in india",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Mumbai, Maharashtra, India",
+      "location_used": "Mumbai,Maharashtra,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best whey protein brands in India include globally trusted names like Optimum Nutrition (ON) and top-rated domestic and international labels such as MuscleBlaze, Myprotein, TrueBasics, and AS-IT-IS Nutrition.",
+        "snippet_highlighted_words": [
+          "Optimum Nutrition (ON)"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Whey Protein Brands & Highlights"
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "Brand",
+            "Flagship Product",
+            "Key Benefit / Certification"
+          ],
+          [
+            "Optimum Nutrition (ON)",
+            "Gold Standard 100% Whey",
+            "Globally acclaimed, high absorption, Informed-Choice certified."
+          ],
+          [
+            "MuscleBlaze",
+            "Biozyme Iso-Zero / Performance Whey",
+            "Clinically tested for Indian bodies, Labdoor & Trustified certified."
+          ],
+          [
+            "Myprotein",
+            "Impact Whey Protein",
+            "High protein purity per serving, economical raw/flavoured choices."
+          ],
+          [
+            "TrueBasics",
+            "Clean Whey",
+            "Advanced formulation, heavy third-party lab testing (Trustified/HAP safe)."
+          ],
+          [
+            "AS-IT-IS Nutrition",
+            "AT-IT-IS Atomic Whey / Raw WPC",
+            "Budget-friendly, unflavoured pure concentrate, Labdoor certified."
+          ]
+        ],
+        "detailed": [
+          [
+            {
+              "snippet": "Brand"
+            },
+            {
+              "snippet": "Flagship Product"
+            },
+            {
+              "snippet": "Key Benefit / Certification"
+            }
+          ],
+          [
+            {
+              "snippet": "Optimum Nutrition (ON)"
+            },
+            {
+              "snippet": "Gold Standard 100% Whey"
+            },
+            {
+              "snippet": "Globally acclaimed, high absorption, Informed-Choice certified."
+            }
+          ],
+          [
+            {
+              "snippet": "MuscleBlaze"
+            },
+            {
+              "snippet": "Biozyme Iso-Zero / Performance Whey"
+            },
+            {
+              "snippet": "Clinically tested for Indian bodies, Labdoor & Trustified certified."
+            }
+          ],
+          [
+            {
+              "snippet": "Myprotein"
+            },
+            {
+              "snippet": "Impact Whey Protein"
+            },
+            {
+              "snippet": "High protein purity per serving, economical raw/flavoured choices."
+            }
+          ],
+          [
+            {
+              "snippet": "TrueBasics"
+            },
+            {
+              "snippet": "Clean Whey"
+            },
+            {
+              "snippet": "Advanced formulation, heavy third-party lab testing (Trustified/HAP safe)."
+            }
+          ],
+          [
+            {
+              "snippet": "AS-IT-IS Nutrition"
+            },
+            {
+              "snippet": "AT-IT-IS Atomic Whey / Raw WPC"
+            },
+            {
+              "snippet": "Budget-friendly, unflavoured pure concentrate, Labdoor certified."
+            }
+          ]
+        ],
+        "formatted": [
+          {
+            "brand": "Optimum Nutrition (ON)",
+            "flagship_product": "Gold Standard 100% Whey",
+            "key_benefit_certification": "Globally acclaimed, high absorption, Informed-Choice certified."
+          },
+          {
+            "brand": "MuscleBlaze",
+            "flagship_product": "Biozyme Iso-Zero / Performance Whey",
+            "key_benefit_certification": "Clinically tested for Indian bodies, Labdoor & Trustified certified."
+          },
+          {
+            "brand": "Myprotein",
+            "flagship_product": "Impact Whey Protein",
+            "key_benefit_certification": "High protein purity per serving, economical raw/flavoured choices."
+          },
+          {
+            "brand": "TrueBasics",
+            "flagship_product": "Clean Whey",
+            "key_benefit_certification": "Advanced formulation, heavy third-party lab testing (Trustified/HAP safe)."
+          },
+          {
+            "brand": "AS-IT-IS Nutrition",
+            "flagship_product": "AT-IT-IS Atomic Whey / Raw WPC",
+            "key_benefit_certification": "Budget-friendly, unflavoured pure concentrate, Labdoor certified."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Choosing the Right Whey Protein Type"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Whey Concentrate (WPC): Contains 70-80% protein with minor traces of lactose and fats; budget-friendly and great for general recovery."
+          },
+          {
+            "snippet": "Whey Isolate (WPI): Undergoes extra filtration to remove nearly all fat and lactose, yielding 90%+ protein; ideal for strict cutting or lactose intolerance."
+          },
+          {
+            "snippet": "Whey Hydrolysate: Pre-digested for the fastest possible absorption rate, though usually the most expensive option."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like to narrow this down, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Your budget range per kg"
+          },
+          {
+            "snippet": "Any dietary preferences (flavoured vs. unflavoured, or lactose-intolerant)"
+          },
+          {
+            "snippet": "Your primary fitness goal (weight loss, muscle gain, or daily protein gap fulfillment)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can recommend the exact product variant that suits your needs."
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Top 7 Cleanest Whey Proteins in India (2026): Ranked by Purity, Quality & social proof · HealthKart",
+        "link": "https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/",
+        "snippet": "1. TrueBasics Clean Whey … 2. MuscleBlaze Biozyme Iso-Zero (WPI, 9.48/10, Trustified + Labdoor) 3. The Whole Truth Raw WPC (WPC, 9.35/10, AS-IT-IS ONE WPC",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkfwm3fkkvJExPFkiO_UYl8lPNWc5sspZ-ZnrG6PYWVWu8z6VOvqDL_vEQFkUJf9TAvwzcnZxjQ_JBDXCm4gIYb7HUB6hQ5ioNL6_I"
+      },
+      {
+        "index": 1,
+        "title": "Best Whey Protein in India | Protein Powder | Myprotein IN",
+        "link": "https://www.myprotein.co.in/c/nutrition/protein/whey-protein-india/",
+        "snippet": "Impact Whey Protein provides ~21g protein/serving; provides up to 23g/serving. Supports muscle mass growth/maintenance and normal bones.",
+        "source": "Myprotein IN",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.myprotein.co.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVDEmeQ7WJat2jiLAtN8uYycE_8w0gpVGsMiINOBu50a5KpHaw77WbbwGQcQePIIwrI21ngvCj4o6PBoPFo4amFQB9dPLO84yYFlT-"
+      },
+      {
+        "index": 2,
+        "title": "Buy Premium Protein Powder Online - Best Protein Supplement - Optimum Nutrition",
+        "link": "https://www.optimumnutrition.co.in/collections/protein-powder",
+        "snippet": "Optimum Nutrition Protein Products: Gold Standard 100% Whey Protein (sizes: 152g, 1 lb, 2 lb/907g, 1.7kg, 5 lbs, 4 kg; flavors: Double Rich Chocolate, unflavoured,",
+        "source": "Optimum Nutrition India",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.optimumnutrition.co.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaKeREQOxTDjfL9fWdGiULCDDoKfpEtLqmCOceOugN4kJcMTTeblIyDYOdzjVQ1b8AH-xazCPvoRpaGRE"
+      }
+    ],
+    "reconstructed_markdown": "The best whey protein brands in India include globally trusted names like Optimum Nutrition \\(ON\\) and top\\-rated domestic and international labels such as MuscleBlaze, Myprotein, TrueBasics, and AS\\-IT\\-IS Nutrition. [0] [1]\n\n### Top Whey Protein Brands & Highlights\n\n| Brand | Flagship Product | Key Benefit / Certification |\n| --- | --- | --- |\n| Optimum Nutrition \\(ON\\) | Gold Standard 100% Whey | Globally acclaimed, high absorption, Informed\\-Choice certified. |\n| MuscleBlaze | Biozyme Iso\\-Zero / Performance Whey | Clinically tested for Indian bodies, Labdoor & Trustified certified. |\n| Myprotein | Impact Whey Protein | High protein purity per serving, economical raw/flavoured choices. |\n| TrueBasics | Clean Whey | Advanced formulation, heavy third\\-party lab testing \\(Trustified/HAP safe\\). |\n| AS\\-IT\\-IS Nutrition | AT\\-IT\\-IS Atomic Whey / Raw WPC | Budget\\-friendly, unflavoured pure concentrate, Labdoor certified. |\n\n### Choosing the Right Whey Protein Type\n\n- Whey Concentrate \\(WPC\\): Contains 70\\-80% protein with minor traces of lactose and fats; budget\\-friendly and great for general recovery.\n- Whey Isolate \\(WPI\\): Undergoes extra filtration to remove nearly all fat and lactose, yielding 90%\\+ protein; ideal for strict cutting or lactose intolerance.\n- Whey Hydrolysate: Pre\\-digested for the fastest possible absorption rate, though usually the most expensive option.\n\nIf you'd like to narrow this down, let me know:\n\n- Your budget range per kg\n- Any dietary preferences \\(flavoured vs. unflavoured, or lactose\\-intolerant\\)\n- Your primary fitness goal \\(weight loss, muscle gain, or daily protein gap fulfillment\\)\n\nI can recommend the exact product variant that suits your needs.\n\n\n### References\n\n[0] [Top 7 Cleanest Whey Proteins in India \\(2026\\): Ranked by Purity, Quality & social proof · HealthKart](https://www.google.com/goto?url=CAESswEB6zswFez3rfsbjs6z885vE3lgIeP23NMm4zyBzcHAzKX1q-5GtLLwDquLLfiTTPWMalkjl0TDaWPflYSE25LYlXdLDryquYkyjvFVWB1r630dbqbqqzsmOrQs7v2-M9RQlIHy8PBqfwuJ4BpYC-QpVQ_OnaeOeV7R3NBGAPSdiUapRqZpjwU52BJbOBYpbjZN9e-PV4A5AgUfPa_OO6nIBICC1udVw7jO7cuQda-xVqXMZw) — 1. TrueBasics Clean Whey … 2. MuscleBlaze Biozyme Iso\\-Zero \\(WPI, 9.48/10, Trustified \\+ Labdoor\\) 3. The Whole Truth Raw WPC \\(WPC, 9.35/10, AS\\-IT\\-IS ONE WPC\n\n[1] [Best Whey Protein in India \\| Protein Powder \\| Myprotein IN](https://www.google.com/goto?url=CAESfgHrOzAV9qiav_jewe-msbUtIuX9ZuB6rhCuRdyImX7gg4A2ZKKtfkd99LZdSrfnw1F2khafMvd71NfKucV2kySWJew3IiNrqWhktMqprQuQ7rENb5LofcNtjatpcKw1h5xloq46cwa9QEBvvua-M8KZMLewxmV0r_NZsPuiXA) — Impact Whey Protein provides \\~21g protein/serving; provides up to 23g/serving. Supports muscle mass growth/maintenance and normal bones.\n\n[2] [Buy Premium Protein Powder Online \\- Best Protein Supplement \\- Optimum Nutrition](https://www.google.com/goto?url=CAESeAHrOzAVSuI0iEcVqySEi1ZXmRf_w9Z5vGL4tkocqv0moyIdlIwkPRUSIptiz09fe4-4dUxsXbizDxOJnp42-06jYboFHwaAMe3wlUOTqYT_iEU8X3i_IwJA9wmcoak7ao27FZ9JrEn6wgeMByZGtoH4sBgLcU01OA) — Optimum Nutrition Protein Products: Gold Standard 100% Whey Protein \\(sizes: 152g, 1 lb, 2 lb/907g, 1.7kg, 5 lbs, 4 kg; flavors: Double Rich Chocolate, unflavoured,\n"
+  }
+}

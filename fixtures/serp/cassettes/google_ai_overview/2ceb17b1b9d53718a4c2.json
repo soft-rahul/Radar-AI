@@ -1,0 +1,198 @@
+{
+  "request": {
+    "engine": "google_ai_overview",
+    "params": {
+      "page_token": "IsjLeHiczVbdcrI4GL6AvY7lxKr429oZ5psEI1KtFq36tSdOCGlAENSgqGd7L3tVuzezAbWiLbvdHuxsHH6SvHn_Hx5_-91zfPePX_60w3DB74vFKIoKLAiYRwskmBcx3_mk-BZ4fEXsH8xTHF-yPYX60nrtUSXKqUA3dFXvDrQxx5rLh5OaiydI2m2UikS4IkvUUZZ0g_Cyrj6um6hE756WFsXciKREuzI1MaczYXw748VpUdzcXytNMSnwAvWnGixstdEGG7un5atcKMvlSqFfxHMhA_6zAYEufsAATFxqthwTkl9RF0sNL2SZcbCTGs3DFLHk0cnUpuvoaJzFL-J62s72TQKAxk4yw8zTKB2PCqBx9JAlmlRV_0pAaXXHOIzjAsuW_TRXx8VUuOk6o0xd8NKQyoD6VAXsfORyHwXpmfFuhTBw1w5gE4JRtuMi5wx0XoDsgXOgGQPBFgUnY5A3DYCKFhPdKxfNlXiUig6xSfKy4nFTq88NOUBazV9Uxo1mWLb20zDwWmP81ovGcn5rFIkp5LwAW9Sa2lP5RzIvlUs1uVG5vbtJAEX4O6J4GlGg5ucrj-5k1ZcL3QIsnbAkmuBc6XRI8erosxhh3Dgoo4qHgx-Oqap2nhyToiKgQQCv9KgzObbxXjQGSATaYHDpwcmS-gFL5zlKCZ8A4bCj0sRU2ukmSvUYTLVb-zqWeLjXC6x_sqXrB1-PIaArQ3HcEMV7pyRFV6o0cSYQmlpCxKnqBzXkHBgM9Djsi7aON8XHBR1zDy824nsKS3EO7PhlFn8cHkDwAIZxsfWDdFzco2uqfVVJPQPUyBXujDIx-rcDfenTiU6gucJAGjsaoI9DmJ_uV6-PuEF6b6OgnyeRGWfrc6wEc_Pf0Q_5PwHqnZyCAzllAwp-BVAw1veRnM76kvo2T4A6kFM2oLoHQB3ICabIqf0ZOV0BCgHnDKjOICEnyDLI6RuAYtmAgu_3j4DqfA4oNwtQicOXgBpekJOeQU4nQH2PnOD3yCnBFz08LplqPWOZjKVpJlv3B7yqLsKnPG4ZLG_rvW6-PRj_M2O9zcP7Oba8m6lj3cPyQ7izbqZiIbinlrRUTMoc36crnnNpznN2NMexyWkOE2LjXGTTXW6xCkLq-DkXr32xm7OxI829VaDIuF4BC4BHYNUNyG7_GOJOE_o11aVvATOXZAgHc7OtwfrDpsrb4dBt1bWJVdvb-7vm88Yl5c5-aNfrPb7t-obZ0rd0Vr_b1iuTcNY38bN82_Prtf3Qg6-R9fKC7G3L_zmj67Yb9tdbuIHTB3P_83l5W6rMR_thDYLEL650zPHsxVHzrZBLIlROlZI0XxFF9EmVgZ4BJgwSoL4AQ_yXGWEBbjUChlYHBoJl0TgSJ3hK-UapmrUyLdWpVaGNWo0ILSzcLZRyQ-L-Sin9BR9CXvU"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:38:11+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebabe6cb30778a216f56",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/oZL_10xCBPOvjnQ34NKQD0dnJ0YwNZueW5zHBWQJGmU/6ac4ebabe6cb30778a216f56.json",
+      "markdown_endpoint": "https://serpapi.com/searches/oZL_10xCBPOvjnQ34NKQD0dnJ0YwNZueW5zHBWQJGmU/6ac4ebabe6cb30778a216f56.md",
+      "created_at": "2026-10-06 12:38:03 UTC",
+      "processed_at": "2026-10-06 12:38:03 UTC",
+      "google_ai_overview_url": "https://www.google.com/async/folsrch?gl=in&hl=en&uule=w+CAIQICILRGVsaGksSW5kaWE&yv=3&cs=0&ei=qevEaq6CMuDE1e8PqdeasQw&async=_basejs:/xjs/_/js/k%3Dxjs.s.en_GB.xGUvaQyPqZ0.2023.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAIAIAAQAgAQACAAAAAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAASABAAAAAAAAAAAgQAAAABAAAAAAAAAAAADABAAAAEgBAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAIIEAAAAAgAgEAAAEAAPxjzDcAAGgAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAAAAEACAAAAAAAAAACABQAAAAABBgAAEAACCIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAABAAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAAAKAAAAAAAAAADAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABBgAAAAAAAAAAAAACgACP4AgAAEAAAAAAAgAAAAAAAAAAAAAEoAAAAAAAAAAAAQAADAAAAAAcgA8HoBDBAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgAKYA0lAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBFeAoAAAAAAABsDQAE/dg%3D0/br%3D1/ichc%3D1/rs%3DACT90oEG5np3V9Dt2dz_tolFVafNwV0-xQ/cb%3Dloaded_h_0?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.s.A5n-3MkWrO0.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAACCGAAAAAAAAAAoAAAAAACEAGBABABAAAAAAAAAAAAACj0AAABgAAAAAAAAgAcwAHARAAAAAAAAAAAABAAAAAAAIACABAAAAAAAAAAAgQAABAAAAAAAAAEAAAAAABAAAAGgAAAAAAigAAAAAgAAAAACAAAAAAAAAAAIDEAEAAAAAAAAABEAAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAgOAAAABAAAIIRAAAAABgAAAAAEAAACAAAAAAAAAAAAACEBEgAAAQAAAAAAAwAAAAAAAAAAAAAAAGAEAoBAAFAAQi4IgAAAAAcABAAAAAAAABoICABAgAAAAAAAAAAAABAAABBAEIAAQAAABAAAAAAAAABAAAAABADAAAAAAAAAAigAAhAAAAjSAAAJAoJASIAAAIAABAAACAAEQAAAAAAChAQAAAAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAAAEkAgAUEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE/br%3D1/cb%3Dloaded_h_0/rs%3DACT90oGAeMSB-_zrZMa9cNfUoO-cwbCABA?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.s.en_GB.xGUvaQyPqZ0.2023.O/ck%3Dxjs.s.A5n-3MkWrO0.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAACCGABAIAIAAQAoAQACAACEAGBABABAAAAAAAAAAAAACj0ABABgAAAAAAAAgAcwAHARAAAAAAAAAAAABAAAABBAIASABAAAAAAAAAAAgQAABABAAAAAAAEAAAADABAAAAGgBAAAAKigAAAAAgAAAAACAAAAAAAAAAAILEAEAAAgAgEAABEAAPxjzDcAAHgAAAAAAAASAAAAAAAAAAkAAAAAAAAAAAAAAEAiOAAAABAAAIKRBQAAABgBBgAAEAACCIAAAAAAAAAAAACEBEgAAAQAAAAAAAwAAAAAAAAAAAAAAAGAEAoBAAFAAQi4IgAAAgAcABAAAAAAAABoICABAgAAAAAABAAAAABAAABBAEIAAQAAABAAAAAAKAABAAAAABADAAAAAAAAAAikAAhAAAAjSAAAJAoJASIAAAIABBgAACAAEQAAAAAAChASP4AgAAEAAAAAAIgAAAAAAAAAAAAAEoAAAAAAAEkAgAUEADAAAAAAcgA8HoBDBAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgAKYA0lBAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBFeAoAAAAAAABsDQAE/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/ichc%3D1/rs%3DACT90oGGbguORs4CptP-aFQg-hINL-HRVQ/cb%3Dloaded_h_0?cb%3D121509378,_fmt:madl,_id:B2Jtyd,_mado:ed&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&mlro=0a63ApAaUArLocyzMtaKDBn5CkefogbqcSBRmbHGB6Jv4sHtSkF6GWd5zhz8DTvkc2KzSh66NsxLnQbFIxej68x63WtjObaT07Nn65zSlBZwdYYEhxFnXjeuHktOuxBvB_JbzXTq713mUzS5BA&mlros=KbVjYiC-Fts&madse=1&mrc=CAA4gANQAWgBcACYAQCgAUaoAQCwAQG6AQEB2AEA&sca_esv=4b52e16ed3e955c1&mgtyp=29&snr=1",
+      "raw_html_file": "https://serpapi.com/searches/oZL_10xCBPOvjnQ34NKQD0dnJ0YwNZueW5zHBWQJGmU/6ac4ebabe6cb30778a216f56.html",
+      "total_time_taken": 7.38
+    },
+    "search_parameters": {
+      "engine": "google_ai_overview",
+      "page_token": "IsjLeHiczVbdcrI4GL6AvY7lxKr429oZ5psEI1KtFq36tSdOCGlAENSgqGd7L3tVuzezAbWiLbvdHuxsHH6SvHn_Hx5_-91zfPePX_60w3DB74vFKIoKLAiYRwskmBcx3_mk-BZ4fEXsH8xTHF-yPYX60nrtUSXKqUA3dFXvDrQxx5rLh5OaiydI2m2UikS4IkvUUZZ0g_Cyrj6um6hE756WFsXciKREuzI1MaczYXw748VpUdzcXytNMSnwAvWnGixstdEGG7un5atcKMvlSqFfxHMhA_6zAYEufsAATFxqthwTkl9RF0sNL2SZcbCTGs3DFLHk0cnUpuvoaJzFL-J62s72TQKAxk4yw8zTKB2PCqBx9JAlmlRV_0pAaXXHOIzjAsuW_TRXx8VUuOk6o0xd8NKQyoD6VAXsfORyHwXpmfFuhTBw1w5gE4JRtuMi5wx0XoDsgXOgGQPBFgUnY5A3DYCKFhPdKxfNlXiUig6xSfKy4nFTq88NOUBazV9Uxo1mWLb20zDwWmP81ovGcn5rFIkp5LwAW9Sa2lP5RzIvlUs1uVG5vbtJAEX4O6J4GlGg5ucrj-5k1ZcL3QIsnbAkmuBc6XRI8erosxhh3Dgoo4qHgx-Oqap2nhyToiKgQQCv9KgzObbxXjQGSATaYHDpwcmS-gFL5zlKCZ8A4bCj0sRU2ukmSvUYTLVb-zqWeLjXC6x_sqXrB1-PIaArQ3HcEMV7pyRFV6o0cSYQmlpCxKnqBzXkHBgM9Djsi7aON8XHBR1zDy824nsKS3EO7PhlFn8cHkDwAIZxsfWDdFzco2uqfVVJPQPUyBXujDIx-rcDfenTiU6gucJAGjsaoI9DmJ_uV6-PuEF6b6OgnyeRGWfrc6wEc_Pf0Q_5PwHqnZyCAzllAwp-BVAw1veRnM76kvo2T4A6kFM2oLoHQB3ICabIqf0ZOV0BCgHnDKjOICEnyDLI6RuAYtmAgu_3j4DqfA4oNwtQicOXgBpekJOeQU4nQH2PnOD3yCnBFz08LplqPWOZjKVpJlv3B7yqLsKnPG4ZLG_rvW6-PRj_M2O9zcP7Oba8m6lj3cPyQ7izbqZiIbinlrRUTMoc36crnnNpznN2NMexyWkOE2LjXGTTXW6xCkLq-DkXr32xm7OxI829VaDIuF4BC4BHYNUNyG7_GOJOE_o11aVvATOXZAgHc7OtwfrDpsrb4dBt1bWJVdvb-7vm88Yl5c5-aNfrPb7t-obZ0rd0Vr_b1iuTcNY38bN82_Prtf3Qg6-R9fKC7G3L_zmj67Yb9tdbuIHTB3P_83l5W6rMR_thDYLEL650zPHsxVHzrZBLIlROlZI0XxFF9EmVgZ4BJgwSoL4AQ_yXGWEBbjUChlYHBoJl0TgSJ3hK-UapmrUyLdWpVaGNWo0ILSzcLZRyQ-L-Sin9BR9CXvU"
+    },
+    "ai_overview": {
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "शुरुआती लोगों (beginners) के लिए सबसे अच्छा और किफायती विकल्प MuscleBlaze Beginner's Whey Protein या AS-IT-IS Nutrition ATOM Beginners Whey Protein माना जाता है, क्योंकि ये आसानी से पच जाते हैं और इनमें पाचन एंजाइम (digestive enzymes) होते हैं .",
+          "snippet_highlighted_words": [
+            "MuscleBlaze Beginner's Whey Protein"
+          ],
+          "reference_indexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "लोकप्रिय शुरुआती व्हे प्रोटीन विकल्प"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "MuscleBlaze Beginner's Whey Protein:",
+              "list": [
+                {
+                  "snippet": "खास तौर पर जिम की शुरुआत करने वालों के लिए बनाया गया है ."
+                },
+                {
+                  "snippet": "मांसपेशियों की रिकवरी और ताकत बढ़ाने में मदद करता है."
+                }
+              ],
+              "reference_indexes": [
+                2,
+                3
+              ]
+            },
+            {
+              "snippet": "AS-IT-IS Nutrition ATOM Beginners Whey Protein:",
+              "list": [
+                {
+                  "snippet": "यह व्हे आइसोलेट और कॉन्सेंट्रेट का मिश्रण है ."
+                },
+                {
+                  "snippet": "शुरुआती लोगों के लिए बजट-अनुकूल और प्रभावी है."
+                }
+              ],
+              "reference_indexes": [
+                1
+              ]
+            },
+            {
+              "snippet": "Optimum Nutrition (ON) 100% Whey Gold Standard:",
+              "list": [
+                {
+                  "snippet": "प्रीमियम क्वालिटी का विकल्प है, जो दुनिया भर में लोकप्रिय है."
+                }
+              ]
+            }
+          ],
+          "reference_indexes": [
+            4
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "शुरुआती लोगों के लिए ज़रूरी बातें"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Whey Concentrate vs Isolate: शुरुआत के लिए Whey Concentrate किफायती होता है और अच्छा परिणाम देता है."
+            },
+            {
+              "snippet": "Digestive Enzymes: ऐसा प्रोटीन चुनें जिसमें डाइजेशन को आसान बनाने वाले एंजाइम हों, ताकि पेट से जुड़ी कोई समस्या न हो."
+            }
+          ],
+          "reference_indexes": [
+            0,
+            5,
+            6
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "अगर आप बताना चाहें, तो:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "आपका बजट कितना है?"
+            },
+            {
+              "snippet": "क्या आपको लैक्टोज (दूध की शर्करा) से एलर्जी है?"
+            },
+            {
+              "snippet": "आपका मुख्य लक्ष्य क्या है (वजन घटाना या मांसपेशियां बढ़ाना)?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "मैं आपके लिए एकदम सही विकल्प चुन सकता हूँ।"
+        }
+      ],
+      "references": [
+        {
+          "index": 0,
+          "title": "व्हे प्रोटीन में सबसे लोकप्रिय आइटम - Amazon.in",
+          "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+          "snippet": "AS-IT-IS एटम व्हे प्रोटीन 1kg पाचन एंजाइमों के साथ | डबल रिच चॉकलेट | 27g प्रोटीन | 5.7g BCAA | ...",
+          "source": "Amazon.in",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPZmSvIsWeQ1jwEdilhuBY4VKvPqM4wykx8P7lXCp_ySF8CuufCs2tM1FcMnnDcARpAwTBf-3czlRXuq_DDSXq-sVHdHEVODrCj_OQ"
+        },
+        {
+          "index": 1,
+          "title": "भारत में ऑनलाइन उपलब्ध शुरुआती लोगों के लिए सर्वश्रेष्ठ व्हे प्रोटीन",
+          "link": "https://translate.google.com/translate?u=https://www.healthkart.com/best-sellers/whey-protein-for-beginners?navKey%3DSCT-ptn-why-bgnr%26brands%3D542&hl=hi&sl=en&tl=hi&client=sge",
+          "snippet": "AS-IT-IS न्यूट्रिशन एटम बिगिनर्स व्हे प्रोटीन AS-IT-IS Nutrition ATOM Beginners Whey Protein बेहतरीन फॉर्मूले से तैयार किया गया है और जिम जाने वाले शुरुआती लोगों क...",
+          "source": "HealthKart",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        {
+          "index": 2,
+          "title": "Whey Protein for Beginners in India at Best Price | HealthKart",
+          "link": "https://www.healthkart.com/whey-protein-for-beginners?navKey=SCT-ptn-why-bgnr",
+          "snippet": "Beginner Whey Protein Benefits: Enhances strength/stamina, aids rapid muscle recovery, boosts immunity, reduces post-workout fatigue, and provides a steady protein...",
+          "source": "HealthKart",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTONpUi9RhbeWqjOF_5tlAdedS1Om07C28zaBRkTYQQR6y7qmXVOMqO7OiOt3c-cGfuVxidyQjv_EKY3Tx_zwOdJerKRg7j4wAsok-J"
+        },
+        {
+          "index": 3,
+          "title": "शुरुआती लोगों के लिए व्हे प्रोटीन",
+          "link": "https://translate.google.com/translate?u=https://www.muscleblaze.com/categories/proteins/beginners-whey-proteins?navKey%3DCL-5694&hl=hi&sl=en&tl=hi&client=sge",
+          "snippet": "बिगिनर्स व्हे प्रोटीन क्या है, और यह क्यों फायदेमंद है? * उत्तर: बिगिनर्स व्हे प्रोटीन अतिरिक्त ऊर्जा प्रदान करता है, मांसपेशियों के निर्माण को बढ़ावा देता है, तृप...",
+          "source": "MuscleBlaze",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.muscleblaze.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn5Ev2bkruQzAwkSpGMHljBY3QMxsz6vOOBjk69_7zv6GFiSfujk0iOlpDzeIsfJ3txcbuWvf-pgSDqkMlRF1HkYwapHubaBsYzsWi"
+        },
+        {
+          "index": 4,
+          "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड ...",
+          "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+          "snippet": "1. ऑप्टिमम न्यूट्रिशन (ऑन) 100% व्हे स्टेन्डर्ड (Optimum Nutrition (ON) 100% Whey Gold Standard) * आइसोप्योर लो कार्ब प्रोटीन आइसोलेट व्हे प्रोटीन है। आइसोप्योर की...",
+          "source": "MensXP",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mensxp.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7J4GU-JKT8P0cOEwlBs03R9UAQjegiMjHbsk7a-YiS76FRlt6UAG_IZ9UPPIHo6Zj1mFJ1yGndCL5XCkKmsayo3UE616zON3lznRT"
+        },
+        {
+          "index": 5,
+          "title": "The Best Whey Protein Powders For Beginners",
+          "link": "https://translate.google.com/translate?u=https://asitisnutrition.com/blogs/health/the-best-whey-protein-powders-for-beginners&hl=en&sl=en&tl=en&client=sge",
+          "snippet": "ATOM Whey is for the beginner who's creating consistency. The one who is beginning to feel stronger, sleep more soundly, and can crave that post-workout shake like...",
+          "source": "AS-IT-IS Nutrition",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://asitisnutrition.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7Ga-0TOYhSfcUOo9N7x8WlJM3RhiOrjrk-Ndx_ymZNhQNRRMSp2otZ0fp04cM6HML_pnUO7bKr57kihejpPGVkzBlW5pUBvRXwxqT"
+        },
+        {
+          "index": 6,
+          "title": "शुरुआती लोगों के लिए व्हे प्रोटीन: इसे कैसे चुनें और इस्तेमाल करें",
+          "link": "https://translate.google.com/translate?u=https://denzournutrition.com/blogs/whey-blogs/whey-protein-for-beginners&hl=hi&sl=en&tl=hi&client=sge&srsltid=AU7gw4XjoX1Cc6RUW_CU_7_RKydEXe50I7luktU0x1TsvgpgYbIfPBsn",
+          "snippet": "व्हे प्रोटीन कॉन्सेंट्रेट एक बुनियादी और रोज़मर्रा का विकल्प है। इसमें 60 से 80 प्रतिशत प्रोटीन होता है, थोड़ी मात्रा में वसा और लैक्टोज भी होता है, और यह सबसे किफ...",
+          "source": "Denzour Nutrition",
+          "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://denzournutrition.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtK1-EtvD613RjLiPbo1hLfnoNHtwf_ab05lSstvbqvP3DpLfjL3tKNpKXV97thySemWh7EJ3toiihpUGUgGxtZs"
+        }
+      ]
+    }
+  }
+}

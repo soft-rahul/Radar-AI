@@ -1,0 +1,388 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "best whey protein under 2000",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:39:22+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebf185f8c605c30b8171",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/JP6W1hb6itK0-sc8tT7uJ0WtZYBPMtIcihlVjLpkt-0/6ac4ebf185f8c605c30b8171.json",
+      "markdown_endpoint": "https://serpapi.com/searches/JP6W1hb6itK0-sc8tT7uJ0WtZYBPMtIcihlVjLpkt-0/6ac4ebf185f8c605c30b8171.md",
+      "created_at": "2026-10-06 12:39:13 UTC",
+      "processed_at": "2026-10-06 12:39:13 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=best+whey+protein+under+2000&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/JP6W1hb6itK0-sc8tT7uJ0WtZYBPMtIcihlVjLpkt-0/6ac4ebf185f8c605c30b8171.html",
+      "total_time_taken": 9.5
+    },
+    "search_parameters": {
+      "q": "best whey protein under 2000",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "You can find high-quality whey proteins for under 2000 that support muscle growth, recovery, and overall fitness without compromising on protein content or taste.",
+    "text_blocks": [
+      {
+        "type": "heading",
+        "snippet": "Top Affordable Whey Protein Options",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "BeastLife Pro Concentrate Whey Protein",
+            "snippet_highlighted_words": [
+              "BeastLife Pro Concentrate Whey Protein"
+            ],
+            "list": [
+              {
+                "snippet": "Size: 1 kg",
+                "snippet_highlighted_words": [
+                  "Size"
+                ]
+              },
+              {
+                "snippet": "Protein per Scoop: 24 g",
+                "snippet_highlighted_words": [
+                  "Protein per Scoop"
+                ]
+              },
+              {
+                "snippet": "BCAAs: 5.3 g",
+                "snippet_highlighted_words": [
+                  "BCAAs"
+                ]
+              },
+              {
+                "snippet": "Flavors: Rich Chocolate, Mango, Kesar Pista",
+                "snippet_highlighted_words": [
+                  "Flavors"
+                ]
+              },
+              {
+                "snippet": "Ideal for general fitness and muscle gain, with a good balance of protein and flavor 1 .",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "BeastLife Whey Protein Isolate",
+            "snippet_highlighted_words": [
+              "BeastLife Whey Protein Isolate"
+            ],
+            "list": [
+              {
+                "snippet": "Size: 1 kg",
+                "snippet_highlighted_words": [
+                  "Size"
+                ]
+              },
+              {
+                "snippet": "Protein per Scoop: 27 g",
+                "snippet_highlighted_words": [
+                  "Protein per Scoop"
+                ]
+              },
+              {
+                "snippet": "Fat & Carbs: Minimal",
+                "snippet_highlighted_words": [
+                  "Fat & Carbs"
+                ]
+              },
+              {
+                "snippet": "Flavors: Chocolate, Vanilla",
+                "snippet_highlighted_words": [
+                  "Flavors"
+                ]
+              },
+              {
+                "snippet": "Best for cutting, lean muscle gain, and those seeking higher protein concentration per serving 1 .",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "BeastLife Essential Whey Protein",
+            "snippet_highlighted_words": [
+              "BeastLife Essential Whey Protein"
+            ],
+            "list": [
+              {
+                "snippet": "Size: 1 kg",
+                "snippet_highlighted_words": [
+                  "Size"
+                ]
+              },
+              {
+                "snippet": "Protein per Scoop: 23 g",
+                "snippet_highlighted_words": [
+                  "Protein per Scoop"
+                ]
+              },
+              {
+                "snippet": "Suitable for daily nutrition and lean muscle maintenance 1 .",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "AS-IT-IS ONE Whey Protein Concentrate (Unflavored)",
+            "snippet_highlighted_words": [
+              "AS-IT-IS ONE Whey Protein Concentrate (Unflavored)"
+            ],
+            "list": [
+              {
+                "snippet": "Size: 500 g",
+                "snippet_highlighted_words": [
+                  "Size"
+                ]
+              },
+              {
+                "snippet": "Protein per Serving: 28 g",
+                "snippet_highlighted_words": [
+                  "Protein per Serving"
+                ]
+              },
+              {
+                "snippet": "Labdoor and Trustified certified, ensuring quality and purity 1 .",
+                "reference_indexes": [
+                  1
+                ]
+              },
+              {
+                "snippet": "Excellent for those looking for a clean whey protein without additives or flavoring.",
+                "snippet_highlighted_words": [
+                  "clean whey protein"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Choosing the Right Whey Protein",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Protein Type:",
+            "snippet_highlighted_words": [
+              "Protein Type"
+            ],
+            "list": [
+              {
+                "snippet": "Whey Concentrate: Good for general use, contains moderate protein and some carbs/fats.",
+                "snippet_highlighted_words": [
+                  "Whey Concentrate"
+                ]
+              },
+              {
+                "snippet": "Whey Isolate: Higher protein, lower carbs/fats; ideal for cutting or precise nutrition.",
+                "snippet_highlighted_words": [
+                  "Whey Isolate"
+                ]
+              }
+            ]
+          },
+          {
+            "snippet": "Flavors: Pick a flavor you enjoy to ensure consistent use.",
+            "snippet_highlighted_words": [
+              "Flavors"
+            ]
+          },
+          {
+            "snippet": "Serving Size & Protein Content: Consider your daily protein requirements to determine servings per day.",
+            "snippet_highlighted_words": [
+              "Serving Size & Protein Content"
+            ]
+          },
+          {
+            "snippet": "Brand Reliability: Stick to trusted brands like BeastLife or AS-IT-IS for verified quality and effectiveness.",
+            "snippet_highlighted_words": [
+              "Brand Reliability"
+            ]
+          },
+          {
+            "snippet": "Budget Efficiency: Buying 1 kg packs usually offers better value per gram of protein.",
+            "snippet_highlighted_words": [
+              "Budget Efficiency"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Benefits of Affordable Whey Protein",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Supports muscle growth and repair post-exercise.",
+            "snippet_highlighted_words": [
+              "muscle growth and repair"
+            ]
+          },
+          {
+            "snippet": "Provides BCAAs and essential amino acids to reduce soreness and enhance recovery.",
+            "snippet_highlighted_words": [
+              "BCAAs"
+            ]
+          },
+          {
+            "snippet": "Convenient protein source to meet daily protein needs.",
+            "snippet_highlighted_words": [
+              "meet daily protein needs"
+            ]
+          },
+          {
+            "snippet": "Supports lean mass maintenance during cutting or weight management phases 3 .",
+            "snippet_highlighted_words": [
+              "lean mass maintenance"
+            ],
+            "reference_indexes": [
+              0,
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Usage Tips",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Post-Workout: Mix 1–2 scoops with water or milk within 30 minutes after exercise.",
+            "snippet_highlighted_words": [
+              "Post-Workout"
+            ]
+          },
+          {
+            "snippet": "Morning Boost: Add a scoop to shakes or smoothies for extra protein.",
+            "snippet_highlighted_words": [
+              "Morning Boost"
+            ]
+          },
+          {
+            "snippet": "Meal Supplement: Combine with oats or pancakes to increase protein intake.",
+            "snippet_highlighted_words": [
+              "Meal Supplement"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "By selecting these budget-friendly whey proteins, you can fuel your fitness routine without exceeding 2000, balancing affordability, taste, and effectiveness +2 .",
+        "snippet_highlighted_words": [
+          "without exceeding 2000"
+        ],
+        "reference_indexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Best Whey Protein Under ₹2000 in India (2026) | ValueLens",
+        "link": "https://valuelens.in/best-whey-protein-under-2000-india",
+        "snippet": "These rankings come from ValueLens’ 2026 comparison of 23 whey proteins under ₹2000. Lower ₹/g protein = better value. | Rank | ₹/g Protein | Price | Product | Protein/Serving | Notes ||------|-------------|--------|---------|------------------|-------|| 1 | ₹2.23 | ₹810 | SOS Nutrition Gold Whey | 12g per 30g scoop | Cheapest per gram; 40% protein|| 2 | ₹2.28 | ₹1,538 | Bigmuscles Premium Gold Whey | 25g per 37g scoop | 68% protein; strong value|| 3 | ₹2.62 | ₹1,399 | Nakpro Impact Whey | 24g per 45g scoop | Trustified certified; great budget pick|| 4 | ₹2.62 | ₹1,999 | Trunativ Cookable Whey Isolate | 12.7g per 15g scoop | 85% protein isolate|| 5 | ₹2.67 | ₹1,349 | OSOAA Impact Whey | 24.24g per 48g scoop | Includes creatine; passed testing|| 6 | ₹2.84 | ₹1,999 | Nakpro Perform Whey | 26g per 37g scoop | 70% protein; tested clean|| 7 | ₹2.87 | ₹1,999 | Bigmuscles Nitra Isolate | 32g per 46g scoop | High protein per scoop|| 8 | ₹3.00 | ₹1,499 | Fuelone Impact Whey | 22.5g per 45g scoop | Solid mid-range option| These appear in other expert lists and lab-tested guides: Balanced blend, clean label, strong everyday choice. Minimalist raw whey concentrate; great purity at low cost. Unflavoured, no sweeteners; ideal for mixing into foods. Fresh-milk sourced Indian whey; reliable macro profile. 12g protein per scoop; cheapest true whey entry option. Nakpro Impact Whey ProteinAt ₹1,399 and ₹2.62/g protein, it offers the best mix of price, testing, and protein-per-rupee. 1 Check protein per gram (₹/g) — most accurate value metric. 2 Look for third‑party testing (Trustified, NABL, Labdoor). 3 Avoid amino spiking (cheap fillers like glycine/taurine). 4 Prefer 24–27g protein per serving for effective muscle recovery. 5 Digestive enzymes help reduce bloating and improve absorption. The most cost‑efficient whey proteins under ₹2000 are those with verified purity and the lowest cost per gram of protein.",
+        "source": "valuelens.in"
+      },
+      {
+        "index": 1,
+        "title": "Best Whey Protein Under ₹2000 in India (2026)–Budget Options",
+        "link": "https://musclexplode.in/best-whey-protein-under-2000-india/",
+        "snippet": "Looking for the best whey protein under ₹2000 in India? Discover top budget-friendly options, benefits, and best choices for muscle gain.",
+        "source": "musclexplode.in"
+      },
+      {
+        "index": 2,
+        "title": "Top Whey Protein Under ₹2000 – Trusted & Lab-Certified",
+        "link": "https://beastlife.in/collections/best-whey-protein-under-2000",
+        "snippet": "Finding the best whey protein under 2000 doesn’t have to be a compromise between quality and affordability. At BeastLife, we understand that every fitness enthusiast deserves premium protein that fuels muscle growth, supports recovery, and fits your budget.",
+        "source": "beastlife.in"
+      },
+      {
+        "index": 3,
+        "title": "Whey Protein Under ₹2000 - Denzour Nutrition",
+        "link": "https://denzournutrition.com/collections/whey-protein-under-2000",
+        "snippet": "Shop the best Whey Protein under ₹2000 from Denzour Nutrition. Explore affordable protein powders for muscle gain, recovery, and daily nutrition with trusted quality and fast delivery.",
+        "source": "denzournutrition.com"
+      },
+      {
+        "index": 4,
+        "title": "Best Whey Protein Under ₹2000 – Affordable Picks on HyugaLife",
+        "link": "https://hyugalife.com/product-category/best-whey-protein-under-2000",
+        "snippet": "Compare budget-friendly whey protein powders available on HyugaLife for under ₹2000, with details on pricing, protein content, and availability.",
+        "source": "hyugalife.com"
+      },
+      {
+        "index": 5,
+        "title": "Amazon.in: Whey Protein Under 2000",
+        "link": "https://www.amazon.in/whey-protein-under-2000/s?k=whey+protein+under+2000",
+        "snippet": "Find premium whey protein powders from leading nutrition brands. Support your fitness journey with quality protein supplements.",
+        "source": "www.amazon.in"
+      },
+      {
+        "index": 6,
+        "title": "Buy Whey Protein Powder Online at Best Price - Flipkart",
+        "link": "https://www.flipkart.com/health-care/health-supplements/protein-supplement/whey-protein~type/pr?sid=hlc,etg,1rx",
+        "snippet": "Buy authentic whey protein powder online at Flipkart. Choose from top brands like MuscleBlaze & OZiva to boost muscle recovery and support your fitness goals.",
+        "source": "Flipkart"
+      },
+      {
+        "index": 7,
+        "title": "Best Whey Protein Under 2000 in India | Budget Friendly",
+        "link": "https://andwhey.com/product-category/whey-protein-under-2000/",
+        "snippet": "Looking for the best whey protein under 2000 in India? Discover our top-rated, budget-friendly picks that deliver pure protein power without nasty fillers.",
+        "source": "andwhey.com"
+      },
+      {
+        "index": 8,
+        "title": "Buy Whey Protein Under 2000 Online - Nykaa",
+        "link": "https://www.nykaa.com/dp/whey-protein-under-2000",
+        "snippet": "Buy whey protein under 2000 online at great offers and deals with COD and fast delivery. Experience the power of wellness with the collection, available at Nykaa!",
+        "source": "Nykaa"
+      },
+      {
+        "index": 9,
+        "title": "Top 10 Best Whey Protein Under 2000 in 2025 – Park Kitchen",
+        "link": "https://parkkitchen.com/best-whey-protein-under-2000/",
+        "snippet": "We hope that our effort in finding the best Whey Protein Under 2000 has contributed something to you. To help you make the right choice, we have included reviews of our top choices, a thoroughly researched buying guide, and a simple comparison.",
+        "source": "parkkitchen.com"
+      },
+      {
+        "index": 10,
+        "title": "Best Whey Protein Under ₹2000 in India (August 2023) - Healthroid",
+        "link": "https://www.healthroid.com/featured/best-whey-protein-under-2000-in-india/",
+        "snippet": "In conclusion, finding the best whey protein under rupees 2000 in India may seem like a daunting task with so many options available. However, by considering factors such as protein content, quality, taste, and value for money, we have narrowed down the top choices.",
+        "source": "Healthroid"
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "readings": [
+    {
+      "answer_id": "q5|copilot|delhi-hinglish|0",
+      "stances": [
+        {
+          "brand": "Optimum Nutrition",
+          "stance": "recommended",
+          "quote": "2000 रुपये के बजट में, Optimum Nutrition Gold Standard 100% Whey या MuscleBlaze Biozyme Performance Whey सबसे लोकप्रिय और असरदार विकल्प हैं"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "2000 रुपये के बजट में, Optimum Nutrition Gold Standard 100% Whey या MuscleBlaze Biozyme Performance Whey सबसे लोकप्रिय और असरदार विकल्प हैं"
+        },
+        {
+          "brand": "Bigmuscles",
+          "stance": "recommended",
+          "quote": "यदि आप अतिरिक्त बीसीएए और तेज अवशोषण चाहते हैं, तो Bigmuscles Nutrition Nitra Isolate पर विचार कर सकते हैं।"
+        },
+        {
+          "brand": "Isopure",
+          "stance": "neutral",
+          "quote": "Isopure Low Carb Whey Protein"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "Optimum Nutrition",
+          "product": "ON",
+          "attribute": "certification",
+          "value": "प्रमाणित",
+          "quote": "ब्रांड प्रतिष्ठा: ON, MuscleBlaze, Bigmuscles जैसे प्रमाणित ब्रांड भरोसेमंद हैं।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze",
+          "attribute": "certification",
+          "value": "प्रमाणित",
+          "quote": "ब्रांड प्रतिष्ठा: ON, MuscleBlaze, Bigmuscles जैसे प्रमाणित ब्रांड भरोसेमंद हैं।"
+        },
+        {
+          "brand": "Bigmuscles",
+          "product": "Bigmuscles",
+          "attribute": "certification",
+          "value": "प्रमाणित",
+          "quote": "ब्रांड प्रतिष्ठा: ON, MuscleBlaze, Bigmuscles जैसे प्रमाणित ब्रांड भरोसेमंद हैं।"
+        }
+      ]
+    },
+    {
+      "answer_id": "q5|copilot|delhi-hinglish|1",
+      "stances": [
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Whey Concentrate 80% और NAKPRO Whey सबसे भरोसेमंद विकल्प हैं।"
+        },
+        {
+          "brand": "Nakpro",
+          "stance": "recommended",
+          "quote": "AS-IT-IS Whey Concentrate 80% और NAKPRO Whey सबसे भरोसेमंद विकल्प हैं।"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "stance": "recommended",
+          "quote": "MuscleBlaze Raw Whey | 24–27g | Concentrate | Trusted brand, raw & clean"
+        },
+        {
+          "brand": "The Whole Truth",
+          "stance": "recommended",
+          "quote": "The Whole Truth Whey | 24–26g | Concentrate | No additives, clean label"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS Whey 80%",
+          "attribute": "protein_per_serving_g",
+          "value": "~24–27g",
+          "quote": "AS-IT-IS Whey 80% | ~24–27g"
+        },
+        {
+          "brand": "Nakpro",
+          "product": "NAKPRO Impact/Gold",
+          "attribute": "protein_per_serving_g",
+          "value": "24g",
+          "quote": "NAKPRO Impact/Gold | 24g"
+        },
+        {
+          "brand": "MuscleBlaze",
+          "product": "MuscleBlaze Raw Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24–27g",
+          "quote": "MuscleBlaze Raw Whey | 24–27g"
+        },
+        {
+          "brand": "The Whole Truth",
+          "product": "The Whole Truth Whey",
+          "attribute": "protein_per_serving_g",
+          "value": "24–26g",
+          "quote": "The Whole Truth Whey | 24–26g"
+        }
+      ]
+    },
+    {
+      "answer_id": "q5|copilot|mumbai-en|0",
+      "stances": [
+        {
+          "brand": "BeastLife",
+          "stance": "recommended",
+          "quote": "Stick to trusted brands like BeastLife or AS-IT-IS for verified quality and effectiveness."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "Stick to trusted brands like BeastLife or AS-IT-IS for verified quality and effectiveness."
+        }
+      ],
+      "claims": [
+        {
+          "brand": "BeastLife",
+          "product": "BeastLife",
+          "attribute": "certification",
+          "value": "verified quality",
+          "quote": "Stick to trusted brands like BeastLife or AS-IT-IS for verified quality and effectiveness."
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS",
+          "attribute": "certification",
+          "value": "verified quality",
+          "quote": "Stick to trusted brands like BeastLife or AS-IT-IS for verified quality and effectiveness."
+        }
+      ]
+    },
+    {
+      "answer_id": "q5|copilot|mumbai-en|1",
+      "stances": [
+        {
+          "brand": "AS-IT-IS",
+          "stance": "recommended",
+          "quote": "Overall, AS-IT-IS ONE Whey Protein Concentrate and BeastLife Pro Concentrate Whey Protein offer excellent options under ₹2000"
+        },
+        {
+          "brand": "BeastLife",
+          "stance": "recommended",
+          "quote": "Overall, AS-IT-IS ONE Whey Protein Concentrate and BeastLife Pro Concentrate Whey Protein offer excellent options under ₹2000"
+        }
+      ],
+      "claims": [
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS ONE Whey Protein Concentrate",
+          "attribute": "price_inr",
+          "value": "under ₹2000",
+          "quote": "Overall, AS-IT-IS ONE Whey Protein Concentrate and BeastLife Pro Concentrate Whey Protein offer excellent options under ₹2000"
+        },
+        {
+          "brand": "BeastLife",
+          "product": "BeastLife Pro Concentrate Whey Protein",
+          "attribute": "price_inr",
+          "value": "under ₹2000",
+          "quote": "Overall, AS-IT-IS ONE Whey Protein Concentrate and BeastLife Pro Concentrate Whey Protein offer excellent options under ₹2000"
+        },
+        {
+          "brand": "AS-IT-IS",
+          "product": "AS-IT-IS ONE Whey Protein Concentrate",
+          "attribute": "certification",
+          "value": "certified quality",
+          "quote": "combining affordability, certified quality, and strong protein content"
+        },
+        {
+          "brand": "BeastLife",
+          "product": "BeastLife Pro Concentrate Whey Protein",
+          "attribute": "certification",
+          "value": "certified quality",
+          "quote": "combining affordability, certified quality, and strong protein content"
+        }
+      ]
+    }
+  ]
+}

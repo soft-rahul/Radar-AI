@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ShelfRadar</title>
+  <meta name="description" content="How often Google AI Overview, AI Mode and Bing Copilot recommend Indian whey protein brands, measured with SerpApi.">
+  <link rel="stylesheet" href="/styles.css?v=3">
+</head>
+<body>
+<div class="viz-root">
+  <header class="top">
+    <div>
+      <p class="eyebrow">ShelfRadar · AI search visibility</p>
+      <h1>Who do AI search engines recommend for whey protein in India?</h1>
+      <p class="lede">Google AI Overview, Google AI Mode and Bing Copilot, asked real Indian buying questions in
+        English, Hindi and Hinglish, several times each. Every number carries its 95% range.</p>
+    </div>
+    <div class="controls" role="group" aria-label="Report filters">
+      <label>Run <select id="run"></select></label>
+      <label>Focus brand <select id="focus"></select></label>
+      <span id="badge" class="badge"></span>
+    </div>
+  </header>
+
+  <p id="status" class="status" role="status"></p>
+
+  <main id="report" hidden>
+    <section aria-labelledby="kpi-h">
+      <h2 id="kpi-h" class="sr-only">Focus brand summary</h2>
+      <div class="tiles" id="tiles"></div>
+    </section>
+
+    <section aria-labelledby="heat-h">
+      <h2 id="heat-h">Where each brand shows up</h2>
+      <p class="sub">Share of AI answers that name the brand. Darker means more often. Hover or focus a cell for the
+        count and range. A dash means the engine gave no AI answer there.</p>
+      <div class="scroll"><table class="heat" id="heat"></table></div>
+    </section>
+
+    <section aria-labelledby="lang-h">
+      <h2 id="lang-h">Does the brand survive the language switch?</h2>
+      <p class="sub">Each mark is the share of answers naming the brand; the line is its 95% range. Overlapping
+        ranges are a tie, not a ranking.</p>
+      <div class="legend" id="lang-legend"></div>
+      <div id="lang-chart" class="chart"></div>
+      <details><summary>Table view</summary><div class="scroll"><table class="data" id="lang-table"></table></div></details>
+    </section>
+
+    <section aria-labelledby="src-h" class="split">
+      <div>
+        <h2 id="src-h">Who the AI trusts</h2>
+        <p class="sub">Sources cited across all answers, by type of website.</p>
+        <div id="sources" class="hbars"></div>
+        <div class="facts" id="source-facts"></div>
+      </div>
+      <div>
+        <h2>Sites to win (citation gap)</h2>
+        <p class="sub" id="gap-sub"></p>
+        <div class="scroll"><table class="data" id="gap"></table></div>
+      </div>
+    </section>
+
+    <section aria-labelledby="fc-h">
+      <h2 id="fc-h">Recommended, neutral or warned against</h2>
+      <p class="sub" id="fc-sub"></p>
+      <div class="legend" id="stance-legend"></div>
+      <div id="stance" class="stack"></div>
+      <div id="conflicts"></div>
+    </section>
+
+    <section aria-labelledby="dice-h">
+      <h2 id="dice-h">The dice: same question, different answers</h2>
+      <p class="sub">The same question asked again a minute later often names a different set of brands. That is why
+        ShelfRadar samples every question several times instead of reporting one "rank".</p>
+      <div class="scroll"><table class="data" id="dice"></table></div>
+    </section>
+
+    <footer class="method">
+      <h2>Method and limits</h2>
+      <ul id="method"></ul>
+    </footer>
+  </main>
+</div>
+<div id="tip" class="tip" role="tooltip" hidden></div>
+<script src="/app.js?v=3"></script>
+</body>
+</html>

@@ -1,0 +1,251 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन कौन सा है"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T11:42:33+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4de91c4f20ff71220a99b",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/uE5hdYh2Fp39nLqAnloUJqD98uuRzIeFEZgE9She_bo/6ac4de91c4f20ff71220a99b.json",
+      "markdown_endpoint": "https://serpapi.com/searches/uE5hdYh2Fp39nLqAnloUJqD98uuRzIeFEZgE9She_bo/6ac4de91c4f20ff71220a99b.md",
+      "created_at": "2026-10-06 11:42:09 UTC",
+      "processed_at": "2026-10-06 11:42:09 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%86%E0%A4%A4%E0%A5%80+%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/uE5hdYh2Fp39nLqAnloUJqD98uuRzIeFEZgE9She_bo/6ac4de91c4f20ff71220a99b.html",
+      "total_time_taken": 11.12
+    },
+    "search_parameters": {
+      "q": "भारत में शुरुआती लोगों के लिए सबसे अच्छा व्हे प्रोटीन कौन सा है",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "शुरुआती लोगों के लिए भारत में सबसे अच्छा व्हे प्रोटीन वह है जिसमें प्रति स्कूप 20–25 ग्राम असली प्रोटीन हो, चीनी और फिलर कम हों, अच्छा अमीनो/BCAA प्रोफाइल हो और FSSAI/GMP प्रमाणन उपलब्ध हो।",
+    "text_blocks": [
+      {
+        "type": "heading",
+        "snippet": "शुरुआती लोगों के लिए प्रमुख चयन मानदंड",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रोटीन प्रति स्कूप: एक अच्छा व्हे प्रोटीन प्रति स्कूप लगभग 24 ग्राम प्रोटीन देता है, जिससे मांसपेशियों की वृद्धि और रिकवरी में मदद मिलती है 1 ।",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रति स्कूप:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "चीनी और फिलर कम होना: अतिरिक्त शक्कर और माल्टोडेक्सट्रिन जैसी सामग्री कम होनी चाहिए, ताकि अधिक कैलोरी बिना प्रोटीन के न मिलें 1 ।",
+            "snippet_highlighted_words": [
+              "चीनी और फिलर कम होना:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "अमीनो एसिड प्रोफाइल: बेहतर BCAA (लेयूसीन, आइसोल्यूसीन, वैलिन) और अन्य EAA शामिल होना चाहिए जो मसल रिकवरी और ग्रोथ में उपयोगी हैं 1 ।",
+            "snippet_highlighted_words": [
+              "अमीनो एसिड प्रोफाइल:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "प्रमाणन: FSSAI, GMP या ISO प्रमाणन वाली प्रोडक्ट्स चुनें और बैच वेरिफिकेशन की सुविधा हो 1 ।",
+            "snippet_highlighted_words": [
+              "प्रमाणन:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "घुलनशीलता और स्वाद: जल्दी घुलने वाला और स्वाद में सहनीय होना भी जरूरी है, ताकि नियमित सेवन आसान रहे 1 ।",
+            "snippet_highlighted_words": [
+              "घुलनशीलता और स्वाद:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "शुरुआती लोगों के लिए सिफारिश",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Gainz4Ever Whey Protein एक भरोसेमंद विकल्प है। यह प्रति सर्विंग 24 ग्राम प्रोटीन देता है, चीनी नहीं है, 16 ग्राम कार्बोहाइड्रेट और 2 ग्राम ग्लूटामीन होता है। यह FSSAI/GMP/ISO प्रमाणित है और बैच वेरिफिकेशन की सुविधा देता है 1 ।",
+            "snippet_highlighted_words": [
+              "Gainz4Ever Whey Protein"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "अगर आप वज़न बढ़ाना चाहते हैं, तो Gainz4Ever का Mass Gainer भी उपयोगी है, जिसमें कैलोरी अधिक होती हैं और शुरुआती लोगों के लिए वजन बढ़ाने में मदद मिलती है 1 ।",
+            "snippet_highlighted_words": [
+              "Mass Gainer"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "बजट और आहार के साथ समन्वय",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "यदि आपकी प्राथमिकता पूरी तरह से भोजन से है, तो भारत में अंडे, सोया चंक्स, दाल, पनीर, मूँगफली, सत्तू जैसे प्राकृतिक प्रोटीन स्रोत सबसे किफ़ायती हैं 1 ।",
+            "snippet_highlighted_words": [
+              "अंडे, सोया चंक्स, दाल, पनीर, मूँगफली, सत्तू"
+            ],
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "भोजन से पर्याप्त प्रोटीन नहीं मिल रहा हो या जिम की वजह से ज़रूरत अधिक हो, तभी व्हे प्रोटीन आसानी और तेज़ अवशोषण के लिए उपयुक्त है 2 ।",
+            "snippet_highlighted_words": [
+              "व्हे प्रोटीन"
+            ],
+            "reference_indexes": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "नकली या मिलावटी प्रोटीन से बचें",
+        "level": 3
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "लेबल पर FSSAI लाइसेंस नंबर और अधिकृत सेलर से खरीदारी करें 1 ।",
+            "snippet_highlighted_words": [
+              "FSSAI लाइसेंस नंबर"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "बहुत सस्ता प्रोटीन खरीदते समय सतर्क रहें, क्योंकि उसमें फिलर अधिक या प्रोटीन कम हो सकता है।"
+          },
+          {
+            "snippet": "सील और बैच वेरिफ़िकेशन की सुविधा वाली प्रोडक्ट्स चुनें 2 ।",
+            "reference_indexes": [
+              0,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "सारांश में, शुरुआती लोगों के लिए प्रति स्कूप पर्याप्त प्रोटीन, प्रमाणन, कम फिलर और विश्वसनीय ब्रांड तरह का व्हे प्रोटीन सबसे अच्छा विकल्प है। यह मसल बिल्डिंग, रिकवरी और नियमित फिटनेस अभ्यास के लिए सरल और सुरक्षित तरीका है।",
+        "snippet_highlighted_words": [
+          "प्रति स्कूप पर्याप्त प्रोटीन, प्रमाणन, कम फिलर और विश्वसनीय ब्रांड"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "अंडा, पनीर या व्हे प्रोटीन, आपकी जेब और सेहत के लिए कौन है सबसे बेस्ट ...",
+        "link": "https://ndtv.in/food/eggs-vs-paneer-vs-whey-how-much-protein-is-needed-daily-and-how-much-we-are-consuming-11854971",
+        "snippet": "आपके डिब्बे का प्रोटीन कहीं आपकी सेहत खराब तो नहीं कर रहा? जानिए रोजाना कितना प्रोटीन चाहिए और हम कितना खा रहे हैं?",
+        "source": "NDTV India"
+      },
+      {
+        "index": 1,
+        "title": "भारत में सबसे अच्छा व्हे प्रोटीन कैसे चुनें और कीमत",
+        "link": "https://imuscles.in/blogs/weight-gainer/whey-sabse-achha-aur-kimat",
+        "snippet": "सबसे अच्छा व्हे प्रोटीन वह है जिसमें प्रति स्कूप 20–25g असली प्रोटीन हो, चीनी और फिलर कम हों, अच्छा अमीनो/BCAA प्रोफाइल हो, और FSSAI/GMP प्रमाणन ...",
+        "source": "imuscles.in"
+      },
+      {
+        "index": 2,
+        "title": "प्रोटीन पाउडर बनाम हाई-प्रोटीन फूड्स: शुरुआती लोगों के लिए खरीदारी गाइड",
+        "link": "https://allblogs.in/post/protein-powder-vs-high-protein-foods/hindi",
+        "snippet": "शुरुआती लोगों के लिए प्रोटीन पाउडर और हाई-प्रोटीन फूड्स की तुलना करें। जानें कि व्हे या प्लांट प्रोटीन कब खरीदना सही है, कब सिर्फ ...",
+        "source": "allblogs.in"
+      },
+      {
+        "index": 3,
+        "title": "व्हे, प्लांट और यीस्ट प्रोटीन: कौन सा बेहतर है?",
+        "link": "https://zeelabpharmacy.com/hi/blog/whey-vs-plant-vs-yeast-protein",
+        "snippet": "इस लेख में हम व्हे प्रोटीन, प्लांट प्रोटीन और यीस्ट प्रोटीन की तुलना करेंगे और इनके बीच के जरूरी अंतर समझेंगे, ताकि आप अपनी पोषण ...",
+        "source": "ZEELAB Pharmacy"
+      },
+      {
+        "index": 4,
+        "title": "भारत में 2026 के सर्वश्रेष्ठ प्रोटीन पाउडर: विशेषज्ञों की समीक्षा ...",
+        "link": "https://doctorspot.in/hi/health/top-protein-powders-of-a-comprehensive-guide/",
+        "snippet": "भारत में उपलब्ध सर्वश्रेष्ठ प्रोटीन पाउडर खोजें। मांसपेशियों को बढ़ाने, वजन घटाने, रिकवरी और समग्र स्वास्थ्य के लिए सबसे अच्छे ...",
+        "source": "doctorspot.in"
+      },
+      {
+        "index": 5,
+        "title": "कौन से फल और सब्जियों में सबसे ज्यादा प्रोटीन पाया जाता है, डॉक्टर ने ...",
+        "link": "https://www.indiatv.in/health/which-fruits-and-vegetables-contain-the-high-protein-doctor-reveals-the-best-sources-for-vegetarians-2026-06-17-1225604",
+        "snippet": "सब्जियों में मटर को प्रोटीन का बेस्ट सोर्स माना जाता है तो वहीं फलों में अमरूद सबसे ज्यादा प्रोटीन वाला फल है। दालों में उड़द की दाल ...",
+        "source": "www.indiatv.in"
+      },
+      {
+        "index": 6,
+        "title": "जानिए व्हे प्रोटीन कंसन्ट्रेट vs आइसोलेट: कौन सा चुनें - Whey ...",
+        "link": "https://nakpro.com/blogs/hindi-blogs/%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%8F-%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8-%E0%A4%95%E0%A4%82%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9F-vs-%E0%A4%86%E0%A4%87%E0%A4%B8%E0%A5%8B%E0%A4%B2%E0%A5%87%E0%A4%9F-%E0%A4%95%E0%A5%8C%E0%A4%A8-%E0%A4%B8%E0%A4%BE-%E0%A4%9A%E0%A5%81%E0%A4%A8%E0%A5%87%E0%A4%82-whey-concentrate-vs-isolate-key-differences-best-choice-in-hindi",
+        "snippet": "व्हे प्रोटीन कंसन्ट्रेट और आइसोलेट दोनों ही बेहतरीन प्रोटीन सोर्स हैं। अगर आप बजट फ्रेंडली और कम्पलीट न्यूट्रिशन वाला प्रोटीन ...",
+        "source": "NAKPRO NUTRITION"
+      },
+      {
+        "index": 7,
+        "title": "Sabse Jyada Protein Kisme Hota Hai? Top 25 High Protein Foods List",
+        "link": "https://www.healthkasathi.com/blog/sabse-jyada-protein-kisme-hota-hai",
+        "snippet": "तो यहाँ देखें 25 High Protein Foods की पूरी लिस्ट (Veg & Non-Veg)। जानें शाकाहारी और मांसाहारी में सबसे ज्यादा प्रोटीन किसमें पाया जाता है।",
+        "source": "healthkasathi.com"
+      },
+      {
+        "index": 8,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "इसलिए आज मैं आपको बता रहा हूं, भारत में कौन से 5 ऐसे व्हे प्रोटीन हैं जो ...",
+        "source": "MensXP"
+      },
+      {
+        "index": 9,
+        "title": "भारत में प्रोटीन कितना ज़रूरी है? असली आंकड़े और सही फॉर्मूला",
+        "link": "https://www.inbody.in/blog/bharat-mein-protein-kitna-zaroori-hai-hindi",
+        "snippet": "ऊपर का कैलकुलेशन एक शुरुआती अंदाज़ा है। असली नंबर आपकी अपनी lean mass से निकलता है — और वह सिर्फ एक भरोसेमंद body composition test से मिलता है।",
+        "source": "www.inbody.in"
+      }
+    ]
+  }
+}

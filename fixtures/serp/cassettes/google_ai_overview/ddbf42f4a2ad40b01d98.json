@@ -1,0 +1,165 @@
+{
+  "request": {
+    "engine": "google_ai_overview",
+    "params": {
+      "page_token": "RUpZgXiczZXddqo4FMcfYJ5juLFHAbVK12KdFRAQbVWs1rY3LAgxfNMSLdK7eZd5qnmMeYIJ-HGwVafnXMyaXBAg2Ts7O_uX_x9_hl4c_PXb3-5q9UJuGo0sy-o4SXCI6jCJGhbJY9hYJiFJoft9vQ6RmNVkoBu6rN9OtQdiaQG5X7QDa6EwbiiimCHJOoXIc0TopkmEGByKXszkb2KTgURkGeSJ3vhNsdKZJ6dWK5jok_TV7-UgYcrVRNO2CPJpMBufNMwGfQS_N3v0o07qKDY1qT4TFnyivg1WIKvzLN-sjxtWROeA_7RhHTzRblC8K2dnSQDIX_GmUBeSXnUkSWVXscZ0WCo63Si_1QveSjPFwGUEtJkb_71HzTS8nxOctT4a0bYODL3sFWou61_ZUCWYo2AvGZ8bw0ceyrQfD51sklQd1IGM78BEB-5pY5r7o-Vprnrb_xDo3X5LoudhXIgdDLE6fgaKu7W91OaShg5rq4QuozQcTAuYbdgp7biGB11YvqSkqGt5JrCJwnc7_C07TYEw7C1m6vI6nnrZIw_MOW5Am84LE8tBjuma7Pfym-O5Nis0O92rkilIDlCRKlRaZJvTLhTUTlK_rUvcHie5eiDVLRV_56f2KBXVquxL7nPTT6RGlpMjF7sJ9DDuZCAfwyOr_SJtB9DpywaD9XER7BHC4DNOO28_nJY47decGgfrozB1RfIqFtXd9T9uh_r-vHs83lrKtHS3nnelqYCP14OsSAVjhwCy6mBxmcgUamkLw2tL3270rlLKrDL4dBsVqXCp6e5zx_f-cJ-q6StyQG8NGucA6JKiz1R6Lcn71Wl4uwxRnD7yoJ9kscgw3a1x_oq81OZfmqXsufmAQRWf_nAzlUevjxsYCDr3POoOtQHU22oyeQancUki--dECP7fmNpLVDFBucSU_BWmqEThExK187d1epCowU6izjOllkztJKpwtJeo_ieJ-sxUUGVKM8rhaXJGon6WKf0CUwfHJ5lSTzGFzzNVSlSVKffOOJIo_aRE_WDqVyRq_qsSVSKGtt2xXq19fFa31LGnj4Dd2jjNqeJbPf6pawm-FSVQ_nfdWkarm8hywivTc24kfrDKnSuT_khukMO8ijbCXhyjlNQCVAu9HNWIZRNUsyB0rVrmorz2kiYr5MW1wFrHdLTmWh4ThWkislZnGDYnRObe1sj1wqfJk_dgaB24cpIkz8eD94WifJPSDffyHtx6Tu8l03gXrv17K9okDzxKR4ILH6WhDzUOkccgfx_43_yFDLE0DvLZa8RxOZ6g22Vv5ZHorrdY9nmb3BPMPlrCfawujeC6u2ZjxTezpMOXURHRHtntpfDNzDyWoRslSOSYKIUirZcWBiMDLDA9bpkWk4zB3EponwFDu6bVIPG0kBgCLRORN7Flt3nEXSOniYR2G1IveJW_iALLkDgVuX8A8oRm_w"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:37:35+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb89f6d5ee3178453e6e",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/8OA5aH7Lyi87t8kIQS0HEhgLjxQ81c8rUc_qtvQ-M-Y/6ac4eb89f6d5ee3178453e6e.json",
+      "markdown_endpoint": "https://serpapi.com/searches/8OA5aH7Lyi87t8kIQS0HEhgLjxQ81c8rUc_qtvQ-M-Y/6ac4eb89f6d5ee3178453e6e.md",
+      "created_at": "2026-10-06 12:37:29 UTC",
+      "processed_at": "2026-10-06 12:37:29 UTC",
+      "google_ai_overview_url": "https://www.google.com/async/folsrch?uule=w+CAIQICILRGVsaGksSW5kaWE&hl=en&sourceid=chrome&gl=in&yv=3&cs=0&ei=iOvEarTiCra4kPIPrqjDyAo&async=_basejs:/xjs/_/js/k%3Dxjs.s.en_GB.T9W2oFvJtAw.2023.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIAYAAAJAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAABIAEAAAAAAAAAABBAAAAACAAAAAAAAAAgAEABAAgAIQAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAEECAAAAEQgAABAAAAA_xjzDQAAGgAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAGABAAAAQIABAAAEgAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAAAAAFAAAAAAAAYAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAABBgAAAAAAAAAAAIACgMAPIAhAAAAAAAAAAgAAAAAAAAAAAIAEIAAAAAAAAAAAAQAADAAAAIAcAI8H4BBBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAKgFOZAEhAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUBGeAgAAAAAAAFsDAAE/dg%3D0/br%3D1/ichc%3D1/rs%3DACT90oE2872L0RrA9KDWTFf6nRiwX2A_Ug/cb%3Dloaded_h_0?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.s.Gmb_R8c9F7o.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAACCoAAAAAAAAAAAABQAAAAAAEIAMCACACAAAAAAAAAAAACFHgAAADAAAAAAAADAAxgAuAgAAAAAAAAAAAAEAAAAAAAgAIAEAAAAAAAAAABBAAACAAAAAACAAAAAAAAABAAgABQAAAAAARQAAEAAAAAAQAAAAAAAAAAAAIEBiAAAAAAAAABABAAAAAAAAAAAHAAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAAAAAgOAAAABACAYAQAAAAABgAAAAAEAAACAAAAAAAAAAAAACEBEgAAAQAAAAAAAwAAAAAAAAAAAABAACCEQgBAAFAAAq4IAAAAgAMAAgAAAAAAAA0EJEAAAAAAAAAAAAAAAAgAIAhACCAAAAAAAkAAAAAAIAAAAAAAYgAAAAAAAAAAARQAAQgAYAQJAIBEITFABICAAAAABAAACEAEAAAAAIACBAQAAAAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAABAAgBgAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE/br%3D1/cb%3Dloaded_h_0/rs%3DACT90oHKxRCNqXxck9I1ZN8KGJcI5FoPZA?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.s.en_GB.T9W2oFvJtAw.2023.O/ck%3Dxjs.s.Gmb_R8c9F7o.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAACCoAAAAAgIAYAAAJQAAAEAAEIAMCACACAAAAAAAAAAAACFHgACADAAAAAAAADAAxgAuAgAAAAAAAAAAAAEAAAAEEAgBIAEAAAAAAAAAABBAAACACAAAACAAAAAgAEABAAgAJQAAAAAFRQAAEAAAAAAQAAAAAAAAAAAAIEFiAAAAEQgAABABAAA_xjzDQAAHgAAAAAAAAkAAAAAAACABAAAAAAAAAAAAAAAkAgOAAAABACAYGQBAAAARoABAAAEgAACIAAAAAAAAAAAACEBEgAAAQAAAAAAAwAAAAAAAAAAAABAACCEQgBAAFAAAq4IAIAAgAMAAgAAAAAAAA0EJEAAAAAAAIAAAAAAAAgAIAhACCAAAAAAAkAAAAAFIAAAAAAAYgAAAAAAAAAAgRQAAQgAYAQJAIBEITFABICAAAABBgAACEAEAAAAAIAChMQPIAhAAAAAAAAAIgAAAAAAAAAAAIAEIAAAAABAAgBgAQEADAAAAIAcAI8H4BBBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAKgFOZAUhAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUBGeAgAAAAAAAFsDAAE/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/ichc%3D1/rs%3DACT90oFOiINAb4xd3REjaD2Y8a9jamocCg/cb%3Dloaded_h_0?cb%3D121509378,_fmt:madl,_id:B2Jtyd,_mado:ed&q=beginners+ke+liye+sabse+accha+whey+protein+kaun+sa+hai&mlro=0a7Kl3PsC1vuehilYPYiVQG7ctdooyyOJzWEE-Brx1pzkLidDpwG2hcujSamxoV2erN9hcXBKjcG1esXkyzJj-jWCcgBOkyTqm11ygPeLfDtismMDWfH2bsSsg0Xa9SnFfQk68u0nEj_wo72&mlros=bNb5f9-_wi0&madse=1&mrc=CAA4gANQAWgAcACYAQCgAUaoAQCwAQG6AQEB2AEA&sca_esv=4b52e16ed3e955c1&mgtyp=90&snr=1",
+      "raw_html_file": "https://serpapi.com/searches/8OA5aH7Lyi87t8kIQS0HEhgLjxQ81c8rUc_qtvQ-M-Y/6ac4eb89f6d5ee3178453e6e.html",
+      "total_time_taken": 5.87
+    },
+    "search_parameters": {
+      "engine": "google_ai_overview",
+      "page_token": "RUpZgXiczZXddqo4FMcfYJ5juLFHAbVK12KdFRAQbVWs1rY3LAgxfNMSLdK7eZd5qnmMeYIJ-HGwVafnXMyaXBAg2Ts7O_uX_x9_hl4c_PXb3-5q9UJuGo0sy-o4SXCI6jCJGhbJY9hYJiFJoft9vQ6RmNVkoBu6rN9OtQdiaQG5X7QDa6EwbiiimCHJOoXIc0TopkmEGByKXszkb2KTgURkGeSJ3vhNsdKZJ6dWK5jok_TV7-UgYcrVRNO2CPJpMBufNMwGfQS_N3v0o07qKDY1qT4TFnyivg1WIKvzLN-sjxtWROeA_7RhHTzRblC8K2dnSQDIX_GmUBeSXnUkSWVXscZ0WCo63Si_1QveSjPFwGUEtJkb_71HzTS8nxOctT4a0bYODL3sFWou61_ZUCWYo2AvGZ8bw0ceyrQfD51sklQd1IGM78BEB-5pY5r7o-Vprnrb_xDo3X5LoudhXIgdDLE6fgaKu7W91OaShg5rq4QuozQcTAuYbdgp7biGB11YvqSkqGt5JrCJwnc7_C07TYEw7C1m6vI6nnrZIw_MOW5Am84LE8tBjuma7Pfym-O5Nis0O92rkilIDlCRKlRaZJvTLhTUTlK_rUvcHie5eiDVLRV_56f2KBXVquxL7nPTT6RGlpMjF7sJ9DDuZCAfwyOr_SJtB9DpywaD9XER7BHC4DNOO28_nJY47decGgfrozB1RfIqFtXd9T9uh_r-vHs83lrKtHS3nnelqYCP14OsSAVjhwCy6mBxmcgUamkLw2tL3270rlLKrDL4dBsVqXCp6e5zx_f-cJ-q6StyQG8NGucA6JKiz1R6Lcn71Wl4uwxRnD7yoJ9kscgw3a1x_oq81OZfmqXsufmAQRWf_nAzlUevjxsYCDr3POoOtQHU22oyeQancUki--dECP7fmNpLVDFBucSU_BWmqEThExK187d1epCowU6izjOllkztJKpwtJeo_ieJ-sxUUGVKM8rhaXJGon6WKf0CUwfHJ5lSTzGFzzNVSlSVKffOOJIo_aRE_WDqVyRq_qsSVSKGtt2xXq19fFa31LGnj4Dd2jjNqeJbPf6pawm-FSVQ_nfdWkarm8hywivTc24kfrDKnSuT_khukMO8ijbCXhyjlNQCVAu9HNWIZRNUsyB0rVrmorz2kiYr5MW1wFrHdLTmWh4ThWkislZnGDYnRObe1sj1wqfJk_dgaB24cpIkz8eD94WifJPSDffyHtx6Tu8l03gXrv17K9okDzxKR4ILH6WhDzUOkccgfx_43_yFDLE0DvLZa8RxOZ6g22Vv5ZHorrdY9nmb3BPMPlrCfawujeC6u2ZjxTezpMOXURHRHtntpfDNzDyWoRslSOSYKIUirZcWBiMDLDA9bpkWk4zB3EponwFDu6bVIPG0kBgCLRORN7Flt3nEXSOniYR2G1IveJW_iALLkDgVuX8A8oRm_w"
+    },
+    "ai_overview": {
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "Beginners के लिए सबसे अच्छा ऑप्शन Whey Protein Concentrate है, क्योंकि यह बजट के अनुकूल होता है और मांसपेशियों की रिकवरी के लिए पूरी तरह पर्याप्त है।",
+          "snippet_highlighted_words": [
+            "ऑप्शन Whey Protein Concentrate"
+          ],
+          "reference_indexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "भारत में शुरुआत करने वालों के लिए बेहतरीन और बजट-फ्रेंडली ब्रांड्स:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "MuscleBlaze (जैसे MuscleBlaze Biozyme Whey Protein) – यह पाचन (digestion) और लैब-टेस्टिंग के मामले में भारत में काफी लोकप्रिय है।"
+            },
+            {
+              "snippet": "Nakpro – कम बजट में अच्छी क्वालिटी और प्रोटीन प्रोफाइल चाहने वालों के लिए एक अच्छा विकल्प है।"
+            },
+            {
+              "snippet": "(जैसे As-It-Is Raw Whey) – बिना किसी फ्लेवर और एक्स्ट्रा मिलावट के प्योर कंसंट्रेटर चाहने वालों के लिए बढ़िया है।"
+            },
+            {
+              "snippet": "Wellcore – नए ट्रेंड्स और अच्छे फ्लेवर के कारण बिगिनर्स द्वारा पसंद किया जा रहा है।"
+            }
+          ],
+          "reference_indexes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Whey Protein चुनते समय ध्यान रखने योग्य बातें:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Whey Concentrate vs Isolate:",
+              "list": [
+                {
+                  "snippet": "Concentrate: इसमें 70–80% प्रोटीन होता है, थोड़ा फैट और कार्ब्स होते हैं और यह सस्ता पड़ता है (Beginners के लिए बेस्ट)।"
+                },
+                {
+                  "snippet": "Isolate: इसमें 90% से ज्यादा प्रोटीन होता है, फैट-लेक्टोज न के बराबर होता है और यह महंगा आता है (जिन्हें फैट लॉस या लैक्टोज इनटॉलरेंस हो, उनके लिए अच्छा है)।"
+                }
+              ],
+              "reference_indexes": [
+                0
+              ]
+            },
+            {
+              "snippet": "सच्चाई पहचानें: हमेशा किसी अधिकृत वेबसाइट, स्टोर या ब्रांड की ऑफिशियल साइट से ही खरीदें ताकि डुप्लीकेट प्रोडक्ट से बच सकें।",
+              "reference_indexes": [
+                2,
+                4
+              ]
+            },
+            {
+              "snippet": "डाइट सप्लीमेंट है, खाना नहीं: व्हे प्रोटीन केवल आपकी डेली प्रोटीन की कमी को पूरा करने का जरिया है, असली खाने (अंडे, चिकन, पनीर, दाल, सोया आदि) की जगह इसे न समझें।",
+              "reference_indexes": [
+                2,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "अगर आप चाहें तो अपना बजट और गोल (जैसे वजन बढ़ाना है या फैट कम करना है) बता सकते हैं, ताकि मैं आपको एकदम सटीक प्रोडक्ट सुझा सकूं।"
+        }
+      ],
+      "references": [
+        {
+          "index": 0,
+          "title": "thode zyada * Cheap option 👉 Beginners ke liye ok 2. Whey Isolate ( ...",
+          "link": "https://www.instagram.com/reel/DX4fqYCJGEC/",
+          "snippet": "🔥 Whey Protein ke types (simple samajh) 1. Whey Concentrate * Protein: ~70–80% * Fat & carbs: thode zyada * Cheap option 👉 Beginners ke liye ok 2. Whey Isolate (",
+          "source": "Instagram",
+          "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_1bU4rH08PLs6vTHw1oKOdk3cW9t3fb2DNy6gPVBzQhEfq-0WPxs1aheU2V1ToqAum7XXslNDBCzDfYTrpuZsDnbp7pfAOTu5E1eA"
+        },
+        {
+          "index": 1,
+          "title": "Best Budget Whey Protein for Beginners 💪 Agar aap gym start kar ...",
+          "link": "https://www.instagram.com/reel/DVyoe60SUua/",
+          "snippet": "Best Budget Whey Protein for Beginners 💪 Agar aap gym start kar ... * fitproguides.22 3 likes fitproguides.22 Best Budget Whey Protein for Beginners 💪 Agar aap g...",
+          "source": "Instagram",
+          "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDqIMLf3jY81rrJoeWJ3dIPm8w70PLUfqIKWTJt0gqJ1mLR71znEqRYKNh4FzMknKEM6MSCcJhsFE4I2AsyXyLveCFTc9hrDQr-Apb"
+        },
+        {
+          "index": 2,
+          "title": "Whey Protein Review 2026 | Good for Beginners",
+          "link": "https://www.instagram.com/reel/Ddt8f_TOpZt/",
+          "snippet": "* fittwithram. India : इंडिया 18 likes. fittwithram. Whey Protein Review 2026 | Good for Beginners. View all 4 comments. atharva_k3119. the only person who always ...",
+          "source": "Instagram",
+          "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnvXNLI54VWoUJWvb5WfuE5zRz9a97YKtN4Zsl-Zx7VqAFoOXyfHNaeXKfEvbHkFgG_9cqg9nXao-Pp87mljaEfJQv8qmwg-r5Gm_S"
+        },
+        {
+          "index": 3,
+          "title": "Top Whey Protein Retailers in Ropar - Justdial",
+          "link": "https://www.justdial.com/Ropar/Whey-Protein-Retailers/nct-10967903",
+          "snippet": "MuscleBlaze Whey Protein: Offering a good balance of price and quality, this product is ideal for both beginners and seasoned athletes. Asitis Whey Protein: A ...",
+          "source": "Justdial",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.justdial.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgoE48cYDOB_oRqhWK8Jt3wsKXEvGLu9EcTFhjNZr2yFFMeSkgeNLOQFLHWnzlpG8hHS1luuh3uLAOiuFDS5vg5hAmdJTW71F5Nt1m"
+        },
+        {
+          "index": 4,
+          "title": "🥤 Whey Protein kyu lena chahiye? Body ko muscle repair aur growth ...",
+          "link": "https://www.instagram.com/p/DXlDqx6TAOJ/",
+          "snippet": "🥤 Whey Protein kyu lena chahiye? Body ko muscle repair aur growth ... * musclemanmohit 29 likes musclemanmohit 🥤 Whey Protein kyu lena chahiye? Body ko muscle re...",
+          "source": "Instagram",
+          "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgwOGq3CQz8ZuRffVuqWdldpl70yAN2222J1xjTCGeAONqLe02gYLSBzMppQ0hpJOrvPRGEOVOzIYQCpC9yzZj6sxE"
+        },
+        {
+          "index": 5,
+          "title": "Healnify on Instagram: \"Top 3 Whey Protein for Muscle Gain",
+          "link": "https://www.instagram.com/reel/DQ4SZ8_j5-b/",
+          "snippet": "“Not all supplements are worth your money. 💸 Here are 3 of my top picks for each category — creatine, whey protein, pre-workout & multivitamins. 💪 Save this befo...",
+          "source": "Instagram",
+          "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfQYwJiPjd-EY0uRZuXqnAETi5kaC6uF1hw54VWUH8QY3RyaTiAfFpCCBeNjL4GnFqCuwonUby1Xfee9MjJ9kINIw7J02BplazT-vP"
+        }
+      ]
+    }
+  }
+}

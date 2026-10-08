@@ -1,0 +1,466 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "कौन सा प्रोटीन पाउडर सबसे अच्छा है",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:38:43+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebad556ce307f27b7a63",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/3R6_idWkzf5l8YOiUJLiwItv8qoxyageIob7Kon0T5c/6ac4ebad556ce307f27b7a63.json",
+      "markdown_endpoint": "https://serpapi.com/searches/3R6_idWkzf5l8YOiUJLiwItv8qoxyageIob7Kon0T5c/6ac4ebad556ce307f27b7a63.md",
+      "created_at": "2026-10-06 12:38:05 UTC",
+      "processed_at": "2026-10-06 12:38:05 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%AA%E0%A4%BE%E0%A4%89%E0%A4%A1%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B9%E0%A5%88&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/3R6_idWkzf5l8YOiUJLiwItv8qoxyageIob7Kon0T5c/6ac4ebad556ce307f27b7a63.html",
+      "total_time_taken": 38.19
+    },
+    "search_parameters": {
+      "q": "कौन सा प्रोटीन पाउडर सबसे अच्छा है",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "कुल मिलाकर सबसे भरोसेमंद और संतुलित विकल्प Optimum Nutrition (ON) Gold Standard Whey माना जाता है, जबकि आपके लक्ष्य के अनुसार MuscleBlaze Biozyme, Avvatar Absolute Whey और Isopure Zero Carb भी बेहतरीन विकल्प हैं।",
+    "text_blocks": [
+      {
+        "type": "heading",
+        "snippet": "⭐ सीधे जवाब (1–3 वाक्य)",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "ON Gold Standard Whey को विशेषज्ञों द्वारा “कुल मिलाकर बेस्ट” माना गया है क्योंकि इसमें 24g प्रोटीन, 5.5g BCAA, तेज़ पाचन और उच्च गुणवत्ता की सामग्री मिलती है । भारतीय उपयोगकर्ताओं के लिए MuscleBlaze Biozyme और Avvatar Absolute Whey भी बहुत अच्छे विकल्प हैं ।",
+        "snippet_highlighted_words": [
+          "ON Gold Standard Whey",
+          "24g प्रोटीन",
+          "5.5g BCAA",
+          "MuscleBlaze Biozyme",
+          "Avvatar Absolute Whey"
+        ],
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "🧩 “सबसे अच्छा” आपके लक्ष्य पर निर्भर करता है",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "नीचे आपके लक्ष्य के अनुसार बेस्ट विकल्प दिए गए हैं (सभी स्रोतों से):"
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ 1. मसल गेन / स्ट्रेंथ ट्रेनिंग",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "1. मसल गेन / स्ट्रेंथ ट्रेनिंग"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "ON Gold Standard Whey — 24g प्रोटीन, 5.5g BCAA, तेज़ पाचन 1",
+            "snippet_highlighted_words": [
+              "ON Gold Standard Whey"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "Avvatar Absolute Whey — 28g प्रोटीन, उच्च BCAA, कम फैट 1",
+            "snippet_highlighted_words": [
+              "Avvatar Absolute Whey"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ 2. भारतीय ब्रांड पसंद हो",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "2. भारतीय ब्रांड पसंद हो"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "MuscleBlaze Biozyme Performance Whey — बेहतर पाचन, 25g प्रोटीन, क्लिनिकली टेस्टेड 1",
+            "snippet_highlighted_words": [
+              "MuscleBlaze Biozyme Performance Whey"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ 3. वजन घटाना / लो‑कार्ब डाइट",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "3. वजन घटाना / लो‑कार्ब डाइट"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Isopure Zero Carb — 25g प्रोटीन, 0 कार्ब, 0 शुगर 1",
+            "snippet_highlighted_words": [
+              "Isopure Zero Carb",
+              "0 कार्ब",
+              "0 शुगर"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ 4. बजट‑फ्रेंडली विकल्प",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "4. बजट‑फ्रेंडली विकल्प"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Yatavat Atom Whey — 27g प्रोटीन, कम कार्ब, किफायती 1",
+            "snippet_highlighted_words": [
+              "Yatavat Atom Whey"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ 5. वेगन / डेयरी‑फ्री विकल्प",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "5. वेगन / डेयरी‑फ्री विकल्प"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Oziva Plant Protein — मटर + राइस + कद्दू प्रोटीन, आसान पाचन 1",
+            "snippet_highlighted_words": [
+              "Oziva Plant Protein"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📊 तुलना तालिका (आपके निर्णय को आसान बनाने के लिए)",
+        "level": 2
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "ON Gold Standard Whey",
+            "24g",
+            "कुल मिलाकर बेस्ट",
+            "1"
+          ],
+          [
+            "MuscleBlaze Biozyme",
+            "25g",
+            "भारतीय यूज़र्स, बेहतर पाचन",
+            "1"
+          ],
+          [
+            "Avvatar Absolute Whey",
+            "28g",
+            "दुबली मांसपेशियाँ",
+            "1"
+          ],
+          [
+            "Isopure Zero Carb",
+            "25g",
+            "वजन घटाना",
+            "1"
+          ],
+          [
+            "Oziva Plant Protein",
+            "25g",
+            "वेगन / डेयरी‑फ्री",
+            "1"
+          ]
+        ],
+        "headers": [
+          "प्रोटीन पाउडर",
+          "प्रति सर्विंग प्रोटीन",
+          "सबसे अच्छा किसके लिए",
+          "स्रोत"
+        ],
+        "formatted": [
+          {
+            "प्रोटीन_पाउडर": "ON Gold Standard Whey",
+            "प्रति_सर्विंग_प्रोटीन": "24g",
+            "सबसे_अच्छा_किसके_लिए": "कुल मिलाकर बेस्ट",
+            "स्रोत": "1"
+          },
+          {
+            "प्रोटीन_पाउडर": "MuscleBlaze Biozyme",
+            "प्रति_सर्विंग_प्रोटीन": "25g",
+            "सबसे_अच्छा_किसके_लिए": "भारतीय यूज़र्स, बेहतर पाचन",
+            "स्रोत": "1"
+          },
+          {
+            "प्रोटीन_पाउडर": "Avvatar Absolute Whey",
+            "प्रति_सर्विंग_प्रोटीन": "28g",
+            "सबसे_अच्छा_किसके_लिए": "दुबली मांसपेशियाँ",
+            "स्रोत": "1"
+          },
+          {
+            "प्रोटीन_पाउडर": "Isopure Zero Carb",
+            "प्रति_सर्विंग_प्रोटीन": "25g",
+            "सबसे_अच्छा_किसके_लिए": "वजन घटाना",
+            "स्रोत": "1"
+          },
+          {
+            "प्रोटीन_पाउडर": "Oziva Plant Protein",
+            "प्रति_सर्विंग_प्रोटीन": "25g",
+            "सबसे_अच्छा_किसके_लिए": "वेगन / डेयरी‑फ्री",
+            "स्रोत": "1"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "🧠 प्रोटीन पाउडर चुनते समय क्या देखें?",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "सभी स्रोतों के अनुसार, एक अच्छा प्रोटीन पाउडर में होना चाहिए:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "20–25g+ प्रोटीन प्रति सर्विंग 1",
+            "snippet_highlighted_words": [
+              "20–25g+ प्रोटीन प्रति सर्विंग"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "कम शुगर और कम फिलर्स 1",
+            "snippet_highlighted_words": [
+              "कम शुगर और कम फिलर्स"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "तृतीय‑पक्ष परीक्षण / ब्रांड प्रतिष्ठा 1",
+            "snippet_highlighted_words": [
+              "तृतीय‑पक्ष परीक्षण / ब्रांड प्रतिष्ठा"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "अच्छी मिक्सिंग और पाचन क्षमता 2",
+            "snippet_highlighted_words": [
+              "अच्छी मिक्सिंग और पाचन क्षमता"
+            ],
+            "reference_indexes": [
+              0,
+              1
+            ]
+          },
+          {
+            "snippet": "आपके लक्ष्य के अनुसार सही प्रकार (Whey, Isolate, Hydrolyzed, Plant) 2",
+            "snippet_highlighted_words": [
+              "आपके लक्ष्य के अनुसार सही प्रकार (Whey, Isolate, Hydrolyzed, Plant)"
+            ],
+            "reference_indexes": [
+              0,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ निष्कर्ष",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "कुल मिलाकर बेस्ट: ON Gold Standard Whey 1",
+            "snippet_highlighted_words": [
+              "कुल मिलाकर बेस्ट:"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "भारत में बेस्ट ब्रांड: MuscleBlaze Biozyme 1",
+            "snippet_highlighted_words": [
+              "भारत में बेस्ट ब्रांड:"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "मसल गेन: Avvatar Absolute Whey 1",
+            "snippet_highlighted_words": [
+              "मसल गेन:"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "वजन घटाना: Isopure Zero Carb 1",
+            "snippet_highlighted_words": [
+              "वजन घटाना:"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "वेगन: Oziva Plant Protein 1",
+            "snippet_highlighted_words": [
+              "वेगन:"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "एक सवाल जिससे मैं आपको और सटीक सलाह दे सकूँ:",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "आपका लक्ष्य क्या है — मसल गेन, वजन घटाना, या सिर्फ डेली प्रोटीन पूरा करना?",
+        "snippet_highlighted_words": [
+          "आपका लक्ष्य क्या है — मसल गेन, वजन घटाना, या सिर्फ डेली प्रोटीन पूरा करना?"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "भारत में 2026 के सर्वश्रेष्ठ प्रोटीन पाउडर: विशेषज्ञों की समीक्षा ...",
+        "link": "https://doctorspot.in/hi/health/top-protein-powders-of-a-comprehensive-guide/#:~:text=%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%B0%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%B8%E0%A5%88%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%8B%E0%A4%82%20%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%9F%20%E0%A4%89%E0%A4%AA%E0%A4%B2%E0%A4%AC%E0%A5%8D%E0%A4%A7%20%E0%A4%B9%E0%A5%8B%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%A3%2C,%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3%2C%20%E0%A4%AE%E0%A5%82%E0%A4%B2%E0%A5%8D%E0%A4%AF%20%E0%A4%94%E0%A4%B0%20%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%95%20%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A5%81%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%20%E0%A4%AA%E0%A4%B0%20%E0%A4%86%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%A4%20%E0%A4%B9%E0%A5%88%E0%A5%A4",
+        "snippet": "बाज़ार में सैकड़ों सप्लीमेंट उपलब्ध होने के कारण, बेहतरीन पोषण, बढ़िया स्वाद और भरोसेमंद गुणवत्ता वाला उच्च गुणवत्ता वाला प्रोटीन पाउडर ढूंढना चुनौतीपूर्ण हो सकता है। यह गाइड भारत में 2026 के शीर्ष प्रोटीन पाउडरों की समीक्षा करती है , जो सामग्री की गुणवत्ता, प्रोटीन की मात्रा, पाचन क्षमता, तृतीय-पक्ष परीक्षण, मूल्य और ग्राहक संतुष्टि पर आधारित है।",
+        "source": "doctorspot.in"
+      },
+      {
+        "index": 1,
+        "title": "10 बेस्ट प्रोटीन पाउडर इन इंडिया विथ प्राइस – 10 Best protein powders ...",
+        "link": "https://www.healthunbox.com/10-best-protein-powders-in-india-in-hindi/",
+        "snippet": "इस आर्टिकल में जानिए इंडिया के बेस्ट प्रोटीन पाउडर और उनके प्राइस और भारत में कौन सा प्रोटीन पाउडर ब्रांड है सबसे अच्छा और क्या है ...",
+        "source": "Healthunbox"
+      },
+      {
+        "index": 2,
+        "title": "सर्वश्रेष्ठ प्रोटीन पाउडर सप्लीमेंट्स! (2024) – फिटनेस मैगज़ीन",
+        "link": "https://fitnessdergisi.com/hi/en-iyi-protein-tozu-incelemesi/",
+        "snippet": "इस लेख में सबसे अच्छा प्रोटीन पाउडर जिसे हम आपके साथ अपना शोध साझा करते हैं। हमने तुर्की में बेचे जाने वाले सर्वोत्तम पूरक ब्रांडों ...",
+        "source": "Fitness Dergisi"
+      },
+      {
+        "index": 3,
+        "title": "सही प्रोटीन पाउडर (Protein Powder) का चयन: आपके लिए सबसे अच्छा क्या है?",
+        "link": "https://webmedy.com/blog/hi/picking-right-protein-powder/",
+        "snippet": "प्रोटीन पाउडर आपके आहार में एक मूल्यवान अतिरिक्त हो सकता है, जिससे आपको अपनी प्रोटीन आवश्यकताओं को आसानी से पूरा करने में मदद मिलती ...",
+        "source": "Webmedy"
+      },
+      {
+        "index": 4,
+        "title": "प्रोटीन पाउडर खरीदने से पहले ध्यान देने योग्य बातें",
+        "link": "https://healthysamaj.com/protein-powder-khridne-se-pahale-dhyan-dene-yogy-baaten/",
+        "snippet": "एक अच्छे प्रोटीन पाउडर में प्रति सर्विंग कम से कम 20 ग्राम प्रोटीन होना चाहिए। साथ ही, चीनी की मात्रा 1-2 ग्राम से ज्यादा नहीं होनी ...",
+        "source": "healthysamaj.com"
+      },
+      {
+        "index": 5,
+        "title": "वजन बढ़ने के लिए 10 सर्वश्रेष्ठ प्रोटीन पाउडर",
+        "link": "https://www.credihealth.com/hi/blog/10-best-protein-powder-for-weight-gain",
+        "snippet": "प्रोटीन पाउडर आपके वजन बढ़ने की यात्रा में आपकी मदद कर सकता है। यह हमारे आहार और व्यायाम में प्रोटीन पाउडर की सही मात्रा को शामिल ...",
+        "source": "Credihealth"
+      },
+      {
+        "index": 6,
+        "title": "महिलाओं के लिए सबसे अच्छा प्रोटीन पाउडर कौन सा होता है?",
+        "link": "https://healthvichaar.com/best-protein-powder-mahilaon-ke-liye/",
+        "snippet": "महिलाओं के लिए 5 सबसे बेहतरीन प्रोटीन पाउडर आगे जानिए महिलाओ के लिए सबसे अच्छा प्रोटीन का डब्बा कौन सा होता है (best protein powder for women in hindi) के साथ ...",
+        "source": "healthvichaar.com"
+      },
+      {
+        "index": 7,
+        "title": "प्रोटीन पाउडर के फायदे, लेने का समय, खुराक और बेस्ट प्रोटीन पाउडर ...",
+        "link": "https://www.myupchar.com/fitness/protein-powder",
+        "snippet": "तो चलिए जानते हैं प्रोटीन पाउडर के फायदे और इसे लेते समय किन बातों का ध्‍यान रखना चाहिए।",
+        "source": "myUpchar"
+      },
+      {
+        "index": 8,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "इसलिए आज मैं आपको बता रहा हूं, भारत में कौन से 5 ऐसे व्हे प्रोटीन हैं जो ...",
+        "source": "MensXP"
+      },
+      {
+        "index": 9,
+        "title": "Protein Powder भारत में बेस्ट प्रोटीन पाउडर: फिटनेस और मसल ग्रोथ...",
+        "link": "https://uuds.co.in/bharat-me-best-protein-powder-fitness-muscle-growth/",
+        "snippet": "Protein Powder: भारत में सबसे अच्छे प्रोटीन पाउडर की पूरी जानकारी। फिटनेस, मसल ग्रोथ और रिकवरी के लिए भरोसेमंद व असरदार विकल्पों की आसान गाइड",
+        "source": "uuds.co.in"
+      },
+      {
+        "index": 10,
+        "title": "Protein Powder: व्हे, सोया या पी? जानें कौन है बेस्ट",
+        "link": "https://khabarindiatv.in/protein-powder-whey-vs-soy-which-protein-powder-is-best/",
+        "snippet": "Protein Powder: व्हे, पी और सोया प्रोटीन में अंतर जानें। मसल्स ग्रोथ, रिकवरी और आपकी डाइट के हिसाब से कौन-सा प्रोटीन पाउडर है बेहतर।",
+        "source": "khabarindiatv.in"
+      }
+    ]
+  }
+}

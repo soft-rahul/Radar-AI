@@ -1,0 +1,441 @@
+{
+  "request": {
+    "engine": "bing_copilot",
+    "params": {
+      "q": "2000 रुपये के अंदर सबसे अच्छा व्हे प्रोटीन कौन सा है",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:40:04+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ec0969819d074e46c058",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/kFi7tZj9hdhisk3V82d3YuhWz-x8s6OZIrxPprrMvks/6ac4ec0969819d074e46c058.json",
+      "markdown_endpoint": "https://serpapi.com/searches/kFi7tZj9hdhisk3V82d3YuhWz-x8s6OZIrxPprrMvks/6ac4ec0969819d074e46c058.md",
+      "created_at": "2026-10-06 12:39:37 UTC",
+      "processed_at": "2026-10-06 12:39:37 UTC",
+      "bing_copilot_url": "https://www.bing.com/copilotsearch?q=2000+%E0%A4%B0%E0%A5%81%E0%A4%AA%E0%A4%AF%E0%A5%87+%E0%A4%95%E0%A5%87+%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88&FORM=CSSCOP",
+      "raw_html_file": "https://serpapi.com/searches/kFi7tZj9hdhisk3V82d3YuhWz-x8s6OZIrxPprrMvks/6ac4ec0969819d074e46c058.html",
+      "total_time_taken": 27.72
+    },
+    "search_parameters": {
+      "q": "2000 रुपये के अंदर सबसे अच्छा व्हे प्रोटीन कौन सा है",
+      "engine": "bing_copilot"
+    },
+    "search_information": {},
+    "header": "2000 रुपये के अंदर सबसे अच्छा विकल्प Optimum Nutrition (ON) Gold Standard 100% Whey है, क्योंकि इसकी कीमत लगभग ₹1900–₹2500 रहती है और यह भारत में सबसे विश्वसनीय व उच्च-गुणवत्ता वाला प्रोटीन माना जाता है MensXP .",
+    "text_blocks": [
+      {
+        "type": "heading",
+        "snippet": "⭐ 2000 रुपये के अंदर मिलने वाले बेस्ट व्हे प्रोटीन विकल्प",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "नीचे दिए गए विकल्प वेब परिणामों में बताए गए हैं और इनकी कीमतें लगभग 2000 रुपये के आसपास मिल सकती हैं (ऑफर/साइज के अनुसार)।"
+      },
+      {
+        "type": "heading",
+        "snippet": "1. Optimum Nutrition (ON) Gold Standard 100% Whey",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Optimum Nutrition (ON) Gold Standard 100% Whey"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रोटीन प्रति स्कूप: 24g 1",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रति स्कूप:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत: 78.94% 1",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रतिशत:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "फैट/शुगर: 1g–1g 1",
+            "snippet_highlighted_words": [
+              "फैट/शुगर:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "BCAA: 5.5g 1",
+            "snippet_highlighted_words": [
+              "BCAA:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "क्यों अच्छा है? सबसे भरोसेमंद ब्रांड, उच्च गुणवत्ता वाला आइसोलेट + कंसन्ट्रेट ब्लेंड।",
+            "snippet_highlighted_words": [
+              "क्यों अच्छा है?"
+            ]
+          },
+          {
+            "snippet": "कीमत: ₹1900–₹2500 (2 lbs पैक) 1 ✅ 2000 रुपये के अंदर सबसे सुरक्षित और प्रीमियम विकल्प।",
+            "snippet_highlighted_words": [
+              "कीमत:",
+              "2000 रुपये के अंदर सबसे सुरक्षित और प्रीमियम विकल्प।"
+            ],
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "2. Isopure Low Carb Whey Protein",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Isopure Low Carb Whey Protein"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रोटीन प्रति स्कूप: 25g 1",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रति स्कूप:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत: 80.64% (बहुत उच्च) 1",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रतिशत:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "100% Whey Isolate (लैक्टोज-फ्री) 1",
+            "snippet_highlighted_words": [
+              "100% Whey Isolate"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "कीमत: ऑफर में 2000–2300 के आसपास मिल सकता है ✅ लैक्टोज-इंटॉलरेंट लोगों के लिए बेस्ट।",
+            "snippet_highlighted_words": [
+              "कीमत:",
+              "लैक्टोज-इंटॉलरेंट लोगों के लिए बेस्ट।"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "3. Ultimate Nutrition Prostar 100% Whey",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Ultimate Nutrition Prostar 100% Whey"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रोटीन प्रति स्कूप: 25g 1",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रति स्कूप:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत: 83% (सबसे अधिक) 1",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रतिशत:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "BCAA: 6g 1",
+            "snippet_highlighted_words": [
+              "BCAA:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "कीमत: सामान्यतः 2500+ लेकिन छोटे पैक कभी-कभी 2000 के आसपास मिल जाते हैं ✅ हाई प्रोटीन प्रतिशत चाहने वालों के लिए अच्छा विकल्प।",
+            "snippet_highlighted_words": [
+              "कीमत:",
+              "हाई प्रोटीन प्रतिशत चाहने वालों के लिए अच्छा विकल्प।"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "4. Dymatize Elite Whey Protein",
+        "level": 3,
+        "snippet_highlighted_words": [
+          "Dymatize Elite Whey Protein"
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "प्रोटीन प्रति स्कूप: 25g 1",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रति स्कूप:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "प्रोटीन प्रतिशत: 69.44% 1",
+            "snippet_highlighted_words": [
+              "प्रोटीन प्रतिशत:"
+            ],
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "कीमत: 2000–2400 (छोटे पैक) ✅ अच्छा अमीनो प्रोफाइल, लेकिन प्रोटीन प्रतिशत थोड़ा कम।",
+            "snippet_highlighted_words": [
+              "कीमत:",
+              "अच्छा अमीनो प्रोफाइल, लेकिन प्रोटीन प्रतिशत थोड़ा कम।"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "📌 तुलना तालिका (2000 रुपये के अंदर संभावित विकल्प)",
+        "level": 2
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "ON Gold Standard",
+            "24g",
+            "78.94%",
+            "5.5g",
+            "₹1900–2500 2",
+            "कुल मिलाकर बेस्ट"
+          ],
+          [
+            "Isopure Low Carb",
+            "25g",
+            "80.64%",
+            "5g",
+            "₹2000–2300 1",
+            "लैक्टोज-फ्री"
+          ],
+          [
+            "Prostar 100% Whey",
+            "25g",
+            "83%",
+            "6g",
+            "₹2000–2500 (छोटा पैक) 1",
+            "हाई प्रोटीन %"
+          ],
+          [
+            "Dymatize Elite",
+            "25g",
+            "69.44%",
+            "5g",
+            "₹2000–2400 1",
+            "बजट + अच्छा फ्लेवर"
+          ]
+        ],
+        "headers": [
+          "ब्रांड",
+          "प्रति स्कूप प्रोटीन",
+          "प्रोटीन %",
+          "BCAA",
+          "कीमत (लगभग)",
+          "उपयुक्तता"
+        ],
+        "formatted": [
+          {
+            "ब्रांड": "ON Gold Standard",
+            "प्रति_स्कूप_प्रोटीन": "24g",
+            "प्रोटीन": "78.94%",
+            "bcaa": "5.5g",
+            "कीमत_लगभग": "₹1900–2500 2",
+            "उपयुक्तता": "कुल मिलाकर बेस्ट"
+          },
+          {
+            "ब्रांड": "Isopure Low Carb",
+            "प्रति_स्कूप_प्रोटीन": "25g",
+            "प्रोटीन": "80.64%",
+            "bcaa": "5g",
+            "कीमत_लगभग": "₹2000–2300 1",
+            "उपयुक्तता": "लैक्टोज-फ्री"
+          },
+          {
+            "ब्रांड": "Prostar 100% Whey",
+            "प्रति_स्कूप_प्रोटीन": "25g",
+            "प्रोटीन": "83%",
+            "bcaa": "6g",
+            "कीमत_लगभग": "₹2000–2500 (छोटा पैक) 1",
+            "उपयुक्तता": "हाई प्रोटीन %"
+          },
+          {
+            "ब्रांड": "Dymatize Elite",
+            "प्रति_स्कूप_प्रोटीन": "25g",
+            "प्रोटीन": "69.44%",
+            "bcaa": "5g",
+            "कीमत_लगभग": "₹2000–2400 1",
+            "उपयुक्तता": "बजट + अच्छा फ्लेवर"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "✅ 2000 रुपये में कौन सा सबसे अच्छा है?",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "ON Gold Standard 100% Whey — गुणवत्ता, ब्रांड विश्वसनीयता और पोषण संतुलन के आधार पर सबसे अच्छा विकल्प है MensXP . अगर आप लैक्टोज-फ्री चाहते हैं → Isopure Low Carb बेहतर है MensXP .",
+        "snippet_highlighted_words": [
+          "ON Gold Standard 100% Whey",
+          "लैक्टोज-फ्री",
+          "Isopure Low Carb"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "⚠️ नकली प्रोटीन से बचने के टिप्स",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "NDTV के अनुसार नकली प्रोटीन से लिवर और किडनी को नुकसान हो सकता है NDTV India .",
+        "reference_indexes": [
+          1
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "FSSAI लाइसेंस नंबर चेक करें 1",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "केवल अधिकृत वेबसाइट/स्टोर से खरीदें 1",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "भारी डिस्काउंट वाले प्रोटीन से बचें 1",
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "क्या आप मसल गेन, फैट लॉस या जनरल फिटनेस के लिए प्रोटीन ढूंढ रहे हैं?",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "snippet": "आपका लक्ष्य बताएँ, मैं उसी हिसाब से सबसे सही विकल्प सुझा दूँ।"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Protein Powder for Men: 5 बेस्ट व्हे प्रोटीन पाउडर मसल्स बिल्ड के लिए",
+        "link": "https://www.mensxp.com/hindi/health/bodybuilding/54339-best-and-top-whey-protein-powder-brands-in-india-in-hindi.html",
+        "snippet": "इसलिए आज मैं आपको बता रहा हूं, भारत में कौन से 5 ऐसे व्हे प्रोटीन हैं जो ...",
+        "source": "MensXP"
+      },
+      {
+        "index": 1,
+        "title": "महिलाओं के लिए सबसे अच्छा प्रोटीन पाउडर कौन सा होता है?",
+        "link": "https://healthvichaar.com/best-protein-powder-mahilaon-ke-liye/",
+        "snippet": "जो लोग शाकाहारी और वेगन होते है उनके लिए यह बेस्ट है इसमें फाइबर सहित अन्य पोषक तत्व भी प्राप्त हो सकते है।",
+        "source": "healthvichaar.com"
+      },
+      {
+        "index": 2,
+        "title": "10 बेस्ट प्रोटीन पाउडर इन इंडिया विथ प्राइस – 10 Best protein powders ...",
+        "link": "https://www.healthunbox.com/10-best-protein-powders-in-india-in-hindi/",
+        "snippet": "यदि आपका लक्ष्य वजन बढ़ाना है, तो व्हे प्रोटीन आपके लिए एकदम सही होगा। यह मांसपेशियों के निर्माण कर वजन बढ़ाने में मदद करता है। विषय ...",
+        "source": "Healthunbox"
+      },
+      {
+        "index": 3,
+        "title": "सबसे ज्यादा प्रोटीन किसमें होता है? | प्रोटीन के प्राकृतिक स्रोत ...",
+        "link": "https://ndtv.in/food/natural-source-of-protein-in-hindi-sabse-jyada-protein-kisme-hota-hai-list-of-high-protein-food-9628076",
+        "snippet": "दूध और पनीर में भी पर्याप्त मात्रा में प्रोटीन होता है. 100 ग्राम पनीर में लगभग 18 ग्राम प्रोटीन होता है.",
+        "source": "NDTV India"
+      },
+      {
+        "index": 4,
+        "title": "कौन है यूपी का सबसे अमीर शख्स? सामने आई धनकुबेरों की नई लिस्ट, 15 नाम ...",
+        "link": "https://www.tv9hindi.com/state/uttar-pradesh/noida-leads-hurun-india-rich-list-2026-aditya-khemka-richest-man-uttar-pradesh-3916455.html",
+        "snippet": "Uttar Pradesh's Richest Man: हुरून इंडिया रिच लिस्ट 2026 के अनुसार, यूपी के 46 धनकुबेरों में नोएडा के सर्वाधिक 15 नाम हैं. जानें 32,200 करोड़ के साथ राज्य के सबसे अमीर शख्स कौन हैं?",
+        "source": "TV9 Bharatvarsh"
+      },
+      {
+        "index": 5,
+        "title": "दुनिया के सातवें सबसे अमीर व्यक्ति बने Jensen Huang, दौलत 200 अरब डॉलर ...",
+        "link": "https://www.abplive.com/business/jensen-huang-wealth-crosses-200-billion-dollar-becomes-the-world-seventh-richest-person-know-net-worth-3197187",
+        "snippet": "जेन्सेन हुआंग की दौलत 200 अरब डॉलर के पार पहुंच गई है और इसके साथ ही वह दुनिया के सातवें सबसे अमीर व्यक्ति बन गए हैं. आइये जानते हैं कि ये कैसे हुआ और ...",
+        "source": "ABP News"
+      },
+      {
+        "index": 6,
+        "title": "Indian 2000-rupee note - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Indian_2000-rupee_note",
+        "snippet": "The 2,000 rupee note was introduced by the Reserve Bank of India on 8 November 2016. The introduction of this denomination of the Indian rupee was part of the government's demonetization exercise aimed at curbing corruption, black money and counterfeit currency. On the same day, the Indian government announced the demonetization of the existing 500 rupee and 1000 rupee notes. The intention ...",
+        "source": "Wikipedia"
+      },
+      {
+        "index": 7,
+        "title": "2000 रुपये का नोट तिजोरी में रखा है तो क्या करें? RBI ने बताया पूरा ...",
+        "link": "https://www.livemint.com/hindi/money/2000-rupees-note-exchange-at-the-reserve-bank-of-india-regional-office-241783601704493.html",
+        "snippet": "2000 Rupees Note Exchange: अगर आपके पास अभी भी ₹2000 का नोट रखा हुआ तो यह खबर आपके लिए बेहद काम ...",
+        "source": "Mint"
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "request": {
+    "engine": "google_ai_overview",
+    "params": {
+      "page_token": "AahMiXiczZbNdqJIFICfYHbzCmHTUQFFIedw-hQIiolRktiG3nAQSIGAqKWi7uZd5qnmaaZAiwb_Ot2LOVML6-f-1L1FfXX96-_QnwX__PGnt1rN0UOtliRJFcYxDN2qHUc1C-1mdu0jDtHS9r6u16ErJl9koOmarD29dL4hqxOg1zEXWGOFgqHozygUr5e26zui7S3jyKW8UPR8arcR65SNRJpyfXE_2CgW-lgqfX-RTIIhj9gA6YjKdhPNiYXcKQ5mO0U1s4Z_grt6G0-qqOr51X3yPB2sV1t-FFRZmq1XBzUrwgrgP21QAwbueulYuaolASB_xpuCXUha0ZEkZV3BGmKxlHaans3VG94yM0WHWQS4mdvpvo3NOpDoBFetS5LOwYGuZb2CzWXtMwkVgikFe8v4mgyWPGTHXhZdblJRqAEZ9sFQA95lY3z2pe3xWbUP6zbQ-G5Dwt9Dv7EZeIRg8B0o3sH2VhtJHTffW0V4G6XmQHyB6dpkiTum5tuenQ2WKL3X8ptAx13Gc9WuNtz4sLF7ZR1-YY-_Bb60H1RAzZ5gvTC2HNcxPZP-ms0ZluFood7i7zOgbJQThYpEdaKJ-cLbgtqKq09ViSE4ycUPUkwpXR1dylFKb6tCrtxpk1PDMzNZjksujgrkY5TgkdVuemw56HiwhWBdvgQEIQjOcZJPnWY4kT1f9Ny6FKamSH7Bophd9zQd7Ps8ezggMnJ1j1dTAafPg6xIKWN5AKXU0sdExlBLBxgWDe2g0i_o0Urv7DVKj8LDpsfpkW_ycY3iHukZ4FfDAHoPaJKivar4WTpYZgeoHE8I43TKg3aNRYiz1a8_kbfa6FNaCuHmBIMiPqprA5nbLqbhph3ujKjflg00jUyaXyeXcYmjyS9UIPv_BhSpT6mCcgso-TNA4foEL9Qn-eDv4DSvT71jfboOlJoBdaxPqSNSn7pn9ekcqKAI1LE-vcRX6tOvAqXdACp3fBEo9RJQ8BZQsAyU19dL9Um7Vp-OQP1OfRr9bn3K-HIPXblYrafwatHqvDMrtT7czg3jw9jKsd4SHgM1YSB8S35atD6i1UNkOeG96TsPEttb7Zx7Ey_ED65DLUSWpukvdwp9Bxp3Ep0NuDueOa4AQAYqEbWItsCdLfEcGbDErpn7znfhiUwur1z0JAAia5MViZgpuUvuVEkSzlyCM08_8iUuhTxNmljx5_nKZ7I8p0JMeQQ8FYXLWKStZtuc6LbRNCct9D7czjz4-jK31s9DLlyg5WSFgs7zoj229t7Y9h57Q4vuGvUGN2lG-9mTgGaWJKyEPjs2FvPkox3sleeIbcy2LQv15poD33p7-21QGTyu4qcWa7xH-K9a47vgW8r7etQed7qVsbkzvPrmPWIGPfCaZHEhsVJ5CyrtmfToGFS0tEWMVaMJVR2MIcZCxtDJEIysGPcJ0DtNTI3EYuAoZFumizZiY8KxLtN0nborcJzNUBFc7eaiQFNothSZfwE4SZdG"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:38:45+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebce09a51a863c16b141",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/J9PR4pfAw9zpr4EpSAjP0BAtTQ2Txmmli4lf68xOSi8/6ac4ebce09a51a863c16b141.json",
+      "markdown_endpoint": "https://serpapi.com/searches/J9PR4pfAw9zpr4EpSAjP0BAtTQ2Txmmli4lf68xOSi8/6ac4ebce09a51a863c16b141.md",
+      "created_at": "2026-10-06 12:38:38 UTC",
+      "processed_at": "2026-10-06 12:38:38 UTC",
+      "google_ai_overview_url": "https://www.google.com/async/folsrch?uule=w+CAIQICILRGVsaGksSW5kaWE&gl=in&sourceid=chrome&hl=hi&yv=3&cs=0&ei=zOvEasfrEMiqwbkP8s2ksQs&async=_basejs:/xjs/_/js/k%3Dxjs.s.hi.zwNjOutx8Uk.2023.O/am%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIAYAAAJAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAABIAEAAAAAAAAAABBAAAAACAAAAAAAAAAgAEABAAgAIQAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAEECAAAAEQgAABAAAAA_xjzDQAAGgAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAGABAAAAQIABAAAEgAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAgAAAAAFAAAAAAAAYAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAIACgMAPIAhAAAAAAAAAAgAAAAAAAAAAAIAEIAAAAAAAAAAAAQAADAAAAIAcAI8H4BBBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAKgAOZAEhAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUBGeAgAAAAAAAFsDAAE/dg%3D0/br%3D1/ichc%3D1/rs%3DACT90oH1heFHIPvig4yS2d8qcWVkiBzO-A/cb%3Dloaded_h_0?cb%3D121509378,_basecss:/xjs/_/ss/k%3Dxjs.s.Gmb_R8c9F7o.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAACAIAAQAAAAAAAAAAAAAAAACCoAAAAAAAAAAAABQAAAAAAEIAAAAAACAAAAAAAAAAAACFHgAAADAAAAAAAADAAxgAuAgAAAAAAAAAAAAEAAAAAAAgAIAEAAAAAAAAAABBAAACAAAAAACAAAAAAAAABAAgABQAAAAAARQAAEAAAAAAQAAAAAAAAAAAAIEBiAAAAAAAAABABAAAAAAAAAAAHAAAAAAAAAAAAAAAAACABAAAAAAAAAAAAAAAAAgOAAAAAACAYAAAAAAABgAAAAAEAAACAAAAAAAAAAAAACEBEgAAAQAAAAAAAgAAAAAAAAAAAABAACCEQgBAAFAAAq4IAAAAgAMAAgAAAAAAAA0EJEAAAAAAAAAAAAAAAAgAIAhACCAAAAAAAkAAAAAAIAAAAAAAYgAAAAAAAAAAARQAAQgAYAQJAIBEISFABICCAAAABAAACEAEAAAAAIACBAQAAAAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAAAAgBgAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE/br%3D1/cb%3Dloaded_h_0/rs%3DACT90oFecAC5xqjlvDlyYmMDCYsjm_08uw?cb%3D121509378,_basecomb:/xjs/_/js/k%3Dxjs.s.hi.zwNjOutx8Uk.2023.O/ck%3Dxjs.s.Gmb_R8c9F7o.L.B1.O/am%3DCAAIAAAAAAAAAQAAAAAAAAAAAIAAAUQAAAAAAAAAAAAAAAAAAABACAAEAABAAAAAAAAAAAAAAAAAAAAACAIAAQAAAAAAAAAAAAAAAACCoAAAAAgIAYAAAJQAAAEAAEIAAAAAACAAAAAAAAAAAACFHgACADAAAAAAAADAAxgAuAgAAAAAAAAAAAAEAAAAEEAgBIAEAAAAAAAAAABBAAACACAAAACAAAAAgAEABAAgAJQAAAAAFRQAAEAAAAAAQAAAAAAAAAAAAIEFiAAAAEQgAABABAAA_xjzDQAAHgAAAAAAAAkAAAAAAACABAAAAAAAAAAAAAAAkAgOAAAAAACAYGABAAAARoABAAAEgAACIAAAAAAAAAAAACEBEgAAAQAAAAAAAgAAAAAAAAAAAABAACCEQgBAAFAAAq4IAIAAgAMAAgAAAAAAAA0EJEAAAAAAAIAAAAAAAAgAIAhACCAAAAAAAkAAAAAFIAAAAAAAYgAAAAAAAAAAgRQAAQgAYAQJAIBEISFABICCAAAABgAACEAEAAAAAIAChMQPIAhAAAAAAAAAIgAAAAAAAAAAAIAEIAAAAAAAAgBgAQEADAAAAIAcAI8H4BBBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAKgAOZAUhAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUBGeAgAAAAAAAFsDAAE/d%3D1/ed%3D1/dg%3D0/br%3D1/ujg%3D1/ichc%3D1/rs%3DACT90oGX1tF3PxpYYfYxCoQ79KkFw1ggTw/cb%3Dloaded_h_0?cb%3D121509378,_fmt:madl,_id:B2Jtyd,_mado:ed&q=2000+%E0%A4%B0%E0%A5%81%E0%A4%AA%E0%A4%AF%E0%A5%87+%E0%A4%95%E0%A5%87+%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%B0+%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87+%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE+%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%80%E0%A4%A8+%E0%A4%95%E0%A5%8C%E0%A4%A8+%E0%A4%B8%E0%A4%BE+%E0%A4%B9%E0%A5%88&mlro=0a6D_bQcY6_b7sXPxnhgSRpauNP5lqsrbtskGNqDWazhWchKJPa0HY345b6mznL9snaB9t9M2WYqpwfDkzENm24nx7asJpIdgTJzcTO-OKtoL72YXmgMA4Z9iaEXuUDWGH-W_yYh3vXm1OJASw&mlros=--Tk-DnBKdY&mrc=CAA46gFQAWgAcACYAQCgAUaoAQCwAQG6AQEB2AEA&sca_esv=4b52e16ed3e955c1&mgtyp=90&snr=1",
+      "raw_html_file": "https://serpapi.com/searches/J9PR4pfAw9zpr4EpSAjP0BAtTQ2Txmmli4lf68xOSi8/6ac4ebce09a51a863c16b141.html",
+      "total_time_taken": 6.97
+    },
+    "search_parameters": {
+      "engine": "google_ai_overview",
+      "page_token": "AahMiXiczZbNdqJIFICfYHbzCmHTUQFFIedw-hQIiolRktiG3nAQSIGAqKWi7uZd5qnmaaZAiwb_Ot2LOVML6-f-1L1FfXX96-_QnwX__PGnt1rN0UOtliRJFcYxDN2qHUc1C-1mdu0jDtHS9r6u16ErJl9koOmarD29dL4hqxOg1zEXWGOFgqHozygUr5e26zui7S3jyKW8UPR8arcR65SNRJpyfXE_2CgW-lgqfX-RTIIhj9gA6YjKdhPNiYXcKQ5mO0U1s4Z_grt6G0-qqOr51X3yPB2sV1t-FFRZmq1XBzUrwgrgP21QAwbueulYuaolASB_xpuCXUha0ZEkZV3BGmKxlHaans3VG94yM0WHWQS4mdvpvo3NOpDoBFetS5LOwYGuZb2CzWXtMwkVgikFe8v4mgyWPGTHXhZdblJRqAEZ9sFQA95lY3z2pe3xWbUP6zbQ-G5Dwt9Dv7EZeIRg8B0o3sH2VhtJHTffW0V4G6XmQHyB6dpkiTum5tuenQ2WKL3X8ptAx13Gc9WuNtz4sLF7ZR1-YY-_Bb60H1RAzZ5gvTC2HNcxPZP-ms0ZluFood7i7zOgbJQThYpEdaKJ-cLbgtqKq09ViSE4ycUPUkwpXR1dylFKb6tCrtxpk1PDMzNZjksujgrkY5TgkdVuemw56HiwhWBdvgQEIQjOcZJPnWY4kT1f9Ny6FKamSH7Bophd9zQd7Ps8ezggMnJ1j1dTAafPg6xIKWN5AKXU0sdExlBLBxgWDe2g0i_o0Urv7DVKj8LDpsfpkW_ycY3iHukZ4FfDAHoPaJKivar4WTpYZgeoHE8I43TKg3aNRYiz1a8_kbfa6FNaCuHmBIMiPqprA5nbLqbhph3ujKjflg00jUyaXyeXcYmjyS9UIPv_BhSpT6mCcgso-TNA4foEL9Qn-eDv4DSvT71jfboOlJoBdaxPqSNSn7pn9ekcqKAI1LE-vcRX6tOvAqXdACp3fBEo9RJQ8BZQsAyU19dL9Um7Vp-OQP1OfRr9bn3K-HIPXblYrafwatHqvDMrtT7czg3jw9jKsd4SHgM1YSB8S35atD6i1UNkOeG96TsPEttb7Zx7Ey_ED65DLUSWpukvdwp9Bxp3Ep0NuDueOa4AQAYqEbWItsCdLfEcGbDErpn7znfhiUwur1z0JAAia5MViZgpuUvuVEkSzlyCM08_8iUuhTxNmljx5_nKZ7I8p0JMeQQ8FYXLWKStZtuc6LbRNCct9D7czjz4-jK31s9DLlyg5WSFgs7zoj229t7Y9h57Q4vuGvUGN2lG-9mTgGaWJKyEPjs2FvPkox3sleeIbcy2LQv15poD33p7-21QGTyu4qcWa7xH-K9a47vgW8r7etQed7qVsbkzvPrmPWIGPfCaZHEhsVJ5CyrtmfToGFS0tEWMVaMJVR2MIcZCxtDJEIysGPcJ0DtNTI3EYuAoZFumizZiY8KxLtN0nborcJzNUBFc7eaiQFNothSZfwE4SZdG"
+    },
+    "ai_overview": {
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "2000 रुपये के अंदर सबसे अच्छे बजट व्हे प्रोटीन विकल्पों में Nakpro Impact Whey, Fuel One, और AS-IT-IS Atom शामिल हैं, जो आमतौर पर 500g से 1kg (ऑफर के दौरान) पैकेजिंग में मिल जाते हैं।",
+          "snippet_highlighted_words": [
+            "Nakpro Impact Whey, Fuel One, और AS-IT-IS Atom"
+          ],
+          "reference_indexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "2000 रुपये के अंदर बेहतरीन विकल्प"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Nakpro Impact Whey: यह [Trustified] से प्रमाणित है और हर एक स्कूप में लगभग 24 ग्राम प्रोटीन देता है, जो शुरुआती लोगों के लिए बेहद किफायती और सुरक्षित माना जाता है।"
+            },
+            {
+              "snippet": "Fuel One Whey Protein: यह ब्रांड बजट सेगमेंट में बेहतरीन वैल्यू देता है, जिसमें प्रति स्कूप लगभग 22 से 24 ग्राम प्रोटीन और अच्छे बीसीएए (BCAAs) मिल जाते हैं।",
+              "reference_indexes": [
+                2
+              ]
+            },
+            {
+              "snippet": "AS-IT-IS Atom Whey Protein: इसके कुछ पैक्स और छोटे वेरिएंट्स में पाचन के लिए DigeZyme® एंजाइम और करीब 27 ग्राम प्रोटीन तक मिल जाता है, जो पेट के लिए हल्का होता है।"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "बजट प्रोटीन खरीदते समय ध्यान रखने योग्य बातें"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "पर्चेंज साइज: 2000 रुपये के बजट में आपको आमतौर पर 500 ग्राम से लेकर 1 किलोग्राम (अनफ्लेवर्ड या बेसिक) पैक ही मिलेंगे।",
+              "reference_indexes": [
+                3,
+                4
+              ]
+            },
+            {
+              "snippet": "लैब सर्टिफाइड: हमेशा ऐसा प्रोटीन चुनें जो Trustified या Labdoor से टेस्टेड हो ताकि शुद्धता की गारंटी रहे।"
+            },
+            {
+              "snippet": "सर्विंग साइज: हर स्कूप के वजन और उसमें मिलने वाले शुद्ध प्रोटीन (ग्राम) की जांच जरूर करें।"
+            }
+          ],
+          "reference_indexes": [
+            5,
+            6
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "सही चुनाव करने के लिए कृपया बताएं:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "आपका मुख्य फिटनेस गोल क्या है (मसल गेन या वजन घटाना)?"
+            },
+            {
+              "snippet": "क्या आपको फ्लेवर्ड प्रोटीन पसंद है या अनफ्लेवर्ड?"
+            },
+            {
+              "snippet": "आपको कितने वजन (500g या 1kg) का पैक चाहिए?"
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "index": 0,
+          "title": "व्हे प्रोटीन में सबसे लोकप्रिय आइटम - Amazon.in",
+          "link": "https://www.amazon.in/-/hi/gp/bestsellers/hpc/11364606031",
+          "snippet": "AS-IT-IS एटम व्हे प्रोटीन 1kg पाचन एंजाइमों के साथ | डबल रिच चॉकलेट | 27g प्रोटीन | 5.7g BCAA | लैब टेस्टेड…",
+          "source": "Amazon.in",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqDIrt-q9IbDvJK9rlAfDGXh_4vTkf4XuD630fnWiWAXe0jxrvhZxOD0fFgPhxvPZaC9KAAD2RUIdZUeyneOoCmpjnYDyo5S6I5JG"
+        },
+        {
+          "index": 1,
+          "title": "Looking for a high-quality whey protein without breaking the ...",
+          "link": "https://www.instagram.com/reel/DaxUPuRhdai/",
+          "snippet": "Top 3 best protein powder for beginners . Under 1500 /- 1. Nakpro impact whey . [ 24gm protein per scoop ]✓ 2. Fuel one impact whey . [ 22gm protein per scoop ]✓ 3",
+          "source": "Instagram",
+          "source_icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAADQBwCdASogACAAPtE-tFooIigoFAEAGgliAJ0vwOiCNIs9XwFSCOWCNa3OdTXHYIwGbqpkPXHxK_dVNxjbX5CbTT6BT__zgAD-_EtPyyI3t4ccONdvHpvTOdtTWl25njHfSbCuD9ZaQmskt9dD3i_Ta-ziC_auY7iTh5SyERtInTuZFljZp5gq1fJTx_CHCbZdk8aNdcsIO-1NwWYf4tPl5YzAtAa7EwRzese50LrsF0E1DtT-lKU7QQwRdRQVipx-WCpR7AXczaVwwIlrrIOgOj8LO03bvSmgAnaAmqUiJ1fZPQuuJWFnktSWeJZpSKL3DAl1M9efljxtW8UUVUUq59TgLwPQ5WZDZh97wLRGhzZN1JHgdkSK71j6-Cz7kEyRVEr2d3GvVqU1XUKZWNX84P6N-FS3sddtaoO17kJ77WNUid5bFcpv6lzNAAAA.webp",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSacty22yZUQjMziSE9ka1UQJwFZHvBIJkyE8LTJvz5HCYa2WvH-bBGnMxnO5ODukdnsRPK3BowjKqoVTk5foc4FT4bjrDeEwDcDqLang"
+        },
+        {
+          "index": 2,
+          "title": "Whey Protein Under 2000 - Amazon.in",
+          "link": "https://translate.google.com/translate?u=https://www.amazon.in/whey-protein-under-2000/s?k%3Dwhey%2Bprotein%2Bunder%2B2000&hl=hi&sl=en&tl=hi&client=sge",
+          "snippet": "* GNC Pro Performance 100% Whey Protein | New Formulation | 24g Protein, 5.7g BCAAs, 12.3g EAAs | Added DigeZyme® | Whey Isolate & Concentrate Blend, Low Carb (4.5...",
+          "source": "Amazon.in",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9fgIW3wxMfc5q6DZdG1QCbCkoxx_93hfvBHzQ5fCSMMIctOmO5zrFLdG4gRkyIYPnFE-zIYPs_SLOmvZSg0eQwMm3g12fODiJBSdW"
+        },
+        {
+          "index": 3,
+          "title": "Buy Best Whey Protein Under 2000 at Lowest Prices - HyugaLife",
+          "link": "https://translate.google.com/translate?u=https://hyugalife.com/product-category/best-whey-protein-under-2000&hl=hi&sl=en&tl=hi&client=sge",
+          "snippet": "* 4.6 (1975) Avvatar Alpha Whey 1kg | Belgian Chocolate | 25 Servings | 25g Protein. Belgian Chocolate | 1kg. ₹2669. (₹4/gm of Protein) ₹4999 47% OFF. Get it by 11...",
+          "source": "HyugaLife",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hyugalife.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKA2nMnM4SguBsrZ-lsN7_vvFNJ9JUsF626LiLJ4WAkGDmGYxNIWNlehSIa3bbN94q2E1p5qhsLF0ivjrUdISW0x8D2KLKzgvkCo9L"
+        },
+        {
+          "index": 4,
+          "title": "Best Whey Protein Under ₹2000 in India (2026) - ValueLens",
+          "link": "https://translate.google.com/translate?u=https://valuelens.in/best-whey-protein-under-2000-india&hl=hi&sl=en&tl=hi&client=sge",
+          "snippet": "Table_title: Compare All Whey Proteins Under ₹2000 Table_content: | # | ₹/G PROTEIN↑ | Product↕ | | --- | --- | --- | | 19 | ₹4.62 | MuscleBlaze Beginner's Whey Pr...",
+          "source": "valuelens.in",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://valuelens.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJWkl0cV1eUTLM7J_VttRk8UX75ujpNzcm-Yg1bQLCni3Dr8pE_f5Lg8I7lJcY8DWMpdd5bg2bPoZ5ZZU63lhJf7OB0_8cAUDb-ClF"
+        },
+        {
+          "index": 5,
+          "title": "TOP 10 WHEY PROTEIN UNDER RS 2000 FOR STUDENTS ...",
+          "link": "https://www.youtube.com/watch?v=0XaxQUWQ6Js",
+          "snippet": "Comments. ... The two best for all :- Serving size Avvatar fuel - 63% protein-->40g(25) Fuel one - 75% protein------>36g(27) Protein is almost same25g,24g,27g it v",
+          "source": "YouTube",
+          "source_icon": "https://serpapi.com/images/i/UklGRjgCAABXRUJQVlA4ICwCAAAwCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhIK-gzkUYDbJ7gDeHd5VswRoH0EYB2BBgSoIZV46PpkkKaO5IuMryR96pVH8ypRCKyBMiwb8E3l3IoDWckAA_vS4bVSGt6cxfx_tKKsp3vDcMJ5ZiiMjLFnqn7KhKDPSStLEAe2nVuCdPmGTszb7pzIHb8ZRsYgwzbo5goU5exFmAkVjwqNXgvq-aVD7Uh77bvHYorTjGnYk-p7ZFPeWdiehXIJ5cz_UaU15usBFrvAMWRJaO7_jE041w30MX0ibXINNqbNKxu5YNjUZPqOjz957kuVnO3B2srKtb7RzDcqKFfV5FhaNj5mN6hPcXMtm6CIh5jVVbojVsMC7SiHbRX-r6KOlWuh8SgD3DWqr2BBLHuR37LGS1gUnKu2ykWxT7gItNJsep2o2N8aLsnynYwm6kfWPgeOraWo2_cumweFrhXJe6huAxIGO9OLuttkuH09rYHuh0OPXVZg2u6HMPmYsLtvzdis-LtVRqzgqyt_hB6t_vGwowwOWYpxlbyugi1eU4luc19xu95kk3SuRPXw5xdA3RBgOg5CwkyIeWpf4fvt41ChZaChuIQtjj2B539JjddNOTk-DvVziFpDMo7BFo4Jp2BoQPqmek83U6E7wu_Uf5nchVaBL5zJuI_8q3HwvYz705lY4Cs8kn726NBQ2wOWol1ulBxg1OAlUxWGK1gPi0ndrKhF3nS8tmsAA.webp",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShCTFOQUKFS_U-P3_3sdPfaPw5WLt_MvoQpYdsR_SzBdjnsTgWCnyeO967RNZ4vBMTi2BMsxlXoR2t8j7TC8gf3EnGCab3ksxcHcXQLg"
+        },
+        {
+          "index": 6,
+          "title": "Budget-Friendly Protein Powders In India | Best Cheap Protein ...",
+          "link": "https://www.youtube.com/watch?v=8uqKkBYRUzI&vl=hi",
+          "snippet": "वीडियो में कवर किए गए टॉपिक्स: सबसे सस्ते और बेस्ट प्रोटीन पाउडर्स कौन से हैं? पर स्कूप कितना प्रोटीन मिलता है? बजट प्रोटीन खरीदते समय किन बातों का ध्यान रखें? Soy",
+          "source": "YouTube",
+          "source_icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAADwBQCdASogACAAPrUurVanIacnG_DgFolnAMwd3N1-GSPmEX_ipzHH0A5D6tiHSOnz5WpuK2g24AD-9pPCJ-cUa7BXwR77D5f6WMNQmiSWdd2stV2A08Jbk91Q5Q77gK_lX6tQwInj0-1FkTw4AfSV9k-NeUUJvFyjp2XkVaNtGtJimsoj8l20Dw5PjChBI_I_0kyKMiDAS0WfdaaihT--tUmv6v4gK9YVRlxmz03oRwbZ39nqmUzduq1P1L7vAAUszdxqgrwJQOT4kpaFV9VvEtZ2idUKKx-5SgVSJWxyQh4QpvceVW5oXymhHOlYei1gEOMY6ESz_E_vOa3x9_Wcq7BtnjRcMF8vsT5Lhb4ugyYaZrOjXhQWN_NxHqguftfh9h1qDPmsG5Y5YmJ7wox7OXcAAA.webp",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZnO0nRFnFhBQ-CH5Kg1024wQl3mKnB3WN6-4tZgPpMWZ-GCIAIKXwOPKvzUhSRuhyEn-HS80v4M_CbhjDkiXGo7Rl"
+        }
+      ]
+    }
+  }
+}

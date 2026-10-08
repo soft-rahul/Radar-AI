@@ -1,0 +1,241 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "kaun sa protein powder best hota hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 1
+  },
+  "recorded_at": "2026-10-06T12:37:45+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4eb94d3fb85dacc95ccec",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/t1HIHgdpb6F1lTH77CZUghn5T_zJx56gk0gfGkOOR4A/6ac4eb94d3fb85dacc95ccec.json",
+      "markdown_endpoint": "https://serpapi.com/searches/t1HIHgdpb6F1lTH77CZUghn5T_zJx56gk0gfGkOOR4A/6ac4eb94d3fb85dacc95ccec.md",
+      "created_at": "2026-10-06 12:37:40 UTC",
+      "processed_at": "2026-10-06 12:37:40 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=kaun+sa+protein+powder+best+hota+hai&udm=50&gl=in&hl=en&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/t1HIHgdpb6F1lTH77CZUghn5T_zJx56gk0gfGkOOR4A/6ac4eb94d3fb85dacc95ccec.html",
+      "prettify_html_file": "https://serpapi.com/searches/t1HIHgdpb6F1lTH77CZUghn5T_zJx56gk0gfGkOOR4A/6ac4eb94d3fb85dacc95ccec.prettify",
+      "total_time_taken": 4.46
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "kaun sa protein powder best hota hai",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Har kisi ke liye ek hi protein powder \"best\" nahi hota, kyunki yeh aapke goal (muscle banana, weight loss, ya general fitness), budget, aur digestive capacity par depend karta hai.",
+        "snippet_highlighted_words": [
+          "Har kisi ke liye ek hi protein powder \"best\" nahi hota"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "India mein kuch sabse trusted aur top-rated protein powders yeh rahe, jinhe purity aur quality ke liye jana jata hai:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Optimum Nutrition (ON) Gold Standard 100% Whey: Yeh duniya bhar mein aur India mein sabse zyada popular aur trusted whey protein hai. Isme absorption accha hota hai aur quality standard kafi high hain.",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "snippet": "MuscleBlaze Biozyme / Iso-Zero: Yeh ek Indian brand hai jo specially Indian bodies ke digestion ko dhyan mein rakh kar banaya gaya hai (Clinical tested for absorption). Yeh [Trustified] aur Labdoor certified bhi hai.",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "TrueBasics Clean Whey: Purity aur clean ingredients ke mamle mein yeh kafi aage hai aur third-party testing mein high score karta hai.",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "The Whole Truth (TWT) Raw Whey: Agar aap bina kisi artificial sweetener, flavor ya additives ke bilkul clean/raw protein chahte hain, toh yeh ek behtareen option hai.",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "AS-IT-IS Nutrition / Nakpro: Agar aapka budget kam hai aur aap ek pocket-friendly raw whey protein (WPC) chahte hain jo lab-tested bhi ho, toh yeh brands kaafi affordable padte hain.",
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Aapki zaroorat ke hisaab se sahi chunav karne ke liye yeh choti si guide dekhein:"
+      },
+      {
+        "type": "table",
+        "table": [
+          [
+            "Category / Goal",
+            "Best Choice / Brand",
+            "Fayda (Benefit)"
+          ],
+          [
+            "Best Overall / Premium",
+            "Optimum Nutrition (ON) Gold Standard",
+            "World-class quality, great taste, trusted globally."
+          ],
+          [
+            "Best for Digestion (Indian)",
+            "MuscleBlaze Biozyme Series",
+            "Enhanced absorption formula, easy on the stomach."
+          ],
+          [
+            "Best Clean Label (No Additives)",
+            "The Whole Truth or Naturaltein",
+            "Zero artificial sweeteners, 100% transparent ingredients."
+          ],
+          [
+            "Best Budget-Friendly",
+            "AS-IT-IS or Nakpro",
+            "Raw, unflavored, cost-effective, and lab-tested."
+          ]
+        ],
+        "detailed": [
+          [
+            {
+              "snippet": "Category / Goal"
+            },
+            {
+              "snippet": "Best Choice / Brand"
+            },
+            {
+              "snippet": "Fayda (Benefit)"
+            }
+          ],
+          [
+            {
+              "snippet": "Best Overall / Premium"
+            },
+            {
+              "snippet": "Optimum Nutrition (ON) Gold Standard"
+            },
+            {
+              "snippet": "World-class quality, great taste, trusted globally."
+            }
+          ],
+          [
+            {
+              "snippet": "Best for Digestion (Indian)"
+            },
+            {
+              "snippet": "MuscleBlaze Biozyme Series"
+            },
+            {
+              "snippet": "Enhanced absorption formula, easy on the stomach."
+            }
+          ],
+          [
+            {
+              "snippet": "Best Clean Label (No Additives)"
+            },
+            {
+              "snippet": "The Whole Truth or Naturaltein"
+            },
+            {
+              "snippet": "Zero artificial sweeteners, 100% transparent ingredients."
+            }
+          ],
+          [
+            {
+              "snippet": "Best Budget-Friendly"
+            },
+            {
+              "snippet": "AS-IT-IS or Nakpro"
+            },
+            {
+              "snippet": "Raw, unflavored, cost-effective, and lab-tested."
+            }
+          ]
+        ],
+        "formatted": [
+          {
+            "category_goal": "Best Overall / Premium",
+            "best_choice_brand": "Optimum Nutrition (ON) Gold Standard",
+            "fayda_benefit": "World-class quality, great taste, trusted globally."
+          },
+          {
+            "category_goal": "Best for Digestion (Indian)",
+            "best_choice_brand": "MuscleBlaze Biozyme Series",
+            "fayda_benefit": "Enhanced absorption formula, easy on the stomach."
+          },
+          {
+            "category_goal": "Best Clean Label (No Additives)",
+            "best_choice_brand": "The Whole Truth or Naturaltein",
+            "fayda_benefit": "Zero artificial sweeteners, 100% transparent ingredients."
+          },
+          {
+            "category_goal": "Best Budget-Friendly",
+            "best_choice_brand": "AS-IT-IS or Nakpro",
+            "fayda_benefit": "Raw, unflavored, cost-effective, and lab-tested."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Agar aap mujhe yeh bata dein ki:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Aapka main goal kya hai (weight gain, muscle building, ya fat loss)?"
+          },
+          {
+            "snippet": "Aapka budget kitna hai?"
+          },
+          {
+            "snippet": "Kya aapko lactose intolerance (doodh se hone wali pareshani) ya digestion issues hain?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Toh main aapko bilkul exact protein powder recommend kar sakta hu!"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "6 Best Protein Powder 2026",
+        "link": "https://www.youtube.com/watch?v=N6_SsVCeSDs",
+        "snippet": "Optimum Nutrition Gold Standard 100% Whey being a \"better choice for daily consumption\" by Consumer Reports due to its low lead levels.",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBgCdASogACAAPrUurVanIacnG_DgFolsAHhZxWRgJYA3lgiMiN5vVv3uZAa_ohgAzpIf5GCw5SsAAP74rbWqx3ob6Rtl1lsk6BPtzBatGdPolENQJv8drffNs_v_sOs_eOLDWlf-B7VD6pSH5Oc99z--7w28KXEjZnTNxQfRcA2mKAFTBlcgA8Qvz-X2mrqcy6Sq3zTadk-o95FXrSA1A_g4pmE-fqTt2b5TZn5jxqYSbz_dMHPUE5JjNbf4XgIshP4sauTSoZHabVP9_JHxmYidC9Pslx8ZFzcGq4YYL_mUdAT9RhaLzhSgcPbFAAA.webp",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVp6_LOgC1L0LUhddNxMY2i_Y0spXvvfTtMwWHgbkC3DCayNEVw6Tmcf8qC189Hdkd8MOvGEntAMIDalRL_u9EmdzxhkNSmMvJWppYfA"
+      },
+      {
+        "index": 1,
+        "title": "Top 7 Cleanest Whey Proteins in India (2026): Ranked by Purity, Quality & social proof · HealthKart",
+        "link": "https://www.healthkart.com/connect/top-7-cleanest-whey-proteins-in-india-2026-ranked-by-purity-and-quality-social-proof/",
+        "snippet": "1. TrueBasics Clean Whey. HAP Safe + Trustified) 2. 9.48/10, Trustified + Labdoor) Labdoor + Trustified) Active adults require 1.4g-2.0g protein/kg daily; check ba...",
+        "source": "HealthKart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.healthkart.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkfwm3fkkvJExPFkiO_UYl8lPNWc5sspZ-ZnrG6PYWVWu8z6VOvqDL_vEQFkUJf9TAvwzcnZxjQ_JBDXCm4gIYb7HUB6hQ5ioNL6_I"
+      }
+    ],
+    "reconstructed_markdown": "Har kisi ke liye ek hi protein powder \"best\" nahi hota, kyunki yeh aapke goal \\(muscle banana, weight loss, ya general fitness\\), budget, aur digestive capacity par depend karta hai.\n\nIndia mein kuch sabse trusted aur top\\-rated protein powders yeh rahe, jinhe purity aur quality ke liye jana jata hai:\n\n- Optimum Nutrition \\(ON\\) Gold Standard 100% Whey: Yeh duniya bhar mein aur India mein sabse zyada popular aur trusted whey protein hai. Isme absorption accha hota hai aur quality standard kafi high hain. [0]\n- MuscleBlaze Biozyme / Iso\\-Zero: Yeh ek Indian brand hai jo specially Indian bodies ke digestion ko dhyan mein rakh kar banaya gaya hai \\(Clinical tested for absorption\\). Yeh \\[Trustified\\] aur Labdoor certified bhi hai. [1]\n- TrueBasics Clean Whey: Purity aur clean ingredients ke mamle mein yeh kafi aage hai aur third\\-party testing mein high score karta hai. [1]\n- The Whole Truth \\(TWT\\) Raw Whey: Agar aap bina kisi artificial sweetener, flavor ya additives ke bilkul clean/raw protein chahte hain, toh yeh ek behtareen option hai. [1]\n- AS\\-IT\\-IS Nutrition / Nakpro: Agar aapka budget kam hai aur aap ek pocket\\-friendly raw whey protein \\(WPC\\) chahte hain jo lab\\-tested bhi ho, toh yeh brands kaafi affordable padte hain. [1]\n\nAapki zaroorat ke hisaab se sahi chunav karne ke liye yeh choti si guide dekhein:\n\n| Category / Goal | Best Choice / Brand | Fayda \\(Benefit\\) |\n| --- | --- | --- |\n| Best Overall / Premium | Optimum Nutrition \\(ON\\) Gold Standard | World\\-class quality, great taste, trusted globally. |\n| Best for Digestion \\(Indian\\) | MuscleBlaze Biozyme Series | Enhanced absorption formula, easy on the stomach. |\n| Best Clean Label \\(No Additives\\) | The Whole Truth or Naturaltein | Zero artificial sweeteners, 100% transparent ingredients. |\n| Best Budget\\-Friendly | AS\\-IT\\-IS or Nakpro | Raw, unflavored, cost\\-effective, and lab\\-tested. |\n\nAgar aap mujhe yeh bata dein ki:\n\n- Aapka main goal kya hai \\(weight gain, muscle building, ya fat loss\\)?\n- Aapka budget kitna hai?\n- Kya aapko lactose intolerance \\(doodh se hone wali pareshani\\) ya digestion issues hain?\n\nToh main aapko bilkul exact protein powder recommend kar sakta hu\\!\n\n\n### References\n\n[0] [6 Best Protein Powder 2026](https://www.google.com/goto?url=CAESZgHrOzAVPza1im5fTdZLqAcJTZDlT9VgF8NUwOr0yObv2ya21aYWUV8ltLICqHvZV56YI0VdTC-Jo_IMEaUmN6r-mlZV9F3j29D5_SbGC4IVhcFmnAyK0LqsKx9YQdm-QhUfj-lGlw) — Optimum Nutrition Gold Standard 100% Whey being a \"better choice for daily consumption\" by Consumer Reports due to its low lead levels.\n\n[1] [Top 7 Cleanest Whey Proteins in India \\(2026\\): Ranked by Purity, Quality & social proof · HealthKart](https://www.google.com/goto?url=CAESswEB6zswFXUOT6UmBl-qQckYuwaHrUZI4tf26qbduk26-bVb8wfmdGLI_wM2OOjk6QNAP1aXoC_6PSr8UrGV6d6WbEZbNmJrtkLhPYiCG9YZFvvwlqbz3_FNBMZer-rEeXIw0WPH9oKK4bVseuhhd638HM-Z_Dh-H8BOViM79osrMm9K-AJBVG_CcrmaqpMffsATKvdAa-M1cTGJgjQsRBFP7oAlXIVy6BAWHBTfuYM5TzGOrA) — 1. TrueBasics Clean Whey. HAP Safe \\+ Trustified\\) 2. 9.48/10, Trustified \\+ Labdoor\\) Labdoor \\+ Trustified\\) Active adults require 1.4g\\-2.0g protein/kg daily; check ba...\n"
+  }
+}

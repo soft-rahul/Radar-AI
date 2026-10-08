@@ -1,0 +1,152 @@
+{
+  "request": {
+    "engine": "google_ai_mode",
+    "params": {
+      "q": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "location": "Delhi, India",
+      "gl": "in",
+      "hl": "en",
+      "no_cache": "true"
+    },
+    "sample": 0
+  },
+  "recorded_at": "2026-10-06T12:39:17+00:00",
+  "response": {
+    "search_metadata": {
+      "id": "6ac4ebee124815f1848dc08a",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/tmQvb3hmHTVrAWljmbwNo13a0j55kOjRuCjhY5JQ1no/6ac4ebee124815f1848dc08a.json",
+      "markdown_endpoint": "https://serpapi.com/searches/tmQvb3hmHTVrAWljmbwNo13a0j55kOjRuCjhY5JQ1no/6ac4ebee124815f1848dc08a.md",
+      "created_at": "2026-10-06 12:39:10 UTC",
+      "processed_at": "2026-10-06 12:39:10 UTC",
+      "google_ai_mode_url": "https://www.google.com/search?q=2000+ke+andar+sabse+accha+whey+protein+kaun+sa+hai&udm=50&gl=in&hl=en&uule=w+CAIQICILRGVsaGksSW5kaWE",
+      "raw_html_file": "https://serpapi.com/searches/tmQvb3hmHTVrAWljmbwNo13a0j55kOjRuCjhY5JQ1no/6ac4ebee124815f1848dc08a.html",
+      "prettify_html_file": "https://serpapi.com/searches/tmQvb3hmHTVrAWljmbwNo13a0j55kOjRuCjhY5JQ1no/6ac4ebee124815f1848dc08a.prettify",
+      "total_time_taken": 6.43
+    },
+    "search_parameters": {
+      "engine": "google_ai_mode",
+      "q": "2000 ke andar sabse accha whey protein kaun sa hai",
+      "hl": "en",
+      "gl": "in",
+      "location_requested": "Delhi, India",
+      "location_used": "Delhi,India",
+      "device": "desktop"
+    },
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "₹2000 ke andar agar aap ek accha aur bharosemand whey protein lena chahte hain, toh market mein kuch best options available hain.",
+        "snippet_highlighted_words": [
+          "market mein kuch best options available hain"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "₹2000 ke budget mein aamtor par 1kg ka whey protein concentrate ya basic blend milta hai."
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Neeche top options ka comparison diya gaya hai jisse aap apne liye best choice chun sakein:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Nakpro Gold / Concentrate Whey Protein",
+            "list": [
+              {
+                "snippet": "Price: ₹1400 - ₹1800 (1kg) ke aas-paas"
+              },
+              {
+                "snippet": "Key Features: Per scoop lagbhag 24g-26g protein aur acchi BCAA profile milti hai. Trustified certified options bhi available hain."
+              },
+              {
+                "snippet": "Pros & Trade-offs: Budget ke hisaab se sabse sasta aur pocket-friendly. Taste aur mixability decent hai, par premium brands jaisa rich flavour nahi milta."
+              }
+            ]
+          },
+          {
+            "snippet": "AS-IT-IS Nutrition Whey Protein Concentrate (80%)",
+            "list": [
+              {
+                "snippet": "Price: ₹1600 - ₹1900 (1kg) ke aas-paas"
+              },
+              {
+                "snippet": "Key Features: Unflavoured form mein aata hai, jismein per serving ~24g protein milta hai. Koi added sugar ya artificial flavours nahi hote."
+              },
+              {
+                "snippet": "Pros & Trade-offs: 100% pure raw concentrate hai. Agar aapko unflavoured pasand nahi toh taste thoda feeka lagega, par purity ke maamle mein best hai."
+              }
+            ]
+          },
+          {
+            "snippet": "MuscleBlaze Fuel One Whey Max",
+            "list": [
+              {
+                "snippet": "Price: ₹1500 - ₹1900 (1kg) ke aas-paas (sales ya discounts ke sath)"
+              },
+              {
+                "snippet": "Key Features: Per scoop lagbhag 27g protein aur BCAAs milte hain. Trustified certified hai."
+              },
+              {
+                "snippet": "Pros & Trade-offs: Achhi mixability aurflavours milte hain (jaise cold coffee ya chocolate). Beginners ke liye muscle recovery aur building mein kafi effective hai."
+              }
+            ]
+          },
+          {
+            "snippet": "Nutrabay Vital Whey Protein",
+            "list": [
+              {
+                "snippet": "Price: ₹1300 - ₹1700 (1kg) ke aas-paas"
+              },
+              {
+                "snippet": "Key Features: Beginners aur tight budget wale gym-goers ke liye design kiya gaya basic whey blend."
+              },
+              {
+                "snippet": "Pros & Trade-offs: Sasta padta hai, lekin protein percentage premium options ke mukable thoda kam hota hai."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Safety Warnings & Usage Guidance:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Lactose Intolerance: Agar aapko doodh se bani cheezon se gas ya digestion ki problem hoti hai, toh raw/concentrate ki jagah isolate prefer karein (halanki isolate ₹2000 ke upar hi milta hai). Concentrate mein thoda lactose hota hai."
+          },
+          {
+            "snippet": "Water/Milk Intake: Protein powder lete waqt din bhar mein kam se kam 3-4 litre paani zaroor piyen taaki kidney par extra load na pade."
+          },
+          {
+            "snippet": "Authenticity Check: Jab bhi product kharidein, uske box par diya gaya QR code ya scratch code official app se zaroor verify karein taaki nakli product se bach sakein."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Aap inmein se Nakpro Nutrition ya MuscleBlaze ki official site par jaakar current deals check kar sakte hain.",
+        "snippet_links": [
+          {
+            "text": "Nakpro Nutrition",
+            "link": "https://nakpro.com/collections/whey-protein-concentrate-1"
+          },
+          {
+            "text": "MuscleBlaze",
+            "link": "https://www.muscleblaze.com/sv/muscleblaze-100-whey-protein-supplement-powder-with-digestive-enzyme/SP-33626"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Agar aap batayein ki aapka primary goal kya hai (jaise lean muscle gain, weight loss, ya ** sirf general fitness**), toh main inmein se ek exact product aapke liye recommend kar sakta hoon."
+      }
+    ],
+    "reconstructed_markdown": "₹2000 ke andar agar aap ek accha aur bharosemand whey protein lena chahte hain, toh market mein kuch best options available hain.\n\n₹2000 ke budget mein aamtor par 1kg ka whey protein concentrate ya basic blend milta hai.\n\nNeeche top options ka comparison diya gaya hai jisse aap apne liye best choice chun sakein:\n\n- Nakpro Gold / Concentrate Whey Protein\n  - Price: ₹1400 \\- ₹1800 \\(1kg\\) ke aas\\-paas\n  - Key Features: Per scoop lagbhag 24g\\-26g protein aur acchi BCAA profile milti hai. Trustified certified options bhi available hain.\n  - Pros & Trade\\-offs: Budget ke hisaab se sabse sasta aur pocket\\-friendly. Taste aur mixability decent hai, par premium brands jaisa rich flavour nahi milta.\n- AS\\-IT\\-IS Nutrition Whey Protein Concentrate \\(80%\\)\n  - Price: ₹1600 \\- ₹1900 \\(1kg\\) ke aas\\-paas\n  - Key Features: Unflavoured form mein aata hai, jismein per serving \\~24g protein milta hai. Koi added sugar ya artificial flavours nahi hote.\n  - Pros & Trade\\-offs: 100% pure raw concentrate hai. Agar aapko unflavoured pasand nahi toh taste thoda feeka lagega, par purity ke maamle mein best hai.\n- MuscleBlaze Fuel One Whey Max\n  - Price: ₹1500 \\- ₹1900 \\(1kg\\) ke aas\\-paas \\(sales ya discounts ke sath\\)\n  - Key Features: Per scoop lagbhag 27g protein aur BCAAs milte hain. Trustified certified hai.\n  - Pros & Trade\\-offs: Achhi mixability aurflavours milte hain \\(jaise cold coffee ya chocolate\\). Beginners ke liye muscle recovery aur building mein kafi effective hai.\n- Nutrabay Vital Whey Protein\n  - Price: ₹1300 \\- ₹1700 \\(1kg\\) ke aas\\-paas\n  - Key Features: Beginners aur tight budget wale gym\\-goers ke liye design kiya gaya basic whey blend.\n  - Pros & Trade\\-offs: Sasta padta hai, lekin protein percentage premium options ke mukable thoda kam hota hai.\n\n### Safety Warnings & Usage Guidance:\n\n- Lactose Intolerance: Agar aapko doodh se bani cheezon se gas ya digestion ki problem hoti hai, toh raw/concentrate ki jagah isolate prefer karein \\(halanki isolate ₹2000 ke upar hi milta hai\\). Concentrate mein thoda lactose hota hai.\n- Water/Milk Intake: Protein powder lete waqt din bhar mein kam se kam 3\\-4 litre paani zaroor piyen taaki kidney par extra load na pade.\n- Authenticity Check: Jab bhi product kharidein, uske box par diya gaya QR code ya scratch code official app se zaroor verify karein taaki nakli product se bach sakein.\n\nAap inmein se [Nakpro Nutrition](https://nakpro.com/collections/whey-protein-concentrate-1) ya [MuscleBlaze](https://www.muscleblaze.com/sv/muscleblaze-100-whey-protein-supplement-powder-with-digestive-enzyme/SP-33626) ki official site par jaakar current deals check kar sakte hain.\n\nAgar aap batayein ki aapka primary goal kya hai \\(jaise lean muscle gain, weight loss, ya \\*\\* sirf general fitness\\*\\*\\), toh main inmein se ek exact product aapke liye recommend kar sakta hoon.\n"
+  }
+}
