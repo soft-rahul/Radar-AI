@@ -15,7 +15,7 @@ The first study covers **whey protein in India**: 5 real buying questions × 3 e
 Requires [uv](https://docs.astral.sh/uv/getting-started/installation/).
 
 ```bash
-git clone https://github.com/<you>/shelfradar && cd shelfradar
+git clone https://github.com/soft-rahul/Radar-AI.git shelfradar && cd shelfradar
 make demo          # rebuilds the study from the saved responses, then serves the dashboard
 ```
 
